@@ -1,0 +1,28 @@
+torch @ https://download.pytorch.org/whl/cu128/torch-2.7.0%2Bcu128-cp312-cp312-win_amd64.whl#sha256=1704e5dd66c9221e4e8b6ae2d80cbf54e129571e643f5fa9ca78cc6d2096403a
+torchvision @ https://download.pytorch.org/whl/cu128/torchvision-0.22.0%2Bcu128-cp312-cp312-win_amd64.whl#sha256=a87393c86649b7e56b4bf859fe95922ee6ec1c1f3b430246fb1a5b51f8aee37a
+nltk
+scipy
+scikit-learn
+statsmodels
+pandas
+numpy
+tqdm
+opencv-python
+matplotlib
+easyocr
+pytesseract
+pymupdf
+pypdf
+transformers
+phonetics
+geopandas
+seaborn
+google-generativeai
+ipykernel
+ipywidgets
+cupy-cuda12x
+spacy
+rapidfuzz
+unidecode
+shapely
+linearmodels

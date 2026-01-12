@@ -1,0 +1,9 @@
+**/.idea/
+**/.obsidian/workspace.json
+**.pt
+**.pth
+**.safetensors
+**/Code/ml_models
+**/.venv/
+**will_panel**
+**/will_panel_unique_id.csv

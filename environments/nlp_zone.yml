@@ -1,0 +1,19 @@
+name: nlp_zone
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+dependencies:
+  - spacy
+  - cupy
+  - nltk
+  - numpy
+  - pandas
+  - tqdm
+  - matplotlib
+  - pillow
+  - pip
+  - pip:
+    - transformers
+    - phonetics
+    - google-generativeai

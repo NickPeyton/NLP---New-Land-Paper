@@ -1,0 +1,23 @@
+name: torch_zone
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+dependencies:
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=12.1
+  - pandas
+  - tqdm
+  - pytesseract
+  - matplotlib
+  - pip
+  - pip:
+    - easyocr
+    - google-generativeai
+    - grpcio
+    - grpcio-tools
+    - transformers=4.45.2
+    - sentence-transformers=3.1.1
+    - sentencepiece

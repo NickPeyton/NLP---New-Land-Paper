@@ -1,0 +1,15 @@
+name: data_zone
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - tqdm
+  - matplotlib
+  - seaborn
+  - pyodbc
+  - sqlite
+  - ftfy
+  - pip
+  - pip:
+    

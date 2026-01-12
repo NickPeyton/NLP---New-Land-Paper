@@ -1,0 +1,35 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Economic Structure Regressions}
+\begin{tabular}{l*{3}{c}}
+\hline\hline
+            &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}\\
+            &\multicolumn{1}{c}{l\_cap}&\multicolumn{1}{c}{indag}&\multicolumn{1}{c}{wheatyield}\\
+\hline
+llandowned  &      -0.127\sym{**} &      0.0449         &       0.148         \\
+            &     (-2.08)         &      (1.61)         &      (0.85)         \\
+[1em]
+mean\_slope  &       0.137         &      0.0142         &      -0.390         \\
+            &      (0.92)         &      (0.22)         &     (-1.12)         \\
+[1em]
+wheatsuit   &      0.0356\sym{**} &    -0.00200         &     0.00151         \\
+            &      (2.47)         &     (-0.25)         &      (0.07)         \\
+[1em]
+area        &    0.000129         &   0.0000176         &   0.0000125         \\
+            &      (0.64)         &      (0.37)         &      (0.06)         \\
+[1em]
+lspc1525    &      0.0103         &    -0.00757         &    -0.00900         \\
+            &      (0.70)         &     (-1.16)         &     (-0.24)         \\
+[1em]
+distmkt     &     -0.0900         &     -0.0627         &      -1.089\sym{***}\\
+            &     (-0.59)         &     (-0.90)         &     (-3.34)         \\
+[1em]
+\_cons      &       4.491\sym{**} &       0.779         &       23.43\sym{***}\\
+            &      (2.36)         &      (0.94)         &      (5.08)         \\
+\hline
+\(N\)       &          32         &          32         &          30         \\
+\hline\hline
+\multicolumn{4}{l}{\footnotesize \textit{t} statistics in parentheses}\\
+\multicolumn{4}{l}{\footnotesize \sym{*} \(p<.10\), \sym{**} \(p<.05\), \sym{***} \(p<.01\)}\\
+\end{tabular}
+\end{table}

@@ -1,0 +1,11 @@
+﻿Outcome,HRV Paper Coefficient,HRV Value Coefficient,HRV Value Coefficient (Reduced Sample),My Coefficient (Reduced Sample)
+Copyhold,-1.63**,--,--,--
+Gentry,0.20***,0.618***,0.996*,1.11**
+Catholics,-0.01***,.000891***,.00187***,0.000992
+Ag Share,-0.07**,-0.00346,-0.00627,-0.0065
+Ind Share,0.02*,0.00305,0.00214,0.0000494
+Mills,0.11**,1.06,2.82,2.93
+Patents,0.02***,.0838**,.0838**,.0849**
+Enclosure,0.08***,.0130***,.0130***,0.0106***
+Threshing Machines,0.01***,0.0419***,0.0419***,0.0673***
+Wheat Yield,0.24*,0.0295,0.0295,0.0383

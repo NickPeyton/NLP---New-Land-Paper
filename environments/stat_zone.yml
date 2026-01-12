@@ -1,0 +1,13 @@
+name: stat_zone
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - numpy
+  - pandas
+  - tqdm
+  - matplotlib
+  - statsmodels
+  - seaborn
+  - scipy
+  - pip
