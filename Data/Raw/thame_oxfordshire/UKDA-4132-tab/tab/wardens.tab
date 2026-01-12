@@ -1,0 +1,367 @@
+SC	ID	Title	Fname	Sname	Status	Occup	Place	Role	Year	Comment
+WAR	1	 	John	Collens	 	 		Church Warden	1549	
+WAR	2	 	John	Heister	 	 		Church Warden	1549	
+WAR	3	 	Edward	Cornishe	 	 		Church Warden	1549	
+WAR	4	 	William	Hunte	 	 		Church Warden	1549	
+WAR	5	 	John	Spense	 	 		Church Warden	1551	
+WAR	6	 	Richard	Bunce	 	 		Church Warden	1551	
+WAR	7	 	William	Lee	 	 		Church Warden	1553	
+WAR	8	 	William	Ballowe	 	 		Church Warden	1553	
+WAR	9	Mr	William	Lee	 	 		Church Warden	1554	
+WAR	10	 	William	Ballowe	 	 		Church Warden	1554	
+WAR	11	 	John	Spens	 	 		Church Warden	1556	
+WAR	12	 	Thomas	Symeon	 	 		Church Warden	1556	
+WAR	13	 	Robert	Coope	 	 		Church Warden	1556	
+WAR	14	 	Nicholas	Eule	 	 		Church Warden	1556	
+WAR	15	 	Thomas	Symeon	 	 		Church Warden	1557	
+WAR	16	 	William	Scott	 	 		Church Warden	1557	
+WAR	17	 	William	Hardyinge	 	 		Church Warden	1557	
+WAR	18	 	John	Striblebill	 	 		Church Warden	1557	
+WAR	19	 	John	Totnell	 	 		Church Warden	1558	
+WAR	20	 	William	Hardyinge	 	 		Church Warden	1558	
+WAR	21	 	John	Striblehill	 	 		Church Warden	1558	
+WAR	22	 	William	Scott	 	 		Church Warden	1558	
+WAR	23	 	John	Totnell	 	 	New Thame	Church Warden	1559	
+WAR	24	 	Walter	Thame	 	 	New Thame	Church Warden	1559	
+WAR	25	 	John	Stryblehill	 	 	Old Thame	Church Warden	1559	
+WAR	26	 	John	Playsted	 	 	Old Thame	Church Warden	1559	
+WAR	27	 	Thomas	Striblehill	 	 		Church Warden	1560	
+WAR	28	 	Walter	Thame	 	 		Church Warden	1560	
+WAR	29	 	Thomas	Andfelde	 	 		Church Warden	1560	
+WAR	30	 	Thomas	Page	 	 		Church Warden	1561	
+WAR	31	 	Thomas	Helys	 	 	New Thame	Church Warden	1562	
+WAR	32	 	Richard	Pitman	 	 	New Thame	Church Warden	1562	
+WAR	33	 	John	Child	als Barnes	 	Old Thame	Church Warden	1562	
+WAR	34	 	Thomas	Garnet	 	 	Priestend	Church Warden	1562	
+WAR	35	 	Thomas	Addams	 	 	Moreton	Church Warden	1562	
+WAR	36	 	Richard	Pitman	 	 		Church Warden	1563	
+WAR	37	 	William	Smythe	 	 		Church Warden	1563	
+WAR	38	 	Thomas	Springolde	 	 		Church Warden	1563	
+WAR	39	 	Robert	Springolde	 	 		Church Warden	1563	
+WAR	40	 	William	Smythe	 	 		Church Warden	1564	
+WAR	41	 	Henry	Grenrod	 	 		Church Warden	1564	
+WAR	42	 	Thomas	Springolde	 	 		Church Warden	1564	
+WAR	43	 	Robert	Springolde	 	 		Church Warden	1564	
+WAR	44	 	Henry	Grenrod	 	 		Church Warden	1565	
+WAR	45	 	John	Bedford	 	 		Church Warden	1565	
+WAR	46	 	John	Bedford	 	 	New Thame	Church Warden	1566	
+WAR	47	 	Raphe	Pollen	 	 	New Thame	Church Warden	1566	
+WAR	48	 	William	Mynchard	 	 	Old Thame	Church Warden	1566	
+WAR	49	 	Thomas	Striblehill	 	 	Old Thame	Church Warden	1566	
+WAR	50	 	Ralphe	Pollen	 	 		Church Warden	1567	
+WAR	51	 	Phillip	Byrde	 	 		Church Warden	1567	
+WAR	52	 	Phillip	Byrde	 	 		Church Warden	1568	
+WAR	53	 	Robert	Phillipps	als Coxe	 		Church Warden	1568	
+WAR	54	 	Robert	Phillipps	als Coxe	 	New Thame	Church Warden	1569	
+WAR	55	 	Hugh	Ives	 	 	New Thame	Church Warden	1569	
+WAR	56	 	Hugh	Ives	 	 	New Thame	Church Warden	1570	
+WAR	57	 	Richard	Benson	 	 	New Thame	Church Warden	1570	
+WAR	58	 	John	Barnes	als Child	 	Old Thame	Church Warden	1570	
+WAR	59	 	Richard	Benson	 	 		Church Warden	1571	
+WAR	60	 	Cornelius	Carden	 	 		Church Warden	1572	
+WAR	61	 	Peter	Wylmote	 	 		Church Warden	1572	
+WAR	62	 	William	Hester	 	 		Church Warden	1576	
+WAR	63	 	Edward	Ayrnotte	 	 		Church Warden	1576	
+WAR	64	 	John	Striblehill	 	 		Church Warden	1576	
+WAR	65	 	Leonard	Green	 	 		Church Warden	1576	
+WAR	66	 	Edmond	Alnotte	 	 		Church Warden	1577	
+WAR	67	 	Thomas	Newcome	 	 		Church Warden	1577	
+WAR	68	 	Leonard	Green	 	 		Church Warden	1577	
+WAR	69	 	John	Whitney	 	 		Church Warden	1577	
+WAR	70	 	Thomas	Newcome	 	 	New Thane	Church Warden	1578	
+WAR	71	 	William	Wethered	 	 	New Thane	Church Warden	1578	
+WAR	72	 	John	Wytney	 	 	Old Thane	Church Warden	1578	
+WAR	73	 	Thomas	Collet	 	 	Old Thane	Church Warden	1578	
+WAR	74	 	John	Lylington	 	 		Church Warden	1589	
+WAR	75	 	William	Typping	 	 		Church Warden	1590	
+WAR	76	 	John	Adams	 	 		Church Warden	1590	
+WAR	77	 	John	Adams	 	 		Church Warden	1591	
+WAR	78	 	William	Typping	 	 		Church Warden	1591	
+WAR	79	Mr	George	Walpull	 	 		Church Warden	1603	
+WAR	80	 	Richard	Brasey	 	 		Church Warden	1604	
+WAR	81	 	Roger	Burges	 	 		Church Warden	1608	
+WAR	82	 	William	Heybourne	 	 		Church Warden	1608	
+WAR	83	 	Francis	Carter	 	 		Church Warden	1609	
+WAR	84	 	John	Striblebill	 	 		Church Warden	1609	
+WAR	85	 	Peter	Wilmott	 	 		Church Warden	1610	
+WAR	86	 	Richard	Molinux	 	 		Church Warden	1610	
+WAR	87	 	John	Calcutt	 	 		Church Warden	1610	
+WAR	88	 	Thomas	Messenger	 	 		Church Warden	1610	
+WAR	89	 	John	Pecke	 	 		Church Warden	1610	
+WAR	90	Mr	Francis	Carter	 	 		Church Warden	1611	
+WAR	91	 	John	Calcott	 	 		Church Warden	1611	
+WAR	92	 	Thomas	Messenger	 	 		Church Warden	1611	
+WAR	93	 	John	Pecke	 	 		Church Warden	1611	
+WAR	94	Mr	Marmaduke	Saunders	 	 		Church Warden	1612	
+WAR	95	 	John	Parkins	 	 		Church Warden	1612	
+WAR	96	 	John	Pitman	 	 		Church Warden	1613	
+WAR	97	 	John	Burte	 	 		Church Warden	1613	
+WAR	98	 	Richard	Smith	 	 		Church Warden	1613	
+WAR	99	 	Robert	Baker	 	 		Church Warden	1613	
+WAR	100	 	Thomas	Springall	 	 		Church Warden	1614	
+WAR	101	 	Richard	Bennet	 	 		Church Warden	1614	
+WAR	102	 	John	Groom	 	 		Church Warden	1614	
+WAR	103	 	Humphrey	Jemmot	 	 		Church Warden	1614	
+WAR	104	 	Henry	Vivers	 	 		Church Warden	1623	
+WAR	105	 	William	Heybourne	 	 		Church Warden	1623	
+WAR	106	Mr	Hugh	Robothan	 	 		Church Warden	1624	
+WAR	107	 	John	Smith	 	 	North Weston	Church Warden	1624	
+WAR	108	Mr	Thomas	Bryan	 	 		Church Warden	1624	
+WAR	109	 	Jerome	Messenger	 	 		Church Warden	1624	
+WAR	110	 	William	Hall	 	 		Church Warden	1625	
+WAR	111	Mr	Richard	Lee	 	 		Church Warden	1625	
+WAR	112	 	Peter	Tomlinson	 	 		Church Warden	1626	
+WAR	113	 	Thomas	Wildgoose	 	 		Church Warden	1626	
+WAR	114	 	Edmund	Littlepage	 	 		Church Warden	1627	
+WAR	115	 	Edward	Gurden	 	 		Church Warden	1627	
+WAR	116	 	Edward	Curson	 	 		Church Warden	1628	
+WAR	117	 	Edmund	Brookes	 	 		Church Warden	1628	
+WAR	118	 	Edmund	Page	 	 		Church Warden	1629	
+WAR	119	 	William	Smith	 	 		Church Warden	1629	
+WAR	120	 	John	Woodbridge	 	 		Church Warden	1629	
+WAR	121	 	William	Phillips	 	 		Church Warden	1631	
+WAR	122	 	Richard	Sprinqall	 	 		Church Warden	1631	
+WAR	123	 	Matthew	Warters	 	 		Church Warden	1631	
+WAR	124	 	Stephen	Cosens	 	 		Church Warden	1631	
+WAR	125	 	Robert	Parkins	 	 		Church Warden	1632	
+WAR	126	 	Stephen	Cosens	 	 		Church Warden	1632	
+WAR	127	 	Matthew	Warters	 	 		Church Warden	1632	
+WAR	128	 	Robert	Ratford	 	 		Church Warden	1632	
+WAR	129	 	Henry	Cowley	 	 		Church Warden	1633	
+WAR	130	 	William	Norris	 	 		Church Warden	1633	
+WAR	131	 	Robert	Parkins	 	 		Church Warden	1633	
+WAR	132	 	Stephen	Cozens 	 	 		Church Warden	1633	
+WAR	133	 	Thomas	Springall	 	 		Church Warden	1634	
+WAR	134	 	James	Roberts	 	 		Church Warden	1633	
+WAR	135	 	Henry	Cowley	 	 		Church Warden	1633	
+WAR	136	 	William	Norris	 	 		Church Warden	1633	
+WAR	137	 	John	Tomlinson	 	 		Church Warden	1635	
+WAR	138	 	Robert	Maunde	 	 		Church Warden	1635	
+WAR	139	 	Thomas	Springall	 	 		Church Warden	1635	
+WAR	140	 	James	Roberts	 	 		Church Warden	1635	
+WAR	141	 	John	Calcott	 	 		Church Warden	1636	
+WAR	142	 	Richard	Messenger	 	 	Moreton	Church Warden	1636	
+WAR	143	 	John	Tomlinson	 	 		Church Warden	1636	
+WAR	144	 	Robert	Maunde	 	 		Church Warden	1636	
+WAR	145	 	Philip	Burde	 	 		Church Warden	1637	
+WAR	146	 	Thomas	Stribblebill	 	 		Church Warden	1637	
+WAR	147	 	John	Calcott	 	 		Church Warden	1637	
+WAR	148	 	Richard	Messenger	 	 		Church Warden	1637	
+WAR	149	 	John	Sheerley	 	 		Church Warden	1638	
+WAR	150	 	Samuel	Coster	 	 	North Weston	Church Warden	1638	
+WAR	151	 	John	Calcot	 	 		Church Warden	1638	
+WAR	152	 	Richard	Messenger	 	 		Church Warden	1638	
+WAR	153	 	Thomas	Stribblebill	 	 		Church Warden	1639	
+WAR	154	 	Robert	Cooke	 	 		Church Warden	1639	
+WAR	155	 	Hugh	Hester	 	 		Church Warden	1639	
+WAR	156	 	Thomas	Cursons	 	 		Church Warden	1639	
+WAR	157	 	Robert	Hall	 	 		Church Warden	1640	
+WAR	158	 	William	Bigge	 	 		Church Warden	1640	
+WAR	159	 	Hugh	Hester	 	 		Church Warden	1640	
+WAR	160	 	Thomas	Cousins	 	 		Church Warden	1640	
+WAR	161	 	William	Bigge	 	 		Church Warden	1641	
+WAR	162	 	William	Heybourne	 	 		Church Warden	1641	
+WAR	163	 	Thomas	Crewes	 	 		Church Warden	1641	
+WAR	164	 	William	Bigge	 	 		Church Warden	1642	
+WAR	165	 	Robert	Hall	 	 		Church Warden	1642	
+WAR	166	 	John	Eares	 	 		Church Warden	1642	
+WAR	167	 	Edward	Kent	 	 		Church Warden	1642	
+WAR	168	 	Peter	Tomlinson	 	 		Church Warden	1643	
+WAR	169	 	John	Powell	 	 	Priestend	Church Warden	1643	
+WAR	170	 	Edward	Kent	 	 		Church Warden	1643	
+WAR	171	 	John	Eares	 	 		Church Warden	1643	
+WAR	172	 	Thomas	Carter	 	 		Church Warden	1644	
+WAR	173	 	William	Sumner	 	 		Church Warden	1644	
+WAR	174	 	Peter	Tomlinson	 	 		Church Warden	1644	
+WAR	175	 	John	Powell	 	 		Church Warden	1644	
+WAR	176	 	William	Roper	 	 		Church Warden	1645	
+WAR	177	 	Thomas	Stone	 	 	Moreton	Church Warden	1645	
+WAR	178	 	Thomas	Stone	 	 		Church Warden	1646	
+WAR	179	 	William	Roper	 	 		Church Warden	1646	
+WAR	180	 	Robert	Peck	 	 		Church Warden	1646	
+WAR	181	 	William	Greene	 	 		Church Warden	1646	
+WAR	182	 	Henry	Cope	 	 		Church Warden	1647	
+WAR	183	 	Henry	Edwards	 	 		Church Warden	1647	
+WAR	184	 	William 	Greene	 	 		Church Warden	1647	
+WAR	185	 	Thomas	Stone	 	 		Church Warden	1647	
+WAR	186	 	Richard	Springall	 	 		Church Warden	1648	
+WAR	187	 	John	Cole	 	 		Church Warden	1648	
+WAR	188	 	Henry	Coope	 	 		Church Warden	1648	
+WAR	189	 	Henry	Edwards	 	 		Church Warden	1648	
+WAR	190	 	Thomas	Calcott	 	 		Church Warden	1649	
+WAR	191	 	John	Younge	 	 		Church Warden	1649	
+WAR	192	 	Richard	Springold	 	 		Church Warden	1649	
+WAR	193	 	John	Calcott	 	 		Church Warden	1649	
+WAR	194	 	John	Stribblehill	 	 		Church Warden	1650	
+WAR	195	 	Philip	Cotton	 	 		Church Warden	1650	
+WAR	196	 	John	Calcott	 	 		Church Warden	1650	
+WAR	197	 	John	Yonge	 	 		Church Warden	1650	
+WAR	198	 	Roger	Eustace	 	 		Church Warden	1651	
+WAR	199	 	Edward	Batys	 	 		Church Warden	1651	
+WAR	200	 	John	Stribblehill	 	 		Church Warden	1651	
+WAR	201	 	Philip	Cotton	 	 		Church Warden	1651	
+WAR	202	 	Steven	Cooke	 	 		Church Warden	1652	
+WAR	203	 	Christopher	Barnes	 	 		Church Warden	1652	
+WAR	204	 	Roger	Eustace	 	 		Church Warden	1652	
+WAR	205	 	Edward	Batys	 	 		Church Warden	1652	
+WAR	206	 	William	Floyde	 	 	New Thame	Church Warden	1653	
+WAR	207	 	John	Messenger	 	 	Moreton	Church Warden	1653	
+WAR	208	 	Steven	Cooke	 	 		Church Warden	1653	
+WAR	209	 	Christopher	Barnes	 	 		Church Warden	1653	
+WAR	210	 	Richard	Cotton	 	 		Church Warden	1655	
+WAR	211	 	Leonard	Greene	 	 		Church Warden	1655	
+WAR	212	 	John	Woodbridge	 	 	Weston	Church Warden	1656	
+WAR	213	 	William	Parslowe	 	 		Church Warden	1656	
+WAR	214	Mr	John	Barton	 	 		Church Warden	1656	"gone out of the parish"
+WAR	215	 	Jeremy	Appowell	 	 		Church Warden	1656	chosen instead of the latter Mr John Barton "who is gone out of the Parish "
+WAR	216	 	John	Carter	 	 	Old Thame	Church Warden	1656	
+WAR	217	 	John	Higgens	 	 		Church Warden	1657	
+WAR	218	 	Henry	Tryppe	 	 		Church Warden	1657	
+WAR	219	 	William	Parslowe	 	 		Church Warden	1657	
+WAR	220	 	John	Woodbridge	 	 		Church Warden	1657	
+WAR	221	 	Robert	Warters	 	 		Church Warden	1663	
+WAR	222	 	Thomas	Stribblehill	 	 		Church Warden	1663	
+WAR	223	 	Thomas	Messenger	 	 	Old Thame	Church Warden	1664	
+WAR	224	 	Thomas	Baker	 	 		Church Warden	1664	
+WAR	225	 	Thomas	King	 	 		Church Warden	1664	
+WAR	226	 	Henry	Jemott	 	 		Church Warden	1664	
+WAR	227	 	Thomas	Baker	 	 		Church Warden	1665	
+WAR	228	 	Thomas	Messenger	 	 		Church Warden	1665	
+WAR	229	 	Richard	Horne	 	 		Church Warden	1665	
+WAR	230	 	John	Messenger	Jnr	 		Church Warden	1665	
+WAR	231	 	Richard	Horne	 	 		Church Warden	1666	
+WAR	232	 	John	Messenger	Jnr	 	Moreton	Church Warden	1666	
+WAR	233	 	Robert	Coles	 	 		Church Warden	1666	
+WAR	234	 	John	Springall	 	 		Church Warden	1666	
+WAR	235	 	Robert	Coles	 	 		Church Warden	1667	
+WAR	236	 	John	Springall	 	 		Church Warden	1667	
+WAR	237	 	William	Evans	 	 	New Thame	Church Warden	1667	
+WAR	238	 	Philip	Greene	 	 	Priestend	Church Warden	1667	
+WAR	239	 	William	Evans	 	 		Church Warden	1668	
+WAR	240	 	Philip	Greene	 	 		Church Warden	1668	
+WAR	241	 	Edward	Phillips	 	 		Church Warden	1668	
+WAR	242	 	William	Maunde	 	 		Church Warden	1668	
+WAR	243	 	Edward	Phillips	 	 		Church Warden	1669	
+WAR	244	 	William	Maunde	 	 		Church Warden	1669	
+WAR	245	 	John	Harris	 	 		Church Warden	1669	
+WAR	246	 	William	Towne	Jnr	 		Church Warden	1669	
+WAR	247	 	Thomas	Dorrell	gent	 		Church Warden	1671	
+WAR	248	 	George	Burrows	 	 		Church Warden	1671	
+WAR	249	 	Thomas	Reeve	 	 	New Thame	Church Warden	1671	
+WAR	250	 	Thomas	Gibbons	 	 	North Weston	Church Warden	1671	
+WAR	251	 	Thomas 	Reeve	 	 		Church Warden	1672	
+WAR	252	 	Thomas	Gibbons	 	 		Church Warden	1672	
+WAR	253	 	Richard	Atkins	 	 	New Thame	Church Warden	1672	
+WAR	254	 	William	Coope	 	 	Old Thame	Church Warden	1672	
+WAR	255	 	Richard	Atkins	 	 		Church Warden	1673	in the militia
+WAR	256	 	William	Coope	 	 		Church Warden	1673	
+WAR	257	 	John	Roberts	 	 		Church Warden	1673	
+WAR	258	 	George	Yonge	 	 		Church Warden	1673	
+WAR	259	 	John	Dearinge	 	 		Church Warden	1673	in lieu of R Atkins
+WAR	260	 	George	Young	 	 		Church Warden	1674	
+WAR	261	 	John	Dearinge	 	 		Church Warden	1674	
+WAR	262	 	John	Knapp	 	 		Church Warden	1674	
+WAR	263	Mr	Hugh	Dorell	 	 		Church Warden	1674	
+WAR	264	 	John	Knapp	 	 		Church Warden	1675	
+WAR	265	Mr	Hugh	Dorell	 	 		Church Warden	1675	
+WAR	266	 	Thomas	Price	 	 	North Weston	Church Warden	1675	
+WAR	267	 	George	Ingrom	 	 		Church Warden	1675	
+WAR	268	 	Thomas	Price	 	 		Church Warden	1676	
+WAR	269	 	George	Ingrom	 	 		Church Warden	1676	
+WAR	270	 	William	Gibson	 	 		Church Warden	1676	
+WAR	271	 	John	Parteridge	 	 		Church Warden	1676	
+WAR	272	 	William	Gibson	 	 		Church Warden	1677	
+WAR	273	 	John	Parteridge	 	 		Church Warden	1677	
+WAR	274	 	John	Gerey	 	 	New Thame	Church Warden	1677	
+WAR	275	 	William	Fryer	 	 	Priestend	Church Warden	1677	
+WAR	276	 	John	Gerey	 	 		Church Warden	1678	
+WAR	277	 	William	Fryer	 	 		Church Warden	1678	
+WAR	278	 	Nicholas	Larkcom	 	 		Church Warden	1678	
+WAR	279	 	Edward	Bouvier	 	 		Church Warden	1678	
+WAR	280	 	Nicholas	Larkcom	 	 	New Thame	Church Warden	1679	
+WAR	281	 	Edward	Bouvier	 	 	Old Thame	Church Warden	1679	
+WAR	282	 	William	Webb	 	 		Church Warden	1679	
+WAR	283	 	John	Yong	 	 		Church Warden	1679	
+WAR	284	 	John	Young	 	 		Church Warden	1680	
+WAR	285	 	Matthew	Crews	 	 		Church Warden	1680	
+WAR	286	 	William	Wheeler	 	 		Church Warden	1680	
+WAR	287	 	Matthew	Crews	 	 		Church Warden	1681	
+WAR	288	 	William	Wheeler	 	 		Church Warden	1681	
+WAR	289	 	William	Jemmot	 	 		Church Warden	1681	
+WAR	290	 	John	Bew	 	 		Church Warden	1681	
+WAR	291	 	William	Jemmot	 	 		Church Warden	1682	
+WAR	292	 	John	Bew	 	 		Church Warden	1682	
+WAR	293	Mr	Edward	Smythe	 	 	New Thame	Church Warden	1682	
+WAR	294	Mr	Edward	Cooke	 	 	Priestend	Church Warden	1682	
+WAR	295	Mr	Edward	Smythe	 	 		Church Warden	1683	
+WAR	296	Mr	Edward	Cooke	 	 		Church Warden	1683	
+WAR	297	 	Steven	Kent	 	 		Church Warden	1683	
+WAR	298	 	Richard	Jordan	 	 		Church Warden	1683	
+WAR	299	 	Steven	Kent	 	 		Church Warden	1684	
+WAR	300	 	Richard	Jordan	 	 		Church Warden	1684	
+WAR	301	 	Robert	Heath	 	 		Church Warden	1684	
+WAR	302	 	Anthony	Price	 	 		Church Warden	1684	
+WAR	303	 	Robert	Heath	 	 		Church Warden	1685	
+WAR	304	 	Anthony	Price	 	 		Church Warden	1685	
+WAR	305	 	Francis	Webb	 	 		Church Warden	1685	
+WAR	306	 	Steven	King	 	 		Church Warden	1685	
+WAR	307	 	Francis	Webb	 	 		Church Warden	1686	
+WAR	308	 	Steven	King	 	 		Church Warden	1686	
+WAR	309	Mr	Robert	Barry	 	 		Church Warden	1686	
+WAR	310	Mr	Andrew	Parslowe	 	 		Church Warden	1686	
+WAR	311	Mr	Robert	Barry	 	 		Church Warden	1687	
+WAR	312	Mr	Andrew	Parslowe	 	 		Church Warden	1687	
+WAR	313	 	William	Munt	 	 		Church Warden	1687	
+WAR	314	 	Edward	Gurdon	 	 		Church Warden	1687	
+WAR	315	 	William	Munt	 	 		Church Warden	1688	
+WAR	316	Mr	Edward	Gurdon	 	 		Church Warden	1688	
+WAR	317	 	John	Rose	 	 	Thame	Church Warden	1688	
+WAR	318	Mr	Robert	Cotten	 	 		Church Warden	1688	
+WAR	319	Mr	John	Rose	 	 	Thame	Church Warden	1689	
+WAR	320	 	Robert	Cotten	 	 		Church Warden	1689	
+WAR	321	 	John	Wilkins	 	 		Church Warden	1689	
+WAR	322	 	Richard	Bowles	 	 		Church Warden	1689	
+WAR	323	 	John	Wilkins	 	 		Church Warden	1690	
+WAR	324	 	Richard	Bowles	 	 		Church Warden	1690	
+WAR	325	 	John	Egerton	 	 	New Thame	Church Warden	1690	
+WAR	326	 	Richard	Pimm	 	 		Church Warden	1690	
+WAR	327	 	John	Egerton	 	 		Church Warden	1691	
+WAR	328	 	Richard	Pimm	 	 		Church Warden	1691	
+WAR	329	 	Geffrey	Alnut	Sen	 		Church Warden	1691	
+WAR	330	 	Richard	Inet	 	 		Church Warden	1691	
+WAR	331	 	Geffrey	Alnut	 	 		Church Warden	1692	
+WAR	332	 	Richard	Inet	 	 		Church Warden	1692	
+WAR	333	 	William	Simmonds	 	 	Old Thame	Church Warden	1692	
+WAR	334	 	Richard	Cotton	 	 	New Thame	Church Warden	1692	
+WAR	335	 	William	Simons	 	 		Church Warden	1693	
+WAR	336	 	Richard	Cotton	 	 		Church Warden	1693	
+WAR	337	 	Edward	Burnard	 	 		Church Warden	1693	
+WAR	338	 	William	Pecke	Jnr	 		Church Warden	1693	
+WAR	339	 	Richard	Burnard	 	 		Church Warden	1694	
+WAR	340	 	William	Pecke	Jnr	 		Church Warden	1694	
+WAR	341	 	Joseph	Darwell	 	 		Church Warden	1694	
+WAR	342	 	John	Eustace	 	 		Church Warden	1694	
+WAR	343	 	Joseph	Darwell	 	 		Church Warden	1695	
+WAR	344	 	John	Eustace	 	 		Church Warden	1695	
+WAR	345	 	John	Prickett	 	 		Church Warden	1695	
+WAR	346	 	John	Heybourne	 	 		Church Warden	1695	
+WAR	347	 	John	Prickett	 	 	New Thame	Church Warden	1696	
+WAR	348	 	John	Heybourne	 	 	Priestend	Church Warden	1696	
+WAR	349	 	Thomas	Druce	 	 	Old Thame	Church Warden	1696	
+WAR	350	 	John	Eustace	 	 	New Thame	Church Warden	1696	
+WAR	351	 	Thomas	Druce	 	 	Old Thame	Church Warden	1697	
+WAR	352	 	John	Eustace	 	 	New Thame	Church Warden	1697	
+WAR	353	 	Richard	Jordan	 	 	New Thame	Church Warden	1697	
+WAR	354	 	John	Young	 	 	Moreton	Church Warden	1697	
+WAR	355	Mr	John	Burrows	 	 	New Thame	Church Warden	1699	
+WAR	356	 	Henry	Parker	 	 	Old Thame	Church Warden	1699	
+WAR	357	 	Stephen	Smyth	 	 	North Weston	Church Warden	1699	
+WAR	358	 	John	Young	 	 	New Thame	Church Warden	1699	
+WAR	359	 	Stephen	Smyth	 	 	North Weston	Church Warden	1700	
+WAR	360	 	John	Young	 	 	New Thame	Church Warden	1700	
+WAR	361	 	Edward	House	 	 	Old Thame	Church Warden	1700	
+WAR	362	 	John	Low	 	 	New Thame	Church Warden	1700	
+WAR	363	 	Thomas	Andfelde	 	 		Church Warden	1561	
+WAR	364	 	Robert	Hall	 	 		Church Warden	1641	
+WAR	365	 	William	Webb	 	 		Church Warden	1680	
+WAR	366	 	Oliver	Robotham	 	 		Church Warden	1560	

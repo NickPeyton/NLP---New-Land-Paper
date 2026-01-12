@@ -1,0 +1,37 @@
+SC	ID	Title	FName	Sname	Status	Occup	Place	Relate	MONID	Role	Year
+MONSup	1	 	John	Clerke	 	 	North Weston	father of	1.00	Mentioned on monument	1657
+MONSup	2	 	John	Clerke	baronet	 	North Weston	father of	2.00	Mentioned on monument	1677
+MONSup	3	Sir	John	Clerke	deceased	 	North Weston	husband of	3.00	Mentioned on monument	1698
+MONSup	4	 	Gilbert	Trowe	 	 		father of	4.00	Mentioned on monument	1679
+MONSup	5	 	Gilbert	Trowe	 	 		father of	5.00	Mentioned on monument	1679
+MONSup	8	 	Gilbert	Trowe	gent	 		husband of	8.00	Mentioned on monument	1690
+MONSup	9	 	Henry	Bruges	 	Schoolmaster	Thame	husband of	9.00	Mentioned on monument	1703
+MONSup	10	 	Henry	Bruges	 	 		father of	10.00	Mentioned on monument	1703
+MONSup	11	 	Hugh	Willis	 	 		father of	11.00	Mentioned on monument	1660
+MONSup	12	 	Hugh	Willis	 	 		father of	12.00	Mentioned on monument	1661
+MONSup	13	Mr	John	Ellis	 	Clerk	Whitfield	husband of	13.00	Mentioned on monument	1631
+MONSup	14	 	Stephen	Cook	 	 		husband of	14.00	Mentioned on monument	1717
+MONSup	16	 	Edward	Gurden	gent	 		husband of	16.00	Mentioned on monument	1691
+MONSup	17	 	John	Hebern	junior	 		husband of	17.00	Mentioned on monument	1704
+MONSup	19	 	Thomas	Middleton	 	 		father of	19.00	Mentioned on monument	1684
+MONSup	20	Rev Mr	 	Buerdsell	 	 		husband of	20.00	Mentioned on monument	1749
+MONSup	22	 	Matthew	Wilkins	 	Lawyer~		husband of	22.00	Mentioned on monument	1699
+MONSup	23	 	John	Striblehill	gent	 		husband of	23.00	Mentioned on monument	1722
+MONSup	25	 	William	Peck	 	 		husband of	25.00	Mentioned on monument	1712
+MONSup	27	 	John	Rose	 	 		husband of	27.00	Mentioned on monument	1690
+MONSup	29	 	Thomas	Messenger	 	 		father of	29.00	Mentioned on monument	1684
+MONSup	30	 	William	Mead	 	 		husband of	30.00	Mentioned on monument	1705
+MONSup	35	 	Edward	Leaver	 	 		husband of	35.00	Mentioned on monument	1683
+MONSup	37	 	Edward	Leaver	gent	 		husband of	37.00	Mentioned on monument	1710
+MONSup	39	 	John	Nott	the late	 		husband of	39.00	Mentioned on monument	1703
+MONSup	40	 	Richard	Bryan	esq	 	Henley	father of	40.00	Mentioned on monument	1643
+MONSup	41	 	Thomas	Bryan	 	 		husband of	41.00	Mentioned on monument	1640
+MONSup	47	Sir	Edward	Carr	 	 	Hillingdon	father of	3.00	Mentioned on monument	1698
+MONSup	49	 	Margaret	Trowe	 	 		mother of	4.00	Mentioned on monument	1679
+MONSup	50	 	Margaret	Trowe	 	 		mother of	5.00	Mentioned on monument	1679
+MONSup	51	 	Anne	Bruges	 	 		mother of	10.00	Mentioned on monument	1703
+MONSup	52	Mr	John	Pettie	Esq	 	Stoke Talmage	father of	13.00	Mentioned on monument	1631
+MONSup	53	Rev Mr	 	Middleton	 	 		father of	20.00	Mentioned on monument	1749
+MONSup	54	 	Elizabeth	Messenger	 	 		mother of	29.00	Mentioned on monument	1684
+MONSup	55	 	Thomas	Messenger	 	 		father of	30.00	Mentioned on monument	1705
+MONSup	56	 	John	Tomlinson	gent	 	Thame	father of	41.00	Mentioned on monument	1640

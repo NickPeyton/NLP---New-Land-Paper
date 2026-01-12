@@ -1,0 +1,373 @@
+SC	PLDID	P	Doc No	Type	Day	Month	Year	Property	Street	Place	Comment
+PLD	1	0	Li.XIII/ii/12				0.00			New Thame	 
+PLD	2	0	Li.XIII/ii/13				0.00			Old Thame	 
+PLD	3	0	Li.XIII/ix/6				0.00			New Thame	 
+PLD	4	0	Li.XV/i/a/1	final concord	12	11	1759.00			New Thame	 
+PLD	5	0	Li.XV/i/b/1	feoffment	25	3	1630.00	messuage in North Quarter	North Quarter	New Thame	 
+PLD	6	0	Li.XV/i/b/14	mortgage	27	9	1766.00	messuage and workshop and yard and sawpitt	High St	New Thame	
+PLD	7	1	Li.XV/i/c/1	lease for a year	27	6	1838.00	tenement formerly called Three Pidgeons		New Thame	 
+PLD	8	0	Li.XV/ii/c/1	mortgage	17	1	1615.00	messuage	High St	New Thame	 
+PLD	9	0	Li.XV/ii/c/8	bargain of sale	11	2	1671.00	messuage in north quarter	High St	New Thame	 
+PLD	10	0	Li.XV/ii/c/14	lease	14	3	1715.00	messuage	North Quarter	New Thame	 
+PLD	11	0	Li.XVI/i/a/1	marriage settlement	21	2	1674.00	messuage with garden		New Thame	 
+PLD	12	0	Li.XVI/i/b/1	lease	31	10	1694.00	messuage in north quarter	High St	New Thame	 
+PLD	13	0	Li.XVII/ii/2				0.00			New Thame	 
+PLD	14	0	Li.XVII/iii/1				0.00			New Thame	 
+PLD	15	1	Li.XVII/v/1	will	15	8	1770.00	messuage or tenement		New Thame	 
+PLD	16	0	Li.XVII/vi/1				0.00			New Thame	 
+PLD	17	0	Li.XVII/ix/1				0.00			New Thame	 
+PLD	18	0	Li.XVII/xi/1				0.00			New Thame	 
+PLD	19	0	Li.XVII/xi/3				0.00			New Thame	 
+PLD	20	0	Li.XVII/xi/6				0.00			New Thame	 
+PLD	21	0	Li.XVII/xi/11				0.00			New Thame	 
+PLD	22	0	Li.XVII/xi/19				0.00			New Thame	 
+PLD	23	0	Li.XVII/iii/7				0.00			New Thame	 
+PLD	24	0	Li.XV/ii/c/19	exemplification of common records	18	5	1795.00	messuage, garden and land		Old Thame	2 messuage, 2 gardens, 7 acres of land, 10 acres of meadow, 20 acres of pasture and common pasture for cattle in New Thame, Thame & Old Thame
+PLD	25	0	Li.XV/ii/c/21	will	15	2	1822.00			Old Thame	 
+PLD	26	0	Li.XV/v/a/1	deed	18	1	1817.00	messuage		Priestend	 
+PLD	27	0	Li.XV/v/b/1	conveyance	24	2	1890.00	tenement at corner of formerly Old Town Lane	Bell Lane	New Thame	 
+PLD	28	0	Li.XVII/iii/1				0.00			Old Thame	 
+PLD	29	0	Li.XVII/iii/7				0.00			Old Thame	 
+PLD	30	0	Li.XVII/iv/2				0.00			Old Thame	 
+PLD	31	0	Li.XVII/viii/1				0.00			Old Thame	 
+PLD	32	0	Li.XVII/viii/4				0.00			Old Thame	 
+PLD	33	0	Li.XVII/xi/2				0.00			Old Thame	 
+PLD	34	0	Li.XVII/xi/6				0.00			Old Thame	 
+PLD	35	0	Li.XVII/xi/11				0.00			Old Thame	 
+PLD	36	0	Li.XVII/xi/18				0.00			Old Thame	 
+PLD	37	0	Li.XVII/xi/24				0.00			Old Thame	 
+PLD	38	0	Misc.Yorks NR III/ii/1	lease			1768.00	6  acres land in common field		Old Thame	
+PLD	39	0	Co.V/i/1	deed	20	50	1629.00	18 acres of arable land & 2 messuages		Old Thame	
+PLD	40	0	Li.XIII/ii/13				0.00			New Thame	 
+PLD	41	1	Li.XV/i/a/2	lease	13	11	1759.00	Messuage called Chequer Ale House	Hoggherds Hill	New Thame	 
+PLD	50	0	Li.XV/i/b/10	copies of 6-7			0.00			New Thame	as Li XV/i/a/3
+PLD	51	1	Li.XV/i/b/11	mortgage	19	5	1755.00	messuage, tenement & back house yard	New Quarter	New Thame	 
+PLD	52	0	Li.XV/i/b/12	bond	19	5	1755.00			New Thame	 
+PLD	54	0	Li.XV/i/b/15	bond	27	9	1766.00	messuage and workshop and yard and sawpitt	High St	New Thame	
+PLD	55	0	Li.XV/i/b/16	lease	28	7	1777.00	messuage and workshop and yard and sawpitt	High St	New Thame	
+PLD	56	0	Li.XV/i/b/17	release	29	7	1777.00	messuage and workshop and yard and sawpitt	High St	New Thame	
+PLD	57	0	Li.XV/i/b/18	copy 16-17	29	7	1777.00	messuage and workshop and yard and sawpitt	High St	New Thame	
+PLD	58	1	Li.XV/i/b/19	lease	0	0	1785.00	tenement formerly Three Pidgeons		New Thame	 
+PLD	59	1	Li.XV/i/b/20	re-lease for a year	31	10	1785.00	tenement formerly Three Pidgeons		New Thame	 
+PLD	60	1	Li.XV/i/b/21	re-lease for a year	31	10	1787.00	tenement formerly Three Pidgeons		New Thame	 
+PLD	61	1	Li.XV/i/b/22	re-lease for a year	14	10	1793.00	tenement formerly Three Pidgeons		New Thame	 
+PLD	62	0	Li.XV/i/b/23	re-lease for a year	15	10	1793.00	tenement formerly Three Pidgeons		New Thame	 
+PLD	63	0	Li.XV/i/c/2	release	28	6	1838.00	tenement formerly called Three Pidgeons		New Thame	 
+PLD	64	0	Li.XV/ii/c/2	feoffment	22	10	1616.00	messuage	High St	New Thame	 
+PLD	65	0	Li.XV/ii/c/3	feoffment	12	4	1620.00	messuage	High St	New Thame	 
+PLD	66	0	Li.XV/ii/c/4	mortgage	13	4	1620.00	½ messuage	High St	New Thame	 
+PLD	67	0	Li.XV/ii/c/5	feoffment	31	8	1635.00	messuage	High St	New Thame	 
+PLD	68	0	Li.XV/ii/c/6	demise for 1 life	1	4	1636.00	close of meadow called Glasiers 3 acres	North Quarter	New Thame	
+PLD	69	0	Li.XV/ii/c/9	receipt	11	2	1671.00	messuage in north quarter	High St	New Thame	receipt for £145 for sale of Li.XV/ii/c/8
+PLD	70	0	Li.XV/ii/c/10	quit claim	15	2	1670.00			New Thame	quit claim for passage through property Li.XV/ii/c/9
+PLD	71	0	Li.XV/ii/c/11	receipt	28	2	1670.00			New Thame	receipt for £30 payment for LI.XV/ii/c/10
+PLD	72	0	Li.XV/ii/c/15	release	1	3	1716.00	messuage	North Quarter	New Thame	 
+PLD	73	0	Li.XV/ii/c/16	lease	7	8	1765.00			New Thame	 
+PLD	74	0	Li.XVI/i/a/2	deed pole gift	25	5	1738.00	2 messuages		New Thame	 
+PLD	75	0	Li.XVI/i/b/2	release	1	11	1694.00	messuage in north quarter	High St	New Thame	 
+PLD	76	0	Li.XVI/i/b/3	lease	27	3	1730.00	messuage in north quarter	High St	New Thame	 
+PLD	77	0	Li.XVI/i/b/4	release	28	3	1730.00	messuage in north quarter	High St	New Thame	 
+PLD	78	0	Li.XVI/i/b/5	lease	21	9	1764.00	messuage in north quarter	High St	New Thame	 
+PLD	79	0	Li.XVI/i/b/6	release	22	9	1764.00	messuage in north quarter	High St	New Thame	 
+PLD	80	0	Li.XVII/iii/2				0.00			New Thame	 
+PLD	81	0	Li.XVII/iii/3				0.00			New Thame	 
+PLD	82	0	Li.XVII/iii/4				0.00			New Thame	 
+PLD	83	0	Li.XVII/iii/5				0.00			New Thame	 
+PLD	84	0	Li.XVII/v/2				0.00			New Thame	 
+PLD	85	0	Li.XVII/vi/2				0.00			New Thame	 
+PLD	86	0	Li.XVII/vi/3				0.00			New Thame	 
+PLD	87	0	Li.XVII/ix/2				0.00			New Thame	 
+PLD	88	0	Li.XVII/ix/3				0.00			New Thame	 
+PLD	89	0	Li.XVII/ix/4				0.00			New Thame	 
+PLD	90	0	Li.XVII/ix/5				0.00			New Thame	 
+PLD	91	0	Li.XVII/xi/12				0.00			New Thame	 
+PLD	92	0	Li.XVII/iii/8				0.00			New Thame	 
+PLD	93	0	Li.XVII/iii/9				0.00			New Thame	 
+PLD	94	0	Li.XVII/iii/10				0.00			New Thame	 
+PLD	95	0	Li.XVII/iii/11				0.00			New Thame	 
+PLD	96	0	Li.XVII/iii/12				0.00			New Thame	 
+PLD	97	0	Li.XV/v/a/2	release	19	8	1817.00			Old Thame	 
+PLD	98	0	Li.XV/v/a/3	abstract of tithe			1858.00	cottage		New Thame	 
+PLD	99	0	Li.XV/v/a/4	conveyance	24	9	1858.00	cottage		New Thame	 
+PLD	100	0	Li.XVII/iii/2				0.00			Old Thame	 
+PLD	101	0	Li.XVII/iii/3				0.00			Old Thame	 
+PLD	102	0	Li.XVII/iii/4				0.00			Old Thame	 
+PLD	103	0	Li.XVII/iii/5				0.00			Old Thame	 
+PLD	104	0	Li.XVII/iii/8				0.00			Old Thame	 
+PLD	105	0	Li.XVII/iii/9				0.00			Old Thame	 
+PLD	106	0	Li.XVII/iii/10				0.00			Old Thame	 
+PLD	107	0	Li.XVII/iii/11				0.00			Old Thame	 
+PLD	108	0	Li.XVII/iii/12				0.00			Old Thame	 
+PLD	109	0	Li.XVII/iv/3				0.00			Old Thame	 
+PLD	110	0	Li.XVII/iv/4				0.00			Old Thame	 
+PLD	111	0	Li.XVII/viii/2				0.00			Old Thame	 
+PLD	112	0	Li.XVII/viii/5				0.00			Old Thame	 
+PLD	113	0	Li.XVII/xi/19				0.00			Old Thame	 
+PLD	114	0	Co.V/i/2	lease	13	5	1630.00	2 messuages and 18acres		Old Thame	
+PLD	115	0	Co.V/i/3	marriage settlement	14	3	1644.00	2 messuages and 18acres		Old Thame	
+PLD	116	0	Co.V/i/4	marriage settlement	15	3	1643.00	2 messuages and 18acres		Old Thame	
+PLD	117	0	Misc.Su.L/i/1	deeds			1738.00	messuage	Friday St	Old Thame	deed to lead uses  of fine and fine of messuage in Friday St
+PLD	118	0	Misc.Su.L/i/2	deeds			1738.00	messuage	Morend Lane	Old Thame	milking Plot, 2 gardens,  backside and barn  and messuage in Morend Lane
+PLD	119	0	Misc.Su.L/i/3	deeds			1738.00	messuage	Morend Lane	Old Thame	milking Plot, 2 gardens,  backside and barn  and messuage in Morend Lane
+PLD	120	0	Welch.C/i/1	deeds			1860.00	cottage at Broken Cross		Old Thame	cottage and garden at Broken Cross
+PLD	121	0	Welch.C/ii/2	deeds			1895.00	cottage at Broken Cross		Old Thame	cottage and garden at Broken Cross
+PLD	122	0	Welch.C/ii/1	deeds			1861.00	land		Old Thame	piece of land in Old Thame 33 p
+PLD	123	0	Welch.C/ii/2	deeds			0.00	land		Old Thame	piece of land in Old Thame 33 p
+PLD	124	0	Welch.C/ii/3	deeds			1895.00	land		Old Thame	piece of land in Old Thame 33 p and 48p
+PLD	125	0	Welch.C/iii/1	deeds			1895.00	land		Old Thame	piece of land in Old Thame 48 p
+PLD	126	0	Welch.LXXIII/iii/1	deeds			1679.00	Blackditch Close		Old Thame	close of arable 8acres in Old Thame called Blackditch Close
+PLD	127	0	Li.XIII/v/1				0.00			Thame	
+PLD	128	0	Li.XIII/v/3				0.00			Thame	
+PLD	129	0	Li.XVIII/v/4				0.00			Thame	
+PLD	130	0	Li.XIII/ix/5				0.00			Thame	
+PLD	131	0	Li.XIII/ix/7				0.00			Thame	
+PLD	132	1	Li.XV/i/a/3	lease	25	8	1785.00	messuage called Chequer Ale House	Hoggherds Hill	Thame	
+PLD	133	0	Li.XV/i/a/4	release	26	8	1785.00	messuage called Chequer Ale House	Hoggherds Hill	Thame	
+PLD	134	0	Li.XV/i/a/5	release	11	1	1791.00	messuage called Chequer Ale House	Hoggherds Hill	Thame	
+PLD	135	0	Li.XV/i/a/6	bond	11	1	1791.00	messuage called Chequer Ale House	Hoggherds Hill	Thame	
+PLD	136	0	Li.XV/i/a/7	lease	29	10	1798.00	messuage called Chequer Ale House	Hoggherds Hill	Thame	
+PLD	137	0	Li.XV/i/a/8	release	30	10	1798.00	messuage called Chequer Ale House	Hoggherds Hill	Thame	
+PLD	138	1	Li.XV/i/b/13	feoffment	14	6	1766.00	tenement or shop		Thame	
+PLD	139	0	Li.XV/i/d/1	lease	4	3	1817.00	messuage	High St	New Thame	
+PLD	140	0	Li.XV/i/d/2	release	5	3	1817.00	messuage	High St	New Thame	
+PLD	141	0	Li.XV/i/d/3	fire insurance policy	8	5	1817.00	messuage	High St	New Thame	
+PLD	142	0	Li.XV/i/d/4	lease	16	5	1832.00	messuage	High St	New Thame	
+PLD	143	0	Li.XV/i/d/5	mortgage	17	5	1822.00	messuage	High St	New Thame	
+PLD	144	0	Li.XV/i/d/6	final concord	20	5	1832.00	messuage	High St	New Thame	
+PLD	145	0	Li.XV/i/d/7	lease	27	6	1838.00	messuage	High St	New Thame	
+PLD	146	0	Li.XV/i/d/8	deeds	28	6	1838.00	messuage	High St	New Thame	all property to Thomas Howland of Thame Baker at an auction of Richard Stones estate.
+PLD	147	0	Li.XV/i/d/9	deed of apportionment	14	10	1844.00	messuage	High St	New Thame	
+PLD	148	1	Li.XV/ii/a/1	article of agreement	16	7	1746.00			Thame	agreement to provide food and drink for John Wheeler whilst he is apprenticed to learn the art of gingerbread baking and biscuit making
+PLD	149	0	Li.XV/ii/a/2	bond	16	6	1749.00			Thame	
+PLD	150	1	Li.XV/ii/b/1	lease for a year	3	7	1795.00	dwelling house		Thame	
+PLD	151	0	Li.XV/ii/b/2	release	4	7	1745.00	dwelling house		Thame	
+PLD	152	0	Li.XV/ii/b/3	receipt for rent	29	7	1795.00			Thame	£1 for 4 years rent
+PLD	153	0	Li.XV/ii/c/7	copy of will	21	9	1660.00			Thame	will of Mathew Warters of Thame mercer
+PLD	154	0	Li.XV/ii/c/12	feoffment	8	8	1676.00	2 messuage		Thame	
+PLD	155	0	Li.XV/ii/c/13	feoffment	8	8	1676.00			Thame	copy of Li.XV/ii/c/11
+PLD	156	0	Li.XV/ii/c/17	lease	13	5	1795.00			Thame	
+PLD	157	0	Li.XV/ii/c/18	release	14	5	1795.00			Thame	
+PLD	158	0	Li.XV/ii/c/20	mortgage	1	11	1819.00	messuage		Thame	
+PLD	159	0	Li.XV/ii/c/22	further charge	28	2	1822.00			Thame	
+PLD	160	0	Li.XV/ii/c/23	bond	28	2	1822.00			Thame	
+PLD	161	0	Li.XV/ii/d/1	will	20	9	1803.00			Thame	will of John Wheeler gingerbread maker
+PLD	162	0	Li.XV/ii/d/2	lease	14	4	1824.00	2 cottages in north quarter	High St	New Thame	
+PLD	163	0	Li.XV/ii/d/3	release	15	4	1824.00	2 cottages in north quarter	High St	New Thame	
+PLD	164	0	Li.XV/ii/d/4	lease	8	5	1838.00	2 cottages in north quarter	High St	New Thame	
+PLD	165	0	Li.XV/ii/d/5	release	9	5	1838.00	2 cottages in north quarter	High St	New Thame	
+PLD	166	0	Li.XV/iii/1	lease	19	3	1840.00	2 cottages in north quarter	High St	New Thame	
+PLD	167	0	Li.XV/iii/2	release	20	3	1840.00	2 cottages in north quarter	High St	New Thame	
+PLD	168	0	Li.XV/iii/3	conveyance	18	1	1870.00	2 cottages in north quarter	High St	New Thame	
+PLD	169	0	Li.XVI/i/a/5	lease	11	9	1764.00	2 messuages		Thame	
+PLD	170	0	Li.XVI/i/a/3	will	24	2	1748.00	2 freehold tenements		Thame	
+PLD	171	0	Li.XVI/i/a/4	will	24	2	1748.00			Thame	copy of Li.XVI/i/a/3
+PLD	172	0	Li.XVI/ii/1	lease	12	12	1808.00	2 messuages		Thame	
+PLD	173	0	Li.XVI/ii/2	release	13	12	1808.00	2 messuages		Thame	
+PLD	174	0	Li.XVI/ii/3	final concord	20	1	1809.00	3 messuages and 3 gardens		Thame	
+PLD	175	0	Li.XVI/ii/4	lease	25	3	1837.00	2 messuages		Thame	
+PLD	176	0	Li.XVI/ii/5	release	26	8	1837.00	2 messuages		Thame	
+PLD	177	0	Li.XVI/ii/6	deed	19	10	1837.00	2 messuages		Thame	
+PLD	178	0	Li.XVII/i/1	copy of court roll	19	10	1775.00	3 cottages		Thame	
+PLD	179	0	Li.XVI/i/a/6	release	12	9	1764.00	2 messuages		Thame	
+PLD	180	0	Li.XVII/i/3	lease	18	8	1817.00	cottages		Thame	
+PLD	181	0	Li.XVII/i/4				0.00			Thame	
+PLD	182	0	Li.XVII/ii/1				0.00			Thame	
+PLD	183	0	Li.XVII/iii/6				0.00			Thame	
+PLD	184	0	Li.XVII/iv/1				0.00			Thame	
+PLD	185	1	Li.XVII/v/3	lease for a year	8	7	1785.00	tenement called the George		Thame	
+PLD	186	0	Li.XVII/v/4				0.00			Thame	
+PLD	187	1	Li.XVII/v/5	bond of indemnity	9	7	1785.00	messuage known by the sign of the George		Thame	
+PLD	188	1	Li.XVII/v/6	lease for a year	22	3	1786.00	messuage known by the sign of the George		Thame	
+PLD	189	0	Li.XVII/vii/1				0.00			Thame	
+PLD	190	0	Li.XVII/vii/2				0.00			Thame	
+PLD	191	0	Li.XVII/vii/3				0.00			Thame	
+PLD	192	0	Li.XVII/vii/4				0.00			Thame	
+PLD	193	0	Li.XVII/vii/5				0.00			Thame	
+PLD	194	0	Li.XVII/vii/6				0.00			Thame	
+PLD	195	0	Li.XVII/vii/7				0.00			Thame	
+PLD	196	0	Li.XVII/vii/8				0.00			Thame	
+PLD	197	0	Li.XVII/vii/9				0.00			Thame	
+PLD	198	0	Li.XVII/vii/10				0.00			Thame	
+PLD	199	0	Li.XVII/vii/11				0.00			Thame	
+PLD	200	0	Li.XVII/viii/3				0.00			Thame	
+PLD	201	0	Li.XVII/x/1				0.00			Thame	
+PLD	202	0	Li.XVII/x/2				0.00			Thame	
+PLD	203	0	Li.XVII/x/3				0.00			Thame	
+PLD	204	0	Li.XVII/x/4				0.00			Thame	
+PLD	205	0	Li.XVII/xi/5				0.00			Thame	
+PLD	206	0	Li.XVII/xi/9				0.00			Thame	
+PLD	207	0	Li.XVII/xi/10				0.00			Thame	
+PLD	208	0	Li.XVII/xi/13				0.00			Thame	
+PLD	209	0	Li.XVII/xi/14				0.00			Thame	
+PLD	210	0	Li.XVII/xi/15				0.00			Thame	
+PLD	211	0	Li.XVII/xi/16				0.00			Thame	
+PLD	212	0	Li.XVII/xi/17				0.00			Thame	
+PLD	213	0	Li.XVII/xi/20				0.00			Thame	
+PLD	214	0	Li.XVII/xi/21				0.00			Thame	
+PLD	215	0	Li.XVII/xi/22				0.00			Thame	
+PLD	216	0	Li.XVII/xi/23				0.00			Thame	
+PLD	217	0	Li.XX/vi/1				0.00			Thame	
+PLD	218	0	Li.XX/viii/1				0.00			Thame	
+PLD	219	0	Li.XX/viii/8				0.00			Thame	
+PLD	220	0	Li.XX/viii/12				0.00			Thame	
+PLD	221	0	Parrott I	deed and lease			0.00	Horsham Mead		Thame	deeds and leases 1553-1649 particularly concerned with Horsham Mead
+PLD	222	0	Parrott II/1	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	223	0	Parrott II/2	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	224	0	Parrott II/3	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	225	0	Parrott II/4	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	226	0	Parrott II/5	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	227	0	Parrott II/6	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	228	0	Parrott II/7	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	229	0	Parrott II/8	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	230	0	Parrott II/9	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	231	0	Parrott II/10	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	232	0	Parrott II/11	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	233	0	Parrott II/12	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	234	0	Parrott II/13	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	235	0	Parrott II/14	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	236	0	Parrott II/43	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	237	0	Parrott II/44	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	238	0	Parrott II/45	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	239	0	Parrott II/46	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	240	0	Parrott II/47	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	241	0	Parrott II/48	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	242	0	Parrott II/49	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	243	0	Parrott II/50	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	244	0	Parrott II/51	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	245	0	Parrott II/52	deed and lease			0.00			Thame	deed and leases of Lambourne family 1631-1713
+PLD	246	0	Parrott IV	deed and lease			0.00			Thame	deed and leases of Burnard & Stone  families 1748-1838
+PLD	247	0	Misc.Yorks.NR.III/iii/1	final concord			1760.00			Thame	final concord of 2 messuages and other property in Thame
+PLD	248	1	Misc.Su.L/ii/1	marriage agreement	9	3	1752.00	messuage called the Kings Head		Thame	marriage agreement
+PLD	249	1	Misc.Bra.XXVI/1	deed poll	9	11	1583.00	messuage and appurtenence		Thame	
+PLD	250	1	Misc.Bra.XXVII/ii/1	marriage settlement			1759.00	Swan Inn and 2 messuages		Thame	
+PLD	251	0	Misc.Bod.XIX/i	lease			1711.00			Thame	lease and counterparts of property of Richard Lord Wenman 1711-1717
+PLD	252	0	Misc.Bod.XIX/ii	lease			0.00			Thame	lease and counterparts of property of Richard Lord Wenman 1711-1717
+PLD	253	0	Misc.Bod.XIX/iii	lease			0.00			Thame	lease and counterparts of property of Richard Lord Wenman 1711-1717
+PLD	254	0	Misc.Bod.XIX/iv	lease			1717.00			Thame	lease and counterparts of property of Richard Lord Wenman 1711-1717
+PLD	255	0	SODC.X/1	conveyance			1826.00	property	North St	Thame	conveyances of property in North St 1826-1938
+PLD	256	0	SODC.X/2	conveyance			0.00	property	North St	Thame	conveyances of property in North St 1826-1938
+PLD	257	0	SODC.X/3	conveyance			0.00	property	North St	Thame	conveyances of property in North St 1826-1938
+PLD	258	0	SODC.X/4	conveyance			0.00	property	North St	Thame	conveyances of property in North St 1826-1938
+PLD	259	0	SODC.X/5	conveyance			0.00	property	North St	Thame	conveyances of property in North St 1826-1938
+PLD	260	0	SODC.IX/1	transaction			1699.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	261	0	SODC.IX/2	transaction			0.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	262	0	SODC.IX/3	transaction			0.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	263	0	SODC.IX/4	transaction			0.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	264	0	SODC.IX/5	transaction			0.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	265	0	SODC.IX/6	transaction			0.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	266	0	SODC.IX/7	transaction			0.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	267	0	SODC.IX/8	transaction			0.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	268	0	SODC.IX/9	transaction			0.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	269	0	SODC.IX/10	transaction			0.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	270	0	SODC.IX/11	transaction			0.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	271	0	SODC.IX/12	transaction			0.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	272	0	SODC.IX/13	transaction			0.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	273	0	SODC.IX/14	transaction			0.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	274	0	SODC.IX/15	transaction			0.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	275	0	SODC.IX/16	transaction			0.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	276	0	SODC.IX/17	transaction			0.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	277	0	SODC.IX/18	transaction			0.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	278	0	SODC.IX/19	transaction			0.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	279	0	SODC.IX/20	transaction			0.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	280	0	SODC.IX/21	transaction			0.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	281	0	SODC.IX/22	transaction			0.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	282	0	SODC.IX/23	transaction			0.00	Place House	Friday Street	Old Thame	transactions concerning messuage (Place House) near Friday Street, gardens yards milking plot etc  1699-1801
+PLD	283	0	SODC.IX/9	final concord			1711.00	Property	Morend Lane	Old Thame	final concord re messuage & closes near Morend Lane 1711
+PLD	284	0	SODC.IX/10	final concord			1711.00	Property	Morend Lane	Old Thame	final concord re messuage & closes near Morend Lane 1711
+PLD	285	0	SL.XXV/1	paper			1910.00	4 cottages	North Street	Thame	papers relating to 4 cottages in North Street and 7 cottages in Chinnor Road
+PLD	286	0	SL.XXV/2	paper			1910.00	4 cottages	North Street	Thame	papers relating to 4 cottages in North Street and 7 cottages in Chinnor Road
+PLD	287	0	SL.XXV/3	paper			1910.00	4 cottages	North Street	Thame	papers relating to 4 cottages in North Street and 7 cottages in Chinnor Road
+PLD	288	0	SL.XXV/4	paper			1910.00	4 cottages	North Street	Thame	papers relating to 4 cottages in North Street and 7 cottages in Chinnor Road
+PLD	289	0	SL.XXV/5	paper			1910.00	4 cottages	North Street	Thame	papers relating to 4 cottages in North Street and 7 cottages in Chinnor Road
+PLD	290	0	SL.XXV/6	paper			1910.00	4 cottages	North Street	Thame	papers relating to 4 cottages in North Street and 7 cottages in Chinnor Road
+PLD	291	0	SL.XXV/7	paper			1910.00	4 cottages	North Street	Thame	papers relating to 4 cottages in North Street and 7 cottages in Chinnor Road
+PLD	292	0	Amb.VII/1	final concord			1817.00	property		Thame	
+PLD	293	0	Lin.XXII/i/1	deed			1711.00	parsonage rectory or prebend		Thame	deeds re parsonage rectory or prebend of Thame and all tithe in 1711-1825
+PLD	294	0	Lin.XXII/i/2	deed			0.00	parsonage rectory or prebend		Thame	deeds re parsonage rectory or prebend of Thame and all tithe in 1711-1825
+PLD	295	0	Lin.XXII/i/3	deed			0.00	parsonage rectory or prebend		Thame	deeds re parsonage rectory or prebend of Thame and all tithe in 1711-1825
+PLD	296	0	Lin.XXII/i/4	deed			0.00	parsonage rectory or prebend		Thame	deeds re parsonage rectory or prebend of Thame and all tithe in 1711-1825
+PLD	297	0	Lin.XXII/i/5	deed			0.00	parsonage rectory or prebend		Thame	deeds re parsonage rectory or prebend of Thame and all tithe in 1711-1825
+PLD	298	0	Lin.XXII/i/6	deed			0.00	parsonage rectory or prebend		Thame	deeds re parsonage rectory or prebend of Thame and all tithe in 1711-1825
+PLD	299	0	Lin.XXII/i/7	deed			0.00	parsonage rectory or prebend		Thame	deeds re parsonage rectory or prebend of Thame and all tithe in 1711-1825
+PLD	300	0	Lin.XXII/i/8	deed			0.00	parsonage rectory or prebend		Thame	deeds re parsonage rectory or prebend of Thame and all tithe in 1711-1825
+PLD	301	0	Gen.XXXIII/i/1	conveyance			1594.00	Thame Park		Thame	
+PLD	302	0	Welch.C/iv/1	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	303	0	Welch.C/iv/2	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	304	0	Welch.C/iv/3	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	305	0	Welch.C/iv/4	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	306	0	Welch.C/iv/5	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	307	0	Welch.C/iv/6	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	308	0	Welch.C/iv/7	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	309	0	Welch.C/iv/8	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	310	0	Welch.C/iv/9	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	311	0	Welch.C/iv/10	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	312	0	Welch.C/iv/11	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	313	0	Welch.C/iv/12	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	314	0	Welch.C/iv/13	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	315	0	Welch.C/iv/14	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	316	0	Welch.C/iv/15	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	317	0	Welch.C/iv/16	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	318	0	Welch.C/iv/17	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	319	0	Welch.C/iv/18	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	320	0	Welch.C/iv/19	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	321	0	Welch.C/iv/20	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	322	0	Welch.C/iv/21	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	323	0	Welch.C/iv/22	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	324	0	Welch.C/iv/23	deed	0	0	0.00	Essex House	 Chinnor Road	Thame	
+PLD	326	1	Li.XV/i/a/2	lease	13	11	1759.00	tenement  near to the stocks		Old Thame	
+PLD	327	1	Li.XV/i/a/2	lease	13	11	1759.00	five small cottages	Pound Lane	Thame	
+PLD	328	0	Li.XV/i/a/3	lease	25	8	1785.00	tenement  near to the stocks		Thame	
+PLD	329	0	Li.XV/i/a/3	lease	25	8	1785.00	five small cottages	Pound Lane	Thame	
+PLD	330	1	Li.XV/i/b/11	mortgage	19	5	1755.00	tenement adjoining known by sign of Three Pidgeons	New Quarter	New Thame	
+PLD	331	1	Misc.Bra.XXVII/i/10	lease for a year	17	1	1758.00	messuage called the Swan		Thame	
+PLD	332	1	Misc.Lancs.VI/7	demise and lease for a year	21	8	1693.00	tenement called the Black Boy		New Thame	
+PLD	333	1	Misc.Bir.I/ii/2	bond	7	1	1699.00			New Thame	
+PLD	334	1	Misc.Bir.I/iii/a/2	lease for a year	29	4	1783.00	cottages	Friday Street	Thame	
+PLD	335	1	Misc.Dors.II/5	lease and re-lease	10	4	1656.00	two messuages and tenements together	West Quarter	New Thame	
+PLD	336	1	Misc.Har.II/1	lease	13	2	1673.00	messuage	South Part	New Thame	
+PLD	337	0	Misc.Har.II/2	re-lease	14	2	1673.00	messuage	South Part	New Thame	
+PLD	338	1	Misc.Har.II/3	mortgage	29	9	1675.00	messuage	South part	New Thame	
+PLD	339	1	Misc.Har.II/4	assignment of mortgage	26	4	1688.00	messuage	South part	New Thame	
+PLD	340	1	Misc.Har.II/8	lease	12	10	1703.00	messuage called the Angel	High St (South Quarter)	New Thame	
+PLD	341	0	Misc.Har.II/9	re-lease	0	0	1703.00	messuage called the Angel	High St (South Quarter)	New Thame	
+PLD	342	0	Misc.Har.II/10	bond	0	0	1703.00			Thame	
+PLD	343	1	Misc.Har.II/11	assignment	0	0	1703.00	messuage called the Angel		Thame	
+PLD	345	1	Misc.Har.II/13	final concord	13	7	1704.00	messuages, cottages etc		New Thame	 3 messuages, 2 cottages, 2 stables 1 orchard & 1 acre of pasture in New Thame and Tetsworth
+PLD	346	0	Misc.Har.II/14	covenant to a fine	7	4	1713.00	Inn formerly the Angel now the Angel and Crown	High Street (South Quarter)	New Thame	
+PLD	347	1	Misc.Har.II/15	mortgage	7	4	1713.00	Inn formerly the Angel now the Angel and Crown	High Street (South Quarter)	New Thame	
+PLD	348	0	Misc.Har.II/16	final concorde	15	5	1713.00	messuages, cottages etc		Thame	2 messuages, 3 gardens, 1 orchard, 45 acres of land, 3 acres of meadow, 3 acres of pasture,
+PLD	349	0	Misc.Har.II/17	assignment	29	9	1718.00	Inn formerly the Angel now the Angel and Crown	High Street (South Quarter)	New Thame	
+PLD	350	0	Misc.Har.II/18	assignment	29	9	1721.00	Inn formerly the Angel now the Angel and Crown	High Street (South Quarter)	New Thame	
+PLD	351	0	Misc.Har.II/19	assignment	15	4	1733.00	Inn formerly the Angel now the Angel and Crown	High Street (South Quarter)	New Thame	
+PLD	352	0	Misc.Har.II/20	assignment	15	4	1733.00	Inn formerly the Angel now the Angel and Crown	High Street (South Quarter)	New Thame	
+PLD	353	0	Misc.Har.II/21	assignment change	15	1	1738.00	Inn formerly the Angel now the Angel and Crown	High Street (South Quarter)	New Thame	
+PLD	354	0	Misc.Har.II/22	assignment change	15	1	1738.00	Inn formerly the Angel now the Angel and Crown	High Street (South Quarter)	New Thame	
+PLD	355	0	Misc.Har.II/23	will	31	3	1753.00	the Angel and Crown Inn		New Thame	
+PLD	356	0	Misc.Har.II/24	administration	29	6	1744.00				
+PLD	357	0	Misc.Har.II/25	lease for 40 years	29	6	1744.00	the Angel and Crown	South Quarter	New Thame	
+PLD	358	0	Misc.Har.II/26	assignment	12	9	1753.00	Inn formerly the Angel now the Angel and Crown	High Street (South Quarter)	New Thame	
+PLD	359	0	Misc.Har.II/27	assignment	12	9	1753.00	Inn formerly the Angel now the Angel and Crown	High Street (South Quarter)	New Thame	
+PLD	360	0	Misc.Har.II/28	assignment	12	9	1753.00	Inn formerly the Angel now the Angel and Crown	High Street (South Quarter)	New Thame	
+PLD	361	0	Misc.Har.II/29	assignment	12	5	1758.00	the Angel and Crown		New Thame	
+PLD	362	0	Misc.Har.II/30	assignment	12	5	1758.00	the Angel and Crown		New Thame	
+PLD	363	0	Misc.Har.II/31	fire insurance policy	13	1	1759.00	dwelling house		New Thame	
+PLD	364	0	Misc.Har.II/32	schedule	14	1	1759.00	deeds relating to the Angel		New Thame	
+PLD	365	0	Misc.Har.II/33	lease	13	1	1759.00	Inn formerly the Angel now the Angel and Crown	High Street (South Quarter)	New Thame	
+PLD	366	0	Misc.Har.II/34	re-lease	14	2	1759.00	Inn formerly the Angel now the Angel and Crown	High Street (South Quarter)	New Thame	
+PLD	367	0	Misc.Har.II/35	bond	14	2	1759.00	Inn formerly the Angel now the Angel and Crown	High Street (South Quarter)	New Thame	
+PLD	368	0	Misc.Har.II/36	probate note	9	6	1765.00			New Thame	
+PLD	369	0	Misc.Har.II/37	lease	9	5	1788.00			New Thame	
+PLD	370	0	Misc.Har.II/38	lease	9	5	1788.00			New Thame	
+PLD	371	0	Misc.Har.II/39	lease	9	5	1788.00			New Thame	
+PLD	372	0	Misc.Har.II/40	account	10	4	1905.00			New Thame	
+PLD	374	0	Li.XV/i/b/2	feoffment	3	7	1635.00	messuage	North Quarter	New Thame	
+PLD	375	0	Li.XV/i/b/3	mortgage	14	9	1684.00	messuage	North Quarter	New Thame	
+PLD	376	0	Li.XV/i/b/4	lease	24	11	1685.00	2 messuages and cottage	North Quarter	New Thame	
+PLD	377	0	Li.XV/i/b/5	release	25	11	1685.00	messuage and 3 tenements	North Quarter	New Thame	
+PLD	378	0	Li.XV/i/b/6	lease	29	9	1714.00	2 messuages and cottage	North Quarter	New Thame	
+PLD	379	0	Li.XV/i/b/7	release	30	9	1714.00	2 messuages and cottage	North Quarter	New Thame	
+PLD	380	0	Li.XV/i/b/8	release	30	9	1714.00	2 messuages and cottage	North Quarter	New Thame	
+PLD	381	0	Li.XV/i/b/9	assignment	30	9	1714.00	parcel of a messuage		New Thame	
+PLD	382	0	Li.XVII/i/2	abstract of title	0	6	1809.00	manor & prem of Priestend		Priestend	
+PLDs	383	0	Wild 1	agreement of sale	22	5	1654.00	3 messuages & 3 gardens with appurtenances		Thame	in Thame, NewThame and Old Thame
+PLDs	384	0	Wild 2	indenture for a sale	16	10	1682.00	Out Back house (14ft long by 16ft wide)	Friday Street	Thame	with rights of access through the entry of the main property and the right to draw water from the well and the right to erect a house of Office.

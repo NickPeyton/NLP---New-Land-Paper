@@ -1,0 +1,405 @@
+Name of Union,Name,Amount of Time each Pauper has been in the Workhouse,Reason why Pauper is unable to maintain Himself/Herself,Whether Pauper has been brought up in a District or Workhouse School,surname,surname_id,recipient_match,control_match,recipient_surname,control_surname,metaphone,soundex,surname_mp_se,mp_se_id,u_id,found_control_group,recipient_control_group,found_treatment_group,recipient_treatment_group,id,s_m,recipient_treatment_group_43,recipient_control_group_43,recipient_treatment_group_post_43,recipient_control_group_post_43,rando_group,recipient_grant_value
+Axminster,Elizabeth Bucknole,15 years,Idiotcy,No,Bucknole,10912.0,0.0,0.0,0.0,0.0,PKNL,B025040,PKNL B025040,10912.0,10912.0,0,0,0,0,1512.0,B025040 PKNL,0,0,0,0,0,0.0
+,William Palmer,17 years,Idiotcy,No,Palmer,3183.0,0.0,0.0,1.0,0.0,PLMR,P04506,PLMR P04506,3183.0,3183.0,0,0,0,0,7521.0,P04506 PLMR,0,0,0,0,0,0.0
+,Mary Gatch,14 years,Idiotcy,No,Gatch,10996.0,0.0,0.0,0.0,0.0,KX,G0320,KX G0320,10996.0,10996.0,0,0,0,0,4608.0,G0320 KX,0,0,0,0,0,0.0
+,Eliza Wade,15 years,Idiotcy,No,Wade,4753.0,0.0,0.0,0.0,1.0,AT,W030,AT W030,4753.0,4753.0,0,0,0,0,10610.0,W030 AT,0,0,0,0,0,0.0
+,Mary Spencer,5 years 6 months,Imbecility,No,Spencer,,0.0,0.0,0.0,0.0,SPNSR,S105206,SPNSR S105206,3970.0,3970.0,0,0,0,0,9364.0,S105206 SPNSR,0,0,0,0,0,0.0
+,William Long,14 years,Debility,No,Long,2749.0,0.0,0.0,0.0,0.0,LNK,L052,LNK L052,2749.0,2749.0,0,0,0,0,6288.0,L052 LNK,0,0,0,0,0,0.0
+,Mary Harris,6 years,Imbecility,No,Harris,2083.0,0.0,0.0,0.0,0.0,HRS,H0602,HRS H0602,2083.0,2083.0,0,0,0,0,4814.0,H0602 HRS,0,0,0,0,0,0.0
+,Ann Wilkins,16 years 6 months,Imbecility,No,Wilkins,,0.0,0.0,0.0,0.0,ALKNS,W042052,ALKNS W042052,4808.0,4808.0,0,0,0,0,11034.0,W042052 ALKNS,0,0,0,0,0,0.0
+,John Hall,5 years,Paralytic,No,Hall,2336.0,0.0,0.0,0.0,0.0,HL,H040,HL H040,2336.0,2336.0,0,0,0,0,4979.0,H040 HL,0,0,0,0,0,0.0
+,Ellen Harner,5 years 6 months,Imbecility,No,Harner,,0.0,0.0,0.0,0.0,HRNR,H06506,HRNR H06506,2301.0,2301.0,0,0,0,0,5316.0,H06506 HRNR,0,0,0,0,0,0.0
+,Maria Phippen,15 years,Idiotcy,No,Phippen,,0.0,0.0,0.0,0.0,FPN,P0105,FPN P0105,3320.0,3320.0,0,0,0,0,7776.0,P0105 FPN,0,0,0,0,0,0.0
+,Elizabeth Knight,14 years,Idiotcy,No,Knight,2545.0,0.0,0.0,0.0,0.0,NT,K50203,NT K50203,2545.0,2545.0,0,0,0,0,5930.0,K50203 NT,0,0,0,0,0,0.0
+Barnstaple,Susan Tucker,23 years,Age and Infirmity,No,Tucker,,0.0,0.0,0.0,0.0,TKR,T0206,TKR T0206,4215.0,4215.0,0,0,0,0,10121.0,T0206 TKR,0,0,0,0,0,0.0
+,Elizabeth Elliott,23 years,Age and Infirmity,No,Elliott,,0.0,0.0,1.0,0.0,ALT,E403,ALT E403,1496.0,1496.0,0,0,0,0,3432.0,E403 ALT,0,0,0,0,0,0.0
+,Richard Coucher,10 years,Blind,No,Coucher,13491.0,0.0,0.0,0.0,0.0,KXR,C0206,KXR C0206,13491.0,13491.0,0,0,0,0,2481.0,C0206 KXR,0,0,0,0,0,0.0
+,Philip Jones,6 years,Crippled,No,Jones,2426.0,0.0,0.0,0.0,0.0,JNS,J0502,JNS J0502,2426.0,2426.0,1,0,0,0,5665.0,J0502 JNS,0,0,0,0,0,0.0
+,Betsy Saunders,10 years,Fits,No,Saunders,,0.0,0.0,0.0,0.0,SNTRS,S053062,SNTRS S053062,5552.0,5552.0,0,0,0,0,8732.0,S053062 SNTRS,0,0,0,0,0,0.0
+,John Harding,6 years 6 months,Age and Infirmity,No,Harding,2347.0,0.0,0.0,0.0,0.0,HRTNK,H063052,HRTNK H063052,2347.0,2347.0,0,0,0,0,5460.0,H063052 HRTNK,0,0,0,0,0,0.0
+,Elizabeth Rudd,10 years,Has several bastard children,No,Rudd,,0.0,0.0,0.0,0.0,RT,R030,RT R030,3663.0,3663.0,0,0,0,0,8333.0,R030 RT,0,0,0,0,0,0.0
+,Elizabeth Slocombe,14 years,Age and Infirmity,No,Slocombe,3894.0,0.0,0.0,0.0,0.0,SLKMP,S4020510,SLKMP S4020510,3894.0,3894.0,0,0,0,0,9221.0,S4020510 SLKMP,0,0,0,0,0,0.0
+,Ann Griffiths,20 years,Age and Infirmity,No,Griffiths,6867.0,0.0,0.0,0.0,0.0,KRF0S,G6010302,KRF0S G6010302,6867.0,6867.0,0,0,0,0,4528.0,G6010302 KRF0S,0,0,0,0,0,0.0
+,Agnes Triggs,6 years,Crippled,No,Triggs,,0.0,0.0,0.0,0.0,TRKS,T602,TRKS T602,4280.0,4280.0,0,0,0,0,10298.0,T602 TRKS,0,0,0,0,0,0.0
+,John P. Harris,10 years,Age and Infirmity,No,Harris,2083.0,0.0,0.0,0.0,0.0,HRS,H0602,HRS H0602,2083.0,2083.0,0,0,0,0,4814.0,H0602 HRS,0,0,0,0,0,0.0
+,Sarah Bramble,14 years,General Debility,No,Bramble,8327.0,0.0,0.0,0.0,0.0,PRMPL,B605140,PRMPL B605140,8327.0,8327.0,0,0,0,0,1474.0,B605140 PRMPL,0,0,0,0,0,0.0
+,Mary Grigg,18 years,Age and Infirmity,No,Grigg,,0.0,0.0,0.0,0.0,KRK,G602,KRK G602,9359.0,9359.0,0,0,0,0,4529.0,G602 KRK,0,0,0,0,0,0.0
+,Jane Dendle,6 years 6 months,Age and Infirmity,No,Dendle,6576.0,0.0,0.0,0.0,0.0,TNTL,D05340,TNTL D05340,6576.0,6576.0,0,0,0,0,2836.0,D05340 TNTL,0,0,0,0,0,0.0
+Bideford,James Griffiths,8 years,Fits and Idiotic,Workhouse School,Griffiths,6867.0,0.0,0.0,0.0,0.0,KRF0S,G6010302,KRF0S G6010302,6867.0,6867.0,0,0,0,0,4528.0,G6010302 KRF0S,0,0,0,0,0,0.0
+,Ann Moise,12 years,Fits,No,Moise,,0.0,0.0,0.0,0.0,MS,M020,MS M020,3061.0,3061.0,0,0,0,0,7043.0,M020 MS,0,0,0,0,0,0.0
+,James Prouse,8 years,Blind,No,Prouse,,0.0,0.0,0.0,0.0,PRS,P6020,PRS P6020,3465.0,3465.0,0,0,0,0,8119.0,P6020 PRS,0,0,0,0,0,0.0
+,Thomas Austin,8 years,Idiotic,No,Austin,161.0,0.0,0.0,0.0,0.0,ASTN,A02305,ASTN A02305,161.0,161.0,0,0,0,0,3551.0,A02305 ASTN,0,0,0,0,0,0.0
+,Mary Hortop,20 years,Idiotic,No,Hortop,,0.0,0.0,0.0,0.0,HRTP,H06301,HRTP H06301,2311.0,2311.0,0,0,0,0,5337.0,H06301 HRTP,0,0,0,0,0,0.0
+,Eliza Ewer,11 years 6 months,Fits,No,Ewer,,0.0,0.0,0.0,0.0,AR,E060,AR E060,1542.0,1542.0,0,0,0,0,3541.0,E060 AR,0,0,0,0,0,0.0
+,Thomas Cock,14 years,Idiotic,No,Cock,,0.0,0.0,0.0,0.0,KK,C020,KK C020,1212.0,1212.0,0,0,0,0,2213.0,C020 KK,0,0,0,0,0,0.0
+,William Lord,10 years,Infirmity,No,Lord,2757.0,0.0,0.0,0.0,0.0,LRT,L063,LRT L063,2757.0,2757.0,0,0,0,0,6401.0,L063 LRT,0,0,0,0,0,0.0
+,Elizabeth Macbeth,Since formation of union,Infirmity,No,Macbeth,8328.0,0.0,0.0,0.0,0.0,MKP0,M021030,MKP0 M021030,8328.0,8328.0,0,0,0,0,6570.0,M021030 MKP0,0,0,0,0,0,0.0
+,Joseph Lake,5 years 6 months,Idiotic,No,Lake,2801.0,0.0,0.0,0.0,0.0,LK,L020,LK L020,2801.0,2801.0,0,0,0,0,5987.0,L020 LK,0,0,0,0,0,0.0
+,Elizabeth Dark,5 years,Age and Infirmity,No,Dark,8589.0,0.0,0.0,0.0,0.0,TRK,D062,TRK D062,8589.0,8589.0,0,0,0,0,2799.0,D062 TRK,0,0,0,0,0,0.0
+Crediton,Jane Mugford,20 years,"Infirmity, subject to fits, &c.",No,Mugford,3064.0,0.0,0.0,0.0,0.0,MKFRT,M021063,MKFRT M021063,3064.0,3064.0,0,0,0,0,7050.0,M021063 MKFRT,0,0,0,0,0,0.0
+,Elizabeth Henrie,9 years,Idiotic,No,Henrie,,0.0,0.0,0.0,0.0,HNR,H0560,HNR H0560,2156.0,2156.0,0,0,0,0,5029.0,H0560 HNR,0,0,0,0,0,0.0
+,Ann Harding,17 years,Infirmity,No,Harding,2347.0,0.0,0.0,0.0,0.0,HRTNK,H063052,HRTNK H063052,2347.0,2347.0,0,0,0,0,5460.0,H063052 HRTNK,0,0,0,0,0,0.0
+,Andrew Cann,13 years,Idiotic,No,Cann,,0.0,0.0,0.0,0.0,KN,C050,KN C050,1125.0,1125.0,0,0,0,0,1757.0,C050 KN,0,0,0,0,0,0.0
+,Elizabeth Bicknell,5 years,Aged,No,Bicknell,,0.0,0.0,0.0,0.0,PKNL,B02504,PKNL B02504,691.0,691.0,0,0,0,0,824.0,B02504 PKNL,0,0,0,0,0,0.0
+,Samuel Currall,19 years,Idiotic,No,Currall,,0.0,0.0,0.0,0.0,KRL,C0604,KRL C0604,786.0,786.0,0,0,0,0,2417.0,C0604 KRL,0,0,0,0,0,0.0
+,Mary Osmond,19 years,Idiotic,No,Osmond,3162.0,0.0,0.0,0.0,0.0,ASMNT,O25053,ASMNT O25053,3162.0,3162.0,0,0,0,0,7449.0,O25053 ASMNT,0,0,0,0,0,0.0
+,Jane Tucker,15 years,Idiotic,No,Tucker,,0.0,0.0,0.0,0.0,TKR,T0206,TKR T0206,4215.0,4215.0,0,0,0,0,10121.0,T0206 TKR,0,0,0,0,0,0.0
+,James Daw,5 years,Cripple,No,Daw,,0.0,0.0,0.0,0.0,T,D000,T D000,1464.0,1464.0,0,0,0,0,2836.0,D000 T,0,0,0,0,0,0.0
+,William Bolt,6 years,Idiotic,No,Bolt,496.0,0.0,0.0,0.0,0.0,PLT,B043,PLT B043,496.0,496.0,0,0,0,0,710.0,B043 PLT,0,0,0,0,0,0.0
+,Joseph Bowdon,14 years,Paralysed,No,Bowdon,551.0,0.0,1.0,0.0,0.0,PTN,B0305,PTN B0305,551.0,551.0,0,0,0,0,671.0,B0305 PTN,0,0,0,0,0,0.0
+,Grace Bowdon,14 years,Paralysed,No,Bowdon,551.0,0.0,1.0,0.0,0.0,PTN,B0305,PTN B0305,551.0,551.0,0,0,0,0,390.0,B0305 PTN,0,0,0,0,0,0.0
+East Stonehouse,Philip Vine,13 years,Suffering from bad leg,No,Vine,4433.0,0.0,0.0,0.0,0.0,FN,V050,FN V050,4433.0,4433.0,0,0,0,0,10566.0,V050 FN,0,0,0,0,0,0.0
+,Thomas Hillier,12 years,Suffering from ulcerated leg,No,Hillier,,0.0,0.0,0.0,0.0,HL,H0406,HL H0406,9354.0,9354.0,0,0,0,0,3432.0,H0406 HL,0,0,0,0,0,0.0
+,Jane Crossman,11 years,Age and Infirmity,No,Crossman,1196.0,0.0,0.0,0.0,0.0,KRSMN,C602505,KRSMN C602505,1196.0,1196.0,0,0,0,0,2619.0,C602505 KRSMN,0,0,0,0,0,0.0
+,Lucy Marsh,15 years,Age and Infirmity,No,Marsh,3068.0,0.0,0.0,0.0,0.0,MRX,M0620,MRX M0620,3068.0,3068.0,0,0,0,0,6848.0,M0620 MRX,0,0,0,0,0,0.0
+,Jane Corse,9 years,Age and Insanity,No,Corse,,0.0,0.0,0.0,0.0,KRS,C0620,KRS C0620,1112.0,1112.0,0,0,0,0,2421.0,C0620 KRS,0,0,0,0,0,0.0
+,Hannah Dawe,9 years,Age and Insanity,No,Dawe,1464.0,0.0,0.0,0.0,0.0,T,D000,T D000,1464.0,1464.0,0,0,0,0,2836.0,D000 T,0,0,0,0,0,0.0
+,Richard Marsh,15 years,Age and Insanity,Workhouse School,Marsh,3068.0,0.0,0.0,0.0,0.0,MRX,M0620,MRX M0620,3068.0,3068.0,0,0,0,0,6848.0,M0620 MRX,0,0,0,0,0,0.0
+,Joanna Moore,6 years,Age and a cripple,No,Moore,,0.0,0.0,0.0,0.0,MR,M060,MR M060,2949.0,2949.0,0,0,0,0,7010.0,M060 MR,0,0,0,0,0,0.0
+,Jane Yeam,6 years,Age and Infirmity,No,Yeam,,0.0,0.0,0.0,0.0,AM,Y050,AM Y050,4767.0,4767.0,0,0,0,0,3295.0,Y050 AM,0,0,0,0,0,0.0
+,Elizabeth Bumpas,6 years,Age and Infirmity,No,Bumpas,8329.0,0.0,0.0,0.0,0.0,PMPS,B05102,PMPS B05102,8329.0,8329.0,0,0,0,0,1561.0,B05102 PMPS,0,0,0,0,0,0.0
+Exeter,Elizabeth Alford,5 years 6 months,Past Labour,No,Alford,55.0,0.0,0.0,0.0,0.0,ALFRT,A41063,ALFRT A41063,55.0,55.0,0,0,0,0,4676.0,A41063 ALFRT,0,0,0,0,0,0.0
+,Robert Alsop,20 years,Mental Infirmity,No,Alsop,75.0,0.0,0.0,0.0,0.0,ALSP,A4201,ALSP A4201,75.0,75.0,0,0,0,0,3440.0,A4201 ALSP,0,0,0,0,0,0.0
+,Mary Bright,13 years,Debility and Old Age,No,Bright,635.0,0.0,0.0,0.0,0.0,PRT,B60203,PRT B60203,635.0,635.0,0,0,0,0,1586.0,B60203 PRT,0,0,0,0,0,0.0
+,Sarah Blackmore,11 years,Debility and Old Age,No,Blackmore,429.0,0.0,0.0,0.0,0.0,PLKMR,B4025060,PLKMR B4025060,429.0,429.0,0,0,0,0,920.0,B4025060 PLKMR,0,0,0,0,0,0.0
+,Ann Braginton,11 years,Debility and Old Age,No,Braginton,6898.0,0.0,0.0,0.0,0.0,PRJNTN,B60205305,PRJNTN B60205305,6898.0,6898.0,0,0,0,0,1369.0,B60205305 PRJNTN,0,0,0,0,0,0.0
+,Elizabeth Campion,6 years,Debility and Old Age,No,Campion,,0.0,0.0,0.0,0.0,KMPN,C05105,KMPN C05105,765.0,765.0,0,0,0,0,1748.0,C05105 KMPN,0,0,0,0,0,0.0
+,Emma Cox,5 years 6 months,Debility,No,Cox,,0.0,0.0,0.0,0.0,KKS,C020,KKS C020,8442.0,8442.0,0,0,0,0,2213.0,C020 KKS,0,0,0,0,0,0.0
+,Mary Connett,7 years,Debility,No,Connett,,0.0,0.0,0.0,0.0,KNT,C0503,KNT C0503,1038.0,1038.0,0,0,0,0,2350.0,C0503 KNT,0,0,0,0,0,0.0
+,Mary Ann Clark,15 years,Deserted by Husband,No,Clark,,0.0,0.0,1.0,0.0,KLRK,C4062,KLRK C4062,8419.0,8419.0,0,0,0,0,2132.0,C4062 KLRK,0,0,0,0,0,0.0
+,Frederick Drew,10 years,Partial,No,Drew,,0.0,0.0,0.0,0.0,TR,D600,TR D600,1431.0,1431.0,0,1,0,0,3162.0,D600 TR,0,1,0,0,0,0.0
+,Jane Davey,6 years,Destitute,No,Davey,,0.0,0.0,1.0,0.0,TF,D010,TF D010,1408.0,1408.0,0,0,0,0,2831.0,D010 TF,0,0,0,0,0,0.0
+,Mary Edwards,30 years,"Widow, with a family",No,Edwards,1479.0,0.0,0.0,0.0,0.0,ATRTS,E30632,ATRTS E30632,1479.0,1479.0,0,0,0,0,3374.0,E30632 ATRTS,0,0,0,0,0,0.0
+,Richard Elson,6 years,Infirm,No,Elson,10765.0,0.0,0.0,0.0,0.0,ALSN,E4205,ALSN E4205,10765.0,10765.0,0,0,0,0,3444.0,E4205 ALSN,0,0,0,0,0,0.0
+,"Jane Elson, his wife",6 years,Rheumatism,No,wife,,0.0,0.0,0.0,0.0,AF,W010,AF W010,8544.0,8544.0,0,0,0,0,5574.0,W010 AF,0,0,0,0,0,0.0
+,Elizabeth Finch,20 years,Paralytic,No,Finch,,0.0,0.0,0.0,0.0,FNX,F0520,FNX F0520,10117.0,10117.0,0,0,0,0,3738.0,F0520 FNX,0,0,0,0,0,0.0
+,Caroline Gauntlett,7 years,Pregnancy,No,Gauntlett,8330.0,0.0,0.0,0.0,0.0,KNTLT,G053403,KNTLT G053403,8330.0,8330.0,0,0,0,0,4121.0,G053403 KNTLT,0,0,0,0,0,0.0
+,Ann Garry,6 years,Pregnancy,No,Garry,,0.0,0.0,0.0,0.0,KR,G060,KR G060,1932.0,1932.0,0,0,0,0,2626.0,G060 KR,0,0,0,0,0,0.0
+,Susan Gardener,7 years,Old Age and Debility,No,Gardener,1759.0,0.0,0.0,0.0,0.0,KRTNR,G0630506,KRTNR G0630506,1759.0,1759.0,0,0,0,0,4507.0,G0630506 KRTNR,0,0,0,0,0,0.0
+,Elizabeth Green,6 years,Imbecile,No,Green,,0.0,0.0,0.0,0.0,KRN,G605,KRN G605,9921.0,9921.0,0,0,0,0,4514.0,G605 KRN,0,0,0,0,0,0.0
+,Ellen Gay,6 years,Asthma,No,Gay,2010.0,0.0,0.0,0.0,0.0,K,G000,K G000,2010.0,2010.0,0,0,0,0,4131.0,G000 K,0,0,0,0,0,0.0
+,Susan Hill,5 years 6 months,Fits,No,Hill,2336.0,0.0,0.0,0.0,0.0,HL,H040,HL H040,2336.0,2336.0,0,0,0,0,4979.0,H040 HL,0,0,0,0,0,0.0
+,Sarah Houseman,9 years,Bad legs,No,Houseman,,0.0,0.0,0.0,0.0,HSMN,H020505,HSMN H020505,9514.0,9514.0,0,0,0,0,5371.0,H020505 HSMN,0,0,0,0,0,0.0
+,Johanna Hollaway,5 years 6 months,Old Age and Debility,No,Hollaway,,1.0,0.0,0.0,0.0,HL,H040,HL H040,2336.0,2336.0,0,0,0,0,5243.0,H040 HL,0,0,0,0,0,0.0
+,Elizabeth Hellier,8 years,Diseased Hip,No,Hellier,,0.0,0.0,0.0,0.0,HL,H0406,HL H0406,9354.0,9354.0,0,0,0,0,3432.0,H0406 HL,0,0,0,0,0,0.0
+,Robert Hanne,15 years,Cripple,No,Hanne,,0.0,0.0,0.0,0.0,HN,H050,HN H050,2341.0,2341.0,0,0,0,0,4944.0,H050 HN,0,0,0,0,0,0.0
+,Samuel Hexter,6 years,Old Age and Debility,No,Hexter,12185.0,0.0,0.0,0.0,0.0,HKSTR,H02306,HKSTR H02306,12185.0,12185.0,0,0,0,0,5078.0,H02306 HKSTR,0,0,0,0,0,0.0
+,Andrew Hayne,14 years,Old Age and Debility,No,Hayne,2341.0,0.0,0.0,0.0,0.0,HN,H050,HN H050,2341.0,2341.0,0,0,0,0,5501.0,H050 HN,0,0,0,0,0,0.0
+,Harriett Heath,7 years,Deformed,No,Heath,,0.0,0.0,0.0,0.0,H0,H030,H0 H030,2182.0,2182.0,0,0,0,0,4954.0,H030 H0,0,0,0,0,0,0.0
+,Micaijah Hicks,7 years,Imbecile,No,Hicks,,0.0,0.0,0.0,0.0,HKS,H020,HKS H020,9910.0,9910.0,0,0,0,0,5162.0,H020 HKS,0,0,0,0,0,0.0
+,Ann Jones,8 years,Unsound Mind,No,Jones,2426.0,0.0,0.0,0.0,0.0,JNS,J0502,JNS J0502,2426.0,2426.0,1,0,0,0,5665.0,J0502 JNS,0,0,0,0,0,0.0
+,Mary Jury,16 years,Old Age and Debility,No,Jury,,0.0,0.0,0.0,0.0,JR,J060,JR J060,2439.0,2439.0,0,0,0,0,5702.0,J060 JR,0,0,0,0,0,0.0
+,Ann Jenkins,7 years,Lost the Use of one Arm,No,Jenkins,,0.0,0.0,0.0,0.0,JNKNS,J052052,JNKNS J052052,9856.0,9856.0,0,0,0,0,5631.0,J052052 JNKNS,0,0,0,0,0,0.0
+,Elizabeth Lucraft,8 years,Old Age and Debility,No,Lucraft,,0.0,0.0,0.0,0.0,LKRFT,L026013,LKRFT L026013,2771.0,2771.0,0,0,0,0,6461.0,L026013 LKRFT,0,0,0,0,0,0.0
+,Susannah Lethbridge,20 years,Deaf and Dumb,No,Lethbridge,,0.0,0.0,0.0,0.0,L0PRJ,L030160320,L0PRJ L030160320,6050.0,6050.0,0,0,0,0,6219.0,L030160320 L0PRJ,0,0,0,0,0,0.0
+,Mary Lee,8 years,Infirm,No,Lee,2812.0,0.0,0.0,0.0,0.0,L,L000,L L000,2812.0,2812.0,1,1,0,0,6149.0,L000 L,0,1,0,0,0,0.0
+,Charlotte Lee,11 years,Imbecile,No,Lee,2812.0,0.0,0.0,0.0,0.0,L,L000,L L000,2812.0,2812.0,1,1,0,0,6149.0,L000 L,0,1,0,0,0,0.0
+,Ann Mayes,7 years,Insane,No,Mayes,,0.0,0.0,0.0,0.0,MS,M020,MS M020,3061.0,3061.0,0,0,0,0,6771.0,M020 MS,0,0,0,0,0,0.0
+,Thomas Micham,6 years,Bad legs,No,Micham,,0.0,0.0,0.0,0.0,MXM,M0205,MXM M0205,11941.0,11941.0,0,0,0,0,6784.0,M0205 MXM,0,0,0,0,0,0.0
+,William Massey,13 years,Infirm,No,Massey,,0.0,0.0,0.0,0.0,MS,M020,MS M020,3061.0,3061.0,0,0,0,0,6640.0,M020 MS,0,0,0,0,0,0.0
+,"Ann Massey, his wife",13 years,Infirm,No,wife,,0.0,0.0,0.0,0.0,AF,W010,AF W010,8544.0,8544.0,0,0,0,0,11190.0,W010 AF,0,0,0,0,0,0.0
+,Ann Morgan,17 years,Old Age and General Debility,No,Morgan,3033.0,0.0,0.0,0.0,0.0,MRKN,M06205,MRKN M06205,3033.0,3033.0,0,0,0,0,7002.0,M06205 MRKN,0,0,0,0,0,0.0
+,Rebecca Morris,5 years 6 months,Paralytic,No,Morris,3036.0,0.0,0.0,0.0,0.0,MRS,M0602,MRS M0602,3036.0,3036.0,0,0,0,0,7010.0,M0602 MRS,0,0,0,0,0,0.0
+,Charlotte Maddocks,15 years,Diseased Lungs,No,Maddocks,10886.0,0.0,0.0,0.0,0.0,MTKS,M0302,MTKS M0302,10886.0,10886.0,0,0,0,0,6734.0,M0302 MTKS,0,0,0,0,0,0.0
+,Thomas Oakford,16 years,Imbecile,No,Oakford,13062.0,0.0,0.0,0.0,0.0,AKFRT,O021063,AKFRT O021063,13062.0,13062.0,0,0,0,0,7327.0,O021063 AKFRT,0,0,0,0,0,0.0
+,Esther Pepperell,20 years,Bad Legs,No,Pepperell,,0.0,0.0,0.0,0.0,PPRL,P010604,PPRL P010604,3269.0,3269.0,0,0,0,0,7767.0,P010604 PPRL,0,0,0,0,0,0.0
+,Elizabeth Powell,8 years,Cripple,No,Powell,,0.0,0.0,0.0,0.0,PL,P040,PL P040,3479.0,3479.0,0,0,0,0,7939.0,P040 PL,0,0,0,0,0,0.0
+,Mary Peppiam,10 years,Old Age and Debility,No,Peppiam,13492.0,0.0,0.0,0.0,0.0,PPM,P0105,PPM P0105,13492.0,13492.0,0,0,0,0,1677.0,P0105 PPM,0,0,0,0,0,0.0
+,Elizabeth Payne,10 years,Paralytic,No,Payne,3421.0,0.0,0.0,0.0,0.0,PN,P050,PN P050,3421.0,3421.0,0,0,0,0,7507.0,P050 PN,0,0,0,0,0,0.0
+,James Porter,9 years,Intemperance,No,Porter,3407.0,0.0,0.0,0.0,0.0,PRTR,P06306,PRTR P06306,3407.0,3407.0,0,0,0,0,7988.0,P06306 PRTR,0,0,0,0,0,0.0
+,Jane Pearce,6 years,Infirm,No,Pearce,,0.0,0.0,0.0,0.0,PRS,P0620,PRS P0620,3487.0,3487.0,0,0,0,0,7740.0,P0620 PRS,0,0,0,0,0,0.0
+,John Phillips,5 years,Dropsy,No,Phillips,,0.0,0.0,0.0,0.0,FLPS,P04012,FLPS P04012,3319.0,3319.0,0,0,0,0,7785.0,P04012 FLPS,0,0,0,0,0,0.0
+,Mary Quaintance,9 years,Cripple,No,Quaintance,13493.0,0.0,0.0,0.0,0.0,KNTNS,Q0530520,KNTNS Q0530520,13493.0,13493.0,0,0,0,0,8206.0,Q0530520 KNTNS,0,0,0,0,0,0.0
+,Mary Richardson,26 years,Asthma,No,Richardson,7231.0,0.0,0.0,0.0,0.0,RXRTSN,R02063205,RXRTSN R02063205,7231.0,7231.0,0,0,0,0,8405.0,R02063205 RXRTSN,0,0,0,0,0,0.0
+,Elizabeth Snell,20 years,Infirm,No,Snell,3916.0,0.0,0.0,0.0,0.0,SNL,S504,SNL S504,3916.0,3916.0,0,0,0,0,9273.0,S504 SNL,0,0,0,0,0,0.0
+,Nancy Salter,8 years,Blind,No,Salter,3694.0,0.0,0.0,0.0,0.0,SLTR,S04306,SLTR S04306,3694.0,3694.0,0,0,0,0,8734.0,S04306 SLTR,0,0,0,0,0,0.0
+,Joseph Salter,20 years,Paralytic,No,Salter,3694.0,0.0,0.0,0.0,0.0,SLTR,S04306,SLTR S04306,3694.0,3694.0,0,0,0,0,8734.0,S04306 SLTR,0,0,0,0,0,0.0
+,Ann Turner,7 years,Asthma,No,Turner,4241.0,0.0,0.0,0.0,1.0,TRNR,T06506,TRNR T06506,4241.0,4241.0,0,0,0,0,10399.0,T06506 TRNR,0,0,0,0,0,0.0
+,Edwy Tucker,6 years,Fits,No,Tucker,,0.0,0.0,0.0,0.0,TKR,T0206,TKR T0206,4215.0,4215.0,0,0,0,0,10121.0,T0206 TKR,0,0,0,0,0,0.0
+,William Taylor,6 years,Asthma,No,Taylor,4129.0,0.0,0.0,0.0,0.0,TLR,T0406,TLR T0406,4129.0,4129.0,0,0,0,0,9886.0,T0406 TLR,0,0,0,0,0,0.0
+,Robert Woodhouse,6 years,Infirm,No,Woodhouse,,0.0,0.0,0.0,0.0,ATS,W03020,ATS W03020,4722.0,4722.0,0,0,0,0,10994.0,W03020 ATS,0,0,0,0,0,0.0
+,Mary Wood,7 years,Infirm,No,Wood,4753.0,0.0,0.0,0.0,1.0,AT,W030,AT W030,4753.0,4753.0,0,0,0,0,11205.0,W030 AT,0,0,0,0,0,0.0
+Holsworthy,Nil,,,,Nil,,0.0,0.0,0.0,0.0,NL,N040,NL N040,3136.0,3136.0,0,0,0,0,7119.0,N040 NL,0,0,0,0,0,0.0
+Honiton,John Darke,19 years,Cripple,No,Darke,1459.0,0.0,0.0,0.0,0.0,TRK,D0620,TRK D0620,1459.0,1459.0,0,0,0,0,2799.0,D0620 TRK,0,0,0,0,0,0.0
+,John Leat,22 years,Weak Intellect,No,Leat,,0.0,0.0,0.0,0.0,LT,L030,LT L030,2818.0,2818.0,0,0,0,0,6150.0,L030 LT,0,0,0,0,0,0.0
+,Charles Merson,15 years,Weak Intellect,Workhouse School,Merson,11059.0,0.0,0.0,0.0,0.0,MRSN,M06205,MRSN M06205,11059.0,11059.0,0,0,0,0,6718.0,M06205 MRSN,0,0,0,0,0,0.0
+,Jane Clarke,16 years,Subject to Fits,No,Clarke,926.0,0.0,0.0,1.0,0.0,KLRK,C40620,KLRK C40620,926.0,926.0,0,0,0,0,2132.0,C40620 KLRK,0,0,0,0,0,0.0
+Kingsbridge,Agnes Weeks,9 years,Infirm,No,Weeks,,0.0,0.0,0.0,0.0,AKS,W020,AKS W020,10032.0,10032.0,0,0,0,0,10907.0,W020 AKS,0,0,0,0,0,0.0
+,Richard Lethbridge,11 years,Bad legs,No,Lethbridge,,0.0,0.0,0.0,0.0,L0PRJ,L030160320,L0PRJ L030160320,6050.0,6050.0,0,0,0,0,6219.0,L030160320 L0PRJ,0,0,0,0,0,0.0
+,Joseph Basset,6 years,Infirm,No,Basset,,0.0,0.0,0.0,0.0,PST,B0203,PST B0203,731.0,731.0,1,1,0,0,557.0,B0203 PST,0,1,0,0,0,0.0
+,William Putt Gillard,5 years,Weak Mind,No,Gillard,1838.0,0.0,0.0,0.0,0.0,KLRT,G04063,KLRT G04063,1838.0,1838.0,0,0,0,0,5616.0,G04063 KLRT,0,0,0,0,0,0.0
+,Jane Luggan,6 years,Weak Mind,No,Luggan,,0.0,0.0,0.0,0.0,LKN,L0205,LKN L0205,13263.0,13263.0,0,0,0,0,5989.0,L0205 LKN,0,0,0,0,0,0.0
+,Thomas Osborn,8 years,Bad Sight,No,Osborn,8735.0,0.0,0.0,0.0,0.0,ASPRN,O21065,ASPRN O21065,8735.0,8735.0,0,0,0,0,7421.0,O21065 ASPRN,0,0,0,0,0,0.0
+,Mary Ann Ford,6 years,Infirm,No,Ford,1657.0,0.0,0.0,0.0,0.0,FRT,F063,FRT F063,1657.0,1657.0,0,0,0,0,3831.0,F063 FRT,0,0,0,0,0,0.0
+,Mary Ann Sullock,9 years,Bad Sight,No,Sullock,3929.0,1.0,0.0,0.0,0.0,SLK,S0402,SLK S0402,3929.0,3929.0,0,0,0,0,9103.0,S0402 SLK,0,0,0,0,0,0.0
+,Elizabeth Wills,6 years,Weak Mind,No,Wills,,0.0,0.0,0.0,0.0,ALS,W042,ALS W042,4551.0,4551.0,0,0,0,0,11046.0,W042 ALS,0,0,0,0,0,0.0
+,Jane Trute,11 years,Infirm,No,Trute,,0.0,0.0,0.0,0.0,TRT,T6030,TRT T6030,4332.0,4332.0,0,0,0,0,10326.0,T6030 TRT,0,0,0,0,0,0.0
+Newton Abbot,Susan Thorne,8 years,Old Age,No,Thorne,8432.0,0.0,0.0,0.0,0.0,0RN,T0650,0RN T0650,8432.0,8432.0,0,0,0,0,9986.0,T0650 0RN,0,0,0,0,0,0.0
+,Thomas Hore,7 years,Crippled,No,Hore,2350.0,0.0,0.0,0.0,0.0,HR,H060,HR H060,2350.0,2350.0,0,0,0,0,5166.0,H060 HR,0,0,0,0,0,0.0
+,Ann Morgan,6 years,Old Age,No,Morgan,3033.0,0.0,0.0,0.0,0.0,MRKN,M06205,MRKN M06205,3033.0,3033.0,0,0,0,0,7002.0,M06205 MRKN,0,0,0,0,0,0.0
+,Uriah Stancombe,5 years,Crippled,No,Stancombe,4000.0,0.0,0.0,0.0,0.0,STNKMP,S30520510,STNKMP S30520510,4000.0,4000.0,0,0,0,0,9460.0,S30520510 STNKMP,0,0,0,0,0,0.0
+,Mary Tancock,10 years,Old Age,No,Tancock,11861.0,0.0,0.0,0.0,0.0,TNKK,T05202,TNKK T05202,11861.0,11861.0,0,0,0,0,9837.0,T05202 TNKK,0,0,0,0,0,0.0
+,Mary Dymond,12 years,Idiotic,No,Dymond,,0.0,0.0,0.0,0.0,TMNT,D05053,TMNT D05053,1343.0,1343.0,0,0,0,0,2958.0,D05053 TMNT,0,0,0,0,0,0.0
+,Elizabeth Steer,10 years,Idiotic,No,Steer,,0.0,0.0,0.0,0.0,STR,S306,STR S306,8467.0,8467.0,0,0,0,0,9521.0,S306 STR,0,0,0,0,0,0.0
+,Mary Taverner,11 years,Epileptic Fits,No,Taverner,4122.0,0.0,0.0,0.0,0.0,TFRNR,T0106506,TFRNR T0106506,4122.0,4122.0,0,0,0,0,9881.0,T0106506 TFRNR,0,0,0,0,0,0.0
+,John Williams,6 years,Old Age,No,Williams,4647.0,0.0,0.0,1.0,0.0,ALMS,W04052,ALMS W04052,4647.0,4647.0,0,0,0,0,11045.0,W04052 ALMS,0,0,0,0,0,0.0
+,William Parsons,12 years,Crippled,No,Parsons,4809.0,0.0,0.0,0.0,0.0,PRSNS,P062052,PRSNS P062052,4809.0,4809.0,0,0,0,0,7647.0,P062052 PRSNS,0,0,0,0,0,0.0
+,Richard Back,11 years,Idiot,No,Back,,0.0,0.0,0.0,0.0,PK,B020,PK B020,688.0,688.0,0,0,0,0,378.0,B020 PK,0,0,0,0,0,0.0
+,George Stadden,11 years,Idiot,No,Stadden,,0.0,0.0,0.0,0.0,STTN,S30305,STTN S30305,4044.0,4044.0,0,0,0,0,9436.0,S30305 STTN,0,0,0,0,0,0.0
+,Elizabeth Nunn,6 years,Old Age,No,Nunn,,0.0,0.0,0.0,0.0,NN,N050,NN N050,3082.0,3082.0,0,0,0,0,7303.0,N050 NN,0,0,0,0,0,0.0
+,Mary Millar,12 years,Idiot,No,Millar,,0.0,0.0,0.0,0.0,MLR,M0406,MLR M0406,2979.0,2979.0,0,0,0,0,6823.0,M0406 MLR,0,0,0,0,0,0.0
+,Mary Vallance,10 years,Old Age,No,Vallance,,0.0,0.0,0.0,0.0,FLNS,V040520,FLNS V040520,4381.0,4381.0,1,0,0,0,3776.0,V040520 FLNS,0,0,0,0,0,0.0
+,Richard Tregale,12 years,Crippled,No,Tregale,13494.0,0.0,0.0,0.0,0.0,TRKL,T602040,TRKL T602040,13494.0,13494.0,0,0,0,0,10299.0,T602040 TRKL,0,0,0,0,0,0.0
+,Ann Mirst,12 years,Idiot,No,Mirst,13495.0,0.0,0.0,0.0,0.0,MRST,M0623,MRST M0623,13495.0,13495.0,0,0,0,0,7013.0,M0623 MRST,0,0,0,0,0,0.0
+,Thomas Camall,6 years,Nearly Blind,No,Camall,,0.0,0.0,0.0,0.0,KML,C0504,KML C0504,767.0,767.0,0,0,0,0,1756.0,C0504 KML,0,0,0,0,0,0.0
+,John Wright,6 years,Old Age,No,Wright,4748.0,0.0,0.0,1.0,0.0,RT,W60203,RT W60203,4748.0,4748.0,0,0,0,0,8345.0,W60203 RT,0,0,0,0,0,0.0
+,Elizabeth Warren,9 years,Weak Intellect,No,Warren,4501.0,0.0,0.0,0.0,1.0,ARN,W0605,ARN W0605,4501.0,4501.0,0,0,0,0,11283.0,W0605 ARN,0,0,0,1,0,0.0
+,Ann Chadwood,6 years,Old Age,No,Chadwood,8331.0,0.0,0.0,0.0,0.0,XTT,C0303,XTT C0303,8331.0,8331.0,0,0,0,0,1973.0,C0303 XTT,0,0,0,0,0,0.0
+,William Milward,10 years,Deaf and Dumb,No,Milward,2984.0,0.0,0.0,0.0,0.0,MLRT,M04063,MLRT M04063,2984.0,2984.0,0,0,0,0,6966.0,M04063 MLRT,0,0,0,0,0,0.0
+,Sarah Grimes,12 years,Old Age,No,Grimes,11459.0,0.0,0.0,0.0,0.0,KRMS,G60502,KRMS G60502,11459.0,11459.0,0,0,0,0,4533.0,G60502 KRMS,0,0,0,0,0,0.0
+,Edward Mills,12 years,Old Age,No,Mills,9905.0,0.0,0.0,0.0,0.0,MLS,M042,MLS M042,9905.0,9905.0,0,0,0,0,7110.0,M042 MLS,0,0,0,0,0,0.0
+,James Vinning,12 years,Tendency to Insanity,No,Vinning,,0.0,0.0,0.0,0.0,FNNK,V05052,FNNK V05052,4404.0,4404.0,0,0,0,0,10570.0,V05052 FNNK,0,0,0,0,0,0.0
+,Jane Bovey,7 years,Old Age,No,Bovey,,0.0,0.0,0.0,0.0,PF,B010,PF B010,544.0,544.0,0,0,0,0,1171.0,B010 PF,0,0,0,0,0,0.0
+,Elizabeth Monk,6 years,Tendency to Insanity,No,Monk,3020.0,0.0,0.0,0.0,0.0,MNK,M052,MNK M052,3020.0,3020.0,0,0,0,0,6977.0,M052 MNK,0,0,0,0,0,0.0
+,John Drew,6 years,Old Age,No,Drew,,0.0,0.0,0.0,0.0,TR,D600,TR D600,1431.0,1431.0,0,1,0,0,3162.0,D600 TR,0,1,0,0,0,0.0
+Okehampton,Richard Littlejohns,14 years 3 months,Crippled,No,Littlejohns,6916.0,0.0,0.0,0.0,0.0,LTLJNS,L03402052,LTLJNS L03402052,6916.0,6916.0,0,0,0,0,6331.0,L03402052 LTLJNS,0,0,0,0,0,0.0
+,Dinah Voyzey,20 years,"Weak-minded, Idiotic",Not Known,Voyzey,,0.0,0.0,0.0,0.0,FS,V020,FS V020,4455.0,4455.0,0,0,0,0,10598.0,V020 FS,0,0,0,0,0,0.0
+,Betsy Piper,9 years 3 months,Paralysed,No,Piper,3349.0,0.0,0.0,0.0,0.0,PPR,P0106,PPR P0106,3349.0,3349.0,0,0,0,0,8198.0,P0106 PPR,0,0,0,0,0,0.0
+,Elizabeth Macey,21 years,Idiotic,District School,Macey,,0.0,0.0,0.0,0.0,MS,M020,MS M020,3061.0,3061.0,0,0,0,0,7095.0,M020 MS,0,0,0,0,0,0.0
+,Thomazine Seaward,22 years,Idiotic,District School,Seaward,,0.0,0.0,0.0,0.0,SRT,S063,SRT S063,3777.0,3777.0,0,0,0,0,8741.0,S063 SRT,0,0,0,0,0,0.0
+,Mary Seaward,13 years 9 months,Idiotic and Weakness,Workhouse School,Seaward,,0.0,0.0,0.0,0.0,SRT,S063,SRT S063,3777.0,3777.0,0,0,0,0,8741.0,S063 SRT,0,0,0,0,0,0.0
+,Robert Phillips,11 years 3 months,Sore Legs,District School,Phillips,,0.0,0.0,0.0,0.0,FLPS,P04012,FLPS P04012,3319.0,3319.0,0,0,0,0,7785.0,P04012 FLPS,0,0,0,0,0,0.0
+Plymouth,Elizabeth Anderson,6 years 8 months,Idiot,Neither,Anderson,7116.0,0.0,0.0,0.0,0.0,ANTRSN,A5306205,ANTRSN A5306205,7116.0,7116.0,0,0,0,0,168.0,A5306205 ANTRSN,0,0,0,0,0,0.0
+,Ann Beedell,6 years 8 months,Insane,Neither,Beedell,,0.0,0.0,0.0,0.0,PTL,B0304,PTL B0304,399.0,399.0,0,0,0,0,806.0,B0304 PTL,0,0,0,0,0,0.0
+,Elizabeth Burt,6 years 8 months,Idiot,Neither,Burt,,0.0,0.0,0.0,0.0,PRT,B063,PRT B063,356.0,356.0,0,0,0,0,1586.0,B063 PRT,0,0,0,0,0,0.0
+,Mary Bowden,6 years 8 months,Old Age,Neither,Bowden,,0.0,1.0,0.0,0.0,PTN,B0305,PTN B0305,551.0,551.0,0,0,0,0,671.0,B0305 PTN,0,0,0,0,0,0.0
+,Esther Batten,6 years 8 months,Insane,Neither,Batten,,0.0,0.0,0.0,0.0,PTN,B0305,PTN B0305,551.0,551.0,0,0,0,0,586.0,B0305 PTN,0,0,0,0,0,0.0
+,Elizabeth Backlake,6 years 8 months,Infirm,Neither,Backlake,,0.0,0.0,0.0,0.0,PKLK,B024020,PKLK B024020,689.0,689.0,0,0,0,0,647.0,B024020 PKLK,0,0,0,0,0,0.0
+,John Brown,6 years 7 months,Cripple,Neither,Brown,673.0,0.0,0.0,1.0,0.0,PRN,B605,PRN B605,673.0,673.0,0,0,0,0,1447.0,B605 PRN,0,0,0,0,0,0.0
+,Phoebe Burnett,6 years,Infirm,Neither,Burnett,,0.0,0.0,0.0,0.0,PRNT,B06503,PRNT B06503,11648.0,11648.0,0,0,0,0,752.0,B06503 PRNT,0,0,0,0,0,0.0
+,George Bowhay,6 years 2 months,Old Age,Neither,Bowhay,564.0,0.0,0.0,0.0,0.0,P,B000,P B000,564.0,564.0,0,0,0,0,1184.0,B000 P,0,0,0,0,0,0.0
+,Alice Bowhay,6 years 2 months,Old Age,Neither,Bowhay,564.0,0.0,0.0,0.0,0.0,P,B000,P B000,564.0,564.0,0,0,0,0,1184.0,B000 P,0,0,0,0,0,0.0
+,Joseph Bruford,5 years 5 months,Old Age,Neither,Bruford,9492.0,0.0,0.0,0.0,0.0,PRFRT,B601063,PRFRT B601063,9492.0,9492.0,0,0,0,0,1594.0,B601063 PRFRT,0,0,0,0,0,0.0
+,John Carter,6 years 8 months,Nervous Debility,Neither,Carter,1083.0,0.0,0.0,0.0,0.0,KRTR,C06306,KRTR C06306,1083.0,1083.0,0,0,0,0,1829.0,C06306 KRTR,0,0,0,0,0,0.0
+,Samuel Cousins,6 years 8 months,Old Age,Neither,Cousins,,0.0,0.0,0.0,0.0,KSNS,C02052,KSNS C02052,10845.0,10845.0,0,0,0,0,2439.0,C02052 KSNS,0,0,0,0,0,0.0
+,Rerbecca Collihole,6 years 8 months,Infirm,Neither,Collihole,,0.0,0.0,0.0,0.0,KLHL,C04040,KLHL C04040,1002.0,1002.0,0,0,0,0,2312.0,C04040 KLHL,0,0,0,0,0,0.0
+,Mary Cowell,6 years 8 months,Old Age,Neither,Cowell,1217.0,0.0,0.0,0.0,0.0,KL,C040,KL C040,1217.0,1217.0,0,0,0,0,2293.0,C040 KL,0,0,0,0,0,0.0
+,Susan Craven,6 years 8 months,Insane,Neither,Craven,13145.0,0.0,0.0,0.0,0.0,KRFN,C60105,KRFN C60105,13145.0,13145.0,0,0,0,0,4437.0,C60105 KRFN,0,0,0,0,0,0.0
+,Mary Dunn,6 years 8 months,Idiot,Neither,Dunn,,0.0,0.0,0.0,0.0,TN,D050,TN D050,1448.0,1448.0,0,0,0,0,3072.0,D050 TN,0,0,0,0,0,0.0
+,Jane Dunn,6 years 8 months,Infirm,Neither,Dunn,,0.0,0.0,0.0,0.0,TN,D050,TN D050,1448.0,1448.0,0,0,0,0,3072.0,D050 TN,0,0,0,0,0,0.0
+,Susan Dove,6 years 8 months,Idiot,Neither,Dove,1408.0,0.0,0.0,0.0,0.0,TF,D010,TF D010,1408.0,1408.0,0,1,0,0,3103.0,D010 TF,0,0,0,0,0,0.0
+,Susan Dyke,6 years 8 months,Insane,Neither,Dyke,,0.0,0.0,0.0,0.0,TK,D020,TK D020,1440.0,1440.0,0,0,0,0,2872.0,D020 TK,0,0,0,0,0,0.0
+,Ann Downing,6 years 8 months,Idiotic,Neither,Downing,1449.0,0.0,0.0,0.0,0.0,TNNK,D05052,TNNK D05052,1449.0,1449.0,0,0,0,0,3242.0,D05052 TNNK,0,0,0,0,0,0.0
+,Sarah Eastley,6 years 8 months,Idiot,Workhouse School,Eastley,11518.0,0.0,0.0,0.0,0.0,ASTL,E02340,ASTL E02340,11518.0,11518.0,0,0,0,0,3318.0,E02340 ASTL,0,0,0,0,0,0.0
+,William Earl,5 years 8 months,Old Age,Neither,Earl,10738.0,0.0,0.0,1.0,0.0,ARL,E064,ARL E064,10738.0,10738.0,0,0,0,0,4948.0,E064 ARL,0,0,0,0,0,0.0
+,Maria Fowler,6 years 8 months,Old Age,Neither,Fowler,1682.0,0.0,0.0,0.0,0.0,FLR,F0406,FLR F0406,1682.0,1682.0,0,0,0,0,10500.0,F0406 FLR,0,0,0,0,0,0.0
+,Mary Gribble,6 years 8 months,Infirm,Neither,Gribble,10526.0,0.0,0.0,0.0,0.0,KRPL,G60140,KRPL G60140,10526.0,10526.0,0,0,0,0,4525.0,G60140 KRPL,0,0,0,0,0,0.0
+,Thomas Guswell,5 years 3 months,Paralysed,Neither,Guswell,,0.0,0.0,0.0,0.0,KSL,G0204,KSL G0204,1920.0,1920.0,0,0,0,0,4137.0,G0204 KSL,0,0,0,0,0,0.0
+,John Hodge,6 years 8 months,idiot,Workhouse School,Hodge,8840.0,0.0,0.0,0.0,0.0,HJ,H0320,HJ H0320,8840.0,8840.0,0,0,0,0,5206.0,H0320 HJ,0,0,0,0,0,0.0
+,Eliza Hingston,6 years 8 months,Idiot,Neither,Hingston,2152.0,0.0,0.0,0.0,0.0,HNKSTN,H052305,HNKSTN H052305,2152.0,2152.0,0,0,0,0,4664.0,H052305 HNKSTN,0,0,0,0,0,0.0
+,Ann Hart,6 years 8 months,Infirm,Neither,Hart,2344.0,0.0,0.0,0.0,0.0,HRT,H063,HRT H063,2344.0,2344.0,0,0,0,0,4848.0,H063 HRT,0,0,0,0,0,0.0
+,Mary Haliday,6 years 8 months,Paralysed,Neither,Haliday,,0.0,0.0,0.0,0.0,HLT,H04030,HLT H04030,2338.0,2338.0,0,0,0,0,4987.0,H04030 HLT,0,0,0,0,0,0.0
+,Ann Hambly,6 years 8 months,Idiot,Neither,Hambly,6030.0,0.0,0.0,0.0,0.0,HMPL,H05140,HMPL H05140,6030.0,6030.0,0,0,0,0,4701.0,H05140 HMPL,0,0,0,0,0,0.0
+,Jane Kenny,5 years 3 months,Old Age,Neither,Kenny,,0.0,0.0,0.0,0.0,KN,K050,KN K050,2488.0,2488.0,0,0,0,0,2345.0,K050 KN,0,0,0,0,0,0.0
+,John Lethbridge,6 years 8 months,Paralysed,Neither,Lethbridge,,0.0,0.0,0.0,0.0,L0PRJ,L030160320,L0PRJ L030160320,6050.0,6050.0,0,0,0,0,6219.0,L030160320 L0PRJ,0,0,0,0,0,0.0
+,William Macey,6 years 8 months,Idiot,Neither,Macey,,0.0,0.0,0.0,0.0,MS,M020,MS M020,3061.0,3061.0,0,0,0,0,7043.0,M020 MS,0,0,0,0,0,0.0
+,John Matthews,6 years 8 months,Cripple,Neither,Matthews,,0.0,0.0,0.0,0.0,M0S,M0302,M0S M0302,10833.0,10833.0,0,0,0,0,6725.0,M0302 M0S,0,0,0,0,0,0.0
+,Sarah Neale,6 years 8 months,Insane,Neither,Neale,,0.0,0.0,0.0,0.0,NL,N040,NL N040,3136.0,3136.0,0,0,0,0,7152.0,N040 NL,0,0,0,0,0,0.0
+,Catherine O'Donnell,6 years 8 months,Infirm,Neither,ODonnell,7012.0,0.0,0.0,0.0,0.0,ATNL,O30504,ATNL O30504,7012.0,7012.0,0,0,0,0,44.0,O30504 ATNL,0,0,0,0,0,0.0
+,Mary Pomeroy,6 years 8 months,Infirm,Neither,Pomeroy,3394.0,0.0,0.0,0.0,0.0,PMR,P05060,PMR P05060,3394.0,3394.0,0,0,0,0,8153.0,P05060 PMR,0,0,0,0,0,0.0
+,Josiah Rogers,6 years 5 months,Fits,Neither,Rogers,3620.0,0.0,0.0,0.0,0.0,RKRS,R02062,RKRS R02062,3620.0,3620.0,0,0,0,0,8504.0,R02062 RKRS,0,0,0,0,0,0.0
+,George Rickard,6 years 8 months,idiot,Neither,Rickard,,0.0,0.0,0.0,0.0,RKRT,R02063,RKRT R02063,9700.0,9700.0,0,0,0,0,8404.0,R02063 RKRT,0,0,0,0,0,0.0
+,Jane Rowe,6 years 8 months,Idiot,Neither,Rowe,3660.0,0.0,0.0,0.0,0.0,R,R000,R R000,3660.0,3660.0,0,0,0,0,8518.0,R000 R,0,0,0,0,0,0.0
+,Thomas Rich,5 years 4 months,Cripple,Neither,Rich,3611.0,0.0,0.0,0.0,0.0,RX,R020,RX R020,3611.0,3611.0,0,0,0,0,8403.0,R020 RX,0,0,0,0,0,0.0
+,Elizabeth Spurr,6 years 8 months,Insane,Neither,Spurr,,0.0,0.0,0.0,0.0,SPR,S106,SPR S106,3965.0,3965.0,0,0,0,0,9422.0,S106 SPR,0,0,0,0,0,0.0
+,Ann Sherman,6 years 8 months,Infirm,Neither,Sherman,3808.0,0.0,0.0,0.0,0.0,XRMN,S06505,XRMN S06505,3808.0,3808.0,0,0,0,0,9066.0,S06505 XRMN,0,0,0,0,0,0.0
+,John Savage,6 years,Old Age,Neither,Savage,,0.0,0.0,0.0,0.0,SFJ,S01020,SFJ S01020,3774.0,3774.0,0,0,0,0,8736.0,S01020 SFJ,0,0,0,1,0,0.0
+,Catherine Tippett,6 years 8 months,Paralysed,Neither,Tippett,,0.0,0.0,0.0,0.0,TPT,T0103,TPT T0103,4148.0,4148.0,0,0,0,0,10091.0,T0103 TPT,0,0,0,0,0,0.0
+,Jane Teague,6 years 8 months,Old Age,Neither,Teague,,0.0,0.0,0.0,0.0,TK,T020,TK T020,4356.0,4356.0,0,0,0,0,9904.0,T020 TK,0,0,0,0,0,0.0
+,Marina Worrell,6 years 8 months,Insane,Neither,Worrell,,0.0,0.0,1.0,0.0,ARL,W0604,ARL W0604,10095.0,10095.0,0,0,0,0,10725.0,W0604 ARL,0,0,0,0,0,0.0
+,Thomas Williams,6 years 7 months,Fits,Neither,Williams,4647.0,0.0,0.0,1.0,0.0,ALMS,W04052,ALMS W04052,4647.0,4647.0,0,0,0,0,11045.0,W04052 ALMS,0,0,0,0,0,0.0
+,Samuel Wyatt,6 years 4 months,Infirm,Neither,Wyatt,,0.0,0.0,0.0,1.0,AT,W030,AT W030,4753.0,4753.0,0,0,0,0,11335.0,W030 AT,0,0,0,0,0,0.0
+,Catherine Wilson,6 years 8 months,Insane,Neither,Wilson,4662.0,0.0,0.0,0.0,0.0,ALSN,W04205,ALSN W04205,4662.0,4662.0,0,0,0,0,11053.0,W04205 ALSN,0,0,0,0,0,0.0
+,Eliza Willis,6 years 1 month,Infirm,Neither,Willis,4649.0,0.0,0.0,0.0,0.0,ALS,W0402,ALS W0402,4649.0,4649.0,0,0,0,0,11046.0,W0402 ALS,0,0,0,0,0,0.0
+"Plympton, St. Mary",William Hodge,10 years,Old Age,No,Hodge,8840.0,0.0,0.0,0.0,0.0,HJ,H0320,HJ H0320,8840.0,8840.0,0,0,0,0,5206.0,H0320 HJ,0,0,0,0,0,0.0
+,Francis Cumming,10 years,Epilepsy,No,Cumming,,0.0,0.0,0.0,0.0,KMNK,C05052,KMNK C05052,1029.0,1029.0,0,0,0,0,5858.0,C05052 KMNK,0,0,0,0,0,0.0
+,Joseph Sobey,6 years,Lameness,No,Sobey,,0.0,0.0,0.0,0.0,SP,S010,SP S010,10669.0,10669.0,0,0,0,0,9289.0,S010 SP,0,0,0,0,0,0.0
+,John Andrews,7 years,Debility,No,Andrews,,0.0,0.0,0.0,0.0,ANTRS,A53602,ANTRS A53602,5978.0,5978.0,0,0,0,0,173.0,A53602 ANTRS,0,0,0,0,0,0.0
+,William Scott,5 years,Old Age,No,Scott,3741.0,0.0,0.0,0.0,0.0,SKT,S203,SKT S203,3741.0,3741.0,0,0,0,0,8805.0,S203 SKT,0,0,0,0,0,0.0
+,William Bickle,5 years,Debility,No,Bickle,390.0,0.0,0.0,0.0,0.0,PKL,B0240,PKL B0240,390.0,390.0,0,0,0,0,801.0,B0240 PKL,0,0,0,0,0,0.0
+,William Hacker,17 years,idiot,Yes,Hacker,2235.0,0.0,0.0,0.0,0.0,HKR,H0206,HKR H0206,2235.0,2235.0,0,0,0,0,4628.0,H0206 HKR,0,0,0,0,0,0.0
+,Richard Carkeet,14 years,Idiot,No,Carkeet,,0.0,0.0,0.0,0.0,KRKT,C06203,KRKT C06203,6491.0,6491.0,0,0,0,0,5955.0,C06203 KRKT,0,0,0,0,0,0.0
+,Thomas Mildon,8 years,Old Age,No,Mildon,3009.0,0.0,0.0,0.0,0.0,MLTN,M04305,MLTN M04305,3009.0,3009.0,0,0,0,0,6892.0,M04305 MLTN,0,0,0,0,0,0.0
+,Elizabeth Stephens,6 years,Epilepsy,No,Stephens,,0.0,0.0,0.0,0.0,STFNS,S301052,STFNS S301052,4965.0,4965.0,0,0,0,0,9442.0,S301052 STFNS,0,0,0,0,0,0.0
+,Louisa Wotton,9 years,Unable to maintain her children,No,Wotton,4739.0,0.0,0.0,0.0,1.0,ATN,W0305,ATN W0305,4739.0,4739.0,0,0,1,1,11271.0,W0305 ATN,0,0,1,0,0,324.0
+,Elizabeth Kelland,12 years,Epilepsy,No,Kelland,,0.0,0.0,0.0,0.0,KLNT,K04053,KLNT K04053,2516.0,2516.0,0,0,0,0,5739.0,K04053 KLNT,0,0,0,0,0,0.0
+,Amy Moles,9 years,Old Age,No,Moles,,0.0,0.0,0.0,0.0,MLS,M0402,MLS M0402,3067.0,3067.0,0,0,0,0,7110.0,M0402 MLS,0,0,0,0,0,0.0
+,Elizabeth Arscott,5 years,Idiot,No,Arscott,,0.0,0.0,0.0,0.0,ARSKT,A6203,ARSKT A6203,129.0,129.0,0,0,0,0,5060.0,A6203 ARSKT,0,0,0,0,0,0.0
+Southmolton,Joseph Widgery,18 years 5 months,Harmless Idiot,No,Widgery,,0.0,0.0,0.0,0.0,AJR,W032060,AJR W032060,11784.0,11784.0,0,0,0,0,10999.0,W032060 AJR,0,0,0,0,0,0.0
+,Mary Bridgman,11 years,Harmless Idiot,No,Bridgman,,0.0,0.0,0.0,0.0,PRTKMN,B6032505,PRTKMN B6032505,5697.0,5697.0,0,0,0,0,1333.0,B6032505 PRTKMN,0,0,0,0,0,0.0
+,Sarah Stevens,5 years 8 months,Harmless Idiot,No,Stevens,4965.0,0.0,0.0,0.0,0.0,STFNS,S301052,STFNS S301052,4965.0,4965.0,0,0,0,0,9442.0,S301052 STFNS,0,0,0,0,0,0.0
+Stoke Damerel,Mary Ann Anderson,19 years,Infirmity,No,Anderson,7116.0,0.0,0.0,0.0,0.0,ANTRSN,A5306205,ANTRSN A5306205,7116.0,7116.0,0,0,0,0,168.0,A5306205 ANTRSN,0,0,0,0,0,0.0
+,Maria Andrews,15 years,Imbecility,No,Andrews,,0.0,0.0,0.0,0.0,ANTRS,A53602,ANTRS A53602,5978.0,5978.0,0,0,0,0,173.0,A53602 ANTRS,0,0,0,0,0,0.0
+,Jane Bovey,19 years,Infirmity,No,Bovey,,0.0,0.0,0.0,0.0,PF,B010,PF B010,544.0,544.0,0,0,0,0,1171.0,B010 PF,0,0,0,0,0,0.0
+,John Budge,14 years,Drunkenness,No,Budge,,0.0,0.0,0.0,0.0,PJ,B0320,PJ B0320,9973.0,9973.0,0,0,0,0,1533.0,B0320 PJ,0,0,0,0,0,0.0
+,Celia Blight,6 years,Syphilis,No,Blight,,0.0,0.0,0.0,0.0,PLT,B40203,PLT B40203,10885.0,10885.0,0,0,0,0,976.0,B40203 PLT,0,0,0,0,0,0.0
+,Ann Bassett,6 years,Infirmity,No,Bassett,731.0,0.0,0.0,0.0,0.0,PST,B0203,PST B0203,731.0,731.0,1,1,0,0,557.0,B0203 PST,0,1,0,0,0,0.0
+,Richard Batten,7 years,Old Age,No,Batten,,0.0,0.0,0.0,0.0,PTN,B0305,PTN B0305,551.0,551.0,0,0,0,0,586.0,B0305 PTN,0,0,0,0,0,0.0
+,Catherine Bartlett,8 years,Infirmity,No,Bartlett,357.0,0.0,0.0,0.0,0.0,PRTLT,B063403,PRTLT B063403,357.0,357.0,0,0,0,0,539.0,B063403 PRTLT,0,0,0,0,0,0.0
+,Catherine Burke,10 years,Infirmity,No,Burke,,0.0,0.0,0.0,0.0,PRK,B0620,PRK B0620,708.0,708.0,0,0,0,0,490.0,B0620 PRK,0,0,0,0,0,0.0
+,John Bowden,6 years,Sickness,No,Bowden,,0.0,1.0,0.0,0.0,PTN,B0305,PTN B0305,551.0,551.0,0,0,0,0,1038.0,B0305 PTN,0,0,0,0,0,0.0
+,Grace Bell,8 years,Widow,No,Bell,,0.0,0.0,0.0,0.0,PL,B040,PL B040,698.0,698.0,0,0,0,0,6158.0,B040 PL,0,0,0,0,0,0.0
+,Jane Bartlett,5 years,Illegitimate Children,No,Bartlett,357.0,0.0,0.0,0.0,0.0,PRTLT,B063403,PRTLT B063403,357.0,357.0,0,0,0,0,539.0,B063403 PRTLT,0,0,0,0,0,0.0
+,Mary Best,8 years,Lameness,No,Best,536.0,0.0,0.0,0.0,0.0,PST,B023,PST B023,536.0,536.0,0,0,0,0,767.0,B023 PST,0,0,0,0,0,0.0
+,Amy Banks,7 years,Deserted by Husband,No,Banks,,0.0,0.0,0.0,0.0,PNKS,B052,PNKS B052,11277.0,11277.0,0,0,0,0,453.0,B052 PNKS,0,0,0,0,0,0.0
+,Caroline Channon,41 years,Imbecility,No,Channon,,0.0,0.0,0.0,0.0,XNN,C0505,XNN C0505,848.0,848.0,0,0,0,0,1771.0,C0505 XNN,0,0,0,0,0,0.0
+,Jane Coleman,8 years,Sickness,No,Coleman,,0.0,0.0,0.0,0.0,KLMN,C040505,KLMN C040505,753.0,753.0,0,0,0,0,2214.0,C040505 KLMN,0,0,0,0,0,0.0
+,Maria Clarke,11 years,Illegitimate Children,No,Clarke,926.0,0.0,0.0,1.0,0.0,KLRK,C40620,KLRK C40620,926.0,926.0,0,0,0,0,2132.0,C40620 KLRK,0,0,0,0,0,0.0
+,William Chivall,6 years,Old Age,No,Chivall,,0.0,0.0,0.0,0.0,XFL,C0104,XFL C0104,9356.0,9356.0,0,0,0,0,2024.0,C0104 XFL,0,0,0,0,0,0.0
+,Elizabeth Cole,6 years,Imbecility,No,Cole,1217.0,0.0,0.0,0.0,0.0,KL,C040,KL C040,1217.0,1217.0,0,0,0,0,2293.0,C040 KL,0,0,0,0,0,0.0
+,Ann Collings,6 years,Old Age,No,Collings,10746.0,0.0,0.0,0.0,0.0,KLNKS,C04052,KLNKS C04052,10746.0,10746.0,0,0,0,0,2293.0,C04052 KLNKS,0,0,0,0,0,0.0
+,William Cossentine,10 years,Out of Employ,No,Cossentine,13496.0,0.0,0.0,0.0,0.0,KSNTN,C02053050,KSNTN C02053050,13496.0,13496.0,0,0,0,0,2355.0,C02053050 KSNTN,0,0,0,0,0,0.0
+,Mary Ann Crawley,11 years,Illegitimate Children,No,Crawley,,0.0,0.0,0.0,0.0,KRL,C6040,KRL C6040,1141.0,1141.0,0,0,0,0,2555.0,C6040 KRL,0,0,0,0,0,0.0
+,John Daily,12 years,Imbecility,No,Daily,,0.0,1.0,0.0,0.0,TL,D040,TL D040,1412.0,1412.0,0,0,0,0,2835.0,D040 TL,0,0,0,0,0,0.0
+,Jane Daily,5 years,Imbecility,No,Daily,,0.0,1.0,0.0,0.0,TL,D040,TL D040,1412.0,1412.0,0,0,0,0,2835.0,D040 TL,0,0,0,0,0,0.0
+,James Dawe,7 years,Imbecility,No,Dawe,1464.0,0.0,0.0,0.0,0.0,T,D000,T D000,1464.0,1464.0,0,0,0,0,2836.0,D000 T,0,0,0,0,0,0.0
+,Sarah Dawe,6 years,A Widow,No,Dawe,1464.0,0.0,0.0,0.0,0.0,T,D000,T D000,1464.0,1464.0,0,0,0,0,2836.0,D000 T,0,0,0,0,0,0.0
+,James Doubtfire,6 years,Out of Employ,No,Doubtfire,8332.0,0.0,0.0,0.0,0.0,TPTFR,D0131060,TPTFR D0131060,8332.0,8332.0,0,0,0,0,3093.0,D0131060 TPTFR,0,0,0,0,0,0.0
+,John Dunn,10 years,Old Age,No,Dunn,,0.0,0.0,0.0,0.0,TN,D050,TN D050,1448.0,1448.0,0,0,0,0,3072.0,D050 TN,0,0,0,0,0,0.0
+,Mary Ann Doidge,5 years,Imbecility,No,Doidge,,0.0,0.0,0.0,0.0,TJ,D0320,TJ D0320,9868.0,9868.0,0,0,0,0,2738.0,D0320 TJ,0,0,0,0,0,0.0
+,Catherine Donovan,10 years,A Prostitute,No,Donovan,11924.0,0.0,0.0,0.0,0.0,TNFN,D050105,TNFN D050105,11924.0,11924.0,0,0,0,0,2920.0,D050105 TNFN,0,0,0,0,0,0.0
+,Caroline Eddy,10 years,A Prostitute,No,Eddy,,0.0,0.0,0.0,0.0,AT,E300,AT E300,8679.0,8679.0,0,0,0,0,3349.0,E300 AT,0,0,0,0,0,0.0
+,Jane Farrell,5 years,Blindness,No,Farrell,,0.0,0.0,0.0,0.0,FRL,F0604,FRL F0604,1563.0,1563.0,0,0,0,0,3695.0,F0604 FRL,0,0,0,0,0,0.0
+,Mary Frederick,20 years,A Widow,No,Frederick,7011.0,0.0,0.0,0.0,0.0,FRTRK,F6030602,FRTRK F6030602,7011.0,7011.0,0,0,0,0,3919.0,F6030602 FRTRK,0,0,0,0,0,0.0
+,Roger Fursdon,8 years,Out of Employ,No,Fursdon,1730.0,0.0,0.0,0.0,0.0,FRSTN,F062305,FRSTN F062305,1730.0,1730.0,0,0,0,0,3991.0,F062305 FRSTN,0,0,0,0,0,0.0
+,Eliza Fuller,5 years,Idiotcy,No,Fuller,,0.0,0.0,0.0,0.0,FLR,F0406,FLR F0406,1682.0,1682.0,0,0,0,0,10589.0,F0406 FLR,0,0,0,0,0,0.0
+,Elizabeth Frost,6 years,Drunkenness,No,Frost,1717.0,0.0,0.0,0.0,0.0,FRST,F6023,FRST F6023,1717.0,1717.0,0,0,0,0,3992.0,F6023 FRST,0,0,0,0,0,0.0
+,Catherine Gray,5 years,Insanity,No,Gray,1994.0,0.0,0.0,1.0,0.0,KR,G600,KR G600,1994.0,1994.0,0,0,0,0,4463.0,G600 KR,0,0,0,0,0,0.0
+,John Grylls,30 years,Lameness,No,Grylls,5619.0,0.0,0.0,0.0,0.0,KRLS,G6042,KRLS G6042,5619.0,5619.0,0,0,0,0,4530.0,G6042 KRLS,0,0,0,0,0,0.0
+,Susannah Grylls,30 years,Lameness,No,Grylls,5619.0,0.0,0.0,0.0,0.0,KRLS,G6042,KRLS G6042,5619.0,5619.0,0,0,0,0,4530.0,G6042 KRLS,0,0,0,0,0,0.0
+,Peter Gunn,12 years,Idiotcy,No,Gunn,,0.0,0.0,0.0,0.0,KN,G050,KN G050,2000.0,2000.0,0,0,0,0,4429.0,G050 KN,0,0,0,0,0,0.0
+,Helen Gibson,14 years,A Widow,No,Gibson,7010.0,0.0,0.0,0.0,0.0,KPSN,G01205,KPSN G01205,7010.0,7010.0,0,0,0,0,4178.0,G01205 KPSN,0,0,0,0,0,0.0
+,John Griffin,15 years,Lameness,No,Griffin,1964.0,0.0,0.0,0.0,0.0,KRFN,G60105,KRFN G60105,1964.0,1964.0,0,0,0,0,4527.0,G60105 KRFN,0,0,0,0,0,0.0
+,Thomas Hooper,12 years,Lameness,No,Hooper,2285.0,0.0,0.0,0.0,0.0,HPR,H0106,HPR H0106,2285.0,2285.0,0,0,0,0,5290.0,H0106 HPR,0,0,0,0,0,0.0
+,isabella Hooper,12 years,Lameness,No,Hooper,2285.0,0.0,0.0,0.0,0.0,HPR,H0106,HPR H0106,2285.0,2285.0,0,0,0,0,5290.0,H0106 HPR,0,0,0,0,0,0.0
+,Henry Honey,8 years,Lameness,No,Honey,2341.0,0.0,0.0,0.0,0.0,HN,H050,HN H050,2341.0,2341.0,0,0,0,0,5271.0,H050 HN,0,0,0,0,0,0.0
+,Jane Heyden,8 years,Imbecility,No,Heyden,,0.0,0.0,1.0,0.0,HTN,H0305,HTN H0305,2330.0,2330.0,0,0,0,0,5081.0,H0305 HTN,0,0,0,0,0,0.0
+,Jane Hocking,5 years,A Widow,No,Hocking,2236.0,0.0,0.0,0.0,0.0,HKNK,H02052,HKNK H02052,2236.0,2236.0,0,0,0,0,5183.0,H02052 HKNK,0,0,0,0,0,0.0
+,Agnes Jope,40 years,Drunkenness,No,Jope,2435.0,0.0,0.0,0.0,0.0,JP,J010,JP J010,2435.0,2435.0,0,0,0,0,5661.0,J010 JP,0,0,0,0,0,0.0
+,Thomas Kealy,5 years,Drunkenness,No,Kealy,,0.0,0.0,0.0,0.0,KL,K040,KL K040,2519.0,2519.0,0,0,0,0,5717.0,K040 KL,0,0,0,0,0,0.0
+,Jane Legg,13 years,Bad Character,No,Legg,,0.0,0.0,0.0,0.0,LK,L020,LK L020,2801.0,2801.0,0,0,0,0,6182.0,L020 LK,0,0,0,0,0,0.0
+,William Lucas,10 years,Lameness,No,Lucas,2800.0,0.0,0.0,0.0,0.0,LKS,L0202,LKS L0202,2800.0,2800.0,0,0,0,0,6458.0,L0202 LKS,0,0,0,0,0,0.0
+,Elizabeth Lewis,20 years,Idiotcy,No,Lewis,2796.0,0.0,0.0,0.0,0.0,LS,L020,LS L020,2796.0,2796.0,0,0,0,0,6236.0,L020 LS,0,0,0,0,0,0.0
+,Adelaide Lidyard,7 years,Infirmity,No,Lidyard,8333.0,0.0,0.0,0.0,0.0,LTRT,L03063,LTRT L03063,8333.0,8333.0,0,0,0,0,6248.0,L03063 LTRT,0,0,0,0,0,0.0
+,Harriett May,5 years,Old Age,No,May,2913.0,0.0,0.0,0.0,0.0,M,M000,M M000,2913.0,2913.0,0,0,0,0,6805.0,M000 M,0,0,0,0,0,0.0
+,Jane McLeary,14 years,Illegitimate Children,No,McLeary,13497.0,0.0,0.0,0.0,0.0,MKLR,M24060,MKLR M24060,13497.0,13497.0,0,0,0,0,2492.0,M24060 MKLR,0,0,0,0,0,0.0
+,Mary Ann Miller,7 years,Infirmity,No,Miller,2979.0,0.0,0.0,0.0,0.0,MLR,M0406,MLR M0406,2979.0,2979.0,0,0,0,0,6823.0,M0406 MLR,0,0,0,0,0,0.0
+,Sarah Morcombe,5 years,Imbecility,No,Morcombe,3026.0,0.0,0.0,0.0,0.0,MRKMP,M0620510,MRKMP M0620510,3026.0,3026.0,0,0,0,0,6997.0,M0620510 MRKMP,0,0,0,0,0,0.0
+,Elizabeth Martin,8 years,Bad Character,No,Martin,3040.0,0.0,0.0,0.0,1.0,MRTN,M06305,MRTN M06305,3040.0,3040.0,0,0,0,0,6695.0,M06305 MRTN,0,0,0,0,0,0.0
+,Isabella Nance,21 years,A Widow,No,Nance,7104.0,0.0,0.0,0.0,0.0,NNS,N0520,NNS N0520,7104.0,7104.0,0,0,0,0,7123.0,N0520 NNS,0,0,0,0,0,0.0
+,Jane Niles,9 years,A Widow,No,Niles,11530.0,0.0,0.0,0.0,0.0,NLS,N0402,NLS N0402,11530.0,11530.0,0,0,0,0,7228.0,N0402 NLS,0,0,0,0,1,0.0
+,Hannah Maria Niles,9 years,Orphan,No,Niles,11530.0,0.0,0.0,0.0,0.0,NLS,N0402,NLS N0402,11530.0,11530.0,0,0,0,0,7228.0,N0402 NLS,0,0,0,0,1,0.0
+,Mary Ann Niles,9 years,Orphan,No,Niles,11530.0,0.0,0.0,0.0,0.0,NLS,N0402,NLS N0402,11530.0,11530.0,0,0,0,0,7228.0,N0402 NLS,0,0,0,0,1,0.0
+,Johanna Netting,8 years,A Widow,No,Netting,,0.0,0.0,0.0,0.0,NTNK,N03052,NTNK N03052,5589.0,5589.0,0,0,0,0,7184.0,N03052 NTNK,0,0,0,0,0,0.0
+,George Orchard,6 years,Infirmity,No,Orchard,3157.0,0.0,0.0,0.0,0.0,ARXRT,O62063,ARXRT O62063,3157.0,3157.0,0,0,0,0,225.0,O62063 ARXRT,0,0,0,0,0,0.0
+,Harriet Osborne,6 years,Imbecility,No,Osborne,3161.0,0.0,0.0,0.0,0.0,ASPRN,O210650,ASPRN O210650,3161.0,3161.0,0,0,0,0,7421.0,O210650 ASPRN,0,0,0,0,0,0.0
+,Susan Ogelvie,20 years,A Widow,No,Ogelvie,8334.0,0.0,0.0,0.0,0.0,AJLF,O20410,AJLF O20410,8334.0,8334.0,0,0,0,0,144.0,O20410 AJLF,0,0,0,0,0,0.0
+,Harry Pascoe,20 years,Lameness,No,Pascoe,,0.0,0.0,0.0,0.0,PSK,P020,PSK P020,3206.0,3206.0,0,0,0,0,7585.0,P020 PSK,0,0,0,0,0,0.0
+,Grace Poole,10 years,A Widow,No,Poole,3479.0,0.0,0.0,0.0,0.0,PL,P040,PL P040,3479.0,3479.0,0,1,0,0,7679.0,P040 PL,0,0,0,0,0,0.0
+,Jane Perkins,10 years,A Widow,No,Perkins,10723.0,0.0,0.0,0.0,0.0,PRKNS,P062052,PRKNS P062052,10723.0,10723.0,0,0,0,0,7742.0,P062052 PRKNS,0,0,0,0,0,0.0
+,Susan Payne,12 years,A Widow,No,Payne,3421.0,0.0,0.0,0.0,0.0,PN,P050,PN P050,3421.0,3421.0,0,0,0,0,7507.0,P050 PN,0,0,0,0,0,0.0
+,Elizabeth Pardon,13 years,A Widow,No,Pardon,,0.0,0.0,0.0,0.0,PRTN,P06305,PRTN P06305,3404.0,3404.0,0,0,0,0,7551.0,P06305 PRTN,0,0,0,0,0,0.0
+,Andrew Pope,11 years,Old Age and Infirmity,No,Pope,3401.0,0.0,0.0,1.0,0.0,PP,P010,PP P010,3401.0,3401.0,0,0,0,0,7968.0,P010 PP,0,0,0,0,0,0.0
+,Helen Palmer,6 years,Idiotcy,No,Palmer,3183.0,0.0,0.0,1.0,0.0,PLMR,P04506,PLMR P04506,3183.0,3183.0,0,0,0,0,7521.0,P04506 PLMR,0,0,0,0,0,0.0
+,Alice Pearse,11 years,A Widow,No,Pearse,,1.0,0.0,0.0,1.0,PRS,P0620,PRS P0620,3487.0,3487.0,0,0,0,0,7816.0,P0620 PRS,0,0,0,0,0,0.0
+,William Rodgman,20 years,Idiotcy,No,Rodgman,,0.0,0.0,0.0,0.0,RTKMN,R032505,RTKMN R032505,5900.0,5900.0,0,0,0,0,8506.0,R032505 RTKMN,0,0,0,0,0,0.0
+,Grace Ross,30 years,A Widow,No,Ross,,0.0,0.0,0.0,0.0,RS,R020,RS R020,3663.0,3663.0,0,0,0,0,8565.0,R020 RS,0,0,0,0,0,0.0
+,William Rickard,10 years,Paralysis,No,Rickard,,0.0,0.0,0.0,0.0,RKRT,R02063,RKRT R02063,9700.0,9700.0,0,0,0,0,8404.0,R02063 RKRT,0,0,0,0,0,0.0
+,William Rowe,12 years,Out of Employ,No,Rowe,3660.0,0.0,0.0,0.0,0.0,R,R000,R R000,3660.0,3660.0,0,0,0,0,8518.0,R000 R,0,0,0,0,0,0.0
+,Mary Rock,7 years,Out of Employ,No,Rock,,0.0,0.0,0.0,0.0,RK,R020,RK R020,3675.0,3675.0,0,0,0,0,8554.0,R020 RK,0,0,0,0,0,0.0
+,Amelia Rowe,10 years,Illegitimate Children,No,Rowe,3660.0,0.0,0.0,0.0,0.0,R,R000,R R000,3660.0,3660.0,0,0,0,0,8518.0,R000 R,0,0,0,0,0,0.0
+,Ann Sweet,20 years,Infirmity,No,Sweet,,0.0,0.0,0.0,0.0,ST,S030,ST S030,4097.0,4097.0,0,0,0,0,9766.0,S030 ST,0,0,0,0,0,0.0
+,Maria Soper,17 years,Sickness,No,Soper,3939.0,0.0,0.0,0.0,0.0,SPR,S0106,SPR S0106,3939.0,3939.0,0,0,0,0,8711.0,S0106 SPR,0,0,0,0,0,0.0
+,Mary Ann Stewart,10 years,A Widow,No,Stewart,,0.0,0.0,0.0,0.0,STRT,S3063,STRT S3063,4059.0,4059.0,0,0,0,0,9500.0,S3063 STRT,0,0,0,0,0,0.0
+,Mary Sargent,12 years,A Widow,No,Sargent,,0.0,0.0,0.0,0.0,SRJNT,S062053,SRJNT S062053,3772.0,3772.0,0,0,0,0,8855.0,S062053 SRJNT,0,0,0,0,0,0.0
+,John Stanbury,10 years,Insanity of Wife,No,Stanbury,3999.0,0.0,0.0,0.0,0.0,STNPR,S3051060,STNPR S3051060,3999.0,3999.0,0,0,0,0,9473.0,S3051060 STNPR,0,0,0,0,0,0.0
+,Mary Studiford,8 years,A Widow,No,Studiford,,0.0,0.0,0.0,0.0,STTFRT,S30301063,STTFRT S30301063,6611.0,6611.0,0,0,0,0,9513.0,S30301063 STTFRT,0,0,0,0,0,0.0
+,Thomas Soper,20 years,Laziness,No,Soper,3939.0,0.0,0.0,0.0,0.0,SPR,S0106,SPR S0106,3939.0,3939.0,0,0,0,0,8711.0,S0106 SPR,0,0,0,0,0,0.0
+,Elizabeth Sale,48 years,Infirmity,No,Sale,,0.0,0.0,0.0,0.0,SL,S040,SL S040,4091.0,4091.0,0,0,0,0,8927.0,S040 SL,0,0,0,0,0,0.0
+,Thomas Tozer,13 years,Imbecility,No,Tozer,,0.0,0.0,0.0,0.0,TSR,T0206,TSR T0206,4248.0,4248.0,0,0,0,0,10156.0,T0206 TSR,0,0,0,0,0,0.0
+,Mary Timson,9 years,A Widow,No,Timson,,0.0,0.0,0.0,0.0,TMSN,T05205,TMSN T05205,8446.0,8446.0,0,0,0,0,9534.0,T05205 TMSN,0,0,0,0,0,0.0
+,Mary Triblett,9 years,Lameness,No,Triblett,,0.0,0.0,0.0,0.0,TRPLT,T601403,TRPLT T601403,11354.0,11354.0,0,0,0,0,10307.0,T601403 TRPLT,0,0,0,0,0,0.0
+,James Thomas,12 years,Lameness,No,Thomas,4166.0,0.0,0.0,0.0,0.0,TMS,T0502,TMS T0502,4166.0,4166.0,0,0,0,0,9969.0,T0502 TMS,0,0,0,0,0,0.0
+,Charles Vivian,7 years,Lameness,No,Vivian,,0.0,0.0,0.0,0.0,FFN,V0105,FFN V0105,4441.0,4441.0,0,0,0,0,10582.0,V0105 FFN,0,0,0,0,0,0.0
+,Matilda White,20 years,Imbecility,No,White,4753.0,0.0,0.0,0.0,0.0,AT,W030,AT W030,4753.0,4753.0,0,0,0,0,11167.0,W030 AT,0,0,0,0,0,0.0
+,Joseph Webb,7 years,Infirmity,No,Webb,,0.0,0.0,0.0,0.0,AP,W010,AP W010,4527.0,4527.0,0,0,0,0,10785.0,W010 AP,0,0,0,0,0,0.0
+,Mary Westlake,15 years,Drunkenness,No,Westlake,4578.0,0.0,0.0,0.0,0.0,ASTLK,W0234020,ASTLK W0234020,4578.0,4578.0,0,0,0,0,10851.0,W0234020 ASTLK,0,0,0,0,0,0.0
+,Jane Woodley,14 years,Infirmity,No,Woodley,8624.0,0.0,0.0,0.0,0.0,ATL,W0340,ATL W0340,8624.0,8624.0,0,0,0,0,11223.0,W0340 ATL,0,0,0,0,0,0.0
+,Margaret White,10 years,Infirmity,No,White,4753.0,0.0,0.0,0.0,0.0,AT,W030,AT W030,4753.0,4753.0,0,0,0,0,11167.0,W030 AT,0,0,0,0,0,0.0
+,Jane Williams,6 years,Old Age,No,Williams,4647.0,0.0,0.0,1.0,0.0,ALMS,W04052,ALMS W04052,4647.0,4647.0,0,0,0,0,11045.0,W04052 ALMS,0,0,0,0,0,0.0
+,Mary White,5 years,Out of Employ,No,White,4753.0,0.0,0.0,0.0,0.0,AT,W030,AT W030,4753.0,4753.0,0,0,0,0,11167.0,W030 AT,0,0,0,0,0,0.0
+,Francis Welman,6 years,Old Age,No,Welman,,0.0,0.0,0.0,0.0,ALMN,W04505,ALMN W04505,4657.0,4657.0,0,0,0,0,11029.0,W04505 ALMN,0,0,0,0,0,0.0
+,Jane Wright,5 years,Infirmity,No,Wright,4748.0,0.0,0.0,1.0,0.0,RT,W60203,RT W60203,4748.0,4748.0,0,0,0,0,8472.0,W60203 RT,0,0,0,0,0,0.0
+,Eliza Wills,12 years,Drunkenness,No,Wills,,0.0,0.0,0.0,0.0,ALS,W042,ALS W042,4551.0,4551.0,0,0,0,0,11046.0,W042 ALS,0,0,0,0,0,0.0
+,Grace Wilkinson,35 years,Infirmity,No,Wilkinson,7071.0,0.0,0.0,0.0,0.0,ALKNSN,W04205205,ALKNSN W04205205,7071.0,7071.0,0,0,0,0,10664.0,W04205205 ALKNSN,0,0,0,0,0,0.0
+Tavistock,John Skinner,20 years,Subject to Fits,No,Skinner,3881.0,0.0,0.0,0.0,0.0,SKNR,S20506,SKNR S20506,3881.0,3881.0,0,0,0,0,9174.0,S20506 SKNR,0,0,0,0,0,0.0
+,Cornelius Simmons,11 years,Infirmity from Old Age,No,Simmons,,0.0,0.0,0.0,0.0,SMNS,S05052,SMNS S05052,4916.0,4916.0,0,0,0,0,9125.0,S05052 SMNS,0,0,0,0,0,0.0
+,Peggy Cole,22 years,"Old Age, and being a Cripple",No,Cole,1217.0,0.0,0.0,0.0,0.0,KL,C040,KL C040,1217.0,1217.0,0,0,0,0,2293.0,C040 KL,0,0,0,0,0,0.0
+,Rosamond Mears,20 years,Old Age,No,Mears,,0.0,0.0,0.0,0.0,MRS,M062,MRS M062,8694.0,8694.0,0,0,0,0,6791.0,M062 MRS,0,0,0,0,0,0.0
+,William Miles,19 years,Defective Hearing and Sight,Yes,Miles,3067.0,0.0,0.0,0.0,0.0,MLS,M0402,MLS M0402,3067.0,3067.0,0,0,0,0,7110.0,M0402 MLS,0,0,0,0,0,0.0
+,Emily Strike,16 years,Weak Intellect,Yes,Strike,,0.0,0.0,0.0,0.0,STRK,S36020,STRK S36020,11035.0,11035.0,0,0,0,0,9629.0,S36020 STRK,0,0,0,0,0,0.0
+,William Cudlipp,15 years,Insanity (harmless),No,Cudlipp,,0.0,0.0,0.0,0.0,KTLP,C03401,KTLP C03401,9981.0,9981.0,0,0,0,0,2718.0,C03401 KTLP,0,0,0,0,0,0.0
+,Richard Riddalls,5 years,Old Age and Infirmity,No,Riddalls,8335.0,0.0,0.0,0.0,0.0,RTLS,R03042,RTLS R03042,8335.0,8335.0,0,0,0,0,8422.0,R03042 RTLS,0,0,0,0,0,0.0
+,George Dinnaford,14 years,Weak Intellect,No,Dinnaford,,0.0,0.0,0.0,0.0,TNFRT,D0501063,TNFRT D0501063,9756.0,9756.0,0,0,0,0,2909.0,D0501063 TNFRT,0,0,0,0,0,0.0
+,Mary Ann Hicks,14 years,A Cripple,No,Hicks,,0.0,0.0,0.0,0.0,HKS,H020,HKS H020,9910.0,9910.0,0,0,0,0,5162.0,H020 HKS,0,0,0,0,0,0.0
+,Angelina Harris,7 years,Widow with three children; one illegitimate born in widowhood,No,Harris,2083.0,0.0,0.0,0.0,0.0,HRS,H0602,HRS H0602,2083.0,2083.0,0,0,0,0,4814.0,H0602 HRS,0,0,0,0,0,0.0
+,Daniel Vallett,23 years,"Old Age and Infirmity; nearly blind, and subject to disease",No,Vallett,,0.0,0.0,0.0,0.0,FLT,V0403,FLT V0403,9777.0,9777.0,0,0,0,0,3800.0,V0403 FLT,0,0,0,0,0,0.0
+,Jane Halfyard,9 years,Idiotcy,No,Halfyard,2031.0,0.0,0.0,0.0,0.0,HLFRT,H041063,HLFRT H041063,2031.0,2031.0,0,0,0,0,351.0,H041063 HLFRT,0,0,0,0,0,0.0
+,Daniel Coram,9 years,Paralysis,No,Coram,1225.0,0.0,0.0,0.0,0.0,KRM,C0605,KRM C0605,1225.0,1225.0,0,0,0,0,2389.0,C0605 KRM,0,0,0,0,0,0.0
+,Jane Dawe,6 years,Insanity (harmless),No,Dawe,1464.0,0.0,0.0,0.0,0.0,T,D000,T D000,1464.0,1464.0,0,0,0,0,2836.0,D000 T,0,0,0,0,0,0.0
+,Elizabeth Mears,7 years,Subject to Fits,No,Mears,,0.0,0.0,0.0,0.0,MRS,M062,MRS M062,8694.0,8694.0,0,0,0,0,6791.0,M062 MRS,0,0,0,0,0,0.0
+,Mary Coram,16 years,Deaf and Dumb,No,Coram,1225.0,0.0,0.0,0.0,0.0,KRM,C0605,KRM C0605,1225.0,1225.0,0,0,0,0,2389.0,C0605 KRM,0,0,0,0,0,0.0
+,Jane Bennett,8 years,Idiotcy,No,Bennett,340.0,0.0,0.0,0.0,0.0,PNT,B0503,PNT B0503,340.0,340.0,0,0,0,0,734.0,B0503 PNT,0,0,0,0,0,0.0
+,Margaret Hockin,11 years,Unable to maintain herself from illness,No,Hockin,,0.0,0.0,0.0,0.0,HKN,H0205,HKN H0205,2246.0,2246.0,0,0,0,0,5183.0,H0205 HKN,0,0,0,0,0,0.0
+,Richard Muffle,9 years,Old Age and Infirmity,No,Muffle,13498.0,0.0,0.0,0.0,0.0,MFL,M0140,MFL M0140,13498.0,13498.0,0,0,0,0,6772.0,M0140 MFL,0,0,0,0,0,0.0
+"Thomas, St.",Mary Cade,6 years,Age and Infirmity,No,Cade,1239.0,0.0,0.0,0.0,0.0,KT,C030,KT C030,1239.0,1239.0,0,0,0,0,1705.0,C030 KT,0,0,0,0,0,0.0
+,Ann Kennicott,5 years,Sickness,No,Kennicott,,0.0,0.0,0.0,0.0,KNKT,K050203,KNKT K050203,9054.0,9054.0,0,0,0,0,5866.0,K050203 KNKT,0,0,0,0,0,0.0
+,John Dingle,8 years 6 months,Age and Infirmity,No,Dingle,,0.0,0.0,0.0,0.0,TNKL,D05240,TNKL D05240,1357.0,1357.0,0,0,0,0,2998.0,D05240 TNKL,0,0,0,0,0,0.0
+,Richard Milford,7 years 6 months,Imbecile,No,Milford,2976.0,0.0,0.0,0.0,0.0,MLFRT,M041063,MLFRT M041063,2976.0,2976.0,0,0,0,0,6902.0,M041063 MLFRT,0,0,0,0,0,0.0
+,Reuben Lamacraft,5 years 6 months,Age and Epilepsy,No,Lamacraft,,0.0,0.0,0.0,0.0,LMKRFT,L05026013,LMKRFT L05026013,2743.0,2743.0,0,0,0,0,5991.0,L05026013 LMKRFT,0,0,0,0,0,0.0
+,Ann Please,23 years,Weak Intellect,No,Please,,0.0,0.0,0.0,0.0,PLS,P4020,PLS P4020,8535.0,8535.0,0,0,0,0,7902.0,P4020 PLS,0,0,0,0,0,0.0
+,Henry Dawe,6 years,Weak Intellect,No,Dawe,1464.0,0.0,0.0,0.0,0.0,T,D000,T D000,1464.0,1464.0,0,0,0,0,2836.0,D000 T,0,0,0,0,0,0.0
+,William Collins,24 years,Weak Intellect,No,Collins,,0.0,0.0,0.0,0.0,KLNS,C04052,KLNS C04052,8400.0,8400.0,0,0,0,0,2293.0,C04052 KLNS,0,0,0,0,0,0.0
+,Eliza Ford,11 years,Weak Intellect,No,Ford,1657.0,0.0,0.0,0.0,0.0,FRT,F063,FRT F063,1657.0,1657.0,0,0,0,0,3831.0,F063 FRT,0,0,0,0,0,0.0
+,Elizabeth Jarman,5 years,Destitution,No,Jarman,,0.0,0.0,0.0,0.0,JRMN,J06505,JRMN J06505,2438.0,2438.0,0,0,0,0,4164.0,J06505 JRMN,0,0,0,0,0,0.0
+,Sarah Gillett,7 years 6 months,Age and Infirmity,No,Gillett,,0.0,0.0,0.0,0.0,KLT,G0403,KLT G0403,1801.0,1801.0,0,0,0,0,5616.0,G0403 KLT,0,0,0,0,0,0.0
+,George Emmett,11 years 6 months,Weak Intellect,No,Emmett,,0.0,0.0,0.0,0.0,AMT,E503,AMT E503,1508.0,1508.0,0,0,0,0,5002.0,E503 AMT,0,0,0,0,0,0.0
+,Mary Harding,5 years,Sickness,No,Harding,2347.0,0.0,0.0,0.0,0.0,HRTNK,H063052,HRTNK H063052,2347.0,2347.0,0,0,0,0,5460.0,H063052 HRTNK,0,0,0,0,0,0.0
+,William Marden,5 years,Sickness,No,Marden,,0.0,0.0,0.0,0.0,MRTN,M06305,MRTN M06305,3040.0,3040.0,0,0,0,0,6648.0,M06305 MRTN,0,0,0,0,0,0.0
+,John Addison,6 years,Sickness,No,Addison,13499.0,0.0,0.0,0.0,0.0,ATSN,A30205,ATSN A30205,13499.0,13499.0,0,0,0,0,4643.0,A30205 ATSN,0,0,0,0,0,0.0
+,Martha Bodley,6 years 6 months,Weak Intellect,No,Bodley,468.0,0.0,0.0,0.0,0.0,PTL,B0340,PTL B0340,468.0,468.0,0,0,0,0,1039.0,B0340 PTL,0,0,0,0,0,0.0
+,Mary Harwood,5 years,Destitution,No,Harwood,,0.0,0.0,0.0,0.0,HRT,H0603,HRT H0603,2328.0,2328.0,0,0,0,0,4848.0,H0603 HRT,0,0,0,0,0,0.0
+,Elizabeth Farrant,9 years,Weak Intellect,No,Farrant,1589.0,0.0,0.0,0.0,0.0,FRNT,F06053,FRNT F06053,1589.0,1589.0,0,0,0,0,3698.0,F06053 FRNT,0,0,0,0,0,0.0
+,Charity Ware,5 years,Age and Infirmity,No,Ware,4627.0,0.0,0.0,0.0,0.0,AR,W060,AR W060,4627.0,4627.0,0,0,0,0,10777.0,W060 AR,0,0,0,0,0,0.0
+,James Coplestone,9 years,Age and Infirmity,No,Coplestone,1053.0,0.0,0.0,0.0,0.0,KPLSTN,C014023050,KPLSTN C014023050,1053.0,1053.0,0,0,0,0,2384.0,C014023050 KPLSTN,0,0,0,1,0,0.0
+,Ellen Holding,5 years,Weak Intellect,No,Holding,8336.0,0.0,0.0,0.0,0.0,HLTNK,H043052,HLTNK H043052,8336.0,8336.0,0,0,0,0,5216.0,H043052 HLTNK,0,0,0,0,0,0.0
+,Michael Davey,7 years 6 months,Sickness,No,Davey,,0.0,0.0,1.0,0.0,TF,D010,TF D010,1408.0,1408.0,0,0,0,0,2831.0,D010 TF,0,0,0,0,0,0.0
+,Elizabeth O'Brien,5 years 6 months,Old Age,No,OBrien,12255.0,0.0,0.0,0.0,0.0,APRN,O1605,APRN O1605,12255.0,12255.0,0,0,0,0,7323.0,O1605 APRN,0,0,0,0,0,0.0
+,Mary Brown,5 years 6 months,Infirmity,No,Brown,673.0,0.0,0.0,1.0,0.0,PRN,B605,PRN B605,673.0,673.0,0,0,0,0,1447.0,B605 PRN,0,0,0,0,0,0.0
+,Mary Hellier,7 years 6 months,Age and Infirmity,No,Hellier,,0.0,0.0,0.0,0.0,HL,H0406,HL H0406,9354.0,9354.0,0,0,0,0,3432.0,H0406 HL,0,0,0,0,0,0.0
+Tiverton,Eliza Drewe,23 years,Imbecility,Not Known,Drewe,1431.0,0.0,0.0,0.0,0.0,TR,D600,TR D600,1431.0,1431.0,0,1,0,0,3162.0,D600 TR,0,1,0,0,0,0.0
+,Robert Melhuish,10 years,Imbecility and Fits,Not Known,Melhuish,2931.0,0.0,0.0,0.0,0.0,MLX,M04020,MLX M04020,2931.0,2931.0,0,0,0,0,6824.0,M04020 MLX,0,0,0,0,0,0.0
+,Elizabeth Windsor,6 years,Crippled,Not Known,Windsor,4675.0,0.0,0.0,0.0,0.0,ANTSR,W053206,ANTSR W053206,4675.0,4675.0,0,0,0,0,11090.0,W053206 ANTSR,0,0,0,0,0,0.0
+Torrington,Charity Sutton,22 years,Idiot,No,Sutton,4099.0,0.0,0.0,0.0,0.0,STN,S0305,STN S0305,4099.0,4099.0,0,0,0,0,9744.0,S0305 STN,0,0,0,0,0,0.0
+,Elizabeth Gould,10 years,Cripple,No,Gould,1924.0,0.0,0.0,0.0,0.0,KLT,G043,KLT G043,1924.0,1924.0,0,0,0,0,4339.0,G043 KLT,0,0,0,0,0,0.0
+,Sally Williams,5 years,Partially Idiotic,No,Williams,4647.0,0.0,0.0,1.0,0.0,ALMS,W04052,ALMS W04052,4647.0,4647.0,0,0,0,0,11045.0,W04052 ALMS,0,0,0,0,0,0.0
+Totnes,William Hannaford,5 years 6 months,Bad Legs,No,Hannaford,,0.0,0.0,0.0,0.0,HNFRT,H0501063,HNFRT H0501063,2280.0,2280.0,0,0,0,0,4736.0,H0501063 HNFRT,0,0,0,0,0,0.0
+,John Gribble,5 years 6 months,Bad Legs,No,Gribble,10526.0,0.0,0.0,0.0,0.0,KRPL,G60140,KRPL G60140,10526.0,10526.0,0,0,0,0,4525.0,G60140 KRPL,0,0,0,0,0,0.0
+,John Dew,12 years,Seizure,No,Dew,1464.0,0.0,0.0,0.0,0.0,T,D000,T D000,1464.0,1464.0,0,0,0,0,4427.0,D000 T,0,0,0,0,0,0.0
+,James Parker,7 years,Fistula,No,Parker,3193.0,0.0,0.0,1.0,0.0,PRKR,P06206,PRKR P06206,3193.0,3193.0,0,0,0,0,7557.0,P06206 PRKR,0,0,0,0,0,0.0
+,Richard Goodridge,6 years,Weakness of Mind,No,Goodridge,,0.0,0.0,0.0,0.0,KTRJ,G0360320,KTRJ G0360320,5302.0,5302.0,0,0,0,0,4348.0,G0360320 KTRJ,0,0,0,0,0,0.0
+,Mary Searle,6 years,Old Age,No,Searle,,0.0,0.0,0.0,1.0,SRL,S0640,SRL S0640,3771.0,3771.0,0,0,0,0,8856.0,S0640 SRL,0,0,0,0,0,0.0
+,Elizabeth Manly,6 years,Rupture,No,Manly,,0.0,0.0,0.0,0.0,MNL,M0540,MNL M0540,2854.0,2854.0,0,0,0,0,6611.0,M0540 MNL,0,0,0,0,0,0.0
+,Elizabeth Eales,7 years,Lameness and Blind,No,Eales,10837.0,0.0,0.0,0.0,0.0,ALS,E0402,ALS E0402,10837.0,10837.0,0,0,0,0,4979.0,E0402 ALS,0,0,0,0,0,0.0
+,Mary Callard,6 years,Cripple,No,Callard,,0.0,0.0,0.0,0.0,KLRT,C04063,KLRT C04063,1006.0,1006.0,0,0,0,0,2295.0,C04063 KLRT,0,0,0,0,0,0.0
+,Jane Arscott,8 years,Deformed,No,Arscott,,0.0,0.0,0.0,0.0,ARSKT,A6203,ARSKT A6203,129.0,129.0,0,0,0,0,5060.0,A6203 ARSKT,0,0,0,0,0,0.0

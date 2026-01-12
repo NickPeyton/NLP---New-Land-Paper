@@ -1,0 +1,94 @@
+SC	ID	Title	Fname	Sname	Status	Occup	Place	Role	Year	Day	Month	Rel	RelFName	RelSName	Comment	Comment2	Occup2
+ADM	140	 	Rd	Barnes	 	 	Thame	Died Intestate	1648	11.00	2.00				Adminstration granted to his brother Jos Barnes		
+ADM	141	 	Jas	Beake	 	 	Thame	Died Intestate	1636	16.00	2.00				Administration granted to Agnes Beak widow		
+ADM	142	 	Jm	Broadhurst	 	 	Thame	Died Intestate	1639	11.00	2.00				Administration granted to Joan Broadhurst		
+ADM	143	 	Jos	Barnes	 	 	Thame	Administrator	1648	1.00	2.00	brother of	Rd	Barnes	granted Administration of brother's estate		
+ADM	144	 	Robert	Cornewall	 	 	Thame	Died Intestate	1639	21.00	3.00				Administration granted to Jn Cornewall (son) and Anne Cornewall (widow)		
+ADM	145	 	Wm	Hester	 	 	Thame	Died Intestate	1647	10.00	11.00				Administration granted to Jonah Woodward (creditor)  during minority of Jonah Hester (son)		
+ADM	146	 	Thos	Paule	 	 	Thame	Died Intestate	1638	30.00	10.00				Administration granted to Sam Wood (creditor) and George Paule (brother) renounced to Francis Paule (brother) 3/11/1638		
+ADM	147	 	William	Basse	 	 	Thame Park	Died Intestate	1654	0.00	0.00				Administration granted		
+ADM	148	 	Richard	Jones	 	 	Moreton	Died Intestate	1651	0.00	0.00				Administration granted		
+ADM	149	 	Stephen	Baylie	 	 	Thame	Died Intestate	1652	0.00	0.00				Administration granted		
+ADM	150	 	Agnes	Beake	 	 		Died Intestate	1652	0.00	0.00				Administration granted		
+ADM	151	 	Francis	Barton	 	 		Died Intestate	1654	0.00	0.00				Administration granted		
+ADM	152	 	Thomas	Calcott	 	 		Died Intestate	1654	0.00	0.00				Administration granted		
+ADM	153	 	John	Emerton	 	 		Died Intestate	1649	0.00	0.00				Administration granted		
+ADM	154	 	Thomas	Wheeler	 	 		Died Intestate	1651	0.00	0.00				Administration granted - died in service of Parliament		
+ADM	155	Widow	Agnes	Beake	 	 	Thame	Administrator	1636	16.00	2.00	widow of	Jas	Beake	granted Administration of husband's estate		
+ADM	156	Widow	Joan	Broadhurst	 	 	Thame	Administrator	1639	11.00	2.00	widow of	Jm	Broadhurst	granted Administration of husband's estate		
+ADM	157	 	Jn	Cornewall	 	 	Thame	Administrator	1639	21.00	3.00	son of	Robert	Cornewall	granted Administration of father's estate with his widow		
+ADM	158	Widow	Anne	Cornewall	 	 	Thame	Administrator	1639	21.00	3.00	widow of	Robert	Cornewall	granted Administration of husband's estate with his son		
+ADM	159	 	Jonah	Woodward	 	 		Administrator	1647	10.00	11.00	creditor of	Wm	Hester	granted Administration of estate during minority of son Jonah Hester		
+ADM	160	 	Jonah	Hester	minor	 	Thame	Administrator	1647	10.00	11.00	son of	Wm	Hester	granted Administration of father's estate after his minority;  Jonah Woodward during his minority		
+ADM	161	 	Sam	Wood	 	 		Administrator	1638	30.00	10.00	creditor of	Thos	Paule	granted Administration of estate		
+ADM	162	 	George	Paule	 	 		Administrator	1638	30.00	10.00	brother of	Thos	Paule	granted Administration of brothers estate;   renounced 3 Nov 1638		
+ADM	163	 	Francis	Paule	 	 		Administrator	1638	3.00	11.00	brother of	Thos	Paule	granted Administration of brother's estate		
+CORN	69	 	William	Hester	 	 		Assessor	1587								
+CORN	70	 	William	Ives	Jnr	 	Thame	Assessor	1587								
+CORN	71	 	John	Hawton	 	 		Assessor	1587								
+CORN	72	 	Walter	Jemet	 	 		Assessor	1587								
+CORN	73	 	Richard	Cotton	 	 		Assessor	1587								
+CORN	74	 	John	Baker	 	 		Assessor	1587								
+CORN	75	 	William	Drykins	 	 		Assessor	1587								
+CORN	76	 	John	Calcott	 	 		Assessor	1587								
+CORN	77	 	Thomas	Marner	 	 		Assessor	1587								
+CORN	78	 	John	Spencer	 	 		Assessor	1587								
+CORN	79	 	John	Edwards	 	 		Assessor	1587								
+CORN	80	 	John	Messenger	 	 		Assessor	1587								
+CORN	81	 	Thomas	Butler	 	 		Assessor	1587								
+CORN	82	 	John	Hester	 	 	New Thame	Corn Producer	1587						to Thame market weekly 4 lbs winter corne & 8 lbs barley & malt		
+CORN	83	 	Robert	Corner	 	Bricklayer	New Thame	Barley Producer	1587						to Thame market weekly 3 lbs barley		Malter
+CORN	84	 	Robert	Phillips	 	Shoemaker	New Thame	Malt Producer	1587						to Thame market weekly 3 lbs mault		Malter
+CORN	85	 	Lawrence	Alnett	 	Butcher	New Thame	Barley Producer	1587						to Thame market weekly 6 lbs barley		Malter
+CORN	86	 	Edmund	Alnett	 	 	New Thame	Corn Producer	1587						to Thame market weekly 2 lbs winter corne & 2 lbs beans		
+CORN	87	 	Richard	Benson	 	 	New Thame	Malt Producer	1587						to Thame market weekly 2 lbs mault		
+CORN	88	 	Robert	Adames	 	 	Old Thame	Corn Producer	1587						to Thame market weekly 3 lbs winter corn		
+CORN	89	 	Robert	Springall	 	 	Old Thame	Corn Producer	1587						to Thame market weekly 1 lb winter corn		
+CORN	90	 	William	Waie	 	 	Old Thame	Barley & Corn Producer	1587						to Thame market weekly 8 lbs winter corn 2qt Barley		
+CORN	91	 	John	Stone	 	 	Moreton	Corn Producer	1587						to Thame market weekly 9 qt winter corn		
+CORN	92	 	Thomas	Cobbett	 	 	Moreton	Corn Producer	1587						to Thame market weekly 3 lbs winter corn		
+CORN	93	 	Thomas	Hubbert	 	Victualer/Weaver	New Thame	Weekly Brewer & Baker	1587						brews weekly 2 lbs and bakes 4 lbs for last 20 years		weaver
+CORN	94	 	Thomas	Sheaparde	 	Victualer	New Thame	Weekly Brewer	1587						brews weekly 2 lbs  for 20 years		
+CORN	95	 	Edmund	Bampton	 	Victualer/Cooper	New Thame	Brewer & Baker	1587						bakes bread and brews since last Michaelmas		cooper
+CORN	96	 	John	Hellier	 	Victualer/Glover	New Thame	Weekly Brewer & Baker	1587						brews weekly 2 lbs and bakes 2 lbs  for last 10 years		glover
+CORN	97	 	Thomas	Groome	 	Victualer	New Thame	Weekly Brewer	1587						brews weekly 4 lbs  for 7 years		
+CORN	98	 	Leonard	Burton	 	Victualer	New Thame	Weekly Brewer	1587						brews weekly 2 lbs  for 7 years		
+CORN	99	 	Richard	Woodbridge	 	Victualer/Tailor	New Thame	Weekly Brewer & Baker	1587						brews weekly 4 lbs and bakes 3 lbs for 10 years		tailor
+CORN	100	 	John	Hickes	 	Victualer/Tailor	New Thame	Weekly Brewer	1587						brews weekly 2 lbs  for 10 years		tailor
+CORN	101	 	William	Thame	 	Day Labourer	New Thame	Weekly Brewer & Baker	1587						brews weekly 2 lbs and bakes 1 lb for 10 years		day labourer
+CORN	102	 	Hughe	Snowe	 	Victualer/Labourer	New Thame	Weekly Brewer	1587						brews weekly 2 lbs		labourer
+CORN	103	 	Alexander	Burton	 	Victualer/Mason	New Thame	Weekly Brewer	1587						brews weekly 2 lbs		mason
+CORN	104	 	William	Gye	 	Victualer	New Thame	Weekly Baker	1587						bakes weekly 1 lb		
+CORN	105	 	Stephen	Smithe	 	Victualer/Shoemaker	New Thame	Weekly Brewer & Baker	1587						bakes & brews weekly 2 lbs		shoemaker
+CORN	106	 	William	Tippinge	 	Victualer/Shoemaker	New Thame	Weekly Baker	1587						bakes weekly 2 lbs		shoemaker
+CORN	107	 	William	Gyncks	 	Victualer	New Thame	Weekly Baker	1587						bakes weekly 2 lbs		
+CORN	108	 	Robert	Cooke	 	Common Beerbrewer	New Thame	Weekly Brewer	1587						brews weekly 5 qtr in the winter and 10 qtr in the summer		
+CORN	109	 	Richard	Brian	 	Victualer	New Thame	Weekly Brewer & Baker	1587						brews weekly 4 lbs and bakes 4 lbs		
+CORN	110	 	John	Clincott	 	Victualer	New Thame	Weekly Brewer & Baker	1587						brews weekly 2 lbs and bakes weekly 4 lbs since last Michaelmas		unlicensed
+CORN	111	 	William	Groute	 	Victualer	New Thame	Weekly Brewer & Baker	1587						brews weekly 2 lbs and bakes weekly 2 lbs since last Michaelmas		unlicensed
+CORN	112	 	Thomas	Hester	 	Victualer	New Thame	Weekly Brewer & Baker	1587						brews weekly 1 bush and bakes weekly 1 bush since last Michaelmas		unlicensed
+CORN	113	 	John	Kamce	 	Victualer	Old Thame	Weekly Brewer & Baker	1587						brews weekly 4 lbs and bakes weekly 3 lbs for  last 20 years		
+CORN	114	 	John	Striblehill	 	Victualer	Old Thame	Weekly Brewer & Baker	1587						brews weekly 4 lbs and bakes weekly 3 lbs for  last 16 years		
+CORN	115	 	William	Palmer	 	Victualer	Old Thame	Weekly Brewer	1587						brews weekly 2 lbs for  last 12 years		
+MOM	116	 	Peeter	Wilmott	 	Innkeeper	Tame	License Payer	1617						assessed at 10s per annum for the Grayhound;  fined £5		
+MOM	117	 	Peeter	Wilmott	 	Innkeeper	Tame	License Payer	1618						assessed at 10s per annum for the Grayhound; payed 5s at Lady day and 5s at Michaelmas		
+MOM	118	 	Peeter	Wilmott	 	Innkeeper	Tame	License Payer	1620						assessed at 10s per annum for the Grayhound; payed 5s at Lady day and 5s at Michaelmas		
+MOM	119	 	Anne	Tomlinson	 	Innkeeper	Thame	License Payer	1620						assessed at 10s per annum for the Wheele; payed 5s at Lady day and 5s at Michaelmas		
+TOK	122	 	Richard	Adkins	 	Grocer	Thame	Issued a Token	1660						Obv. the arms of the grocers	Rev . R A S	
+TOK	123	 	William	Adkens	 	Innkeeper~	Thame	Issued a Token	1669						Obv. his half penny	Rev. The Black Lion  a lion rampant	
+TOK	124	 	Ruth	Aeris	 	 	Thame	Issued a Token	1660						Obv. R A	Rev. R A	
+TOK	125	 	Dorothy	Burgis	 	 	Thame	Issued a Token	1669						Obv. a lion rampant	Rev. D B	
+TOK	126	 	John	Burges	 	 	Thame	Issued a Token	1653						Obv. a unicorn	Rev. I B	
+TOK	127	 	Will	Cope	 	Grocer	Tame	Issued a Token	1660						Obv. W C	Rev. I C A	
+TOK	128	 	Robert	Crewes	 	Chandler~	Thame	Issued a Token	1668						Obv. a stick of candles	Rev. R F C	
+TOK	129	 	John	Daniel	 	Hatter	Thame	Issued a Token	1669						Obv. a hat	Rev. I D R	
+TOK	130	 	John	Gurdon	 	 	Thame	Issued a Token	1657						Obv. 1657	Rev. I G	
+TOK	131	 	John	Harris	 	Innkeeper~	Thame	Issued a Token	1660						Obv. a lion rampant	Rev. Read Lyon in Thame  I H	
+TOK	132	 	Richard	Hearne	 	Draper~	Thame	Issued a Token	1669						Obv. the arms of the drapers	Rev. R H	
+TOK	133	 	Hugh	Hester	 	Grocer	Thame	Issued a Token	1657						Obv. the arms of the grocers	Rev  H H	
+TOK	134	 	Richard	Rastell	 	Mercer	Thame	Issued a Token	1660						Obv. the arms of the mercers	Rev. R R	
+TOK	135	 	William	Jemet	 	Hatter~	Thame	Issued a Token	1669						Obv. plumed hat	Rev. W I I	
+TOK	136	 	Edward	Leaver	 	Merchant~	Thame	Issued a Token	1660						Obv. the arms of the merchant tailors	Rev. E L I	
+TOK	137	 	William	Tripp	 	Chandler	Thame	Issued a Token	1660						Obv. a stick of candles	Rev. chandler W T E	
+TOK	138	 	Mathew	Watters	 	Mercer	Thame	Issued a Token	1658						Obv. the arms of the mercers	Rev. Mercer  M W	
+TOK	139	 	Isaac	Weekes	 	Gardener	Thame	Issued a Token	1667						Obv. a tree	Rev. Gardener  his half penny	

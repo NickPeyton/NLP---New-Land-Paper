@@ -1,0 +1,104 @@
+4132 - Thame, Oxfordshire in the Seventeenth Century
+
+
+
+Dataset Type
+============
+Relational database
+
+
+
+Dataset Format
+==============
+Access 97 (2 files: data plus 'front end')
+
+AND
+
+text - data only (30 tab delimited text files  + 729 RTF files)
+
+
+
+Data Notes
+==========
+The "CodesStatus" table, does not include entries for a number of terms
+found in some of the tables. Synonyms of all these terms are included in
+the "CodesStatus" table:
+
+"beggard"
+"p"
+"traveling woman"
+"baronet"
+"junior"
+"the late"
+"esq"
+"Esq"
+"men"
+"man"
+
+
+
+Using the Data
+==============
+Users should note that the field name for surnames is "sname" in all
+tables except the "CodesNames" table, where the field name is "surname".
+
+Users who have received the Access 97 version should install the both
+database files in: "c:\thamedata\" to ensure that the front end for the
+database will be able to locate the data.
+
+The text version of the dataset contains tab delimited text files (one
+per database table) and a set of Rich Text Format (RTF) files. There is
+no front end for the text version of the dataset. Users should note that
+the documentation refers to the front end, but this is only available in
+the Access 97 version of the dataset.
+
+The RTF files in the text version of the dataset hold the contents of
+the Microsoft Word documents that are embedded in the original database
+as the "script" field in the "probatescript" table. In the tab delimited
+text file version of this table (probatescript.tab) the "script" field
+contains the name of the related RTF file that now holds the
+information.
+
+Newer versions of Access may not display the full content of the database, 
+users should use the rtf and tab files instead.
+
+
+
+File Name Changes
+=================
+TABLE					TAB
+Baptisms				Baptisms.tab             
+BaptismsSup				BaptismsSup.tab          
+Burials					Burials.tab              
+BurialsSup				BurialsSup.tab           
+CodesNames				CodesNames.tab           
+CodesOccup				CodesOccup.tab           
+CodesStatus				CodesStatus.tab          
+Copyholders				Copyholders.tab          
+CopySup					CopySup.tab              
+Frankpledge				Frankpledge.tab          
+HearthTax				HearthTax.tab            
+InvValue				InvValue.tab             
+LaySub					LaySub.tab               
+Misc					Misc.tab            
+Misc					Misc.tab                 
+MonthlyAssess			MonthlyAssess.tab        
+Monuments				Monuments.tab            
+MonumentsSup			MonumentsSup.tab         
+PLDSup					PLDSup.tab               
+PoorRate				PoorRate.tab             
+Probate					Probate.tab
+ProbateScript			ProbateScript.tab           
+ProbateSup				ProbateSup.tab           
+Property_Leases/Deeds	Property_Leases_Deeds.tab
+QuarterSessions			QuarterSessions.tab      
+Rentals					Rentals.tab              
+SchoolAcc				SchoolAcc.tab            
+Sources					Sources.tab              
+SpineTable				SpineTable.tab           
+Wardens					Wardens.tab  
+
+
+
+Hamish James, History Data Service, 06/07/2000
+Ole Wiedenmann, UK Data Service, 13/10/2016

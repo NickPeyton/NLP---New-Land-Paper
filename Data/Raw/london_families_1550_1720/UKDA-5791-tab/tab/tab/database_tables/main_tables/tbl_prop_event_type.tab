@@ -1,0 +1,460 @@
+DocId	prop_eventId	event_type	prop_event_type_notes
+72	1	grant	
+73	2	grant	
+73	3	sale	
+74	4	grant	
+75	5	rebuilding	
+76	6	grant	took place before propeventid5
+76	7	lease	took place before propeventid5
+77	8	rent	
+78	9	rent	
+79	10	rent	
+80	11	assign	assigning term
+81	12	assessment	
+82	13	rent	pid1957 paid rent between  1544-1548
+82	14	rent	pid1958 paid rent in 1548/9
+82	15	rent	pid1959 paid rent in 1549/50
+82	16	rent	pid1957 paid rent between  1550 and 1554
+83	17	lease	
+84	18	assign	pid1961 paid £2 for licence to assign his newly obtained lease to pid1962
+85	19	rent	
+86	20	leaserev	
+87	21	rent	
+88	22	rent	
+88	23	rent	
+89	24	lease	
+90	25	rent	
+90	26	rent	
+90	27	rent	
+91	28	lease	
+91	29	grant	
+92	30	lease	
+93	31	lease	questions about leases
+94	32	assessment
+95	33	grant
+95	34	lease
+96	35	grant
+97	36	rent
+98	37	grant
+98	38	assign
+99	39	rent
+100	40	grant
+100	41	assign
+101	42	grant
+101	43	assign
+102	44	rent
+103	45	grant
+103	46	assign
+104	47	grant
+104	48	assign	
+106	49	lease	lease surrendered
+106	50	lease	new lease obtained
+107	51	rent	
+107	52	rent	
+108	53	assign	pid2005 devised term to pid2006
+109	54	assessment	
+110	55	assessment	
+111	56	lease	
+111	57	rebuilding	
+111	58	survey	
+112	59	lease	
+113	60	survey	valuation of property
+114	61	grant	
+115	62	grant	
+115	63	alienation	
+116	64	assessment	
+117	65	sale	
+118	66	grant	
+119	67	lease	
+120	68	grant	
+121	69	survey	
+122	70	assessment	
+123	71	sale	
+123	72	lease	
+124	73	grant	
+125	74	quitclaim	
+126	75	grant	
+127	76	recovery	
+128	77	grant	poss: details of indenture unknown until original seen
+129	78	assessment	
+131	79	assessment	
+131	80	assessment
+132	81	survey
+133	82	survey
+134	83	rebuilding
+134	84	lease
+135	85	rent
+136	86	demolish
+137	87	assessment
+138	88	sale
+139	89	rent
+140	90	rent
+141	91	rent
+142	92	lease
+143	93	rent
+144	94	rent
+145	95	survey
+146	96	rent	
+147	97	lease	
+148	98	grant	
+149	99	rent	
+162	100	tenancy	
+163	101	assessment	
+164	102	survey	see propeventid104
+165	103	rebuilding	
+166	104	sale	see propeventid102
+167	105	rent	
+168	106	tenancy	
+169	107	rebuilding	see propeventid108
+170	108	agreement	see propeventid107
+171	109	rent	
+172	110	rent	
+173	111	rent	
+174	112	rent	
+175	113	rent	
+176	114	tenancy	
+177	115	rent	
+178	116	rent	
+179	117	rent	
+180	118	rent	
+181	119	repair	
+182	120	tenancy	
+183	121	tenancy	
+184	122	tenancy	
+185	123	tenancy	
+186	124	tenancy	
+187	125	rent	
+188	126	rent	
+189	127	grant	"see propeventid130, 132 and 133"
+189	128	rent	
+190	129	rent	
+190	130	grant	see propeventid127
+191	131	rent	
+191	132	grant	see propeventid127
+192	133	grant	see propeventid127
+192	134	rent	
+193	135	rent	see propeventid127
+194	136	lease	see propeventid138
+195	137	lease	see propeventid136
+195	138	petition	
+196	139	assessment	
+197	140	rent	
+198	141	survey	
+199	142	lease	
+200	143	lease	lease extension
+201	144	rent	
+202	145	assessment	
+203	146	assessment	
+204	147	demolish	
+205	148	sale	
+206	149	grant	compensation
+207	150	lease	
+208	151	lease	
+209	152	assessment	
+210	153	recovery	
+211	154	quitclaim	
+212	155	quitrent	
+213	156	quitrent	
+214	157	quitrent	
+215	158	tenancy	
+216	159	survey	
+217	160	lease	
+218	161	assessment	
+219	162	leaserev	
+220	163	tenancy	
+221	164	tenancy	
+222	165	lease	
+223	166	tenancy	
+227	167	lease	
+228	168	assessment	subsidy assessment
+229	169	grant	bequest of lease
+230	170	leaserev	
+231	171	assessment	
+232	172	leaserev	
+233	173	assessment	
+234	174	grant	
+235	175	rent	
+236	176	rent	
+237	177	rent	
+238	178	rent	
+239	179	rent	
+240	180	lease	
+241	181	rent	
+242	182	petition	request for new lease
+243	183	survey	view of premises
+243	184	lease	
+243	185	lease	lease to undertenant
+244	186	rent	
+245	187	assessment	
+246	188	rent	
+247	189	rent	
+248	190	petition	
+249	191	survey	
+249	192	lease	
+250	193	survey	new view
+251	194	rent	
+252	195	assessment	
+253	196	assessment	
+254	197	lease	
+255	198	assessment	
+256	199	assessment	
+257	200	assessment	
+258	201	rent	
+259	202	lease	
+260	203	lease	
+261	204	lease	
+262	205	lease	
+263	206	assign	lease assigned
+264	207	assign	lease assigned
+265	208	grant	succession of lease
+266	209	assessment	
+267	210	assessment	
+268	211	assign	lease assigned
+269	212	assessment	
+270	213	assessment	
+271	214	agreement	
+271	215	sale	
+272	216	grant	
+273	217	lease	
+274	218	ownership	
+275	219	lease	not an issue of new lease - statement of existing leases
+275	220	lease	not an issue of new lease - statement of existing leases
+276	221	lease	
+277	222	rent	
+278	223	grant	
+279	224	quitrent	
+280	225	assessment	
+281	226	tenancy	
+282	227	quitrent	
+283	228	occupancy	
+284	229	occupancy	
+285	230	occupancy	
+286	231	petition	
+287	232	sale	
+288	233	grant	inheritance
+289	234	sale	
+290	235	assessment	
+291	236	grant	inheritance
+292	237	assessment	
+293	238	assessment	
+294	239	assessment	
+295	240	grant	presumably a bequest of the tenancy to pid7155?
+295	241	tenancy	
+296	242	occupancy	
+297	243	occupancy	
+298	244	occupancy	
+299	245	sale	
+299	246	grant	conveyed to third party as part of assurance
+300	247	recovery	
+301	248	grant	
+303	249	survey	
+302	250	grant	
+304	251	sale	
+304	252	sale	
+305	253	assign	devised by will
+306	254	assessment	
+307	255	occupancy	
+308	256	lease	
+309	257	lease	
+310	258	petition	dispute at guildhall and chancery
+310	259	lease	provision of perpetuating lease
+382	260	petition	petittion for consideration of costs of repairs
+381	261	lease	
+383	262	rent	payment of rent over period
+383	263	rebuilding	splitting of messuage into two
+384	264	lease	
+385	265	assign	
+385	266	rent	
+386	267	lease	
+386	268	rent	
+387	269	lease	surrender of existing lease and issue of new lease
+388	270	survey	view/valuation
+388	271	lease	
+389	272	rent	
+390	273	rent	
+390	274	rent	
+391	275	occupancy	
+392	276	lease	lease in reversion
+393	277	grant	bequest of lease
+393	278	rent	
+394	279	occupancy	
+395	280	occupancy	
+396	281	foundation	
+397	282	compensation	
+398	283	petition	
+398	284	lease	
+398	285	foundation	
+399	286	survey	
+400	287	occupancy	
+401	288	occupancy
+402	289	lease
+403	290	occupancy
+404	291	rent
+405	292	lease
+406	293	assign
+406	294	lease
+407	295	petition
+408	296	survey
+409	297	petition
+409	298	lease
+410	299	rent
+411	300	occupancy
+412	301	dispute
+412	302	lease
+413	303	rent
+414	304	rent
+415	305	occupancy
+416	306	lease
+417	307	rent
+418	308	occupancy
+419	309	occupancy
+420	310	lease
+421	311	occupancy
+422	312	occupancy
+423	313	lease
+424	314	occupancy
+425	315	rent
+426	316	lease
+427	317	rent
+428	318	petition
+428	319	survey
+428	320	lease	
+429	321	rent	
+429	322	lease	
+430	323	rent	
+431	324	occupancy	
+432	325	petition	
+432	326	lease	
+433	327	petition	
+434	328	petition	
+434	329	lease	extension to existing lease
+435	330	rent	
+436	331	rent	
+437	332	occupancy	
+438	333	occupancy	
+439	334	petition	
+439	335	lease	extension to existing lease
+440	336	alienation
+441	337	occupancy
+442	338	dispute
+443	339	occupancy
+444	340	dispute
+445	341	occupancy
+446	342	rent
+447	343	petition
+447	344	lease
+448	345	rent
+449	346	rent
+450	347	assign
+451	348	sublet
+452	349	assign
+452	350	rent
+452	351	assign
+453	352	lease	
+454	353	sublet	
+455	354	petition	
+456	355	rent	
+456	356	rent	
+457	357	survey	report on condition
+458	358	survey	report on condition
+459	359	lease	
+460	360	rent	
+461	361	grant	will bequests
+462	362	assign	transfer of lease by licence
+463	363	rent	
+464	364	rent	
+465	365	lease	
+466	366	rent	
+467	367	petition	
+467	368	lease	
+468	369	rent	
+469	370	occupancy	
+470	371	survey	
+470	372	lease	
+470	373	lease	
+471	374	rent	
+472	375	grant	will bequest
+473	376	assign	
+473	377	petition	
+474	378	occupancy	
+475	379	occupancy	
+476	380	occupancy	
+477	381	dispute	
+477	382	lease	
+478	383	survey	
+479	384	rebuilding
+480	385	lease
+480	386	lease
+481	387	lease
+482	388	rent
+483	389	agreement
+484	390	rent
+485	391	lease
+486	392	assign
+487	393	rent
+488	394	occupancy
+488	395	division
+489	396	survey
+489	397	lease
+490	398	rent
+491	399	survey
+491	400	lease	
+492	401	rent	
+493	402	rent	
+494	403	survey	
+494	404	lease	
+494	405	grant	
+495	406	repair	
+496	407	repair	
+497	408	repair	
+498	409	repair	
+499	410	repair	
+500	411	rent	
+501	412	occupancy	
+502	413	petition	
+502	414	survey	view after lease petition
+502	415	lease	
+503	416	rent
+504	417	petition
+504	418	survey
+504	419	lease
+505	420	rent
+506	421	rent
+507	422	occupancy
+508	423	occupancy
+509	424	petition
+509	425	grant
+510	426	tenancy
+511	427	tenancy
+512	428	tenancy
+513	429	repair
+514	430	grant
+515	431	grant
+515	432	grant
+516	433	rent
+517	434	occupancy
+518	435	petition
+519	436	lease
+520	437	rent
+521	438	rent
+522	439	rent
+523	440	rent
+524	441	rent
+525	442	repair
+525	443	repair
+526	444	petition
+526	445	lease
+526	446	sublet
+527	447	rent
+528	448	sublet
+529	449	rent
+530	450	petition
+530	451	lease
+531	452	rent
+532	453	rent
+533	454	petition
+533	455	grant
+533	456	sublet
+534	457	rent
+535	458	rent
+536	459	rent

@@ -1,0 +1,1531 @@
+beqrecipid	bequestid	reciptype	recipid
+1	1	family	2
+2	2	company	3
+3	3	company	3
+4	4	unknown	5
+5	5	genericpoor	
+6	6	poorprisoners	6
+7	6	poorprisoners	7
+8	6	poorprisoners	8
+9	7	family	
+10	8	religious	10
+11	9	family	11
+12	9	poormaidens	
+13	10	genericfriends	
+14	11	genericapprentice	
+15	12	servant	12
+16	13	poorhh	
+17	13	poorparish	
+18	14	family	2
+19	14	family	
+20	1	family	
+21	15	family	14
+22	15	exec	14
+23	16	business	
+24	17	family	20
+25	17	family	21
+26	17	family	22
+27	17	family	23
+28	18	family	20
+29	18	family	21
+30	18	family	22
+31	18	family	23
+32	18	family	
+33	19	company	24
+34	20	servant	25
+35	20	unknown	26
+36	21	business	
+37	22	family	
+38	23	childrenhospital	30
+39	24	family	31
+40	25	family	35
+41	25	family	
+42	26	family	36
+43	27	family	37
+44	28	family	38
+45	29	family	39
+46	30	business	
+47	31	family	
+48	31	family	35
+49	32	poorparish	
+50	33	business	
+51	34	genericpoor	
+52	35	unknown	45
+53	36	family	
+54	36	family	46
+55	37	family	48
+56	38	family	50
+57	39	highaltar	
+58	40	family	68
+59	40	family	69
+60	40	family	70
+61	40	family	71
+62	40	family	72
+63	40	family	73
+64	41	family	76
+65	42	family	74
+66	42	family	75
+67	43	family	
+68	45	family	78
+69	45	family	79
+70	46	family	
+71	47	apprentice	80
+72	48	apprentice	
+73	49	unknown	81
+74	50	unknown	82
+75	51	family	68
+76	51	family	69
+77	51	family	70
+78	51	family	71
+79	51	family	72
+80	51	family	73
+81	52	unknown	83
+82	53	family	68
+83	53	family	69
+84	53	family	70
+85	53	family	71
+86	53	family	72
+87	53	family	73
+88	54	company	
+89	55	poorhh	
+90	55	genericpoor	
+91	56	family	68
+92	56	family	69
+93	56	family	70
+94	56	family	71
+95	56	family	72
+96	56	family	73
+97	57	exec	84
+98	57	friend	84
+99	58	exec	84
+100	58	friend	84
+101	59	family	68
+102	59	exec	68
+103	60	super	86
+104	60	super	87
+105	61	super	88
+106	61	super	89
+107	62	business	
+108	63	unknown	95
+109	64	unknown	96
+110	65	family	97
+111	66	family	98
+112	67	family	
+113	68	family	
+114	69	family	99
+115	70	unknown	100
+116	71	unknown	101
+117	72	unknown	102
+118	73	unknown	103
+119	74	unknown	104
+120	75	unknown	104
+121	76	unknown	104
+122	77	apprentice	
+123	78	unknown	105
+124	79	knownpoor	
+125	80	genericpoor	
+126	81	unknown	106
+127	82	family	
+128	83	family	111
+129	84	family	112
+130	84	family	113
+131	84	family	114
+132	85	unknown	116
+133	85	family	112
+134	85	family	113
+135	85	family	114
+136	86	family	111
+137	86	family	
+138	86	family	
+139	86	genericpoor	
+140	87	family	111
+141	88	family	120
+142	88	family	
+143	89	servant	121
+144	90	apprentice	
+145	91	unknown	122
+146	92	family	112
+147	92	family	113
+148	92	family	114
+149	93	exec	123
+150	93	exec	124
+151	94	super	125
+152	95	company	126
+153	96	company	126
+154	97	employee	127
+155	98	family	129
+156	99	family	129
+157	98	family	131
+158	99	family	131
+159	100	family	129
+160	100	family	133
+161	101	family	129
+162	102	genericpoor	
+163	103	family	137
+164	103	family	138
+165	104	family	137
+166	105	family	137
+167	106	family	138
+168	106	family	137
+169	106	family	139
+170	106	family	140
+171	107	family	138
+172	108	family	139
+173	108	family	141
+174	108	family	
+175	109	family	139
+176	111	family	144
+177	111	family	145
+178	110	family	143
+179	112	family	140
+180	114	family	147
+181	114	family	148
+182	114	family	149
+183	115	family	150
+184	116	family	151
+185	117	poorparish	
+186	118	poorprisoners	152
+187	119	poorprisoners	153
+188	120	exec	
+189	121	religious	
+190	122	religious	
+191	123	family	155
+192	124	family	156
+193	125	family	156
+194	126	family	157
+195	127	unknown	
+196	128	family	158
+197	129	family	160
+198	129	family	161
+199	129	family	162
+200	129	family	163
+201	129	family	164
+202	129	family	165
+203	129	family	166
+204	130	family	166
+205	131	family	168
+206	132	family	170
+207	133	family	172
+208	134	godchild	173
+209	136	unknown	175
+210	137	unknown	176
+211	138	company	178
+212	138	genericpoor	
+213	139	company	178
+214	140	company	178
+215	141	unknown	
+216	142	hospital	
+217	143	unknown	181
+218	144	poorprisoners	
+219	145	poorprisoners	182
+220	145	poorprisoners	183
+221	145	poorprisoners	184
+222	146	poorparish	
+223	147	tenant	185
+224	148	tenant	186
+225	149	unknown	187
+226	150	servant	188
+227	151	servant	189
+228	152	unknown	190
+229	153	family	191
+230	154	poorparish	192
+231	154	poorparish	193
+232	155	poorparish	
+233	156	employee	194
+234	157	servant	195
+235	158	servant	196
+236	159	servant	
+237	160	unknown	197
+238	161	family	156
+239	162	unknown	198
+240	163	family	199
+241	164	family	172
+242	165	unknown	200
+243	166	unknown	201
+244	167	unknown	202
+245	168	unknown	203
+246	169	business	177
+247	170	unknown	194
+248	171	genericpoor	
+249	172	unknown	204
+250	172	unknown	205
+251	173	unknown	206
+252	173	unknown	207
+253	174	family	170
+254	174	family	208
+255	175	family	172
+256	175	family	209
+257	176	family	157
+258	177	family	158
+259	178	family	166
+260	179	family	168
+261	179	family	169
+262	180	family	210
+263	181	religious	211
+264	182	religious	
+265	183	religious	212
+266	184	unknown	194
+267	184	unknown	213
+268	185	unknown	214
+269	186	unknown	215
+270	187	servant	
+271	188	servant	
+272	189	family	155
+273	190	family	155
+274	191	exec	194
+275	191	exec	216
+276	192	family	220
+277	193	family	220
+278	193	family	223
+279	193	family	224
+280	194	family	224
+281	195	family	226
+282	196	family	227
+283	197	family	223
+284	197	family	224
+285	197	family	227
+286	197	family	226
+287	198	hospital	228
+288	198	poorprisoners	229
+289	198	poorprisoners	230
+290	198	poorprisoners	231
+291	198	poorprisoners	232
+292	198	poorprisoners	233
+293	200	unknown	235
+294	201	unknown	237
+295	202	unknown	238
+296	203	unknown	239
+297	203	unknown	240
+298	203	unknown	241
+299	203	unknown	242
+300	204	family	245
+301	204	family	246
+302	204	family	247
+303	205	family	
+304	206	family	248
+305	208	family	223
+306	208	family	226
+307	208	family	227
+308	209	family	223
+309	209	family	226
+310	210	family	223
+311	211	family	226
+312	212	family	227
+313	213	unknown	
+314	214	family	223
+315	215	family	227
+316	215	family	253
+317	216	religious	
+318	217	business	
+319	218	family	258
+320	219	family	258
+321	220	family	260
+322	220	family	261
+323	221	family	262
+324	222	family	260
+325	222	family	261
+326	223	family	264
+327	224	family	265
+328	225	friend	266
+329	226	family	267
+330	227	family	268
+331	228	family	258
+332	229	family	268
+333	230	family	270
+334	230	family	271
+335	230	family	272
+336	231	family	280
+337	231	family	281
+338	231	family	282
+339	231	family	260
+340	231	family	261
+341	231	family	284
+342	231	family	285
+343	231	family	267
+344	232	family	271
+345	232	family	264
+346	232	family	272
+347	232	family	267
+348	232	family	260
+349	233	family	286
+350	233	family	271
+351	233	family	272
+352	233	family	260
+353	233	family	261
+354	234	family	264
+355	234	family	265
+356	234	company	
+357	234	family	270
+358	234	family	271
+359	234	family	272
+360	235	religious	
+361	236	exec	260
+362	236	exec	261
+363	236	super	266
+364	236	super	267
+365	236	super	289
+366	237	company	
+367	238	poorparish	
+368	239	prison	298
+369	239	prison	299
+370	239	prison	300
+371	239	prison	301
+372	239	prison	302
+373	239	prison	303
+374	240	company	304
+375	241	family	305
+376	242	family	306
+377	243	family	307
+378	244	unknown	308
+379	244	company	304
+380	244	religious	
+381	244	family	307
+382	244	religious	
+383	245	family	305
+384	246	family	305
+385	247	religious	
+386	248	family	
+387	249	family	309
+388	249	family	310
+389	249	family	311
+390	250	unknown	312
+391	251	unknown	313
+392	252	unknown	314
+393	253	unknown	315
+394	255	unknown	255
+395	256	servant	318
+396	257	unknown	319
+397	258	family	305
+398	259	family	306
+399	260	unknown	320
+400	261	exec	321
+401	261	exec	322
+402	262	exec	321
+403	262	exec	322
+404	262	exec	323
+405	262	exec	324
+406	263	super	308
+407	264	business	
+408	265	family	327
+409	266	religious	
+410	266	genericpoor	
+411	267	religious	
+412	268	religious	
+413	269	company	
+414	270	poorhh	
+415	271	poorhh	
+416	272	poorhh	
+417	273	poorhh	
+418	274	poormaidens	
+419	275	civic	
+420	276	religious	
+421	277	poorscholar	330
+422	277	poorscholar	331
+423	278	unknown	332
+424	279	unknown	333
+425	280	family	334
+426	281	unknown	335
+427	282	servant	336
+428	283	employee	337
+429	284	family	338
+430	285	family	339
+431	286	employee	341
+432	287	unknown	340
+433	288	family	327
+434	288	exec	346
+435	288	super	347
+436	289	unknown	342
+437	290	hospital	343
+438	290	hospital	344
+439	290	hospital	345
+440	291	exec	346
+441	288	super	348
+442	292	super	347
+443	292	super	348
+444	293	business	
+445	294	family	350
+446	294	family	351
+447	294	family	352
+448	295	poorprisoners	355
+449	295	poorprisoners	356
+450	295	poorprisoners	357
+451	295	childrenhospital	358
+452	296	unknown	359
+453	296	unknown	360
+454	297	genericpoor	
+455	298	civic	
+456	299	poorscholar	361
+457	299	poorscholar	362
+458	300	family	364
+459	300	family	365
+460	300	poorkin	
+461	301	family	368
+462	302	servant	369
+463	303	unknown	370
+464	304	family	371
+465	305	servant	372
+466	306	company	373
+467	307	unknown	374
+468	308	friend	353
+469	308	friend	375
+470	308	friend	376
+471	308	friend	377
+472	309	unknown	378
+473	310	family	379
+474	311	family	380
+475	312	family	381
+476	313	family	350
+477	313	family	351
+478	313	family	352
+479	314	family	350
+480	315	super	350
+481	315	super	382
+482	315	super	367
+483	315	super	383
+484	316	unknown	
+485	317	family	386
+486	318	family	387
+487	319	family	388
+488	320	family	389
+489	321	family	390
+490	322	family	391
+491	323	family	392
+492	324	family	393
+493	325	family	395
+494	326	family	396
+495	326	family	398
+496	326	family	399
+497	327	family	398
+498	327	family	399
+499	328	unknown	400
+500	329	family	402
+501	330	apprentice	403
+502	331	servant	404
+504	332	servant	405
+505	333	servant	404
+506	333	servant	405
+507	333	apprentice	403
+508	334	servant	
+509	335	unknown	406
+510	336	godchild	407
+511	337	godchild	408
+512	338	godchild	409
+513	339	godchild	410
+514	339	godchild	411
+515	340	unknown	412
+516	341	godchild	413
+517	342	unknown	414
+518	343	unknown	415
+519	344	unknown	416
+520	345	tenant	
+521	346	genericpoor	
+522	347	genericpoor	
+523	348	apprentice	403
+524	349	family	418
+525	350	business	
+526	351	family	422
+527	351	family	423
+528	351	family	424
+529	351	family	425
+530	352	genericpoor	
+531	353	family	425
+532	354	family	428
+533	354	family	429
+534	354	family	430
+535	354	family	431
+536	355	unknown	433
+537	355	unknown	434
+538	355	unknown	435
+539	355	unknown	436
+540	355	unknown	437
+541	356	family	439
+542	357	family	440
+543	358	family	441
+544	359	apprentice	442
+545	360	servant	
+546	361	family	443
+547	362	family	444
+548	363	unknown	445
+549	364	family	446
+550	365	family	447
+551	366	apprentice	448
+552	367	family	422
+553	368	exec	450
+554	369	religious	
+555	369	employer	454
+556	369	family	
+557	370	genericpoor	
+558	371	poorhh	
+559	371	poorparish	
+560	372	unknown	
+561	373	genericpoor	
+562	374	genericpoor	
+563	375	genericpoor	
+564	375	family	
+565	376	religious	
+566	377	religious	
+567	378	genericpoor	
+568	379	family	455
+569	380	family	455
+570	381	family	456
+571	382	family	455
+572	382	family	
+573	383	family	455
+574	384	unknown	458
+575	385	unknown	459
+576	386	employer	
+577	387	family	455
+578	388	apprentice	461
+579	389	apprentice	460
+580	388	apprentice	462
+581	388	apprentice	463
+582	390	apprentice	460
+583	390	apprentice	461
+584	390	apprentice	462
+585	390	apprentice	463
+586	391	unknown	464
+587	392	business	465
+588	393	servant	
+589	394	unknown	
+590	395	unknown	466
+591	396	unknown	467
+592	397	unknown	468
+593	398	unknown	469
+594	399	family	
+595	400	business	470
+596	401	unknown	471
+597	402	employer	454
+598	403	family	455
+599	404	family	455
+600	404	family	456
+601	405	unknown	472
+602	406	family	456
+603	407	religious	
+604	408	religious	
+605	409	religious	
+606	410	religious	474
+607	411	unknown	476
+608	412	poorparish	
+609	413	genericpoor	
+610	414	hospital	477
+611	415	hospital	478
+612	416	family	480
+613	417	business	481
+614	418	business	482
+615	419	family	483
+616	420	unknown	484
+617	421	servant	485
+618	422	family	
+619	421	family	485
+620	423	servant	486
+621	424	unknown	487
+622	425	unknown	488
+623	426	unknown	489
+624	427	unknown	490
+625	428	servant	491
+626	429	unknown	493
+627	430	unknown	494
+628	431	family	495
+629	431	family	496
+630	431	family	497
+631	432	unknown	498
+632	433	family	500
+633	433	business	500
+634	434	religious	
+635	434	poorparish	
+636	434	company	
+637	435	family	499
+638	435	family	495
+639	435	family	496
+640	436	poorparish	
+641	436	company	506
+642	437	unknown	509
+643	438	unknown	510
+644	439	company	506
+645	440	charity	506
+646	441	company	506
+647	441	knownpoor	506
+648	442	unknown	512
+649	442	unknown	513
+650	443	unknown	514
+651	443	unknown	515
+652	444	friend	516
+653	445	business	517
+654	446	family	499
+655	447	super	518
+656	447	super	519
+657	447	super	511
+658	448	servant	520
+659	449	servant	521
+660	450	genericpoor	
+661	451	business	
+662	452	family	525
+663	452	family	526
+664	452	family	527
+665	452	family	528
+666	452	family	529
+667	453	family	524
+668	454	family	530
+669	454	family	531
+670	455	family	525
+671	456	family	526
+672	457	family	527
+673	458	family	529
+674	459	family	532
+675	461	family	535
+676	460	family	533
+677	462	family	
+678	463	family	538
+679	464	family	
+680	465	family	
+681	466	family	541
+682	467	poorscholar	543
+683	468	poorscholar	544
+684	469	childrenhospital	549
+685	469	poorhosp	549
+686	470	poorhosp	550
+687	471	prison	551
+688	471	prison	552
+689	471	prison	553
+690	471	prison	554
+691	471	prison	555
+692	472	servant	556
+693	473	unknown	557
+694	474	family	558
+695	475	family	559
+696	475	family	560
+697	476	servant	561
+698	477	unknown	563
+699	478	unknown	564
+700	478	unknown	565
+701	479	unknown	566
+702	480	company	567
+703	481	servant	568
+704	481	servant	569
+705	481	servant	570
+706	481	servant	571
+707	481	servant	572
+708	481	servant	573
+709	482	unknown	574
+710	482	unknown	575
+711	483	family	530
+712	483	family	531
+713	484	servant	
+714	485	unknown	576
+715	485	unknown	577
+716	486	religious	578
+717	487	family	579
+718	489	family	581
+719	490	family	524
+720	490	family	525
+721	490	family	527
+722	490	family	529
+723	490	family	528
+724	491	family	526
+725	491	family	527
+726	491	family	525
+727	491	family	528
+728	491	family	529
+729	492	family	527
+730	492	family	526
+731	492	family	525
+732	492	family	528
+733	492	family	529
+734	493	super	530
+735	493	super	568
+736	493	family	530
+737	494	family	525
+738	494	family	526
+739	494	family	527
+740	494	family	528
+741	494	family	529
+742	495	business	
+743	495	business	592
+744	495	business	593
+745	495	business	594
+746	495	business	595
+747	495	friend	592
+748	495	friend	593
+749	495	friend	594
+750	496	family	
+751	497	family	
+752	498	poorhosp	600
+753	499	poorhosp	601
+754	500	poorhosp	602
+755	501	poorprisoners	603
+756	502	poorprisoners	604
+757	503	poorprisoners	605
+758	504	poorprisoners	606
+759	504	poorprisoners	607
+760	504	poorprisoners	608
+761	505	prison	609
+762	505	prison	610
+763	505	hospital	610
+764	506	hospital	611
+765	507	poorparish	
+766	508	poorparish	
+767	509	company	612
+768	509	knownpoor	613
+769	509	poorparish	
+770	510	unknown	614
+771	510	unknown	615
+772	510	civic	
+773	511	poorscholar	
+774	512	company	618
+775	512	knownpoor	
+776	513	religious	
+777	514	religious	
+778	515	genericpoor	
+779	516	servant	
+780	517	servant	
+781	518	unknown	592
+782	518	unknown	593
+783	518	unknown	594
+784	518	unknown	595
+785	518	unknown	620
+786	518	unknown	621
+787	518	unknown	622
+788	518	unknown	623
+789	518	unknown	624
+790	518	unknown	625
+791	518	unknown	626
+792	518	unknown	627
+793	518	unknown	628
+794	518	unknown	629
+795	519	family	617
+796	520	family	630
+797	521	family	631
+798	522	unknown	632
+799	523	family	617
+800	524	super	595
+801	524	super	626
+802	524	super	627
+803	525	family	617
+804	526	family	617
+805	527	friend	595
+806	527	friend	626
+807	527	friend	627
+808	527	family	630
+809	527	family	617
+810	528	family	633
+811	528	unknown	634
+812	529	business	
+813	530	family	639
+814	531	family	639
+815	531	servant	640
+816	532	family	641
+817	532	family	642
+818	533	family	639
+819	534	servant	640
+820	535	family	643
+821	536	family	645
+822	537	religious	
+823	537	genericpoor	
+824	538	company	646
+825	538	genericpoor	
+826	538	poorprisoners	647
+827	538	poorprisoners	648
+828	538	poorprisoners	649
+829	538	poorprisoners	650
+830	538	poorprisoners	651
+831	538	poorprisoners	652
+832	538	poorprisoners	653
+833	538	poorprisoners	654
+834	539	family	641
+835	539	family	642
+836	539	family	655
+837	540	servant	
+838	541	servant	
+839	542	exec	656
+840	542	family	656
+841	543	super	657
+842	543	super	658
+843	543	super	659
+844	544	charity	
+845	545	religious	
+846	546	prison	665
+847	546	prison	666
+848	546	prison	667
+849	546	prison	668
+850	547	poorprisoners	669
+851	548	religious	670
+852	548	religious	671
+853	548	religious	672
+854	548	religious	673
+855	548	religious	674
+856	549	hospital	
+857	550	civic	675
+858	551	family	676
+859	552	apprentice	677
+860	553	apprentice	678
+861	554	servant	679
+862	555	servant	680
+863	555	unknown	681
+864	556	servant	682
+865	557	family	683
+866	558	family	684
+867	559	religious	
+868	560	religious	
+869	561	religious	
+870	562	family	686
+871	563	family	687
+872	563	family	688
+873	564	exec	681
+874	564	exec	689
+875	565	exec	690
+876	565	exec	691
+877	566	super	
+878	567	super	392
+879	568	super	693
+880	568	family	693
+881	569	super	694
+882	569	family	694
+883	570	family	696
+884	571	family	697
+885	572	unknown	
+886	573	business	699
+887	574	servant	700
+888	574	business	7001
+889	575	unknown	
+890	576	friend	703
+891	576	super	703
+892	576	super	704
+893	577	super	705
+894	578	unknown	
+895	579	unknown	706
+896	580	family	707
+897	581	family	708
+898	581	apprentice	708
+899	582	religious	
+900	582	religious	710
+901	583	family	713
+902	583	family	714
+903	583	family	715
+904	583	family	716
+905	584	family	711
+906	585	family	717
+907	586	family	718
+908	587	family	719
+909	588	family	720
+910	588	family	721
+911	589	family	722
+912	589	family	723
+913	590	family	724
+914	591	unknown	725
+915	591	unknown	726
+916	592	business	727
+917	592	business	728
+918	593	unknown	729
+919	593	unknown	730
+920	593	unknown	731
+921	593	unknown	732
+922	593	unknown	733
+923	593	unknown	734
+924	593	unknown	735
+925	593	unknown	736
+926	593	unknown	737
+927	593	unknown	738
+928	593	unknown	739
+929	593	unknown	740
+930	593	unknown	741
+931	594	servant	742
+932	595	poorhosp	743
+933	595	childrenhospital	743
+934	596	poorhosp	744
+935	597	poorhosp	745
+936	598	poorprisoners	746
+937	598	poorprisoners	747
+938	598	poorprisoners	748
+939	598	poorprisoners	749
+940	599	poorprisoners	750
+941	600	religious	751
+942	600	religious	
+943	602	poorprisoners	750
+944	602	family	712
+945	603	family	712
+946	603	family	713
+947	603	family	714
+948	603	family	715
+949	603	family	716
+950	603	family	711
+951	603	family	718
+952	604	servant	755
+953	605	servant	756
+954	606	business	727
+955	606	family	712
+956	606	servant	756
+957	607	servant	755
+958	608	servant	757
+959	609	business	758
+960	610	servant	759
+961	611	poorparish	
+962	612	business	
+963	613	family	712
+964	614	family	713
+965	614	family	714
+966	614	family	715
+967	614	family	716
+968	615	family	764
+969	615	family	724
+970	615	family	719
+971	615	family	718
+972	615	family	717
+973	615	family	711
+974	615	religious	710
+975	615	family	712
+976	615	family	763
+977	615	family	720
+978	615	family	721
+979	615	family	722
+980	615	family	723
+981	615	business	727
+982	615	business	728
+983	616	servant	
+984	616	servant	755
+985	617	unknown	765
+986	618	business	758
+987	619	genericpoor	
+988	620	religious	766
+989	621	family	768
+990	622	religious	
+991	623	religious	
+992	624	religious	
+993	625	religious	
+994	626	business	
+995	627	poorparish	
+996	627	religious	
+997	628	religious	
+998	629	company	773
+999	630	company	773
+1000	631	family	774
+1001	632	family	775
+1002	632	family	
+1003	632	family	774
+1004	633	family	776
+1005	633	family	777
+1006	634	family	
+1007	634	family	777
+1008	635	religious	
+1009	636	religious	
+1010	637	unknown	778
+1011	638	apprentice	779
+1012	639	religious	780
+1013	640	exec	
+1014	640	family	777
+1015	640	religious	
+1016	641	exec	781
+1017	641	exec	782
+1018	642	super	783
+1019	643	family	776
+1020	643	family	777
+1021	644	religious	
+1022	645	business	
+1023	646	family	785
+1024	647	family	785
+1025	648	family	787
+1026	648	family	788
+1027	648	family	789
+1028	648	family	790
+1029	648	family	791
+1030	648	family	792
+1031	648	family	793
+1032	649	family	794
+1033	649	family	795
+1034	650	family	796
+1035	650	family	797
+1036	651	family	797
+1037	652	family	788
+1038	652	family	789
+1039	652	family	790
+1040	652	family	791
+1041	652	family	792
+1042	653	family	798
+1043	654	family	799
+1044	654	family	800
+1045	655	family	799
+1046	655	family	800
+1047	656	family	
+1048	657	family	803
+1049	658	family	804
+1050	658	family	805
+1051	659	family	804
+1052	659	family	805
+1053	660	family	806
+1054	660	family	807
+1055	661	family	806
+1056	661	family	807
+1057	662	family	808
+1058	662	family	809
+1059	663	family	808
+1060	664	employer	810
+1061	664	employer	811
+1062	665	unknown	812
+1063	666	employer	
+1064	667	unknown	813
+1065	668	unknown	813
+1066	669	unknown	845
+1067	670	friend	817
+1068	670	friend	818
+1069	671	unknown	819
+1070	672	unknown	820
+1071	672	unknown	821
+1072	673	friend	822
+1073	673	friend	823
+1074	674	family	787
+1075	675	family	798
+1076	676	servant	824
+1077	676	servant	
+1078	677	unknown	825
+1079	678	unknown	826
+1080	679	unknown	827
+1081	680	poorparish	
+1082	681	poorparish	
+1083	682	family	785
+1084	683	exec	822
+1085	684	super	800
+1086	684	super	828
+1087	685	unknown	
+1088	686	exec	822
+1089	686	family	785
+1090	686	friend	822
+1091	686	business	
+1092	687	family	799
+1093	688	family	785
+1094	689	family	834
+1095	689	family	835
+1096	690	family	799
+1097	690	family	787
+1099	692	servant	824
+1100	693	family	787
+1101	694	religious	815
+1102	695	civic	
+1103	696	family	839
+1104	697	family	839
+1105	698	family	844
+1106	699	business	
+1107	700	family	849
+1108	700	family	850
+1109	700	family	851
+1110	700	family	852
+1111	700	family	853
+1112	700	family	854
+1113	700	family	855
+1114	700	family	856
+1116	701	friend	857
+1117	701	exec	857
+1118	702	family	861
+1119	702	family	864
+1120	702	family	865
+1121	702	family	866
+1122	702	family	867
+1123	702	family	868
+1124	702	family	869
+1125	703	childrenhospital	872
+1126	704	family	873
+1127	705	family	874
+1128	706	family	865
+1129	707	family	861
+1130	707	family	864
+1131	708	business	
+1132	709	family	879
+1133	710	family	880
+1134	711	family	883
+1135	711	family	884
+1136	712	family	885
+1137	713	family	
+1138	714	family	888
+1139	715	family	
+1140	716	family	891
+1141	717	family	892
+1142	718	family	894
+1143	719	family	881
+1144	719	family	882
+1145	720	religious	899
+1146	721	poorparish	
+1147	722	super	900
+1148	722	super	901
+1149	722	super	902
+1150	723	school	904
+1151	724	unknown	906
+1152	725	unknown	907
+1153	726	family	908
+1154	726	family	903
+1155	727	family	903
+1156	726	family	910
+1157	726	family	911
+1158	726	unknown	912
+1159	726	poorparish	
+1160	726	religious	899
+1161	726	unknown	906
+1162	726	unknown	913
+1163	728	super	900
+1164	728	super	901
+1165	728	super	902
+1166	728	friend	900
+1167	729	business	
+1168	730	family	917
+1169	731	family	918
+1170	731	family	919
+1171	731	family	920
+1172	732	family	921
+1173	733	family	922
+1174	734	unknown	923
+1175	735	unknown	924
+1176	736	servant	925
+1177	737	genericpoor	
+1178	738	family	926
+1179	739	family	920
+1180	740	business	
+1181	741	family	932
+1182	742	family	933
+1183	743	family	934
+1184	744	apprentice	935
+1185	745	apprentice	936
+1186	746	family	933
+1187	747	family	937
+1188	748	friend	938
+1189	748	family	938
+1190	749	unknown	939
+1191	751	family	943
+1192	752	family	944
+1193	753	family	945
+1194	754	family	946
+1195	754	family	947
+1196	754	family	948
+1197	754	exec	946
+1198	754	exec	947
+1199	755	family	953
+1200	756	family	954
+1201	757	family	955
+1202	758	family	956
+1203	759	family	957
+1204	759	servant	957
+1205	760	servant	958
+1206	761	family	954
+1207	761	family	955
+1208	761	family	956
+1209	761	business	
+1210	762	business	
+1211	764	family	971
+1212	764	family	977
+1213	765	family	977
+1214	765	family	978
+1215	766	family	971
+1216	766	family	978
+1217	767	family	971
+1218	767	family	978
+1219	768	family	971
+1220	768	family	978
+1221	769	family	971
+1222	769	family	978
+1223	770	business	980
+1224	770	family	978
+1225	770	family	982
+1226	771	family	983
+1227	771	family	985
+1228	772	family	981
+1229	772	family	971
+1230	772	family	978
+1231	773	family	981
+1232	773	family	982
+1233	774	unknown	986
+1234	775	unknown	987
+1235	776	unknown	988
+1236	777	unknown	989
+1237	778	unknown	
+1238	779	unknown	990
+1239	780	unknown	991
+1240	781	super	979
+1241	781	super	980
+1242	782	family	971
+1243	782	family	978
+1244	783	family	996
+1245	783	family	998
+1246	783	family	999
+1247	783	family	1000
+1248	783	poorparish	
+1249	784	family	996
+1250	784	family	1002
+1251	784	hospital	1004
+1252	784	hospital	1005
+1253	785	family	998
+1254	786	family	999
+1255	787	family	1000
+1256	788	family	1002
+1257	789	family	1007
+1258	790	family	1008
+1259	791	family	1009
+1260	792	unknown	1010
+1261	793	family	1011
+1262	794	family	1012
+1263	795	family	1014
+1264	795	godchild	1014
+1265	783	godchild	999
+1266	796	unknown	1015
+1267	797	friend	997
+1268	797	friend	1016
+1269	797	friend	1017
+1270	797	friend	1006
+1271	797	friend	1018
+1272	797	friend	1019
+1273	797	friend	1020
+1274	797	friend	1021
+1275	797	friend	1022
+1276	797	friend	1023
+1277	797	friend	1024
+1278	797	friend	1025
+1279	797	friend	1026
+1280	797	friend	1027
+1281	798	family	996
+1282	799	super	1016
+1283	799	super	1018
+1284	800	family	1032
+1285	800	poorparish	
+1286	801	family	1040
+1287	802	family	1052
+1288	803	family	1054
+1289	804	family	1056
+1290	805	family	
+1291	806	family	1052
+1292	807	family	1057
+1293	807	family	1058
+1294	807	family	1059
+1295	807	family	1060
+1296	808	family	1054
+1297	809	family	1056
+1298	809	family	1032
+1299	809	family	1040
+1300	810	family	1062
+1301	811	family	1063
+1302	812	family	1065
+1303	813	family	1066
+1304	814	servant	1067
+1305	815	religious	
+1306	816	religious	
+1307	816	poorscholar	
+1308	817	religious	
+1309	818	poorparish	
+1310	819	unknown	1071
+1311	819	unknown	1072
+1312	820	family	1032
+1313	820	family	1040
+1314	821	business	
+1315	822	family	1077
+1316	823	family	1077
+1317	823	family	1080
+1318	824	family	1078
+1319	825	family	1081
+1320	826	family	1077
+1321	827	family	1078
+1322	828	family	1083
+1323	828	family	1084
+1324	829	family	1085
+1325	829	friend	1085
+1326	829	family	1086
+1327	829	friend	1086
+1328	829	family	1088
+1329	829	family	1089
+1330	830	family	1088
+1331	830	family	1089
+1332	831	family	1090
+1333	832	friend	1091
+1334	833	exec	1078
+1335	833	exec	1081
+1336	833	family	1078
+1337	833	family	1081
+1338	834	family	9545
+1339	834	family	9546
+1340	834	family	9547
+1341	835	family	9548
+1342	836	family	9549
+1343	837	family	9550
+1344	838	family	9546
+1345	839	family	9547
+1346	840	unknown	9551
+1347	840	unknown	9552
+1348	840	unknown	9553
+1349	841	unknown	9554
+1350	842	unknown	9555
+1351	842	unknown	9556
+1352	843	unknown	9557
+1353	843	unknown	9558
+1354	844	unknown	9559
+1355	845	poorparish	
+1356	846	religious	
+1357	846	friend	
+1358	846	business	
+1359	847	unknown	9560
+1360	847	unknown	9561
+1361	847	unknown	9562
+1362	847	unknown	9563
+1363	847	unknown	9563
+1364	847	unknown	9564
+1365	847	unknown	9565
+1366	847	unknown	9566
+1367	847	unknown	9567
+1368	847	unknown	9568
+1369	847	unknown	9569
+1370	847	unknown	9570
+1371	847	unknown	9571
+1372	847	unknown	9572
+1373	847	unknown	9573
+1374	847	unknown	9574
+1375	847	unknown	9575
+1376	847	unknown	
+1377	847	unknown	9577
+1378	847	unknown	
+1379	847	unknown	9556
+1380	847	unknown	9578
+1381	847	unknown	9579
+1382	847	unknown	9580
+1383	847	unknown	9581
+1384	847	unknown	9582
+1385	847	unknown	9583
+1386	847	unknown	9585
+1387	847	unknown	9586
+1388	847	unknown	9555
+1389	847	unknown	9587
+1390	847	unknown	9588
+1391	847	unknown	9590
+1392	848	family	9545
+1393	848	family	9546
+1394	848	family	9547
+1395	848	family	9548
+1396	848	family	9549
+1397	848	family	9550
+1398	849	exec	9561
+1399	849	exec	9562
+1400	851	business	
+1401	851	business	9592
+1402	852	family	9593
+1403	852	family	9594
+1404	852	family	9595
+1405	852	family	9596
+1406	852	family	9597
+1407	853	family	9598
+1408	853	business	9598
+1409	854	godchild	9599
+1410	854	friend	9592
+1411	854	friend	9600
+1412	855	unknown	9601
+1413	855	unknown	9602
+1414	855	unknown	9603
+1415	856	servant	9605
+1416	858	family	
+1417	859	family	9615
+1418	860	family	9620
+1419	860	family	9621
+1420	860	family	9622
+1421	860	family	9623
+1422	860	family	9624
+1423	860	family	9625
+1424	860	genericpoor	
+1425	860	family	9626
+1426	860	family	9627
+1427	861	family	9629
+1428	861	family	9630
+1429	861	family	9631
+1430	861	family	9632
+1431	862	family	9633
+1432	863	family	9634
+1433	864	family	9635
+1434	865	friend	9636
+1435	866	poorparish	
+1436	867	family	9637
+1437	868	family	9641
+1438	869	unknown	9645
+1439	870	family	9817
+1440	871	family	9817
+1441	871	unknown	9818
+1442	871	unknown	9819
+1443	871	family	9820
+1444	871	family	9821
+1445	871	family	9822
+1446	871	family	9823
+1447	871	family	9825
+1448	871	family	
+1449	872	unknown	9819
+1450	873	family	9821
+1451	873	family	9822
+1452	873	family	9827
+1453	873	family	9828
+1454	873	family	9829
+1455	873	family	9830
+1456	874	unknown	9831
+1457	875	religious	
+1458	876	family	
+1459	877	family	9825
+1460	877	servant	9832
+1461	878	friend	9833
+1462	878	friend	9834
+1463	879	exec	9818
+1464	880	friend	9838
+1465	880	friend	9839
+1466	880	friend	9840
+1467	880	friend	9841
+1468	880	friend	9842
+1469	881	genericpoor	
+1470	882	family	10066
+1471	882	family	10067
+1472	882	family	10068
+1473	882	family	10069
+1474	883	family	10070
+1475	884	family	10071
+1476	884	family	
+1477	885	family	10072
+1478	886	servant	10073
+1479	887	family	10074
+1480	887	family	10075
+1481	887	family	10076
+1482	887	family	10077
+1483	887	family	10078
+1484	888	family	10078
+1485	889	family	10077
+1486	889	family	10078
+1487	890	exec	
+1488	891	family	11394
+1489	892	family	11391
+1490	893	family	11389
+1491	893	family	11387
+1492	893	business	11392
+1493	893	business	11393
+1494	893	business	11394
+1495	893	business	11395
+1496	894	business	11397
+1497	894	business	11398
+1498	894	business	11399
+1499	894	business	11393
+1500	895	business	11397
+1501	895	business	11398
+1502	895	business	11399
+1503	895	business	11393
+1504	896	family	11391
+1505	897	family	11394
+1506	898	family	11406
+1507	899	unknown	11408
+1508	899	unknown	11409
+1509	900	unknown	11410
+1510	901	family	11411
+1511	902	family	11413
+1512	903	family	11414
+1513	904	family	11415
+1514	905	family	11416
+1515	906	religious	11417
+1516	907	friend	11418
+1517	907	friend	11419
+1518	908	unknown	11420
+1519	908	godchild	11421
+1520	909	unknown	11422
+1521	910	family	11423
+1522	911	unknown	11424
+1523	912	unknown	11425
+1524	913	exec	11399
+1525	914	unknown	11426
+1526	915	unknown	11427
+1527	916	unknown	11428
+1528	917	unknown	11429
+1529	918	exec	11397
+1530	919	exec	11430
+1531	920	unknown	11431
+1532	921	unknown	11432
+1533	922	exec	11430

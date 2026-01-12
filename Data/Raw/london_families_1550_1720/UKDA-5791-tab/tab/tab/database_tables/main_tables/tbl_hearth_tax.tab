@@ -1,0 +1,439 @@
+h_tax_doc_id	h_tax_pid	h_tax_id	h_tax_group	h_tax_comment	h_tax_ward	h_tax_precinct	h_tax_street	h_tax_no_hearths	h_tax_notes
+54	1156	1	1		Cheap	AHHL		4	
+54	1157	2	2		Cheap	AHHL		14	
+54	1158	3	3		Cheap	AHHL		4	
+54	1159	4	4		Cheap	AHHL		6	
+54	1160	5	5		Cheap	AHHL		6	
+54	1161	6	6		Cheap	AHHL		3	
+54	1162	7	7		Cheap	AHHL		3	
+54	1163	8	8		Cheap	AHHL		1	
+54	1164	9	9		Cheap	AHHL		5	
+54	1165	10	10		Cheap	AHHL		10	
+54	1166	11	11		Cheap	AHHL		7	
+54	1167	12	12		Cheap	AHHL		5	
+54	1168	13	13		Cheap	AHHL		5	
+54	1169	14	14		Cheap	AHHL		6	
+54	1170	15	15		Cheap	AHHL		6	
+54	1171	16	16		Cheap	AHHL		7
+54	1172	17	17		Cheap	AHHL		6
+54	1173	18	18		Cheap	AHHL		6
+54	1174	19	19		Cheap	AHHL		7
+54	1175	20	20		Cheap	AHHL		6
+54	1176	21	21		Cheap	AHHL		7
+54	1177	22	22		Cheap	AHHL		7
+54	1178	23	23		Cheap	AHHL		6
+54	1179	24	24		Cheap	AHHL		5
+54	1180	25	25		Cheap	AHHL		3
+54	1181	26	26		Cheap	AHHL		4
+54	1182	27	27		Cheap	AHHL		7
+54	1183	28	28		Cheap	AHHL		3
+54	1184	29	29		Cheap	AHHL		7
+54	1185	30	30	owner of an empty house	Cheap	AHHL		6
+54	1186	31	31		Cheap	AHHL		6
+54	1187	32	32		Cheap	AHHL		6
+54	1188	33	33		Cheap	AHHL		5
+54	1189	34	34		Cheap	AHHL		4
+54	1190	35	35		Cheap	AHHL		6
+54	1191	36	36		Cheap	AHHL		5
+54	1192	37	37		Cheap	AHHL		10
+55	1195	38	1		Cheap	AHHL	cheapside north	4
+55	1196	39	2		Cheap	AHHL	cheapside north	14
+55	1197	40	3		Cheap	AHHL	cheapside north	4
+55	1198	41	4		Cheap	AHHL	cheapside north	6
+55	1199	42	5		Cheap	AHHL	trump alley	6
+55	1200	43	6		Cheap	AHHL	trump alley	4
+55	1201	44	7		Cheap	AHHL	trump alley	5
+55	1202	45	8		Cheap	AHHL	the street side	5
+55	1203	46	9		Cheap	AHHL	the street side	10
+55	1204	47	10		Cheap	AHHL	the street side	5
+55	1205	48	11		Cheap	AHHL	the street side	2
+55	1206	49	12		Cheap	AHHL	the street side	5
+55	1207	50	13		Cheap	AHHL	the street side	5
+55	1208	51	14		Cheap	AHHL	the street side	6
+55	1209	52	15		Cheap	AHHL	the street side	6
+55	1210	53	16		Cheap	AHHL	the street side	7
+55	1211	54	17		Cheap	AHHL	the street side	6
+55	1212	55	18		Cheap	AHHL	the street side	6
+55	1213	56	19		Cheap	AHHL	the street side	7
+55	1214	57	20		Cheap	AHHL	the street side	7
+55	1215	58	21		Cheap	AHHL	the street side	7
+55	1216	59	22		Cheap	AHHL	honey lane	8
+55	1217	60	23		Cheap	AHHL	honey lane	5
+55	1218	61	24		Cheap	AHHL	honey lane	5
+55	1219	62	25		Cheap	AHHL	honey lane	3
+55	1220	63	26		Cheap	AHHL	honey lane	4
+55	1221	64	27		Cheap	AHHL	honey lane	5
+55	1222	65	28		Cheap	AHHL	honey lane	3
+55	1223	66	29		Cheap	AHHL	honey lane	7
+55	1224	67	30		Cheap	AHHL	honey lane	5
+55	1225	68	31		Cheap	AHHL	honey lane	4
+55	1226	69	32		Cheap	AHHL	honey lane	2
+55	1227	70	33		Cheap	AHHL	honey lane	6
+55	1228	71	34		Cheap	AHHL	honey lane	6
+55	1229	72	35		Cheap	AHHL	honey lane	5
+55	1230	73	36		Cheap	AHHL	honey lane	4
+55	1231	74	37		Cheap	AHHL	honey lane	6
+55	1232	75	38		Cheap	AHHL	honey lane	7
+55	1233	76	39		Cheap	AHHL	honey lane	10
+160	5369	77	1		Cheap	1st [St Mary le Bow]	Cheapside	8
+160		78	2	an Empty house	Cheap	1st [St Mary le Bow]	Cheapside	
+160	5370	79	3		Cheap	1st [St Mary le Bow]	Cheapside	9
+160	5371	80	4		Cheap	1st [St Mary le Bow]	Cheapside	8
+160		81	5	an Empty house	Cheap	1st [St Mary le Bow]	Cheapside	
+160	5372	82	6		Cheap	1st [St Mary le Bow]	Cheapside	8
+160	5373	83	7		Cheap	1st [St Mary le Bow]	Cheapside	8
+160	5374	84	8		Cheap	1st [St Mary le Bow]	Cheapside	8
+160	5375	85	9		Cheap	1st [St Mary le Bow]	Crowne Court	8
+160		86	10	3 Empty houses	Cheap	1st [St Mary le Bow]	Crowne Court	
+160	5376	87	11		Cheap	1st [St Mary le Bow]	Crowne Court	8
+160		88	12	2 Empty houses	Cheap	1st [St Mary le Bow]	Crowne Court	
+160	5377	89	13		Cheap	1st [St Mary le Bow]	Crowne Court	
+160	5378	90	14		Cheap	1st [St Mary le Bow]	Crowne Court	
+160	5379	91	15		Cheap	1st [St Mary le Bow]	Kingstreet	7
+160	5380	92	16		Cheap	1st [St Mary le Bow]	Kingstreet	8
+160	5381	93	17		Cheap	1st [St Mary le Bow]	Kingstreet	
+160	5382	94	18		Cheap	1st [St Mary le Bow]	Kingstreet	10
+160	5383	95	19		Cheap	1st [St Mary le Bow]	Kingstreet	9
+160		96	20	4 Empty houses	Cheap	1st [St Mary le Bow]	Kingstreet		
+160	5384	97	21		Cheap	1st [St Mary le Bow]	Kingstreet	7	dash
+160	5385	98	22		Cheap	1st [St Mary le Bow]	Kingstreet	6	
+160	5386	99	23		Cheap	1st [St Mary le Bow]	Kingstreet	6	
+160		100	24	an Empty house	Cheap	1st [St Mary le Bow]	Kingstreet		
+160	5387	101	25		Cheap	1st [St Mary le Bow]	Kingstreet	6	
+160	5388	102	26		Cheap	1st [St Mary le Bow]	Kingstreet	7	squiggle
+160	5389	103	27		Cheap	1st [St Mary le Bow]	Kingstreet	7	
+160	5390	104	28		Cheap	1st [St Mary le Bow]	Kingstreet	8	
+160	5391	105	29		Cheap	2nd [All Hallows Honey Lane]	Kingstreet	8	
+160	5392	106	30		Cheap	2nd [All Hallows Honey Lane]	Kingstreet	8	
+160	5393	107	31		Cheap	2nd [All Hallows Honey Lane]	Kingstreet	6	
+160	5394	108	32		Cheap	2nd [All Hallows Honey Lane]	Kingstreet	8	
+160		109	33	2 Empty houses	Cheap	2nd [All Hallows Honey Lane]	Kingstreet		squiggle
+160	5395	110	34		Cheap	2nd [All Hallows Honey Lane]	Kingstreet	6	
+160	5396	111	35		Cheap	2nd [All Hallows Honey Lane]	Kingstreet	7	
+160	5397	112	36		Cheap	2nd [All Hallows Honey Lane]	Kingstreet	14	dash
+160	5398	113	37		Cheap	2nd [All Hallows Honey Lane]	Kingstreet	8	
+160	5399	114	38		Cheap	2nd [All Hallows Honey Lane]	Kingstreet	8	dot
+160	5400	115	39		Cheap	2nd [All Hallows Honey Lane]	Kingstreet	8	
+160	5401	116	40		Cheap	2nd [All Hallows Honey Lane]	Kingstreet	8	
+160	5402	117	41		Cheap	2nd [All Hallows Honey Lane]	Kingstreet	17	return for 1672 marks beginning of Trumpe Alley at this point
+160	5403	118	42		Cheap	2nd [All Hallows Honey Lane]	Kingstreet	7	listed under Trumpe Alley in 1672 return
+160	5404	119	43		Cheap	2nd [All Hallows Honey Lane]	Kingstreet		equivalent listed under Trumpe Alley in 1672 return
+160	5405	120	44		Cheap	2nd [All Hallows Honey Lane]	Kingstreet		listed under Trumpe Alley in 1672 return
+160		121	45	an Empty house	Cheap	2nd [All Hallows Honey Lane]	Kingstreet		listed under Trumpe Alley in 1672 return
+160	5406	122	46		Cheap	2nd [All Hallows Honey Lane]	Kingstreet	6	listed under Trumpe Alley in 1672 return
+160	5407	123	47		Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine	8	dash
+160	5408	124	48		Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine	8	
+160	5409	125	49		Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine	9	dot
+160	5410	126	50		Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine	11	
+160	5411	127	51		Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine	6	
+160		128	52	an Empty house	Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine		
+160	5412	129	53		Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine	11	
+160	5413	130	54		Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine	8	
+160	5414	131	55		Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine	9	
+160	5415	132	56		Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine	6	
+160	5416	133	57		Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine	12	
+160	5417	134	58		Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine	3	
+160	5418	135	59		Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine	8	
+160		136	60	a toft for 5 houses	Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine		
+160		137	61	3 Empty houses	Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine		
+160	5419	138	62		Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine	8	dash
+160	5420	139	63		Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine	6	
+160	5421	140	64		Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine		
+160	5422	141	65		Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine		
+160	5423	142	66		Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine	9	
+160		143	67	3 Empty houses	Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine		
+160	5424	144	68		Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine	9	dot
+160	5425	145	69		Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine		
+160	5426	146	70		Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine	6	
+160	5427	147	71		Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine	5	squiggle
+160	5428	148	72		Cheap	"5th [St Martin, Ironmonger Lane]"	Ironmonger Laine		
+160	5429	149	73		Cheap	6th [St Mary Colechurch]	Cheapside	12	
+160	5430	150	74		Cheap	6th [St Mary Colechurch]	Cheapside	7	
+160	5431	151	75		Cheap	6th [St Mary Colechurch]	Cheapside	7	
+160	5432	152	76		Cheap	6th [St Mary Colechurch]	Cheapside	7	
+160	5433	153	77		Cheap	6th [St Mary Colechurch]	Cheapside	7	
+160	5434	154	78		Cheap	6th [St Mary Colechurch]	Cheapside	7	
+160	5435	155	79		Cheap	6th [St Mary Colechurch]	Cheapside	7	
+160	5436	156	80		Cheap	6th [St Mary Colechurch]	Cheapside		
+160	5437	157	81		Cheap	6th [St Mary Colechurch]	Cheapside		
+160		158	82	2 Empty houses	Cheap	6th [St Mary Colechurch]	Cheapside		
+160	5438	159	83		Cheap	6th [St Mary Colechurch]	Cheapside	6	
+160	5439	160	84		Cheap	6th [St Mary Colechurch]	Cheapside	7	dash
+160	5440	161	85		Cheap	6th [St Mary Colechurch]	Cheapside	6	
+160	5441	162	86		Cheap	6th [St Mary Colechurch]	Cheapside	7	
+160	5442	163	87		Cheap	6th [St Mary Colechurch]	Cheapside	10	dot
+160	5443	164	88		Cheap	6th [St Mary Colechurch]	Cheapside	16	
+160	5444	165	89		Cheap	6th [St Mary Colechurch]	poultrey	6	
+160	5445	166	90		Cheap	6th [St Mary Colechurch]	poultrey		
+160	5446	167	91		Cheap	6th [St Mary Colechurch]	poultrey		
+160	5447	168	92		Cheap	6th [St Mary Colechurch]	poultrey	4	
+160	5448	169	93		Cheap	6th [St Mary Colechurch]	poultrey	4	squiggle
+160		170	94	an Empty house	Cheap	6th [St Mary Colechurch]	poultrey		
+160	5449	171	95		Cheap	6th [St Mary Colechurch]	poultrey	7	
+160	5450	172	96		Cheap	6th [St Mary Colechurch]	poultrey	5	
+160	5451	173	97		Cheap	6th [St Mary Colechurch]	poultrey	10	
+160	5452	174	98		Cheap	6th [St Mary Colechurch]	poultrey	4	
+160	5453	175	99		Cheap	6th [St Mary Colechurch]	poultrey	10	
+160	5454	176	100		Cheap	6th [St Mary Colechurch]	poultrey	4	dash
+160	5455	177	101		Cheap	6th [St Mary Colechurch]	poultrey	8	
+160	5456	178	102		Cheap	6th [St Mary Colechurch]	poultrey	5	
+160	5457	179	103		Cheap	6th [St Mary Colechurch]	poultrey	5	
+160	5458	180	104		Cheap	6th [St Mary Colechurch]	Buckles Berry 		
+160	5459	181	105		Cheap	6th [St Mary Colechurch]	Buckles Berry 	6	
+160	5460	182	106		Cheap	6th [St Mary Colechurch]	Buckles Berry 	8	
+160	5461	183	107		Cheap	6th [St Mary Colechurch]	Buckles Berry 	8	
+160	5462	184	108		Cheap	6th [St Mary Colechurch]	Buckles Berry 	8	
+160	5463	185	109		Cheap	6th [St Mary Colechurch]	Buckles Berry 	8	
+160	5464	186	110		Cheap	6th [St Mary Colechurch]	Buckles Berry 	7	
+160	5465	187	111		Cheap	6th [St Mary Colechurch]	Buckles Berry 		
+160	5466	188	112		Cheap	6th [St Mary Colechurch]	Bird in hand Court	5	
+160	5467	189	113		Cheap	6th [St Mary Colechurch]	Bird in hand Court	4	
+160	5468	190	114		Cheap	6th [St Mary Colechurch]	Bird in hand Court	4	
+160	5469	191	115		Cheap	6th [St Mary Colechurch]	Bird in hand Court	12	
+160	5470	192	116		Cheap	6th [St Mary Colechurch]	Bird in hand Court	7	
+160	5471	193	117		Cheap	6th [St Mary Colechurch]	Bird in hand Court	3	
+160		194	118	an Empty house	Cheap	6th [St Mary Colechurch]	Bird in hand Court		
+160	5472	195	119		Cheap	9th [St Pancras Soper Lane]	Soper Laine	15	
+160	5473	196	120		Cheap	9th [St Pancras Soper Lane]	Soper Laine	7	
+160	5474	197	121		Cheap	9th [St Pancras Soper Lane]	Soper Laine	6	
+160	5475	198	122		Cheap	9th [St Pancras Soper Lane]	Soper Laine	5	
+160		199	123	a toft for 2 houses	Cheap	9th [St Pancras Soper Lane]	Soper Laine		
+160		200	124	an Empty house	Cheap	9th [St Pancras Soper Lane]	Soper Laine		
+160	5476	201	125		Cheap	9th [St Pancras Soper Lane]	Soper Laine	6	dash and squiggle
+160	5477	202	126		Cheap	9th [St Pancras Soper Lane]	Soper Laine	7	
+160		203	127	3 Empty houses	Cheap	9th [St Pancras Soper Lane]	Soper Laine		
+160	5478	204	128		Cheap	9th [St Pancras Soper Lane]	Soper Laine	16	
+160		205	129	an Empty house	Cheap	9th [St Pancras Soper Lane]	Soper Laine		
+160	5479	206	130		Cheap	9th [St Pancras Soper Lane]	Soper Laine	9	
+160	5480	207	131		Cheap	9th [St Pancras Soper Lane]	Soper Laine	3	
+160		208	132	an Empty house	Cheap	9th [St Pancras Soper Lane]	Soper Laine		
+160	5481	209	133		Cheap	9th [St Pancras Soper Lane]	Soper Laine	4	
+160	5482	210	134		Cheap	9th [St Pancras Soper Lane]	Soper Laine	7	
+160		211	135	an Empty house	Cheap	9th [St Pancras Soper Lane]	Soper Laine		
+160	5483	212	136		Cheap	9th [St Pancras Soper Lane]	Soper Laine	3	squiggle
+160	5484	213	137		Cheap	9th [St Pancras Soper Lane]	Soper Laine	4	
+160	5485	214	138		Cheap	9th [St Pancras Soper Lane]	Soper Laine	7	dot
+160	5486	215	139		Cheap	9th [St Pancras Soper Lane]	Soper Laine	3	squiggle
+160	5487	216	140		Cheap	9th [St Pancras Soper Lane]	Soper Laine	6	
+160		217	141	an Empty house	Cheap	9th [St Pancras Soper Lane]	Soper Laine		
+160	5488	218	142		Cheap	9th [St Pancras Soper Lane]	Soper Laine	6	
+160	5489	219	143		Cheap	9th [St Pancras Soper Lane]	Soper Laine	12	
+160	5490	220	144		Cheap	9th [St Pancras Soper Lane]	Soper Laine	7	
+160	5491	221	145		Cheap	9th [St Pancras Soper Lane]	Soper Laine	12	dash
+160	5492	222	146		Cheap	9th [St Pancras Soper Lane]	Soper Laine	11	
+160	5493	223	147		Cheap	9th [St Pancras Soper Lane]	Soper Laine	8	
+161	5497	224	1		Cheap	st mary le bow	Cheapside	8
+161		225	2	an Empty house	Cheap	st mary le bow	Cheapside	
+161	5498	226	3		Cheap	st mary le bow	Cheapside	9
+161	5499	227	4		Cheap	st mary le bow	Cheapside	8
+161		228	5	an Empty house	Cheap	st mary le bow	Cheapside	
+161	5500	229	6		Cheap	st mary le bow	Cheapside	8
+161	5501	230	7		Cheap	st mary le bow	Cheapside	8
+161	5502	231	8		Cheap	st mary le bow	Cheapside	8
+161		232	9	3 Empty houses	Cheap	st mary le bow	Crowne Cort	
+161	5503	233	10		Cheap	st mary le bow	Crowne Cort	8
+161	5504	234	11		Cheap	st mary le bow	Crowne Cort	8
+161		235	12	an Empty house	Cheap	st mary le bow	Crowne Cort	
+161	5505	236	13		Cheap	st mary le bow	Crowne Cort	5
+161	5506	237	14		Cheap	st mary le bow	Crowne Cort	8
+161	5507	238	15		Cheap	st mary le bow	Crowne Cort	5
+161	5508	239	16		Cheap	st mary le bow	Kingstreet	7
+161	5509	240	17		Cheap	st mary le bow	Kingstreet	8	
+161	5510	241	18		Cheap	st mary le bow	Kingstreet	8	dot
+161	5511	242	19		Cheap	st mary le bow	Kingstreet	10	
+161	5512	243	20		Cheap	st mary le bow	Kingstreet	9	
+161		244	21	4 Empty houses	Cheap	st mary le bow	Kingstreet		
+161	5513	245	22		Cheap	st mary le bow	Kingstreet	7	
+161	5514	246	23		Cheap	st mary le bow	Kingstreet	6	
+161	5515	247	24		Cheap	st mary le bow	Kingstreet	6	
+161		248	25	an Empty house	Cheap	st mary le bow	Kingstreet		
+161	5516	249	26		Cheap	st mary le bow	Kingstreet	6	
+161	5517	250	27		Cheap	st mary le bow	Kingstreet	7	
+161	5518	251	28		Cheap	st mary le bow	Kingstreet	7	
+161	5519	252	29		Cheap	st mary le bow	Kingstreet	8	
+161	5520	253	30		Cheap	st mary le bow	Kingstreet	6	
+161	5521	254	31		Cheap	all hallows honey lane	Kingstreet	8	
+161	5522	255	32		Cheap	all hallows honey lane	Kingstreet	8	
+161	5523	256	33		Cheap	all hallows honey lane	Kingstreet	6	dot
+161	5524	257	34		Cheap	all hallows honey lane	Kingstreet	8	
+161		258	35	2 Empty houses	Cheap	all hallows honey lane	Kingstreet		
+161	5525	259	36		Cheap	all hallows honey lane	Kingstreet	6	
+161	5526	260	37		Cheap	all hallows honey lane	Kingstreet	7	
+161	5527	261	38		Cheap	all hallows honey lane	Kingstreet	14	
+161	5528	262	39		Cheap	all hallows honey lane	Kingstreet	8	
+161	5529	263	40		Cheap	all hallows honey lane	Kingstreet	8	
+161	5530	264	41		Cheap	all hallows honey lane	Kingstreet	8	
+161	5531	265	42		Cheap	all hallows honey lane	Kingstreet	7	
+161	5532	266	43		Cheap	all hallows honey lane	Trump Alley	17	
+161	5533	267	44		Cheap	all hallows honey lane	Trump Alley	7	
+161	5534	268	45		Cheap	all hallows honey lane	Trump Alley	6	
+161		269	46	3 Empty houses	Cheap	all hallows honey lane	Trump Alley		
+161	5535	270	47		Cheap	all hallows honey lane	Trump Alley	6	dot
+161	5536	271	48		Cheap	all hallows honey lane	Trump Alley	9	
+161	5537	272	49		Cheap	all hallows honey lane	Trump Alley	6	
+161	5538	273	50		Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	8	
+161	5539	274	51		Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	8	
+161	5540	275	52		Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	9	
+161	5541	276	53		Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	11	
+161	5542	277	54		Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	6	
+161	5543	278	55		Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	14	
+161	5544	279	56		Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	8	dot
+161	5545	280	57		Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	9	
+161	5546	281	58		Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	6	
+161	5547	282	59		Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	12	
+161	5548	283	60		Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	3	
+161	5549	284	61		Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	8	
+161		285	62	a toft for 5 houses	Cheap	st martin ironmonger lane	"Iron Mongers, Laine"		
+161		286	63	3 Empty houses	Cheap	st martin ironmonger lane	"Iron Mongers, Laine"		
+161	5550	287	64		Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	8	
+161	5551	288	65		Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	6	
+161	5552	289	66		Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	7	
+161	5553	290	67		Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	8	
+161	5554	291	68		Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	7	
+161		292	69	3 Empty houses	Cheap	st martin ironmonger lane	"Iron Mongers, Laine"		
+161	5555	293	70		Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	9	
+161	5556	294	71		Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	9	
+161	5557	295	72		Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	6	dot
+161	5558	296	73		Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	6	
+161	5559	297	74		Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	5	
+161		298	75	3 houses lately an empty house inhabitated	Cheap	st martin ironmonger lane	"Iron Mongers, Laine"	16	
+161	5560	299	76		Cheap	st mary colechurch	Cheapside	12	
+161	5561	300	77		Cheap	st mary colechurch	Cheapside	7	
+161	5562	301	78		Cheap	st mary colechurch	Cheapside	7	
+161	5563	302	79		Cheap	st mary colechurch	Cheapside	7	
+161	5564	303	80		Cheap	st mary colechurch	Cheapside	7	
+161	5565	304	81		Cheap	st mary colechurch	Cheapside	7	
+161	5566	305	82		Cheap	st mary colechurch	Cheapside	7	
+161	5567	306	83		Cheap	st mary colechurch	Cheapside	8	
+161	5568	307	84		Cheap	st mary colechurch	Cheapside	6	dot
+161	5569	308	85		Cheap	st mary colechurch	Cheapside	g11	2 empty houses crossed out
+161	5570	309	85		Cheap	st mary colechurch	Cheapside	g11	
+161	5571	310	86		Cheap	st mary colechurch	Cheapside	6	
+161	5572	311	87		Cheap	st mary colechurch	Cheapside	7	
+161	5573	312	88		Cheap	st mary colechurch	Cheapside	6	
+161	5574	313	89		Cheap	st mary colechurch	Cheapside	7	
+161	5575	314	90		Cheap	st mary colechurch	Cheapside	10	
+161	5576	315	91		Cheap	st mary colechurch	Cheapside	16	
+161	5577	316	92		Cheap	st mary colechurch	poultrey	6	
+161	5578	317	93		Cheap	st mary colechurch	poultrey	7	
+161	5579	318	94		Cheap	st mary colechurch	poultrey	4	
+161	5580	319	95		Cheap	st mary colechurch	poultrey	4	
+161	5581	320	96		Cheap	st mary colechurch	poultrey	4	
+161	5582	321	97	an Empty house	Cheap	st mary colechurch	poultrey	6	entry appears as 'an Empty house Siddenham 6'
+161	5583	322	98		Cheap	st mary colechurch	poultrey	3	
+161	5584	323	99		Cheap	st mary colechurch	poultrey	7	dot
+161	5585	324	100		Cheap	st mary colechurch	poultrey	5	
+161	5586	325	101		Cheap	st mary colechurch	poultrey	10	
+161	5587	326	102		Cheap	st mary colechurch	poultrey	4	
+161	5588	327	103		Cheap	st mary colechurch	poultrey	10	
+161	5589	328	104		Cheap	st mary colechurch	poultrey	4	Anne Browne viz 4 crossed out
+161	5590	329	105		Cheap	st mary colechurch	poultrey	8	Beni Freeman viz 8 crossed out
+161	5591	330	106		Cheap	st mary colechurch	poultrey	5	viz
+161	5592	331	107		Cheap	st mary colechurch	poultrey	5	
+161		332	108	an Empty house	Cheap	st mary colechurch	Buckles Bury		
+161	5593	333	109		Cheap	st mary colechurch	Buckles Bury	6	
+161	5594	334	110		Cheap	st mary colechurch	Buckles Bury	8	
+161	5595	335	111		Cheap	st mary colechurch	Buckles Bury	8	
+161	5596	336	112		Cheap	st mary colechurch	Buckles Bury	8	
+161	5597	337	113		Cheap	st mary colechurch	Buckles Bury	8	
+161	5598	338	114		Cheap	st mary colechurch	Buckles Bury	7	
+161	5599	339	115		Cheap	st mary colechurch	Buckles Bury	4	
+161	5600	340	116		Cheap	st mary colechurch	Buckles Bury	4	dot
+161	5601	341	117		Cheap	st mary colechurch	Buckles Bury	7	
+161	5602	342	118		Cheap	st mary colechurch	Buckles Bury	4	
+161	5603	343	119		Cheap	st mary colechurch	Buckles Bury	4	viz
+161	5604	344	120		Cheap	st mary colechurch	Buckles Bury	5	
+161	5605	345	121		Cheap	st mary colechurch	Buckles Bury	5	
+161	5606	346	122		Cheap	st mary colechurch	Buckles Bury	7	
+161	5607	347	123		Cheap	st mary colechurch	Buckles Bury	3	viz
+161	5608	348	124		Cheap	st pancras soper lane	Soper Lane	15	
+161	5609	349	125		Cheap	st pancras soper lane	Soper Lane	7	dot
+161	5610	350	126		Cheap	st pancras soper lane	Soper Lane	6	viz
+161	5611	351	127		Cheap	st pancras soper lane	Soper Lane	5	
+161		352	128	a toft for 2 houses	Cheap	st pancras soper lane	Soper Lane		
+161		353	129	an Empty house	Cheap	st pancras soper lane	Soper Lane		
+161	5612	354	130		Cheap	st pancras soper lane	Soper Lane	6	
+161	5613	355	131		Cheap	st pancras soper lane	Soper Lane	7	
+161		356	132	2 houses inhabitated	Cheap	st pancras soper lane	Soper Lane	12	
+161	5614	357	133		Cheap	st pancras soper lane	Soper Lane	16	
+161		358	134	an Empty house	Cheap	st pancras soper lane	Soper Lane		
+161	5615	359	135		Cheap	st pancras soper lane	Soper Lane	9	
+161	5616	360	136		Cheap	st pancras soper lane	Soper Lane	3	
+161		361	137	an Empty house	Cheap	st pancras soper lane	Soper Lane		
+161	5617	362	138		Cheap	st pancras soper lane	Soper Lane	4	
+161	5618	363	139		Cheap	st pancras soper lane	Soper Lane	7	
+161	5619	364	140		Cheap	st pancras soper lane	Soper Lane	3	viz
+161	5620	365	141		Cheap	st pancras soper lane	Soper Lane	4	viz
+161	5621	366	142		Cheap	st pancras soper lane	Soper Lane	7	
+161	5622	367	143	Empty	Cheap	st pancras soper lane	Soper Lane		i.e. Kempt entry struck through and replaced by Hentnorne's (taxsortid368)
+161	5623	368	143		Cheap	st pancras soper lane	Soper Lane	4	i.e. Kempt entry struck through and replaced by Hentnorne's (taxsortid368)
+161	5624	369	144		Cheap	st pancras soper lane	Soper Lane	3	
+161		370	145	an Empty house	Cheap	st pancras soper lane	Soper Lane		
+161	5625	371	146		Cheap	st pancras soper lane	Soper Lane	6	
+161	5626	372	147		Cheap	st pancras soper lane	Soper Lane	12	
+161	5627	373	148		Cheap	st pancras soper lane	Soper Lane	7	
+161	5628	374	149		Cheap	st pancras soper lane	Soper Lane	12	
+161	5629	375	150		Cheap	st pancras soper lane	Soper Lane	11	
+161	5630	376	151		Cheap	st pancras soper lane	Soper Lane	8	
+161		377	152	2 houses lett	Cheap	st pancras soper lane	Soper Lane	12	plus
+360	10081	378	1		Cordwainer	St Mary le Bow		3	
+360	10082	379	2		Cordwainer	St Mary le Bow		8	
+360	10083	380	3		Cordwainer	St Mary le Bow		3	
+360	10084	381	4		Cordwainer	St Mary le Bow		3	
+360	10085	382	5		Cordwainer	St Mary le Bow	New Court	4	
+360	10086	383	6		Cordwainer	St Mary le Bow	New Court	5	
+360	10087	384	7		Cordwainer	St Mary le Bow	New Court	3	
+360	10088	385	8		Cordwainer	St Mary le Bow	New Court	8	
+360		386	9	an empty house	Cordwainer	St Mary le Bow	Goose Lane	4+	the plus sign is present
+360	10089	387	10		Cordwainer	St Mary le Bow	Goose Lane	4	
+360	10090	388	11		Cordwainer	St Mary le Bow	Goose Lane	4	
+360	10091	389	12		Cordwainer	St Mary le Bow	Goose Lane	4	
+360	10092	390	13		Cordwainer	St Mary le Bow	Goose Lane	4	
+360	10093	391	14		Cordwainer	St Mary le Bow	Goose Lane	g8	jointly listed; entry has been inserted later
+360	10099	392	14		Cordwainer	St Mary le Bow	Goose Lane	g8	jointly listed; entry has been inserted later
+360		393	15	7 empty houses	Cordwainer	St Mary le Bow	Goose Lane		no of heaths has been left blank
+360	10094	394	16		Cordwainer	St Mary le Bow	Goose Lane	9	
+360	10095	395	17		Cordwainer	St Mary le Bow	Goose Lane	6	
+360	10096	396	18		Cordwainer	St Mary le Bow	Goose Lane	11	
+360	10097	397	19		Cordwainer	St Mary le Bow	Goose Lane	g9	jointly listed
+360	10098	398	19		Cordwainer	St Mary le Bow	Goose Lane	g9	jointly listed
+360	10100	399	20		Cordwainer	St Mary le Bow	Goose Lane	10	
+360	10101	400	21		Cordwainer	St Mary le Bow	Goose Lane	9	
+360	10102	401	22		Cordwainer	St Mary le Bow	Goose Lane	11	
+360		402	23	an empty house	Cordwainer	St Mary le Bow	Goose Lane		no of heaths has been left blank
+360	10103	403	24		Cordwainer	St Mary le Bow	Cheapside	10	
+360	10104	404	25		Cordwainer	St Mary le Bow	Cheapside	6	
+360	10105	405	26		Cordwainer	St Mary le Bow	Cheapside	6	
+360	10106	406	27		Cordwainer	St Mary le Bow	Cheapside	7	
+360	10107	407	28		Cordwainer	St Mary le Bow	Bow Lane	5	
+360	10108	408	29		Cordwainer	St Mary le Bow	Bow Lane	6	
+360		409	30	an empty house	Cordwainer	St Mary le Bow	Bow Lane		no of heaths has been left blank
+360	10109	410	31		Cordwainer	St Mary le Bow	Rose Court	3	
+360	10110	411	32		Cordwainer	St Mary le Bow	Rose Court	5	
+360	10111	412	33		Cordwainer	St Mary le Bow	Rose Court	5	
+360	10112	413	34		Cordwainer	St Mary le Bow	Rose Court	5	
+360		414	35	an empty house	Cordwainer	St Mary le Bow	Rose Court		no of heaths has been left blank
+360	10113	415	36		Cordwainer	St Mary le Bow	Rose Court	8	
+360	10114	416	37		Cordwainer	St Mary le Bow	Rose Court	6	
+360	10115	417	38		Cordwainer	St Mary le Bow	Rose Court	6	
+360		418	39	2 empty houses	Cordwainer	St Mary le Bow	Rose Court		no of heaths has been left blank
+360	10116	419	40		Cordwainer	St Mary le Bow	Rose Court	7	
+360	10117	420	41		Cordwainer	St Mary le Bow	Rose Court	7	
+360		421	42	3 empty houses	Cordwainer	St Mary le Bow	Bow Lane		no of heaths has been left blank
+360	10118	422	43		Cordwainer	St Mary le Bow	Bow Lane	6	
+360	10119	423	44		Cordwainer	St Mary le Bow	Bow Lane	6	
+360	10120	424	45		Cordwainer	St Mary le Bow	Bow Lane	6	
+360	10121	425	46		Cordwainer	St Mary le Bow	Bow Lane	g8	listed jointly; 'q' appears after no of hearths
+360	10122	426	46		Cordwainer	St Mary le Bow	Bow Lane	g8	listed jointly; 'q' appears after no of hearths
+360	10123	427	47		Cordwainer	St Mary le Bow	Bow Lane	9	
+360	10124	428	48		Cordwainer	St Mary le Bow	Bow Lane	8	
+360	10125	429	49		Cordwainer	St Mary le Bow	Bow Lane	g10	listed jointly; inserted later
+360	10126	430	49		Cordwainer	St Mary le Bow	Bow Lane	g10	listed jointly; inserted later
+360	10127	431	50		Cordwainer	St Mary le Bow	Bow Lane	4	
+360	10128	432	51		Cordwainer	St Mary le Bow	Bow Lane	4
+360	10129	433	52		Cordwainer	St Mary le Bow	Bow Lane	3
+360	10130	434	53		Cordwainer	St Mary le Bow	Bow Lane	7
+360	10131	435	54		Cordwainer	St Mary le Bow	Bow Lane	7
+360	10132	436	55		Cordwainer	St Mary le Bow	Bow Lane	8
+360	10133	437	56		Cordwainer	St Mary le Bow	Bow Lane	6
+360	10134	438	57		Cordwainer	St Mary le Bow	Bow Lane	8

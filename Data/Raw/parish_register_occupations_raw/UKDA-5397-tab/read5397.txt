@@ -1,0 +1,67 @@
+5397 -  Male Occupational Data from English Parish Registers (raw data),
+c. 1700-1820
+
+
+
+Data Set Type
+=============
+
+data files (19 files OR 26 files)
+
+
+
+Data Set Format
+===============
+
+The following data formats have been prepared by AHDS History:
+
+Tab delimited *.txt files (19 files)
+
+OR
+
+Tab delimited *.tab files - suitable for usage with MSExcel (26 files) 
+
+If requested, data may have been supplied in other formats where
+practicable.
+
+
+
+Data Notes and File Name Changes
+================================
+
+- Please note that *.tab files were created by AHDS History as an
+alternative dissemination format suitable for usage with common packages
+such as MSExcel. This involved splitting files with more that 65,536
+records (the maximum number of rows MSExcel can handle) into smaller
+files. So the following files have been split:
+
+\txt\'chr.txt'
+	--> \tab\chr1.tab, runID CHR/001 to CHR/131
+	--> \tab\chr2.tab, runID CHR/132 to CHR/156
+
+\txt\'dev.txt'
+	--> \tab\dev1.tab, ruID DEV/001 to DEV/251
+	--> \tab\dev2.tab, ruID DEV/252 to DEV/489
+
+\txt\'lan.txt'
+	--> \tab\lan1.tab, ruID LAN/001 to LAN/113
+	--> \tab\lan2.tab, ruID LAN/115 to LAN/192
+	--> \tab\lan3.tab, ruID LAN/193 to LAN/274
+
+\txt\'ywr.txt'
+	--> \tab\ywr1.tab, ruID YWR/001 to YWR/093
+	--> \tab\ywr2.tab, ruID YWR/094 to YWR/179
+	--> \tab\ywr3.tab, ruID YWR/180 to YWR/261
+	--> \tab\ywr4.tab, ruID YWR/262 to YWR/339
+
+
+
+History Data Service (HDS), 09/06/2011
+UK Data Archive
+University of Essex
+Colchester CO4 3SQ
+
+Tel: +44 (0)1206 872326
+Fax: +44 (0)1206 872003
+Email: hds@essex.ac.uk
+URL: http://hds.essex.ac.uk/

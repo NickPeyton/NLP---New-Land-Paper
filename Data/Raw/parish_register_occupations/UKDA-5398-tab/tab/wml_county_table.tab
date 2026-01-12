@@ -1,0 +1,1549 @@
+id	porID	ruID	por	runame	utype	parish	window	numevents	pcs	sr	numyears	iratio	occ	n	adjn
+1	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	tailor	4	4.00
+2	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	shoemaker	4	4.00
+3	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	surgeon	5	5.00
+4	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	weaver	15	15.00
+5	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	manufacturer	6	6.00
+6	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	officer of excise	4	4.00
+7	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	labourer	36	36.00
+8	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	carpenter	13	13.00
+9	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	illegitimate	22	22.00
+10	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	glazier	4	4.00
+11	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	bobbin maker	1	1.00
+12	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	barber	2	2.00
+13	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	hooper	7	7.00
+14	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	carrier	4	4.00
+15	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	gentleman	4	4.00
+16	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	farmer	4	4.00
+17	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	artist	2	2.00
+18	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	chaise driver	5	5.00
+19	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	baptism without named parents	1	1.00
+20	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	waller	6	6.00
+21	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	joiner	1	1.00
+22	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	solicitor	1	1.00
+23	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	gardener	2	2.00
+24	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	tanner	1	1.00
+25	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	quarryman	3	3.00
+26	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	sadler	1	1.00
+27	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	spirit merchant	1	1.00
+28	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	innkeeper	9	9.00
+29	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	grocer	1	1.00
+30	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	servant	2	2.00
+31	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	miller	1	1.00
+32	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	waiter	1	1.00
+33	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	yeoman	4	4.00
+34	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	clerk	3	3.00
+35	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	hostler	2	2.00
+36	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	housekeeper	1	1.00
+37	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	shopkeeper	1	1.00
+38	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	esquire	4	4.00
+39	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	cordwainer	1	1.00
+40	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	coachman	3	3.00
+41	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	horsekeeper	1	1.00
+42	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	teacher	1	1.00
+43	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	potter	1	1.00
+44	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	bobbin turner	1	1.00
+45	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	turner	1	1.00
+46	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	blacksmith	1	1.00
+47	WML/001/rose	WML/001	rose	Ambleside	CH	Windermere	1813-1820	199	0.00	1	8	1.00	mason	1	1.00
+48	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	gunner	1	1.00
+49	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	shopkeeper	1	1.00
+50	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	weaver	4	4.00
+51	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	illegitimate	20	20.00
+52	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	farmer	33	33.00
+53	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	joiner	2	2.00
+54	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	innkeeper	4	4.00
+55	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	private	1	1.00
+56	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	coachman	1	1.00
+57	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	tailor	13	13.00
+58	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	labourer	64	64.00
+59	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	waller	1	1.00
+60	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	lieutenant	2	2.00
+61	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	schoolmaster	4	4.00
+62	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	shoemaker	11	11.00
+63	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	pensioner	1	1.00
+64	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	victualler	1	1.00
+65	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	miller and shopkeeper	1	1.00
+66	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	brewer	7	7.00
+67	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	blacksmith	10	10.00
+68	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	carpenter	11	11.00
+69	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	husbandman	22	22.00
+70	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	sergeant	5	5.00
+71	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	cooper	2	2.00
+72	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	gardener	2	2.00
+73	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	miller	3	3.00
+74	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	pay master of militia	4	4.00
+75	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	surveyor of taxes	1	1.00
+76	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	exciseman	1	1.00
+77	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	apothecary	4	4.00
+78	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	tiler	3	3.00
+79	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	mason	1	1.00
+80	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	book binder	1	1.00
+81	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	saddler	3	3.00
+82	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	barber	1	1.00
+83	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	punter	1	1.00
+84	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	publican	1	1.00
+85	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	whitesmith	5	5.00
+86	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	cabinet maker	3	3.00
+87	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	corporal	8	8.00
+88	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	hatter	1	1.00
+89	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	carrier	4	4.00
+90	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	stonecutter	1	1.00
+91	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	yeoman	11	11.00
+92	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	slater	3	3.00
+93	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	hair dresser	1	1.00
+94	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	butcher	4	4.00
+95	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	glazier	1	1.00
+96	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	linen draper	2	2.00
+97	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	draper	2	2.00
+98	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	stationer	3	3.00
+99	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	castle gardener	1	1.00
+100	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	coach driver	2	2.00
+101	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	assistant surgeon	1	1.00
+102	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	ostler	2	2.00
+103	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	chaise driver	1	1.00
+104	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	officer of excise	1	1.00
+105	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	plasterer	1	1.00
+106	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	pairer	1	1.00
+107	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	minister	1	1.00
+108	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	servant	2	2.00
+109	WML/002/rose	WML/002	rose	Appleby St Lawrence	AP	Appleby St Lawrence	1813-1820	311	0.00	1	8	1.00	surgeon	1	1.00
+110	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	miner	36	36.00
+111	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	farmer	22	22.00
+112	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	weaver	15	15.00
+113	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	joiner	1	1.00
+114	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	husbandman	45	45.00
+115	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	adjutant	1	1.00
+116	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	private	1	1.00
+117	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	innkeeper	4	4.00
+118	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	illegitimate	32	32.00
+119	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	sawyer	3	3.00
+120	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	mason	21	21.00
+121	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	yeoman	19	19.00
+122	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	labourer	58	58.00
+123	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	deputy sheriff	1	1.00
+124	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	molecatcher	2	2.00
+125	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	miller	15	15.00
+126	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	millwright	3	3.00
+127	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	cabinet maker	3	3.00
+128	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	shoemaker	6	6.00
+129	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	drainer	2	2.00
+130	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	gardener	4	4.00
+131	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	butcher	5	5.00
+132	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	clogger	1	1.00
+133	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	nailor	1	1.00
+134	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	blacksmith	1	1.00
+135	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	under sheriff	1	1.00
+136	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	spinner	1	1.00
+137	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	carpenter	9	9.00
+138	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	land drainer	2	2.00
+139	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	rope maker	3	3.00
+140	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	gentleman	1	1.00
+141	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	tailor	2	2.00
+142	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	smelter	1	1.00
+143	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	bread baker	3	3.00
+144	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	stone mason	3	3.00
+145	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	tobacconist	1	1.00
+146	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	potter	1	1.00
+147	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	shopkeeper	3	3.00
+148	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	sergeant	1	1.00
+149	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	writer	1	1.00
+150	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	captain	1	1.00
+151	WML/003/rose	WML/003	rose	Appleby St Michael Bongate	AP	Appleby St Michael Bongate	1813-1820	337	0.00	1	8	1.00	cart driver	1	1.00
+152	WML/004/rose	WML/004	rose	Asby	AP	Asby	1813-1820	83	0.00	1	8	1.00	husbandman	29	29.00
+153	WML/004/rose	WML/004	rose	Asby	AP	Asby	1813-1820	83	0.00	1	8	1.00	illegitimate	4	4.00
+154	WML/004/rose	WML/004	rose	Asby	AP	Asby	1813-1820	83	0.00	1	8	1.00	labourer	11	11.00
+155	WML/004/rose	WML/004	rose	Asby	AP	Asby	1813-1820	83	0.00	1	8	1.00	farmer	13	13.00
+156	WML/004/rose	WML/004	rose	Asby	AP	Asby	1813-1820	83	0.00	1	8	1.00	shoemaker	7	7.00
+157	WML/004/rose	WML/004	rose	Asby	AP	Asby	1813-1820	83	0.00	1	8	1.00	tailor	3	3.00
+158	WML/004/rose	WML/004	rose	Asby	AP	Asby	1813-1820	83	0.00	1	8	1.00	servant	2	2.00
+159	WML/004/rose	WML/004	rose	Asby	AP	Asby	1813-1820	83	0.00	1	8	1.00	sadler	3	3.00
+160	WML/004/rose	WML/004	rose	Asby	AP	Asby	1813-1820	83	0.00	1	8	1.00	parish clerk	1	1.00
+161	WML/004/rose	WML/004	rose	Asby	AP	Asby	1813-1820	83	0.00	1	8	1.00	mason	1	1.00
+162	WML/004/rose	WML/004	rose	Asby	AP	Asby	1813-1820	83	0.00	1	8	1.00	stone mason	3	3.00
+163	WML/004/rose	WML/004	rose	Asby	AP	Asby	1813-1820	83	0.00	1	8	1.00	carpenter	1	1.00
+164	WML/004/rose	WML/004	rose	Asby	AP	Asby	1813-1820	83	0.00	1	8	1.00	slater	1	1.00
+165	WML/004/rose	WML/004	rose	Asby	AP	Asby	1813-1820	83	0.00	1	8	1.00	school master	1	1.00
+166	WML/004/rose	WML/004	rose	Asby	AP	Asby	1813-1820	83	0.00	1	8	1.00	butcher	2	2.00
+167	WML/004/rose	WML/004	rose	Asby	AP	Asby	1813-1820	83	0.00	1	8	1.00	blacksmith	1	1.00
+168	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	cooper	4	4.00
+169	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	joiner	2	2.00
+170	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	shoemaker	2	2.00
+171	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	husbandman	19	19.00
+172	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	innkeeper	4	4.00
+173	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	yeoman	7	7.00
+174	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	waller	7	7.00
+175	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	land surveyor	4	4.00
+176	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	labourer	11	11.00
+177	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	turner	1	1.00
+178	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	tailor	6	6.00
+179	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	mason	3	3.00
+180	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	weaver	4	4.00
+181	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	parish clerk	1	1.00
+182	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	carpenter	8	8.00
+183	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	illegitimate	9	9.00
+184	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	coachman	1	1.00
+185	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	gamekeeper	3	3.00
+186	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	schoolmaster	2	2.00
+187	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	farmer	1	1.00
+188	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	blacksmith	2	2.00
+189	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	grocer	1	1.00
+190	WML/005/rose	WML/005	rose	Askham	AP	Askham	1813-1820	104	0.00	1	8	1.00	stone mason	2	2.00
+191	WML/006/rose	WML/006	rose	Bampton	AP	Bampton	1813-1820	136	0.00	1	8	1.00	farmer	60	60.00
+192	WML/006/rose	WML/006	rose	Bampton	AP	Bampton	1813-1820	136	0.00	1	8	1.00	labourer	30	30.00
+193	WML/006/rose	WML/006	rose	Bampton	AP	Bampton	1813-1820	136	0.00	1	8	1.00	tailor	5	5.00
+194	WML/006/rose	WML/006	rose	Bampton	AP	Bampton	1813-1820	136	0.00	1	8	1.00	carpenter	4	4.00
+195	WML/006/rose	WML/006	rose	Bampton	AP	Bampton	1813-1820	136	0.00	1	8	1.00	illegitimate	14	14.00
+196	WML/006/rose	WML/006	rose	Bampton	AP	Bampton	1813-1820	136	0.00	1	8	1.00	shoemaker	5	5.00
+197	WML/006/rose	WML/006	rose	Bampton	AP	Bampton	1813-1820	136	0.00	1	8	1.00	blacksmith	2	2.00
+198	WML/006/rose	WML/006	rose	Bampton	AP	Bampton	1813-1820	136	0.00	1	8	1.00	miller	6	6.00
+199	WML/006/rose	WML/006	rose	Bampton	AP	Bampton	1813-1820	136	0.00	1	8	1.00	waller	6	6.00
+200	WML/006/rose	WML/006	rose	Bampton	AP	Bampton	1813-1820	136	0.00	1	8	1.00	innkeeper	1	1.00
+201	WML/006/rose	WML/006	rose	Bampton	AP	Bampton	1813-1820	136	0.00	1	8	1.00	student	2	2.00
+202	WML/006/rose	WML/006	rose	Bampton	AP	Bampton	1813-1820	136	0.00	1	8	1.00	potter	1	1.00
+203	WML/007/rose	WML/007	rose	Barbon	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	yeoman	6	6.00
+204	WML/007/rose	WML/007	rose	Barbon	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	farmer	16	16.00
+205	WML/007/rose	WML/007	rose	Barbon	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	servant	10	10.00
+206	WML/007/rose	WML/007	rose	Barbon	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	coalminer	6	6.00
+207	WML/007/rose	WML/007	rose	Barbon	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	tailor	1	1.00
+208	WML/007/rose	WML/007	rose	Barbon	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	lime burner	4	4.00
+209	WML/007/rose	WML/007	rose	Barbon	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	cooper	3	3.00
+210	WML/007/rose	WML/007	rose	Barbon	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	miller	2	2.00
+211	WML/007/rose	WML/007	rose	Barbon	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	day labourer	1	1.00
+212	WML/007/rose	WML/007	rose	Barbon	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	cordwainer	5	5.00
+213	WML/007/rose	WML/007	rose	Barbon	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	carpenter	4	4.00
+214	WML/007/rose	WML/007	rose	Barbon	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	illegitimate	3	3.00
+215	WML/007/rose	WML/007	rose	Barbon	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	labourer	8	8.00
+216	WML/007/rose	WML/007	rose	Barbon	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	malster	2	2.00
+217	WML/007/rose	WML/007	rose	Barbon	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	schoolmaster	1	1.00
+218	WML/007/rose	WML/007	rose	Barbon	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	house carpenter	1	1.00
+219	WML/007/rose	WML/007	rose	Barbon	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	coal leader	1	1.00
+220	WML/007/rose	WML/007	rose	Barbon	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	lime leader	2	2.00
+221	WML/008/rose	WML/008	rose	Barton	AP	Barton	1813-1820	168	0.00	1	8	1.00	farmer	30	30.00
+222	WML/008/rose	WML/008	rose	Barton	AP	Barton	1813-1820	168	0.00	1	8	1.00	blacksmith	10	10.00
+223	WML/008/rose	WML/008	rose	Barton	AP	Barton	1813-1820	168	0.00	1	8	1.00	husbandman	68	68.00
+224	WML/008/rose	WML/008	rose	Barton	AP	Barton	1813-1820	168	0.00	1	8	1.00	bleacher	1	1.00
+225	WML/008/rose	WML/008	rose	Barton	AP	Barton	1813-1820	168	0.00	1	8	1.00	tailor	7	7.00
+226	WML/008/rose	WML/008	rose	Barton	AP	Barton	1813-1820	168	0.00	1	8	1.00	baker	1	1.00
+227	WML/008/rose	WML/008	rose	Barton	AP	Barton	1813-1820	168	0.00	1	8	1.00	miller	7	7.00
+228	WML/008/rose	WML/008	rose	Barton	AP	Barton	1813-1820	168	0.00	1	8	1.00	innkeeper	7	7.00
+229	WML/008/rose	WML/008	rose	Barton	AP	Barton	1813-1820	168	0.00	1	8	1.00	butcher	1	1.00
+230	WML/008/rose	WML/008	rose	Barton	AP	Barton	1813-1820	168	0.00	1	8	1.00	yeoman	8	8.00
+231	WML/008/rose	WML/008	rose	Barton	AP	Barton	1813-1820	168	0.00	1	8	1.00	cordwainer	4	4.00
+232	WML/008/rose	WML/008	rose	Barton	AP	Barton	1813-1820	168	0.00	1	8	1.00	house carpenter	4	4.00
+233	WML/008/rose	WML/008	rose	Barton	AP	Barton	1813-1820	168	0.00	1	8	1.00	weaver	3	3.00
+234	WML/008/rose	WML/008	rose	Barton	AP	Barton	1813-1820	168	0.00	1	8	1.00	attorney at law	1	1.00
+235	WML/008/rose	WML/008	rose	Barton	AP	Barton	1813-1820	168	0.00	1	8	1.00	illegitimate	9	9.00
+236	WML/008/rose	WML/008	rose	Barton	AP	Barton	1813-1820	168	0.00	1	8	1.00	carpenter	2	2.00
+237	WML/008/rose	WML/008	rose	Barton	AP	Barton	1813-1820	168	0.00	1	8	1.00	waller	1	1.00
+238	WML/008/rose	WML/008	rose	Barton	AP	Barton	1813-1820	168	0.00	1	8	1.00	gardener	1	1.00
+239	WML/008/rose	WML/008	rose	Barton	AP	Barton	1813-1820	168	0.00	1	8	1.00	clerk	2	2.00
+240	WML/008/rose	WML/008	rose	Barton	AP	Barton	1813-1820	168	0.00	1	8	1.00	mason	1	1.00
+241	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	husbandman	66	66.00
+242	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	farmer	44	44.00
+243	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	esquire	14	14.00
+244	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	mariner	12	12.00
+245	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	illegitimate	23	23.00
+246	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	cotton weaver	1	1.00
+247	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	miller	4	4.00
+248	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	weaver	8	8.00
+249	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	paper maker	11	11.00
+250	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	shoemaker	11	11.00
+251	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	yeoman	10	10.00
+252	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	flaxman	3	3.00
+253	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	groom	2	2.00
+254	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	tailor	3	3.00
+255	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	land surveyor	4	4.00
+256	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	gardener	4	4.00
+257	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	plasterer	1	1.00
+258	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	timber merchant	5	5.00
+259	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	joiner	4	4.00
+260	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	wheelwright	2	2.00
+261	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	grocer	3	3.00
+262	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	lath cleaver	1	1.00
+263	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	shoe heel maker	1	1.00
+264	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	stonemason	9	9.00
+265	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	huntsman	3	3.00
+266	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	waller	1	1.00
+267	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	hooper	6	6.00
+268	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	house carpenter	1	1.00
+269	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	chandler	3	3.00
+270	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	blacksmith	5	5.00
+271	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	cabinet maker	3	3.00
+272	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	watchmaker	1	1.00
+273	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	sadler	1	1.00
+274	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	carpenter	1	1.00
+275	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	footman	3	3.00
+276	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	heelmaker	1	1.00
+277	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	twine spinner	1	1.00
+278	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	seedsman	1	1.00
+279	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	woodcutter	1	1.00
+280	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	joiner and turner	1	1.00
+281	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	wood merchant	1	1.00
+282	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	lieutenant	1	1.00
+283	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	sawyer	1	1.00
+284	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	vicar	1	1.00
+285	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	tallow chandler	1	1.00
+286	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	labourer	14	14.00
+287	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	ropemaker	1	1.00
+288	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	gamekeeper	1	1.00
+289	WML/009/rose	WML/009	rose	Beetham	AP	Beetham	1813-1820	301	0.00	1	8	1.00	hawker	1	1.00
+290	WML/011/rose	WML/011	rose	Bolton	CH	Morland	1813-1820	118	0.00	1	8	1.00	carpenter	7	7.00
+291	WML/011/rose	WML/011	rose	Bolton	CH	Morland	1813-1820	118	0.00	1	8	1.00	miller	6	6.00
+292	WML/011/rose	WML/011	rose	Bolton	CH	Morland	1813-1820	118	0.00	1	8	1.00	farmer	43	43.00
+293	WML/011/rose	WML/011	rose	Bolton	CH	Morland	1813-1820	118	0.00	1	8	1.00	labourer	38	38.00
+294	WML/011/rose	WML/011	rose	Bolton	CH	Morland	1813-1820	118	0.00	1	8	1.00	weaver	4	4.00
+295	WML/011/rose	WML/011	rose	Bolton	CH	Morland	1813-1820	118	0.00	1	8	1.00	stone mason	2	2.00
+296	WML/011/rose	WML/011	rose	Bolton	CH	Morland	1813-1820	118	0.00	1	8	1.00	maltster	4	4.00
+297	WML/011/rose	WML/011	rose	Bolton	CH	Morland	1813-1820	118	0.00	1	8	1.00	curate	2	2.00
+298	WML/011/rose	WML/011	rose	Bolton	CH	Morland	1813-1820	118	0.00	1	8	1.00	servant	1	1.00
+299	WML/011/rose	WML/011	rose	Bolton	CH	Morland	1813-1820	118	0.00	1	8	1.00	schoolmaster	3	3.00
+300	WML/011/rose	WML/011	rose	Bolton	CH	Morland	1813-1820	118	0.00	1	8	1.00	basketmaker	2	2.00
+301	WML/011/rose	WML/011	rose	Bolton	CH	Morland	1813-1820	118	0.00	1	8	1.00	groover	1	1.00
+302	WML/011/rose	WML/011	rose	Bolton	CH	Morland	1813-1820	118	0.00	1	8	1.00	shopkeeper	1	1.00
+303	WML/011/rose	WML/011	rose	Bolton	CH	Morland	1813-1820	118	0.00	1	8	1.00	illegitimate	3	3.00
+304	WML/011/rose	WML/011	rose	Bolton	CH	Morland	1813-1820	118	0.00	1	8	1.00	exciseman	1	1.00
+305	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	husbandman	106	106.00
+306	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	schoolmaster	4	4.00
+307	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	collier	59	59.00
+308	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	shoemaker	5	5.00
+309	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	discharged soldier	3	3.00
+310	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	mason	9	9.00
+311	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	tailor	14	14.00
+312	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	coach driver	2	2.00
+313	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	innkeeper	25	25.00
+314	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	illegitimate	22	22.00
+315	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	carrier	6	6.00
+316	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	chaise driver	7	7.00
+317	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	ham merchant	3	3.00
+318	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	blacksmith	7	7.00
+319	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	labourer	12	12.00
+320	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	waller	1	1.00
+321	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	weaver	6	6.00
+322	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	miller	5	5.00
+323	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	dyer	5	5.00
+324	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	draper	1	1.00
+325	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	carpenter	8	8.00
+326	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	watchmaker	1	1.00
+327	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	exciseman	1	1.00
+328	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	surgeon	1	1.00
+329	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	brewer	1	1.00
+330	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	butcher	3	3.00
+331	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	servant	1	1.00
+332	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	carter	2	2.00
+333	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	sadler	2	2.00
+334	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	coach guard	1	1.00
+335	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	linen draper	1	1.00
+336	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	excise officer	1	1.00
+337	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	publican	1	1.00
+338	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	farmer	6	6.00
+339	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	waggoner	1	1.00
+340	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	yeoman	3	3.00
+341	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	joiner	3	3.00
+342	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	pensioner	1	1.00
+343	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	tallow chandler	1	1.00
+344	WML/012/rose	WML/012	rose	Brough	AP	Brough	1813-1820	343	0.00	1	8	1.00	cooper	2	2.00
+345	WML/013/rose	WML/013	rose	Brougham	AP	Brougham	1813-1820	27	0.00	1	8	1.00	tanner	3	3.00
+346	WML/013/rose	WML/013	rose	Brougham	AP	Brougham	1813-1820	27	0.00	1	8	1.00	farmer	14	14.00
+347	WML/013/rose	WML/013	rose	Brougham	AP	Brougham	1813-1820	27	0.00	1	8	1.00	husbandman	4	4.00
+348	WML/013/rose	WML/013	rose	Brougham	AP	Brougham	1813-1820	27	0.00	1	8	1.00	clerk	4	4.00
+349	WML/013/rose	WML/013	rose	Brougham	AP	Brougham	1813-1820	27	0.00	1	8	1.00	illegitimate	1	1.00
+350	WML/013/rose	WML/013	rose	Brougham	AP	Brougham	1813-1820	27	0.00	1	8	1.00	the queen's attorney general	1	1.00
+351	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	waller	5	5.00
+352	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	husbandman	21	21.00
+353	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	paper maker	11	11.00
+354	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	potter	4	4.00
+355	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	farmer	45	45.00
+356	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	illegitimate	11	11.00
+357	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	labourer	29	29.00
+358	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	miller	5	5.00
+359	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	joiner	3	3.00
+360	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	skinner	2	2.00
+361	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	weaver	3	3.00
+362	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	dry salter	5	5.00
+363	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	spirit merchant	1	1.00
+364	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	soldier	1	1.00
+365	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	servant	1	1.00
+366	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	millwright	5	5.00
+367	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	cordwainer	1	1.00
+368	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	woollen worker	1	1.00
+369	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	gardener	1	1.00
+370	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	wool spinner	1	1.00
+371	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	minister	2	2.00
+372	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	spinner	1	1.00
+373	WML/014/rose	WML/014	rose	Burnside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	turner	1	1.00
+374	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	coachman	7	7.00
+375	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	mason	21	21.00
+376	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	roper	1	1.00
+377	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	husbandman	70	70.00
+378	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	labourer	41	41.00
+379	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	weaver	18	18.00
+380	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	innkeeper	5	5.00
+381	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	glazier	1	1.00
+382	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	gentleman	6	6.00
+383	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	farmer	27	27.00
+384	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	hostler	1	1.00
+385	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	carpenter	13	13.00
+386	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	shoemaker	8	8.00
+387	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	exciseman	2	2.00
+388	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	iron founder	1	1.00
+389	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	yeoman	3	3.00
+390	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	illegitimate	11	11.00
+391	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	saddler	1	1.00
+392	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	tailor	7	7.00
+393	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	smith	6	6.00
+394	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	no occupation specified	1	1.00
+395	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	grocer	1	1.00
+396	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	chaise driver	2	2.00
+397	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	publican	1	1.00
+398	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	hooper	5	5.00
+399	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	ostler	6	6.00
+400	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	heckler	2	2.00
+401	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	cordwainer	2	2.00
+402	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	joiner	7	7.00
+403	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	car man	1	1.00
+404	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	nailor	2	2.00
+405	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	surgeon	1	1.00
+406	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	flax dresser	1	1.00
+407	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	seaman	1	1.00
+408	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	tanner	1	1.00
+409	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	canal man	1	1.00
+410	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	shopkeeper	1	1.00
+411	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	attorney at law	2	2.00
+412	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	miller	1	1.00
+413	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	twine spinner	1	1.00
+414	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	starcher	1	1.00
+415	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	horse keeper	1	1.00
+416	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	gardener	1	1.00
+417	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	agent at mill	1	1.00
+418	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	wheelwright	1	1.00
+419	WML/015/rose	WML/015	rose	Burton in Kendal	AP	Burton in Kendal	1813-1820	296	0.35	1	8	1.00	canal navigator	1	1.00
+420	WML/016/rose	WML/016	rose	Cliburn	AP	Cliburn	1813-1820	59	0.00	1	8	1.00	husbandman	26	26.00
+421	WML/016/rose	WML/016	rose	Cliburn	AP	Cliburn	1813-1820	59	0.00	1	8	1.00	stonemason	6	6.00
+422	WML/016/rose	WML/016	rose	Cliburn	AP	Cliburn	1813-1820	59	0.00	1	8	1.00	shoemaker	5	5.00
+423	WML/016/rose	WML/016	rose	Cliburn	AP	Cliburn	1813-1820	59	0.00	1	8	1.00	labourer	16	16.00
+424	WML/016/rose	WML/016	rose	Cliburn	AP	Cliburn	1813-1820	59	0.00	1	8	1.00	illegitimate	2	2.00
+425	WML/016/rose	WML/016	rose	Cliburn	AP	Cliburn	1813-1820	59	0.00	1	8	1.00	miller	1	1.00
+426	WML/016/rose	WML/016	rose	Cliburn	AP	Cliburn	1813-1820	59	0.00	1	8	1.00	baker	1	1.00
+427	WML/016/rose	WML/016	rose	Cliburn	AP	Cliburn	1813-1820	59	0.00	1	8	1.00	carpenter	2	2.00
+428	WML/017/rose	WML/017	rose	Clifton	AP	Clifton	1813-1820	81	0.00	1	8	1.00	farmer	10	10.00
+429	WML/017/rose	WML/017	rose	Clifton	AP	Clifton	1813-1820	81	0.00	1	8	1.00	illegitimate	11	11.00
+430	WML/017/rose	WML/017	rose	Clifton	AP	Clifton	1813-1820	81	0.00	1	8	1.00	labourer	15	15.00
+431	WML/017/rose	WML/017	rose	Clifton	AP	Clifton	1813-1820	81	0.00	1	8	1.00	blacksmith	6	6.00
+432	WML/017/rose	WML/017	rose	Clifton	AP	Clifton	1813-1820	81	0.00	1	8	1.00	innkeeper	7	7.00
+433	WML/017/rose	WML/017	rose	Clifton	AP	Clifton	1813-1820	81	0.00	1	8	1.00	carpenter	3	3.00
+434	WML/017/rose	WML/017	rose	Clifton	AP	Clifton	1813-1820	81	0.00	1	8	1.00	yeoman	3	3.00
+435	WML/017/rose	WML/017	rose	Clifton	AP	Clifton	1813-1820	81	0.00	1	8	1.00	waller	1	1.00
+436	WML/017/rose	WML/017	rose	Clifton	AP	Clifton	1813-1820	81	0.00	1	8	1.00	hind	1	1.00
+437	WML/017/rose	WML/017	rose	Clifton	AP	Clifton	1813-1820	81	0.00	1	8	1.00	saddler	1	1.00
+438	WML/017/rose	WML/017	rose	Clifton	AP	Clifton	1813-1820	81	0.00	1	8	1.00	husbandman	20	20.00
+439	WML/017/rose	WML/017	rose	Clifton	AP	Clifton	1813-1820	81	0.00	1	8	1.00	land steward	1	1.00
+440	WML/017/rose	WML/017	rose	Clifton	AP	Clifton	1813-1820	81	0.00	1	8	1.00	clerk to the house of industry	1	1.00
+441	WML/017/rose	WML/017	rose	Clifton	AP	Clifton	1813-1820	81	0.00	1	8	1.00	agent to the earl of lonsdale	1	1.00
+442	WML/018/rose	WML/018	rose	Crook	CH	Kendal	1814-1821	67	0.00	1	8	1.00	husbandman	10	10.00
+443	WML/018/rose	WML/018	rose	Crook	CH	Kendal	1814-1821	67	0.00	1	8	1.00	weaver	3	3.00
+444	WML/018/rose	WML/018	rose	Crook	CH	Kendal	1814-1821	67	0.00	1	8	1.00	heelmaker	3	3.00
+445	WML/018/rose	WML/018	rose	Crook	CH	Kendal	1814-1821	67	0.00	1	8	1.00	illegitimate	3	3.00
+446	WML/018/rose	WML/018	rose	Crook	CH	Kendal	1814-1821	67	0.00	1	8	1.00	shoemaker	2	2.00
+447	WML/018/rose	WML/018	rose	Crook	CH	Kendal	1814-1821	67	0.00	1	8	1.00	soldier	1	1.00
+448	WML/018/rose	WML/018	rose	Crook	CH	Kendal	1814-1821	67	0.00	1	8	1.00	flax spinner	2	2.00
+449	WML/018/rose	WML/018	rose	Crook	CH	Kendal	1814-1821	67	0.00	1	8	1.00	farmer	17	17.00
+450	WML/018/rose	WML/018	rose	Crook	CH	Kendal	1814-1821	67	0.00	1	8	1.00	labourer	13	13.00
+451	WML/018/rose	WML/018	rose	Crook	CH	Kendal	1814-1821	67	0.00	1	8	1.00	bleacher	1	1.00
+452	WML/018/rose	WML/018	rose	Crook	CH	Kendal	1814-1821	67	0.00	1	8	1.00	waller	3	3.00
+453	WML/018/rose	WML/018	rose	Crook	CH	Kendal	1814-1821	67	0.00	1	8	1.00	minister	1	1.00
+454	WML/018/rose	WML/018	rose	Crook	CH	Kendal	1814-1821	67	0.00	1	8	1.00	bobbin turner	3	3.00
+455	WML/018/rose	WML/018	rose	Crook	CH	Kendal	1814-1821	67	0.00	1	8	1.00	smith	1	1.00
+456	WML/018/rose	WML/018	rose	Crook	CH	Kendal	1814-1821	67	0.00	1	8	1.00	spinner	1	1.00
+457	WML/018/rose	WML/018	rose	Crook	CH	Kendal	1814-1821	67	0.00	1	8	1.00	blacksmith	1	1.00
+458	WML/018/rose	WML/018	rose	Crook	CH	Kendal	1814-1821	67	0.00	1	8	1.00	basketmaker	1	1.00
+459	WML/018/rose	WML/018	rose	Crook	CH	Kendal	1814-1821	67	0.00	1	8	1.00	yeoman	1	1.00
+460	WML/019/rose	WML/019	rose	Crosby Garrett	AP	Crosby Garrett	1813-1820	69	0.00	1	8	1.00	spirit merchant	1	1.00
+461	WML/019/rose	WML/019	rose	Crosby Garrett	AP	Crosby Garrett	1813-1820	69	0.00	1	8	1.00	farmer	21	21.00
+462	WML/019/rose	WML/019	rose	Crosby Garrett	AP	Crosby Garrett	1813-1820	69	0.00	1	8	1.00	yeoman	14	14.00
+463	WML/019/rose	WML/019	rose	Crosby Garrett	AP	Crosby Garrett	1813-1820	69	0.00	1	8	1.00	husbandman	6	6.00
+464	WML/019/rose	WML/019	rose	Crosby Garrett	AP	Crosby Garrett	1813-1820	69	0.00	1	8	1.00	labourer	9	9.00
+465	WML/019/rose	WML/019	rose	Crosby Garrett	AP	Crosby Garrett	1813-1820	69	0.00	1	8	1.00	slater	3	3.00
+466	WML/019/rose	WML/019	rose	Crosby Garrett	AP	Crosby Garrett	1813-1820	69	0.00	1	8	1.00	drover	2	2.00
+467	WML/019/rose	WML/019	rose	Crosby Garrett	AP	Crosby Garrett	1813-1820	69	0.00	1	8	1.00	weaver	2	2.00
+468	WML/019/rose	WML/019	rose	Crosby Garrett	AP	Crosby Garrett	1813-1820	69	0.00	1	8	1.00	lieutenant	1	1.00
+469	WML/019/rose	WML/019	rose	Crosby Garrett	AP	Crosby Garrett	1813-1820	69	0.00	1	8	1.00	unreadable	1	1.00
+470	WML/019/rose	WML/019	rose	Crosby Garrett	AP	Crosby Garrett	1813-1820	69	0.00	1	8	1.00	illegitimate	1	1.00
+471	WML/019/rose	WML/019	rose	Crosby Garrett	AP	Crosby Garrett	1813-1820	69	0.00	1	8	1.00	cordwainer or shoemaker	1	1.00
+472	WML/019/rose	WML/019	rose	Crosby Garrett	AP	Crosby Garrett	1813-1820	69	0.00	1	8	1.00	day labourer	1	1.00
+473	WML/019/rose	WML/019	rose	Crosby Garrett	AP	Crosby Garrett	1813-1820	69	0.00	1	8	1.00	servant	2	2.00
+474	WML/019/rose	WML/019	rose	Crosby Garrett	AP	Crosby Garrett	1813-1820	69	0.00	1	8	1.00	innkeeper	1	1.00
+475	WML/019/rose	WML/019	rose	Crosby Garrett	AP	Crosby Garrett	1813-1820	69	0.00	1	8	1.00	schoolmaster	2	2.00
+476	WML/019/rose	WML/019	rose	Crosby Garrett	AP	Crosby Garrett	1813-1820	69	0.00	1	8	1.00	dealer and chapman	1	1.00
+477	WML/020/rose	WML/020	rose	Crosby Ravensworth	AP	Crosby Ravensworth	1813-1820	206	0.00	1	8	1.00	farmer	92	92.00
+478	WML/020/rose	WML/020	rose	Crosby Ravensworth	AP	Crosby Ravensworth	1813-1820	206	0.00	1	8	1.00	husbandman	33	33.00
+479	WML/020/rose	WML/020	rose	Crosby Ravensworth	AP	Crosby Ravensworth	1813-1820	206	0.00	1	8	1.00	cordwainer	5	5.00
+480	WML/020/rose	WML/020	rose	Crosby Ravensworth	AP	Crosby Ravensworth	1813-1820	206	0.00	1	8	1.00	illegitimate	18	18.00
+481	WML/020/rose	WML/020	rose	Crosby Ravensworth	AP	Crosby Ravensworth	1813-1820	206	0.00	1	8	1.00	labourer	29	29.00
+482	WML/020/rose	WML/020	rose	Crosby Ravensworth	AP	Crosby Ravensworth	1813-1820	206	0.00	1	8	1.00	innkeeper	3	3.00
+483	WML/020/rose	WML/020	rose	Crosby Ravensworth	AP	Crosby Ravensworth	1813-1820	206	0.00	1	8	1.00	carpenter	7	7.00
+484	WML/020/rose	WML/020	rose	Crosby Ravensworth	AP	Crosby Ravensworth	1813-1820	206	0.00	1	8	1.00	miller	6	6.00
+485	WML/020/rose	WML/020	rose	Crosby Ravensworth	AP	Crosby Ravensworth	1813-1820	206	0.00	1	8	1.00	blacksmith	1	1.00
+486	WML/020/rose	WML/020	rose	Crosby Ravensworth	AP	Crosby Ravensworth	1813-1820	206	0.00	1	8	1.00	millwright	4	4.00
+487	WML/020/rose	WML/020	rose	Crosby Ravensworth	AP	Crosby Ravensworth	1813-1820	206	0.00	1	8	1.00	tailor	2	2.00
+488	WML/020/rose	WML/020	rose	Crosby Ravensworth	AP	Crosby Ravensworth	1813-1820	206	0.00	1	8	1.00	smith	3	3.00
+489	WML/020/rose	WML/020	rose	Crosby Ravensworth	AP	Crosby Ravensworth	1813-1820	206	0.00	1	8	1.00	weaver	1	1.00
+490	WML/020/rose	WML/020	rose	Crosby Ravensworth	AP	Crosby Ravensworth	1813-1820	206	0.00	1	8	1.00	carrier	1	1.00
+491	WML/020/rose	WML/020	rose	Crosby Ravensworth	AP	Crosby Ravensworth	1813-1820	206	0.00	1	8	1.00	yeoman	1	1.00
+492	WML/022/rose	WML/022	rose	Crosscrake	CH	Heversham	1817-1824	112	0.93	1	8	1.00	illegitimate	4	4.00
+493	WML/022/rose	WML/022	rose	Crosscrake	CH	Heversham	1817-1824	112	0.93	1	8	1.00	husbandman	19	19.00
+494	WML/022/rose	WML/022	rose	Crosscrake	CH	Heversham	1817-1824	112	0.93	1	8	1.00	gardener	1	1.00
+495	WML/022/rose	WML/022	rose	Crosscrake	CH	Heversham	1817-1824	112	0.93	1	8	1.00	farmer	28	28.00
+496	WML/022/rose	WML/022	rose	Crosscrake	CH	Heversham	1817-1824	112	0.93	1	8	1.00	mason	1	1.00
+497	WML/022/rose	WML/022	rose	Crosscrake	CH	Heversham	1817-1824	112	0.93	1	8	1.00	no occupation specified	1	1.00
+498	WML/022/rose	WML/022	rose	Crosscrake	CH	Heversham	1817-1824	112	0.93	1	8	1.00	carpenter	5	5.00
+499	WML/022/rose	WML/022	rose	Crosscrake	CH	Heversham	1817-1824	112	0.93	1	8	1.00	labourer	17	17.00
+500	WML/022/rose	WML/022	rose	Crosscrake	CH	Heversham	1817-1824	112	0.93	1	8	1.00	dyer	1	1.00
+501	WML/022/rose	WML/022	rose	Crosscrake	CH	Heversham	1817-1824	112	0.93	1	8	1.00	brick maker	1	1.00
+502	WML/022/rose	WML/022	rose	Crosscrake	CH	Heversham	1817-1824	112	0.93	1	8	1.00	stone mason	5	5.00
+503	WML/022/rose	WML/022	rose	Crosscrake	CH	Heversham	1817-1824	112	0.93	1	8	1.00	blacksmith	5	5.00
+504	WML/022/rose	WML/022	rose	Crosscrake	CH	Heversham	1817-1824	112	0.93	1	8	1.00	shoemaker	5	5.00
+505	WML/022/rose	WML/022	rose	Crosscrake	CH	Heversham	1817-1824	112	0.93	1	8	1.00	weaver	5	5.00
+506	WML/022/rose	WML/022	rose	Crosscrake	CH	Heversham	1817-1824	112	0.93	1	8	1.00	cooper	5	5.00
+507	WML/022/rose	WML/022	rose	Crosscrake	CH	Heversham	1817-1824	112	0.93	1	8	1.00	flax spinner	4	4.00
+508	WML/022/rose	WML/022	rose	Crosscrake	CH	Heversham	1817-1824	112	0.93	1	8	1.00	chair maker	1	1.00
+509	WML/022/rose	WML/022	rose	Crosscrake	CH	Heversham	1817-1824	112	0.93	1	8	1.00	clerk	2	2.00
+510	WML/022/rose	WML/022	rose	Crosscrake	CH	Heversham	1817-1824	112	0.93	1	8	1.00	sickle maker	1	1.00
+511	WML/022/rose	WML/022	rose	Crosscrake	CH	Heversham	1817-1824	112	0.93	1	8	1.00	twine spinner	1	1.00
+512	WML/023/rose	WML/023	rose	Crosthwaite cum Lyth	CH	Heversham	1813-1820	165	0.00	1	8	1.00	yeoman	24	24.00
+513	WML/023/rose	WML/023	rose	Crosthwaite cum Lyth	CH	Heversham	1813-1820	165	0.00	1	8	1.00	farmer	43	43.00
+514	WML/023/rose	WML/023	rose	Crosthwaite cum Lyth	CH	Heversham	1813-1820	165	0.00	1	8	1.00	labourer	44	44.00
+515	WML/023/rose	WML/023	rose	Crosthwaite cum Lyth	CH	Heversham	1813-1820	165	0.00	1	8	1.00	paper maker	4	4.00
+516	WML/023/rose	WML/023	rose	Crosthwaite cum Lyth	CH	Heversham	1813-1820	165	0.00	1	8	1.00	illegitimate	15	15.00
+517	WML/023/rose	WML/023	rose	Crosthwaite cum Lyth	CH	Heversham	1813-1820	165	0.00	1	8	1.00	cabinet maker	4	4.00
+518	WML/023/rose	WML/023	rose	Crosthwaite cum Lyth	CH	Heversham	1813-1820	165	0.00	1	8	1.00	smith	10	10.00
+519	WML/023/rose	WML/023	rose	Crosthwaite cum Lyth	CH	Heversham	1813-1820	165	0.00	1	8	1.00	miller	4	4.00
+520	WML/023/rose	WML/023	rose	Crosthwaite cum Lyth	CH	Heversham	1813-1820	165	0.00	1	8	1.00	tailor	3	3.00
+521	WML/023/rose	WML/023	rose	Crosthwaite cum Lyth	CH	Heversham	1813-1820	165	0.00	1	8	1.00	carpenter	2	2.00
+522	WML/023/rose	WML/023	rose	Crosthwaite cum Lyth	CH	Heversham	1813-1820	165	0.00	1	8	1.00	seedsman	1	1.00
+523	WML/023/rose	WML/023	rose	Crosthwaite cum Lyth	CH	Heversham	1813-1820	165	0.00	1	8	1.00	shoemaker	3	3.00
+524	WML/023/rose	WML/023	rose	Crosthwaite cum Lyth	CH	Heversham	1813-1820	165	0.00	1	8	1.00	wright	2	2.00
+525	WML/023/rose	WML/023	rose	Crosthwaite cum Lyth	CH	Heversham	1813-1820	165	0.00	1	8	1.00	fisher	1	1.00
+526	WML/023/rose	WML/023	rose	Crosthwaite cum Lyth	CH	Heversham	1813-1820	165	0.00	1	8	1.00	husbandman	4	4.00
+527	WML/023/rose	WML/023	rose	Crosthwaite cum Lyth	CH	Heversham	1813-1820	165	0.00	1	8	1.00	exciseman	1	1.00
+528	WML/024/rose	WML/024	rose	Dufton	AP	Dufton	1813-1820	120	0.00	1	8	1.00	miner	31	31.00
+529	WML/024/rose	WML/024	rose	Dufton	AP	Dufton	1813-1820	120	0.00	1	8	1.00	farmer	29	29.00
+530	WML/024/rose	WML/024	rose	Dufton	AP	Dufton	1813-1820	120	0.00	1	8	1.00	labourer	10	10.00
+531	WML/024/rose	WML/024	rose	Dufton	AP	Dufton	1813-1820	120	0.00	1	8	1.00	yeoman	12	12.00
+532	WML/024/rose	WML/024	rose	Dufton	AP	Dufton	1813-1820	120	0.00	1	8	1.00	carpenter	2	2.00
+533	WML/024/rose	WML/024	rose	Dufton	AP	Dufton	1813-1820	120	0.00	1	8	1.00	illegitimate	15	15.00
+534	WML/024/rose	WML/024	rose	Dufton	AP	Dufton	1813-1820	120	0.00	1	8	1.00	blacksmith	5	5.00
+535	WML/024/rose	WML/024	rose	Dufton	AP	Dufton	1813-1820	120	0.00	1	8	1.00	mason	4	4.00
+536	WML/024/rose	WML/024	rose	Dufton	AP	Dufton	1813-1820	120	0.00	1	8	1.00	farrier	4	4.00
+537	WML/024/rose	WML/024	rose	Dufton	AP	Dufton	1813-1820	120	0.00	1	8	1.00	shoemaker	1	1.00
+538	WML/024/rose	WML/024	rose	Dufton	AP	Dufton	1813-1820	120	0.00	1	8	1.00	clergyman	1	1.00
+539	WML/024/rose	WML/024	rose	Dufton	AP	Dufton	1813-1820	120	0.00	1	8	1.00	soldier	1	1.00
+540	WML/024/rose	WML/024	rose	Dufton	AP	Dufton	1813-1820	120	0.00	1	8	1.00	servant	2	2.00
+541	WML/024/rose	WML/024	rose	Dufton	AP	Dufton	1813-1820	120	0.00	1	8	1.00	clerk	1	1.00
+542	WML/024/rose	WML/024	rose	Dufton	AP	Dufton	1813-1820	120	0.00	1	8	1.00	collier	1	1.00
+543	WML/024/rose	WML/024	rose	Dufton	AP	Dufton	1813-1820	120	0.00	1	8	1.00	weaver	1	1.00
+544	WML/025/rose	WML/025	rose	Firbank	CH	Kirkby Lonsdale	1813-1820	57	0.00	1	8	1.00	husbandman	32	32.00
+545	WML/025/rose	WML/025	rose	Firbank	CH	Kirkby Lonsdale	1813-1820	57	0.00	1	8	1.00	carpenter	2	2.00
+546	WML/025/rose	WML/025	rose	Firbank	CH	Kirkby Lonsdale	1813-1820	57	0.00	1	8	1.00	minister	2	2.00
+547	WML/025/rose	WML/025	rose	Firbank	CH	Kirkby Lonsdale	1813-1820	57	0.00	1	8	1.00	labourer	17	17.00
+548	WML/025/rose	WML/025	rose	Firbank	CH	Kirkby Lonsdale	1813-1820	57	0.00	1	8	1.00	illegitimate	3	3.00
+549	WML/025/rose	WML/025	rose	Firbank	CH	Kirkby Lonsdale	1813-1820	57	0.00	1	8	1.00	weaver	1	1.00
+550	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	waller	10	10.00
+551	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	tailor	2	2.00
+552	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	farmer	39	39.00
+553	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	slategetter	3	3.00
+554	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	surgeon	1	1.00
+555	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	labourer	20	20.00
+556	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	manufacturer	1	1.00
+557	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	slater	20	20.00
+558	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	yeoman	17	17.00
+559	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	innkeeper	6	6.00
+560	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	gentleman	4	4.00
+561	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	illegitimate	13	13.00
+562	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	miller	2	2.00
+563	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	shoemaker	4	4.00
+564	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	husbandman	17	17.00
+565	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	blacksmith	3	3.00
+566	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	carpenter	12	12.00
+567	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	weaver	2	2.00
+568	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	mole catcher	1	1.00
+569	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	blockmaker	1	1.00
+570	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	carrier	1	1.00
+571	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	slate man	2	2.00
+572	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	slate merchant	1	1.00
+573	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	slate river	2	2.00
+574	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	esquire	1	1.00
+575	WML/026/rose	WML/026	rose	Grasmere	AP	Grasmere	1813-1820	186	0.00	1	8	1.00	captain	1	1.00
+576	WML/027/rose	WML/027	rose	Grayrigg	CH	Kendal	1813-1820	200	0.00	1	8	1.00	husbandman	18	18.00
+577	WML/027/rose	WML/027	rose	Grayrigg	CH	Kendal	1813-1820	200	0.00	1	8	1.00	yeoman	4	4.00
+578	WML/027/rose	WML/027	rose	Grayrigg	CH	Kendal	1813-1820	200	0.00	1	8	1.00	innkeeper	5	5.00
+579	WML/027/rose	WML/027	rose	Grayrigg	CH	Kendal	1813-1820	200	0.00	1	8	1.00	labourer	28	28.00
+580	WML/027/rose	WML/027	rose	Grayrigg	CH	Kendal	1813-1820	200	0.00	1	8	1.00	blacksmith	5	5.00
+581	WML/027/rose	WML/027	rose	Grayrigg	CH	Kendal	1813-1820	200	0.00	1	8	1.00	joiner	13	13.00
+582	WML/027/rose	WML/027	rose	Grayrigg	CH	Kendal	1813-1820	200	0.00	1	8	1.00	cordwainer	7	7.00
+583	WML/027/rose	WML/027	rose	Grayrigg	CH	Kendal	1813-1820	200	0.00	1	8	1.00	molecatcher	3	3.00
+584	WML/027/rose	WML/027	rose	Grayrigg	CH	Kendal	1813-1820	200	0.00	1	8	1.00	illegitimate	16	16.00
+585	WML/027/rose	WML/027	rose	Grayrigg	CH	Kendal	1813-1820	200	0.00	1	8	1.00	farmer	87	87.00
+586	WML/027/rose	WML/027	rose	Grayrigg	CH	Kendal	1813-1820	200	0.00	1	8	1.00	miller	7	7.00
+587	WML/027/rose	WML/027	rose	Grayrigg	CH	Kendal	1813-1820	200	0.00	1	8	1.00	sailor	1	1.00
+588	WML/027/rose	WML/027	rose	Grayrigg	CH	Kendal	1813-1820	200	0.00	1	8	1.00	auctioneer	3	3.00
+589	WML/027/rose	WML/027	rose	Grayrigg	CH	Kendal	1813-1820	200	0.00	1	8	1.00	tailor	2	2.00
+590	WML/027/rose	WML/027	rose	Grayrigg	CH	Kendal	1813-1820	200	0.00	1	8	1.00	book keeper	1	1.00
+591	WML/028/rose	WML/028	rose	Great Musgrave	AP	Great Musgrave	1813-1820	40	0.00	1	8	1.00	labourer	10	10.00
+592	WML/028/rose	WML/028	rose	Great Musgrave	AP	Great Musgrave	1813-1820	40	0.00	1	8	1.00	farmer	23	23.00
+593	WML/028/rose	WML/028	rose	Great Musgrave	AP	Great Musgrave	1813-1820	40	0.00	1	8	1.00	illegitimate	4	4.00
+594	WML/028/rose	WML/028	rose	Great Musgrave	AP	Great Musgrave	1813-1820	40	0.00	1	8	1.00	innkeeper	1	1.00
+595	WML/028/rose	WML/028	rose	Great Musgrave	AP	Great Musgrave	1813-1820	40	0.00	1	8	1.00	butcher	1	1.00
+596	WML/028/rose	WML/028	rose	Great Musgrave	AP	Great Musgrave	1813-1820	40	0.00	1	8	1.00	husbandman	1	1.00
+597	WML/029/rose	WML/029	rose	Helsington	CH	Kendal	1813-1820	65	0.00	1	8	1.00	labourer	24	24.00
+598	WML/029/rose	WML/029	rose	Helsington	CH	Kendal	1813-1820	65	0.00	1	8	1.00	carpenter	3	3.00
+599	WML/029/rose	WML/029	rose	Helsington	CH	Kendal	1813-1820	65	0.00	1	8	1.00	miller	1	1.00
+600	WML/029/rose	WML/029	rose	Helsington	CH	Kendal	1813-1820	65	0.00	1	8	1.00	farmer	18	18.00
+601	WML/029/rose	WML/029	rose	Helsington	CH	Kendal	1813-1820	65	0.00	1	8	1.00	tailor	1	1.00
+602	WML/029/rose	WML/029	rose	Helsington	CH	Kendal	1813-1820	65	0.00	1	8	1.00	yeoman	2	2.00
+603	WML/029/rose	WML/029	rose	Helsington	CH	Kendal	1813-1820	65	0.00	1	8	1.00	cordwainer	2	2.00
+604	WML/029/rose	WML/029	rose	Helsington	CH	Kendal	1813-1820	65	0.00	1	8	1.00	schoolmaster	3	3.00
+605	WML/029/rose	WML/029	rose	Helsington	CH	Kendal	1813-1820	65	0.00	1	8	1.00	husbandman	5	5.00
+606	WML/029/rose	WML/029	rose	Helsington	CH	Kendal	1813-1820	65	0.00	1	8	1.00	illegitimate	5	5.00
+607	WML/029/rose	WML/029	rose	Helsington	CH	Kendal	1813-1820	65	0.00	1	8	1.00	gardener	1	1.00
+608	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	husbandman	70	70.00
+609	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	farmer	97	97.00
+610	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	maltster	2	2.00
+611	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	weaver	42	42.00
+612	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	carpenter	22	22.00
+613	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	turner	3	3.00
+614	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	tailor	4	4.00
+615	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	gunpowder maker	2	2.00
+616	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	innkeeper	9	9.00
+617	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	labourer	135	135.00
+618	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	saddler	4	4.00
+619	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	illegitimate	66	66.00
+620	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	waller	5	5.00
+621	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	blacksmith	19	19.00
+622	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	gentleman	9	9.00
+623	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	yeoman	7	7.00
+624	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	papermaker	12	12.00
+625	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	shoemaker	7	7.00
+626	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	butcher	4	4.00
+627	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	cordwainer	10	10.00
+628	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	merchant	4	4.00
+629	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	twine spinner	8	8.00
+630	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	mariner	2	2.00
+631	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	spirit merchant	4	4.00
+632	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	canal cutter	2	2.00
+633	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	hooper	5	5.00
+634	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	wool spinner	1	1.00
+635	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	navigator	1	1.00
+636	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	miller	3	3.00
+637	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	glazier	2	2.00
+638	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	sawyer	2	2.00
+639	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	chaise driver	2	2.00
+640	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	engineer	2	2.00
+641	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	mason	9	9.00
+642	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	cotton spinner	1	1.00
+643	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	gardener	1	1.00
+644	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	millkeeper	1	1.00
+645	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	carrier	5	5.00
+646	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	cooper	4	4.00
+647	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	brickmaker	3	3.00
+648	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	joiner	5	5.00
+649	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	sizer	1	1.00
+650	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	stone mason	5	5.00
+651	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	officer of excise	1	1.00
+652	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	carter	2	2.00
+653	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	chair maker	1	1.00
+654	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	schoolmaster	3	3.00
+655	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	nailor	1	1.00
+656	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	spinner	1	1.00
+657	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	victualler	2	2.00
+658	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	clergyman	1	1.00
+659	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	plumber and glazier	1	1.00
+660	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	sadler	1	1.00
+661	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	ship carpenter	1	1.00
+662	WML/030/rose	WML/030	rose	Heversham	AP	Heversham	1813-1820	618	0.00	1	8	1.00	clerk	1	1.00
+663	WML/031/rose	WML/031	rose	Hugill (Ings)	CH	Kendal	1813-1820	59	0.00	1	8	1.00	husbandman	12	12.00
+664	WML/031/rose	WML/031	rose	Hugill (Ings)	CH	Kendal	1813-1820	59	0.00	1	8	1.00	labourer	2	2.00
+665	WML/031/rose	WML/031	rose	Hugill (Ings)	CH	Kendal	1813-1820	59	0.00	1	8	1.00	carpenter	1	1.00
+666	WML/031/rose	WML/031	rose	Hugill (Ings)	CH	Kendal	1813-1820	59	0.00	1	8	1.00	turner in wood	1	1.00
+667	WML/031/rose	WML/031	rose	Hugill (Ings)	CH	Kendal	1813-1820	59	0.00	1	8	1.00	clerk	4	4.00
+668	WML/031/rose	WML/031	rose	Hugill (Ings)	CH	Kendal	1813-1820	59	0.00	1	8	1.00	farmer	14	14.00
+669	WML/031/rose	WML/031	rose	Hugill (Ings)	CH	Kendal	1813-1820	59	0.00	1	8	1.00	illegitimate	3	3.00
+670	WML/031/rose	WML/031	rose	Hugill (Ings)	CH	Kendal	1813-1820	59	0.00	1	8	1.00	waller	2	2.00
+671	WML/031/rose	WML/031	rose	Hugill (Ings)	CH	Kendal	1813-1820	59	0.00	1	8	1.00	weaver	2	2.00
+672	WML/031/rose	WML/031	rose	Hugill (Ings)	CH	Kendal	1813-1820	59	0.00	1	8	1.00	bobbin turner	12	12.00
+673	WML/031/rose	WML/031	rose	Hugill (Ings)	CH	Kendal	1813-1820	59	0.00	1	8	1.00	yeoman	4	4.00
+674	WML/031/rose	WML/031	rose	Hugill (Ings)	CH	Kendal	1813-1820	59	0.00	1	8	1.00	house carpenter	1	1.00
+675	WML/031/rose	WML/031	rose	Hugill (Ings)	CH	Kendal	1813-1820	59	0.00	1	8	1.00	shopkeeper	1	1.00
+676	WML/032/rose	WML/032	rose	Hutton Roof	CH	Kirkby Lonsdale	1813-1820	91	0.00	1	8	1.00	farmer	20	20.00
+677	WML/032/rose	WML/032	rose	Hutton Roof	CH	Kirkby Lonsdale	1813-1820	91	0.00	1	8	1.00	servant in husbandry	1	1.00
+678	WML/032/rose	WML/032	rose	Hutton Roof	CH	Kirkby Lonsdale	1813-1820	91	0.00	1	8	1.00	innkeeper	3	3.00
+679	WML/032/rose	WML/032	rose	Hutton Roof	CH	Kirkby Lonsdale	1813-1820	91	0.00	1	8	1.00	labourer	37	37.00
+680	WML/032/rose	WML/032	rose	Hutton Roof	CH	Kirkby Lonsdale	1813-1820	91	0.00	1	8	1.00	illegitimate	8	8.00
+681	WML/032/rose	WML/032	rose	Hutton Roof	CH	Kirkby Lonsdale	1813-1820	91	0.00	1	8	1.00	stonemason	13	13.00
+682	WML/032/rose	WML/032	rose	Hutton Roof	CH	Kirkby Lonsdale	1813-1820	91	0.00	1	8	1.00	collier	2	2.00
+683	WML/032/rose	WML/032	rose	Hutton Roof	CH	Kirkby Lonsdale	1813-1820	91	0.00	1	8	1.00	servant	1	1.00
+684	WML/032/rose	WML/032	rose	Hutton Roof	CH	Kirkby Lonsdale	1813-1820	91	0.00	1	8	1.00	miller	3	3.00
+685	WML/032/rose	WML/032	rose	Hutton Roof	CH	Kirkby Lonsdale	1813-1820	91	0.00	1	8	1.00	yeoman	1	1.00
+686	WML/032/rose	WML/032	rose	Hutton Roof	CH	Kirkby Lonsdale	1813-1820	91	0.00	1	8	1.00	carpenter	2	2.00
+687	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	currier	5	10.00
+688	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	spinner	35	70.00
+689	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	joiner	37	74.00
+690	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	millwright	5	10.00
+691	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	weaver	210	420.00
+692	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	husbandman	94	188.00
+693	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	no occupation specified	1	2.00
+694	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	tanner	25	50.00
+695	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	shoemaker	110	220.00
+696	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	illegitimate	87	174.00
+697	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	rope maker	3	6.00
+698	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	lime burner	7	14.00
+699	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	potter	6	12.00
+700	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	wheelwright	4	8.00
+701	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	carpenter	7	14.00
+702	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	tailor	34	68.00
+703	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	card maker	11	22.00
+704	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	comedian	2	4.00
+705	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	mason	10	20.00
+706	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	tallow chandler	2	4.00
+707	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	innkeeper	23	46.00
+708	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	wool carder	2	4.00
+709	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	manufacturer	5	10.00
+710	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	butcher	21	42.00
+711	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	whitesmith	6	12.00
+712	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	labourer	42	84.00
+713	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	chaise driver	4	8.00
+714	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	coal merchant	1	2.00
+715	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	fuller	2	4.00
+716	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	spirit dealer	1	2.00
+717	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	coachman	12	24.00
+718	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	tin plate worker	1	2.00
+719	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	private	1	2.00
+720	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	waller	39	78.00
+721	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	nailer	4	8.00
+722	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	unreadable	15	30.00
+723	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	fish hook maker	5	10.00
+724	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	farmer	6	12.00
+725	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	carter	10	20.00
+726	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	ostler	6	12.00
+727	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	esquire	2	4.00
+728	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	tobacconist	6	12.00
+729	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	merchant	6	12.00
+730	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	wire drawer	7	14.00
+731	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	builder	3	6.00
+732	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	maltster	4	8.00
+733	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	brazier	6	12.00
+734	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	watch maker	2	4.00
+735	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	militia	1	2.00
+736	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	driver	1	2.00
+737	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	schoolmaster	2	4.00
+738	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	smith	4	8.00
+739	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	comb maker	4	8.00
+740	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	blacksmith	8	16.00
+741	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	linen draper	1	2.00
+742	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	mole catcher	2	4.00
+743	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	hawker	1	2.00
+744	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	farrier	3	6.00
+745	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	tax surveyor	1	2.00
+746	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	hosier	2	4.00
+747	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	yeoman	1	2.00
+748	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	wool comber	13	26.00
+749	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	stationer	3	6.00
+750	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	founder	2	4.00
+751	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	clock maker	1	2.00
+752	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	common carrier	1	2.00
+753	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	plasterer	4	8.00
+754	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	hatter	5	10.00
+755	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	grocer	6	12.00
+756	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	upholsterer	1	2.00
+757	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	paper maker	2	4.00
+758	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	banker's clerk	2	4.00
+759	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	dyer	6	12.00
+760	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	miller	9	18.00
+761	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	ticket book maker	1	2.00
+762	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	waresman	1	2.00
+763	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	miner	1	2.00
+764	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	bleacher	4	8.00
+765	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	stone mason	10	20.00
+766	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	gardener	2	4.00
+767	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	flax dresser	3	6.00
+768	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	cooper	2	4.00
+769	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	warehouseman	3	6.00
+770	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	cordwainer	1	2.00
+771	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	sawyer	2	4.00
+772	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	bread baker	2	4.00
+773	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	spearman	4	8.00
+774	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	printer	5	10.00
+775	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	coach driver	6	12.00
+776	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	clerk and curate	2	4.00
+777	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	mould maker	1	2.00
+778	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	spirit merchant	2	4.00
+779	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	shopkeeper	4	8.00
+780	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	officer of excise	2	4.00
+781	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	brewer	4	8.00
+782	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	coach maker	7	14.00
+783	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	chair maker	3	6.00
+784	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	bobbin turner	2	4.00
+785	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	groom	4	8.00
+786	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	waggoner	1	2.00
+787	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	coach painter	2	4.00
+788	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	glazier	2	4.00
+789	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	draper	1	2.00
+790	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	surveyor of taxes	3	6.00
+791	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	twine spinner	7	14.00
+792	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	wool spinner	1	2.00
+793	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	clogger	2	4.00
+794	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	yarn spinner	3	6.00
+795	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	painter	1	2.00
+796	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	cloth draper	1	2.00
+797	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	slater	5	10.00
+798	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	officer in the militia	1	2.00
+799	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	gentleman	6	12.00
+800	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	drummer	1	2.00
+801	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	hat maker	1	2.00
+802	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	auctioneer	2	4.00
+803	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	house carpenter	3	6.00
+804	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	leather draper	1	2.00
+805	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	traveller	1	2.00
+806	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	marble mason	1	2.00
+807	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	surgeon	1	2.00
+808	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	tailor and draper	1	2.00
+809	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	machine maker	2	4.00
+810	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	excise officer	1	2.00
+811	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	iron founder	1	2.00
+812	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	wood turner	1	2.00
+813	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	shaver	1	2.00
+814	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	corn merchant	1	2.00
+815	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	cropper	2	4.00
+816	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	woollen spinner	1	2.00
+817	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	solicitor	2	4.00
+818	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	druggist	1	2.00
+819	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	horse keeper	1	2.00
+820	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	book keeper	2	4.00
+821	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	cabinet maker	3	6.00
+822	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	carrier	1	2.00
+823	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	pocket book maker	4	8.00
+824	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	house servant	1	2.00
+825	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	porter	2	4.00
+826	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	waggon driver	1	2.00
+827	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	turner	1	2.00
+828	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	reed maker	2	4.00
+829	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	ironmonger	2	4.00
+830	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	last maker	1	2.00
+831	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	chair dresser	1	2.00
+832	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	barber	1	2.00
+833	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	grain merchant	1	2.00
+834	WML/033/rose	WML/033	rose	Kendal	AP	Kendal Holy Trinity	1813-1820	1187	0.09	2	8	2.00	boatman	1	2.00
+835	WML/034/rose	WML/034	rose	Kentmere	CH	Kendal	1813-1820	60	0.00	1	8	1.00	husbandman	23	23.00
+836	WML/034/rose	WML/034	rose	Kentmere	CH	Kendal	1813-1820	60	0.00	1	8	1.00	labourer	5	5.00
+837	WML/034/rose	WML/034	rose	Kentmere	CH	Kendal	1813-1820	60	0.00	1	8	1.00	slate getter	22	22.00
+838	WML/034/rose	WML/034	rose	Kentmere	CH	Kendal	1813-1820	60	0.00	1	8	1.00	weaver	1	1.00
+839	WML/034/rose	WML/034	rose	Kentmere	CH	Kendal	1813-1820	60	0.00	1	8	1.00	yeoman	5	5.00
+840	WML/034/rose	WML/034	rose	Kentmere	CH	Kendal	1813-1820	60	0.00	1	8	1.00	illegitimate	4	4.00
+841	WML/035/rose	WML/035	rose	Killington	CH	Kirkby Lonsdale	1813-1820	82	0.00	1	8	1.00	farmer	40	40.00
+842	WML/035/rose	WML/035	rose	Killington	CH	Kirkby Lonsdale	1813-1820	82	0.00	1	8	1.00	illegitimate	11	11.00
+843	WML/035/rose	WML/035	rose	Killington	CH	Kirkby Lonsdale	1813-1820	82	0.00	1	8	1.00	miller	5	5.00
+844	WML/035/rose	WML/035	rose	Killington	CH	Kirkby Lonsdale	1813-1820	82	0.00	1	8	1.00	husbandman	23	23.00
+845	WML/035/rose	WML/035	rose	Killington	CH	Kirkby Lonsdale	1813-1820	82	0.00	1	8	1.00	innkeeper	2	2.00
+846	WML/035/rose	WML/035	rose	Killington	CH	Kirkby Lonsdale	1813-1820	82	0.00	1	8	1.00	clergyman	1	1.00
+847	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	husbandman	149	149.00
+848	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	skinner	2	2.00
+849	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	blacksmith	12	12.00
+850	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	stone mason	7	7.00
+851	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	illegitimate	41	41.00
+852	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	miller	4	4.00
+853	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	butcher	3	3.00
+854	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	weaver	49	49.00
+855	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	yeoman	14	14.00
+856	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	shoemaker	32	32.00
+857	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	sawyer	1	1.00
+858	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	joiner	20	20.00
+859	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	gardener	1	1.00
+860	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	hatter	1	1.00
+861	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	chaise driver	6	6.00
+862	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	mason	17	17.00
+863	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	clerk	6	6.00
+864	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	hostler	6	6.00
+865	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	labourer	15	15.00
+866	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	gentleman	5	5.00
+867	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	chair maker	3	3.00
+868	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	innkeeper	11	11.00
+869	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	militia man	1	1.00
+870	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	linen manufacturer	1	1.00
+871	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	tailor	15	15.00
+872	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	maltster	3	3.00
+873	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	rope maker	1	1.00
+874	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	carpenter	6	6.00
+875	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	clogger	2	2.00
+876	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	tanner	3	3.00
+877	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	equestrian	1	1.00
+878	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	manufacturer	2	2.00
+879	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	attorney at law	1	1.00
+880	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	nailer	1	1.00
+881	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	grocer	4	4.00
+882	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	soldier	2	2.00
+883	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	plasterer	2	2.00
+884	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	plumber and glazier	1	1.00
+885	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	dyer	1	1.00
+886	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	tin plate worker	2	2.00
+887	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	cooper	2	2.00
+888	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	courier	3	3.00
+889	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	watch maker	3	3.00
+890	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	tallow chandler	1	1.00
+891	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	twine spinner	1	1.00
+892	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	coachman	2	2.00
+893	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	mole catcher	1	1.00
+894	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	traveller	1	1.00
+895	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	stone cutter	2	2.00
+896	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	collier	1	1.00
+897	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	parish clerk	1	1.00
+898	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	spirit dealer	1	1.00
+899	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	farmer	1	1.00
+900	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	land surveyor	1	1.00
+901	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	flax spinner	1	1.00
+902	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	exciseman	1	1.00
+903	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	mariner	1	1.00
+904	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	mercer	1	1.00
+905	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	schoolmaster	1	1.00
+906	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	carrier	1	1.00
+907	WML/036/rose	WML/036	rose	Kirkby Lonsdale	AP	Kirkby Lonsdale	1813-1820	482	0.00	1	8	1.00	roper	1	1.00
+908	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	husbandman	68	68.00
+909	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	musician	2	2.00
+910	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	shoemaker	25	25.00
+911	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	illegitimate	36	36.00
+912	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	labourer	59	59.00
+913	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	butcher	13	13.00
+914	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	miller	16	16.00
+915	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	naval lieutenant	1	1.00
+916	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	tailor	6	6.00
+917	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	miner	1	1.00
+918	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	collier	10	10.00
+919	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	private	1	1.00
+920	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	esquire	8	8.00
+921	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	yeoman	19	19.00
+922	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	blacksmith	16	16.00
+923	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	confectioner	1	1.00
+924	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	carpenter	6	6.00
+925	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	schoolmaster	5	5.00
+926	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	surgeon	6	6.00
+927	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	waggoner	2	2.00
+928	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	brewer	6	6.00
+929	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	common brewer	2	2.00
+930	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	slater	4	4.00
+931	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	horse dealer	1	1.00
+932	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	stone mason	3	3.00
+933	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	maltster	1	1.00
+934	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	gentleman	4	4.00
+935	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	sadler	2	2.00
+936	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	plumber and glazier	2	2.00
+937	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	militia man	1	1.00
+938	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	chimney sweeper	1	1.00
+939	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	hatter	6	6.00
+940	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	innkeeper	13	13.00
+941	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	brazier	2	2.00
+942	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	linen draper	1	1.00
+943	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	grocer	2	2.00
+944	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	mason	7	7.00
+945	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	pensioner	1	1.00
+946	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	nailor	3	3.00
+947	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	clogger	6	6.00
+948	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	no occupation specified	11	11.00
+949	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	weaver	4	4.00
+950	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	skinner	1	1.00
+951	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	farmer	67	67.00
+952	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	wool spinner	1	1.00
+953	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	joiner	4	4.00
+954	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	carrier	7	7.00
+955	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	planter	1	1.00
+956	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	farmer and joiner	1	1.00
+957	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	tobacconist	1	1.00
+958	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	slate dealer	1	1.00
+959	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	waller	2	2.00
+960	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	dancing master	1	1.00
+961	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	servant	2	2.00
+962	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	cooper	3	3.00
+963	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	fiddler	1	1.00
+964	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	auctioneer	1	1.00
+965	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	grocer and draper	3	3.00
+966	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	farming man	1	1.00
+967	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	soldier	3	3.00
+968	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	draper and spirit merchant	1	1.00
+969	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	stationer	1	1.00
+970	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	attorney at law	1	1.00
+971	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	barber	1	1.00
+972	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	mercer and draper	2	2.00
+973	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	clerk	2	2.00
+974	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	attorney's clerk	1	1.00
+975	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	innkeeper and farmer	1	1.00
+976	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	post master	1	1.00
+977	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	butcher's man	1	1.00
+978	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	stay maker	1	1.00
+979	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	farmer or husbandman	1	1.00
+980	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	emigrant to america	1	1.00
+981	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	bread baker	1	1.00
+982	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	horse breaker	2	2.00
+983	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	flax spinner	1	1.00
+984	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	wheelwright	1	1.00
+985	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	tin man	1	1.00
+986	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	tallow chandler	1	1.00
+987	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	glazier	1	1.00
+988	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	mercer	1	1.00
+989	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	officer of excise	1	1.00
+990	WML/037/rose	WML/037	rose	Kirkby Stephen	AP	Kirkby Stephen	1813-1820	511	2.32	1	8	1.00	travelling pedlar	1	1.00
+991	WML/038/rose	WML/038	rose	Kirkby Thore	AP	Kirkby Thore	1813-1820	98	0.00	1	8	1.00	illegitimate	2	2.00
+992	WML/038/rose	WML/038	rose	Kirkby Thore	AP	Kirkby Thore	1813-1820	98	0.00	1	8	1.00	husbandman	2	2.00
+993	WML/038/rose	WML/038	rose	Kirkby Thore	AP	Kirkby Thore	1813-1820	98	0.00	1	8	1.00	pauper	1	1.00
+994	WML/038/rose	WML/038	rose	Kirkby Thore	AP	Kirkby Thore	1813-1820	98	0.00	1	8	1.00	weaver	11	11.00
+995	WML/038/rose	WML/038	rose	Kirkby Thore	AP	Kirkby Thore	1813-1820	98	0.00	1	8	1.00	labourer	25	25.00
+996	WML/038/rose	WML/038	rose	Kirkby Thore	AP	Kirkby Thore	1813-1820	98	0.00	1	8	1.00	officer of the excise	1	1.00
+997	WML/038/rose	WML/038	rose	Kirkby Thore	AP	Kirkby Thore	1813-1820	98	0.00	1	8	1.00	farmer	23	23.00
+998	WML/038/rose	WML/038	rose	Kirkby Thore	AP	Kirkby Thore	1813-1820	98	0.00	1	8	1.00	banker	4	4.00
+999	WML/038/rose	WML/038	rose	Kirkby Thore	AP	Kirkby Thore	1813-1820	98	0.00	1	8	1.00	yeoman	3	3.00
+1000	WML/038/rose	WML/038	rose	Kirkby Thore	AP	Kirkby Thore	1813-1820	98	0.00	1	8	1.00	shoemaker	6	6.00
+1001	WML/038/rose	WML/038	rose	Kirkby Thore	AP	Kirkby Thore	1813-1820	98	0.00	1	8	1.00	blacksmith	4	4.00
+1002	WML/038/rose	WML/038	rose	Kirkby Thore	AP	Kirkby Thore	1813-1820	98	0.00	1	8	1.00	miller	2	2.00
+1003	WML/038/rose	WML/038	rose	Kirkby Thore	AP	Kirkby Thore	1813-1820	98	0.00	1	8	1.00	joiner	5	5.00
+1004	WML/038/rose	WML/038	rose	Kirkby Thore	AP	Kirkby Thore	1813-1820	98	0.00	1	8	1.00	soldier	1	1.00
+1005	WML/038/rose	WML/038	rose	Kirkby Thore	AP	Kirkby Thore	1813-1820	98	0.00	1	8	1.00	mason	2	2.00
+1006	WML/038/rose	WML/038	rose	Kirkby Thore	AP	Kirkby Thore	1813-1820	98	0.00	1	8	1.00	schoolmaster	1	1.00
+1007	WML/038/rose	WML/038	rose	Kirkby Thore	AP	Kirkby Thore	1813-1820	98	0.00	1	8	1.00	labourer and parish clerk	1	1.00
+1008	WML/038/rose	WML/038	rose	Kirkby Thore	AP	Kirkby Thore	1813-1820	98	0.00	1	8	1.00	tailor	1	1.00
+1009	WML/038/rose	WML/038	rose	Kirkby Thore	AP	Kirkby Thore	1813-1820	98	0.00	1	8	1.00	butcher	1	1.00
+1010	WML/038/rose	WML/038	rose	Kirkby Thore	AP	Kirkby Thore	1813-1820	98	0.00	1	8	1.00	carpenter	1	1.00
+1011	WML/038/rose	WML/038	rose	Kirkby Thore	AP	Kirkby Thore	1813-1820	98	0.00	1	8	1.00	servant	1	1.00
+1012	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	farmer	78	78.00
+1013	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	labourer	33	33.00
+1014	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	miller	3	3.00
+1015	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	shoemaker	2	2.00
+1016	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	weaver	4	4.00
+1017	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	blacksmith	3	3.00
+1018	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	miner	10	10.00
+1019	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	collier	2	2.00
+1020	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	mason	6	6.00
+1021	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	gentleman	1	1.00
+1022	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	land holder	4	4.00
+1023	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	carpenter	2	2.00
+1024	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	baker	1	1.00
+1025	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	illegitimate	11	11.00
+1026	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	no occupation specified	1	1.00
+1027	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	sadler	1	1.00
+1028	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	yeoman	12	12.00
+1029	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	innkeeper	3	3.00
+1030	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	shopkeeper	1	1.00
+1031	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	butcher	3	3.00
+1032	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	servant	1	1.00
+1033	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	pensioner	1	1.00
+1034	WML/039/rose	WML/039	rose	Long Marton	AP	Long Marton	1813-1820	184	0.58	1	8	1.00	publican	1	1.00
+1035	WML/040/rose	WML/040	rose	Long Sleddale	CH	Kendal	1813-1820	52	0.00	1	8	1.00	quarrier	6	6.00
+1036	WML/040/rose	WML/040	rose	Long Sleddale	CH	Kendal	1813-1820	52	0.00	1	8	1.00	farmer	31	31.00
+1037	WML/040/rose	WML/040	rose	Long Sleddale	CH	Kendal	1813-1820	52	0.00	1	8	1.00	yeoman	5	5.00
+1038	WML/040/rose	WML/040	rose	Long Sleddale	CH	Kendal	1813-1820	52	0.00	1	8	1.00	husbandman	2	2.00
+1039	WML/040/rose	WML/040	rose	Long Sleddale	CH	Kendal	1813-1820	52	0.00	1	8	1.00	illegitimate	3	3.00
+1040	WML/040/rose	WML/040	rose	Long Sleddale	CH	Kendal	1813-1820	52	0.00	1	8	1.00	blacksmith	1	1.00
+1041	WML/040/rose	WML/040	rose	Long Sleddale	CH	Kendal	1813-1820	52	0.00	1	8	1.00	tailor	1	1.00
+1042	WML/040/rose	WML/040	rose	Long Sleddale	CH	Kendal	1813-1820	52	0.00	1	8	1.00	labourer	2	2.00
+1043	WML/040/rose	WML/040	rose	Long Sleddale	CH	Kendal	1813-1820	52	0.00	1	8	1.00	clogger	1	1.00
+1044	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	illegitimate	5	5.00
+1045	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	sawyer	13	13.00
+1046	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	cordwainer	1	1.00
+1047	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	clogger	3	3.00
+1048	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	footman	1	1.00
+1049	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	groom	5	5.00
+1050	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	shoemaker	6	6.00
+1051	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	game keeper	3	3.00
+1052	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	carpenter	8	8.00
+1053	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	mason	8	8.00
+1054	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	husbandman	13	13.00
+1055	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	farmer	10	10.00
+1056	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	labourer	16	16.00
+1057	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	yeoman	3	3.00
+1058	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	joiner	11	11.00
+1059	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	clerk	3	3.00
+1060	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	plasterer	4	4.00
+1061	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	blacksmith	5	5.00
+1062	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	woodman	1	1.00
+1063	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	tanner	1	1.00
+1064	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	innkeeper	2	2.00
+1065	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	nailor	1	1.00
+1066	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	publican	1	1.00
+1067	WML/041/rose	WML/041	rose	Lowther	AP	Lowther	1813-1820	125	0.00	1	8	1.00	steward	1	1.00
+1068	WML/042/rose	WML/042	rose	Mallerstang	CH	Kirkby Stephen	1813-1820	52	0.00	1	8	1.00	husbandman	14	14.00
+1069	WML/042/rose	WML/042	rose	Mallerstang	CH	Kirkby Stephen	1813-1820	52	0.00	1	8	1.00	husbandman and chapel clerk	3	3.00
+1070	WML/042/rose	WML/042	rose	Mallerstang	CH	Kirkby Stephen	1813-1820	52	0.00	1	8	1.00	farmer	24	24.00
+1071	WML/042/rose	WML/042	rose	Mallerstang	CH	Kirkby Stephen	1813-1820	52	0.00	1	8	1.00	pauper	1	1.00
+1072	WML/042/rose	WML/042	rose	Mallerstang	CH	Kirkby Stephen	1813-1820	52	0.00	1	8	1.00	cattle dealer	3	3.00
+1073	WML/042/rose	WML/042	rose	Mallerstang	CH	Kirkby Stephen	1813-1820	52	0.00	1	8	1.00	illegitimate	2	2.00
+1074	WML/042/rose	WML/042	rose	Mallerstang	CH	Kirkby Stephen	1813-1820	52	0.00	1	8	1.00	tinman	1	1.00
+1075	WML/042/rose	WML/042	rose	Mallerstang	CH	Kirkby Stephen	1813-1820	52	0.00	1	8	1.00	chapel clerk	1	1.00
+1076	WML/042/rose	WML/042	rose	Mallerstang	CH	Kirkby Stephen	1813-1820	52	0.00	1	8	1.00	labourer	1	1.00
+1077	WML/042/rose	WML/042	rose	Mallerstang	CH	Kirkby Stephen	1813-1820	52	0.00	1	8	1.00	yeoman	2	2.00
+1078	WML/043/rose	WML/043	rose	Mansergh	CH	Kirkby Lonsdale	1813-1820	72	0.00	1	8	1.00	labourer	13	13.00
+1079	WML/043/rose	WML/043	rose	Mansergh	CH	Kirkby Lonsdale	1813-1820	72	0.00	1	8	1.00	farmer	31	31.00
+1080	WML/043/rose	WML/043	rose	Mansergh	CH	Kirkby Lonsdale	1813-1820	72	0.00	1	8	1.00	illegitimate	9	9.00
+1081	WML/043/rose	WML/043	rose	Mansergh	CH	Kirkby Lonsdale	1813-1820	72	0.00	1	8	1.00	tailor	1	1.00
+1082	WML/043/rose	WML/043	rose	Mansergh	CH	Kirkby Lonsdale	1813-1820	72	0.00	1	8	1.00	husbandman	12	12.00
+1083	WML/043/rose	WML/043	rose	Mansergh	CH	Kirkby Lonsdale	1813-1820	72	0.00	1	8	1.00	blacksmith	3	3.00
+1084	WML/043/rose	WML/043	rose	Mansergh	CH	Kirkby Lonsdale	1813-1820	72	0.00	1	8	1.00	innkeeper	1	1.00
+1085	WML/043/rose	WML/043	rose	Mansergh	CH	Kirkby Lonsdale	1813-1820	72	0.00	1	8	1.00	butcher	1	1.00
+1086	WML/043/rose	WML/043	rose	Mansergh	CH	Kirkby Lonsdale	1813-1820	72	0.00	1	8	1.00	weaver	1	1.00
+1087	WML/044/rose	WML/044	rose	Mardale	CH	Shap	1813-1820	16	0.00	1	8	1.00	yeoman	5	5.00
+1088	WML/044/rose	WML/044	rose	Mardale	CH	Shap	1813-1820	16	0.00	1	8	1.00	labourer	9	9.00
+1089	WML/044/rose	WML/044	rose	Mardale	CH	Shap	1813-1820	16	0.00	1	8	1.00	husbandman	2	2.00
+1090	WML/045/rose	WML/045	rose	Martindale	CH	Barton	1813-1820	33	3.23	1	8	1.00	husbandman	23	23.00
+1091	WML/045/rose	WML/045	rose	Martindale	CH	Barton	1813-1820	33	3.23	1	8	1.00	illegitimate	2	2.00
+1092	WML/045/rose	WML/045	rose	Martindale	CH	Barton	1813-1820	33	3.23	1	8	1.00	labourer	5	5.00
+1093	WML/045/rose	WML/045	rose	Martindale	CH	Barton	1813-1820	33	3.23	1	8	1.00	joiner	1	1.00
+1094	WML/045/rose	WML/045	rose	Martindale	CH	Barton	1813-1820	33	3.23	1	8	1.00	tailor	1	1.00
+1095	WML/045/rose	WML/045	rose	Martindale	CH	Barton	1813-1820	33	3.23	1	8	1.00	no occupation specified	1	1.00
+1096	WML/046/rose	WML/046	rose	Middleton	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	illegitimate	7	7.00
+1097	WML/046/rose	WML/046	rose	Middleton	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	husbandman	2	2.00
+1098	WML/046/rose	WML/046	rose	Middleton	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	cordwainer	1	1.00
+1099	WML/046/rose	WML/046	rose	Middleton	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	labourer	20	20.00
+1100	WML/046/rose	WML/046	rose	Middleton	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	blacksmith	4	4.00
+1101	WML/046/rose	WML/046	rose	Middleton	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	farmer	31	31.00
+1102	WML/046/rose	WML/046	rose	Middleton	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	carpenter	5	5.00
+1103	WML/046/rose	WML/046	rose	Middleton	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	stone mason	1	1.00
+1104	WML/046/rose	WML/046	rose	Middleton	CH	Kirkby Lonsdale	1813-1820	76	0.00	1	8	1.00	yeoman	5	5.00
+1105	WML/047/rose	WML/047	rose	Milburn	CH	Kirkby Thore	1813-1820	76	0.00	1	8	1.00	mason	5	5.00
+1106	WML/047/rose	WML/047	rose	Milburn	CH	Kirkby Thore	1813-1820	76	0.00	1	8	1.00	miner	6	6.00
+1107	WML/047/rose	WML/047	rose	Milburn	CH	Kirkby Thore	1813-1820	76	0.00	1	8	1.00	husbandman	5	5.00
+1108	WML/047/rose	WML/047	rose	Milburn	CH	Kirkby Thore	1813-1820	76	0.00	1	8	1.00	shoemaker	3	3.00
+1109	WML/047/rose	WML/047	rose	Milburn	CH	Kirkby Thore	1813-1820	76	0.00	1	8	1.00	illegitimate	7	7.00
+1110	WML/047/rose	WML/047	rose	Milburn	CH	Kirkby Thore	1813-1820	76	0.00	1	8	1.00	innkeeper	5	5.00
+1111	WML/047/rose	WML/047	rose	Milburn	CH	Kirkby Thore	1813-1820	76	0.00	1	8	1.00	skinner	1	1.00
+1112	WML/047/rose	WML/047	rose	Milburn	CH	Kirkby Thore	1813-1820	76	0.00	1	8	1.00	farmer	15	15.00
+1113	WML/047/rose	WML/047	rose	Milburn	CH	Kirkby Thore	1813-1820	76	0.00	1	8	1.00	yeoman	5	5.00
+1114	WML/047/rose	WML/047	rose	Milburn	CH	Kirkby Thore	1813-1820	76	0.00	1	8	1.00	labourer	5	5.00
+1115	WML/047/rose	WML/047	rose	Milburn	CH	Kirkby Thore	1813-1820	76	0.00	1	8	1.00	tailor	2	2.00
+1116	WML/047/rose	WML/047	rose	Milburn	CH	Kirkby Thore	1813-1820	76	0.00	1	8	1.00	shepherd	1	1.00
+1117	WML/047/rose	WML/047	rose	Milburn	CH	Kirkby Thore	1813-1820	76	0.00	1	8	1.00	weaver	1	1.00
+1118	WML/047/rose	WML/047	rose	Milburn	CH	Kirkby Thore	1813-1820	76	0.00	1	8	1.00	mariner	1	1.00
+1119	WML/047/rose	WML/047	rose	Milburn	CH	Kirkby Thore	1813-1820	76	0.00	1	8	1.00	coal merchant	1	1.00
+1120	WML/047/rose	WML/047	rose	Milburn	CH	Kirkby Thore	1813-1820	76	0.00	1	8	1.00	labourer in husbandry	11	11.00
+1121	WML/047/rose	WML/047	rose	Milburn	CH	Kirkby Thore	1813-1820	76	0.00	1	8	1.00	servant	1	1.00
+1122	WML/047/rose	WML/047	rose	Milburn	CH	Kirkby Thore	1813-1820	76	0.00	1	8	1.00	grocer	1	1.00
+1123	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	cordwainer	8	8.00
+1124	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	miller	16	16.00
+1125	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	labourer	78	78.00
+1126	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	husbandman	58	58.00
+1127	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	farmer	63	63.00
+1128	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	carpenter	12	12.00
+1129	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	collier	3	3.00
+1130	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	tailor	18	18.00
+1131	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	weaver	9	9.00
+1132	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	yeoman	32	32.00
+1133	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	illegitimate	16	16.00
+1134	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	clogger	4	4.00
+1135	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	grocer	5	5.00
+1136	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	blacksmith	8	8.00
+1137	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	watch maker	1	1.00
+1138	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	carrier	2	2.00
+1139	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	schoolmaster	2	2.00
+1140	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	wright	1	1.00
+1141	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	waller	3	3.00
+1142	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	servant in husbandry	4	4.00
+1143	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	excise officer	2	2.00
+1144	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	mason	4	4.00
+1145	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	cooper	1	1.00
+1146	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	surgeon	1	1.00
+1147	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	stone mason	9	9.00
+1148	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	woodman	1	1.00
+1149	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	shoemaker	3	3.00
+1150	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	baptism without named parents	1	1.00
+1151	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	militia	2	2.00
+1152	WML/048/rose	WML/048	rose	Morland	AP	Morland	1813-1820	368	0.00	1	8	1.00	hind	1	1.00
+1153	WML/049/rose	WML/049	rose	Natland	CH	Kendal	1813-1820	42	0.00	1	8	1.00	farmer	20	20.00
+1154	WML/049/rose	WML/049	rose	Natland	CH	Kendal	1813-1820	42	0.00	1	8	1.00	illegitimate	4	4.00
+1155	WML/049/rose	WML/049	rose	Natland	CH	Kendal	1813-1820	42	0.00	1	8	1.00	hostler	1	1.00
+1156	WML/049/rose	WML/049	rose	Natland	CH	Kendal	1813-1820	42	0.00	1	8	1.00	joiner	3	3.00
+1157	WML/049/rose	WML/049	rose	Natland	CH	Kendal	1813-1820	42	0.00	1	8	1.00	soldier	1	1.00
+1158	WML/049/rose	WML/049	rose	Natland	CH	Kendal	1813-1820	42	0.00	1	8	1.00	carpenter	1	1.00
+1159	WML/049/rose	WML/049	rose	Natland	CH	Kendal	1813-1820	42	0.00	1	8	1.00	book keeper	1	1.00
+1160	WML/049/rose	WML/049	rose	Natland	CH	Kendal	1813-1820	42	0.00	1	8	1.00	labourer	5	5.00
+1161	WML/049/rose	WML/049	rose	Natland	CH	Kendal	1813-1820	42	0.00	1	8	1.00	blacksmith	2	2.00
+1162	WML/049/rose	WML/049	rose	Natland	CH	Kendal	1813-1820	42	0.00	1	8	1.00	potter	1	1.00
+1163	WML/049/rose	WML/049	rose	Natland	CH	Kendal	1813-1820	42	0.00	1	8	1.00	husbandman	1	1.00
+1164	WML/049/rose	WML/049	rose	Natland	CH	Kendal	1813-1820	42	0.00	1	8	1.00	gardener	1	1.00
+1165	WML/049/rose	WML/049	rose	Natland	CH	Kendal	1813-1820	42	0.00	1	8	1.00	tinker	1	1.00
+1166	WML/050/rose	WML/050	rose	New Hutton	CH	Kendal	1813-1820	78	0.00	1	8	1.00	husbandman	25	25.00
+1167	WML/050/rose	WML/050	rose	New Hutton	CH	Kendal	1813-1820	78	0.00	1	8	1.00	farmer	26	26.00
+1168	WML/050/rose	WML/050	rose	New Hutton	CH	Kendal	1813-1820	78	0.00	1	8	1.00	illegitimate	3	3.00
+1169	WML/050/rose	WML/050	rose	New Hutton	CH	Kendal	1813-1820	78	0.00	1	8	1.00	bleacher	5	5.00
+1170	WML/050/rose	WML/050	rose	New Hutton	CH	Kendal	1813-1820	78	0.00	1	8	1.00	gentleman	1	1.00
+1171	WML/050/rose	WML/050	rose	New Hutton	CH	Kendal	1813-1820	78	0.00	1	8	1.00	turner	1	1.00
+1172	WML/050/rose	WML/050	rose	New Hutton	CH	Kendal	1813-1820	78	0.00	1	8	1.00	tailor	3	3.00
+1173	WML/050/rose	WML/050	rose	New Hutton	CH	Kendal	1813-1820	78	0.00	1	8	1.00	stone mason	3	3.00
+1174	WML/050/rose	WML/050	rose	New Hutton	CH	Kendal	1813-1820	78	0.00	1	8	1.00	yeoman	4	4.00
+1175	WML/050/rose	WML/050	rose	New Hutton	CH	Kendal	1813-1820	78	0.00	1	8	1.00	miller	2	2.00
+1176	WML/050/rose	WML/050	rose	New Hutton	CH	Kendal	1813-1820	78	0.00	1	8	1.00	joiner	1	1.00
+1177	WML/050/rose	WML/050	rose	New Hutton	CH	Kendal	1813-1820	78	0.00	1	8	1.00	blacksmith	1	1.00
+1178	WML/050/rose	WML/050	rose	New Hutton	CH	Kendal	1813-1820	78	0.00	1	8	1.00	weaver	1	1.00
+1179	WML/050/rose	WML/050	rose	New Hutton	CH	Kendal	1813-1820	78	0.00	1	8	1.00	house carpenter	1	1.00
+1180	WML/050/rose	WML/050	rose	New Hutton	CH	Kendal	1813-1820	78	0.00	1	8	1.00	labourer	1	1.00
+1181	WML/051/rose	WML/051	rose	Newbiggin	AP	Newbiggin	1814-1821	33	0.00	1	8	1.00	clergyman	4	4.00
+1182	WML/051/rose	WML/051	rose	Newbiggin	AP	Newbiggin	1814-1821	33	0.00	1	8	1.00	illegitimate	6	6.00
+1183	WML/051/rose	WML/051	rose	Newbiggin	AP	Newbiggin	1814-1821	33	0.00	1	8	1.00	mason	15	15.00
+1184	WML/051/rose	WML/051	rose	Newbiggin	AP	Newbiggin	1814-1821	33	0.00	1	8	1.00	farmer	3	3.00
+1185	WML/051/rose	WML/051	rose	Newbiggin	AP	Newbiggin	1814-1821	33	0.00	1	8	1.00	husbandman	3	3.00
+1186	WML/051/rose	WML/051	rose	Newbiggin	AP	Newbiggin	1814-1821	33	0.00	1	8	1.00	tailor	1	1.00
+1187	WML/051/rose	WML/051	rose	Newbiggin	AP	Newbiggin	1814-1821	33	0.00	1	8	1.00	tanner	1	1.00
+1188	WML/052/rose	WML/052	rose	Old Hutton	CH	Kendal	1813-1820	137	0.00	1	8	1.00	gentleman	2	2.00
+1189	WML/052/rose	WML/052	rose	Old Hutton	CH	Kendal	1813-1820	137	0.00	1	8	1.00	innkeeper	1	1.00
+1190	WML/052/rose	WML/052	rose	Old Hutton	CH	Kendal	1813-1820	137	0.00	1	8	1.00	husbandman	56	56.00
+1191	WML/052/rose	WML/052	rose	Old Hutton	CH	Kendal	1813-1820	137	0.00	1	8	1.00	farmer	32	32.00
+1192	WML/052/rose	WML/052	rose	Old Hutton	CH	Kendal	1813-1820	137	0.00	1	8	1.00	tailor	4	4.00
+1193	WML/052/rose	WML/052	rose	Old Hutton	CH	Kendal	1813-1820	137	0.00	1	8	1.00	illegitimate	9	9.00
+1194	WML/052/rose	WML/052	rose	Old Hutton	CH	Kendal	1813-1820	137	0.00	1	8	1.00	carpenter	16	16.00
+1195	WML/052/rose	WML/052	rose	Old Hutton	CH	Kendal	1813-1820	137	0.00	1	8	1.00	blacksmith	7	7.00
+1196	WML/052/rose	WML/052	rose	Old Hutton	CH	Kendal	1813-1820	137	0.00	1	8	1.00	butcher	2	2.00
+1197	WML/052/rose	WML/052	rose	Old Hutton	CH	Kendal	1813-1820	137	0.00	1	8	1.00	miller	1	1.00
+1198	WML/052/rose	WML/052	rose	Old Hutton	CH	Kendal	1813-1820	137	0.00	1	8	1.00	yeoman	2	2.00
+1199	WML/052/rose	WML/052	rose	Old Hutton	CH	Kendal	1813-1820	137	0.00	1	8	1.00	cabinet maker	1	1.00
+1200	WML/052/rose	WML/052	rose	Old Hutton	CH	Kendal	1813-1820	137	0.00	1	8	1.00	cordwainer	2	2.00
+1201	WML/052/rose	WML/052	rose	Old Hutton	CH	Kendal	1813-1820	137	0.00	1	8	1.00	carrier	1	1.00
+1202	WML/052/rose	WML/052	rose	Old Hutton	CH	Kendal	1813-1820	137	0.00	1	8	1.00	weaver	1	1.00
+1203	WML/053/rose	WML/053	rose	Ormside	AP	Ormside	1813-1820	42	0.00	1	8	1.00	farmer	24	24.00
+1204	WML/053/rose	WML/053	rose	Ormside	AP	Ormside	1813-1820	42	0.00	1	8	1.00	mason	1	1.00
+1205	WML/053/rose	WML/053	rose	Ormside	AP	Ormside	1813-1820	42	0.00	1	8	1.00	labourer	2	2.00
+1206	WML/053/rose	WML/053	rose	Ormside	AP	Ormside	1813-1820	42	0.00	1	8	1.00	steward	1	1.00
+1207	WML/053/rose	WML/053	rose	Ormside	AP	Ormside	1813-1820	42	0.00	1	8	1.00	blacksmith	6	6.00
+1208	WML/053/rose	WML/053	rose	Ormside	AP	Ormside	1813-1820	42	0.00	1	8	1.00	miller	3	3.00
+1209	WML/053/rose	WML/053	rose	Ormside	AP	Ormside	1813-1820	42	0.00	1	8	1.00	illegitimate	3	3.00
+1210	WML/053/rose	WML/053	rose	Ormside	AP	Ormside	1813-1820	42	0.00	1	8	1.00	husbandman	2	2.00
+1211	WML/054/rose	WML/054	rose	Orton	AP	Orton	1813-1820	351	0.00	1	8	1.00	yeoman	72	72.00
+1212	WML/054/rose	WML/054	rose	Orton	AP	Orton	1813-1820	351	0.00	1	8	1.00	weaver	4	4.00
+1213	WML/054/rose	WML/054	rose	Orton	AP	Orton	1813-1820	351	0.00	1	8	1.00	labourer	47	47.00
+1214	WML/054/rose	WML/054	rose	Orton	AP	Orton	1813-1820	351	0.00	1	8	1.00	husbandman	155	155.00
+1215	WML/054/rose	WML/054	rose	Orton	AP	Orton	1813-1820	351	0.00	1	8	1.00	blacksmith	5	5.00
+1216	WML/054/rose	WML/054	rose	Orton	AP	Orton	1813-1820	351	0.00	1	8	1.00	miller	4	4.00
+1217	WML/054/rose	WML/054	rose	Orton	AP	Orton	1813-1820	351	0.00	1	8	1.00	innkeeper	5	5.00
+1218	WML/054/rose	WML/054	rose	Orton	AP	Orton	1813-1820	351	0.00	1	8	1.00	carrier	6	6.00
+1219	WML/054/rose	WML/054	rose	Orton	AP	Orton	1813-1820	351	0.00	1	8	1.00	illegitimate	25	25.00
+1220	WML/054/rose	WML/054	rose	Orton	AP	Orton	1813-1820	351	0.00	1	8	1.00	shoemaker	4	4.00
+1221	WML/054/rose	WML/054	rose	Orton	AP	Orton	1813-1820	351	0.00	1	8	1.00	clerk	1	1.00
+1222	WML/054/rose	WML/054	rose	Orton	AP	Orton	1813-1820	351	0.00	1	8	1.00	carpenter	6	6.00
+1223	WML/054/rose	WML/054	rose	Orton	AP	Orton	1813-1820	351	0.00	1	8	1.00	waller	3	3.00
+1224	WML/054/rose	WML/054	rose	Orton	AP	Orton	1813-1820	351	0.00	1	8	1.00	butcher	4	4.00
+1225	WML/054/rose	WML/054	rose	Orton	AP	Orton	1813-1820	351	0.00	1	8	1.00	schoolmaster	1	1.00
+1226	WML/054/rose	WML/054	rose	Orton	AP	Orton	1813-1820	351	0.00	1	8	1.00	tailor	4	4.00
+1227	WML/054/rose	WML/054	rose	Orton	AP	Orton	1813-1820	351	0.00	1	8	1.00	joiner	4	4.00
+1228	WML/054/rose	WML/054	rose	Orton	AP	Orton	1813-1820	351	0.00	1	8	1.00	slater	1	1.00
+1229	WML/055/rose	WML/055	rose	Over Staveley	CH	Kendal	1813-1820	137	0.00	1	8	1.00	wool spinner	2	2.00
+1230	WML/055/rose	WML/055	rose	Over Staveley	CH	Kendal	1813-1820	137	0.00	1	8	1.00	illegitimate	11	11.00
+1231	WML/055/rose	WML/055	rose	Over Staveley	CH	Kendal	1813-1820	137	0.00	1	8	1.00	hooper	1	1.00
+1232	WML/055/rose	WML/055	rose	Over Staveley	CH	Kendal	1813-1820	137	0.00	1	8	1.00	husbandman	54	54.00
+1233	WML/055/rose	WML/055	rose	Over Staveley	CH	Kendal	1813-1820	137	0.00	1	8	1.00	labourer	10	10.00
+1234	WML/055/rose	WML/055	rose	Over Staveley	CH	Kendal	1813-1820	137	0.00	1	8	1.00	fuller	1	1.00
+1235	WML/055/rose	WML/055	rose	Over Staveley	CH	Kendal	1813-1820	137	0.00	1	8	1.00	tailor	3	3.00
+1236	WML/055/rose	WML/055	rose	Over Staveley	CH	Kendal	1813-1820	137	0.00	1	8	1.00	bobbin turner	12	12.00
+1237	WML/055/rose	WML/055	rose	Over Staveley	CH	Kendal	1813-1820	137	0.00	1	8	1.00	innkeeper	1	1.00
+1238	WML/055/rose	WML/055	rose	Over Staveley	CH	Kendal	1813-1820	137	0.00	1	8	1.00	miller	6	6.00
+1239	WML/055/rose	WML/055	rose	Over Staveley	CH	Kendal	1813-1820	137	0.00	1	8	1.00	spinner	20	20.00
+1240	WML/055/rose	WML/055	rose	Over Staveley	CH	Kendal	1813-1820	137	0.00	1	8	1.00	carpenter	2	2.00
+1241	WML/055/rose	WML/055	rose	Over Staveley	CH	Kendal	1813-1820	137	0.00	1	8	1.00	blacksmith	3	3.00
+1242	WML/055/rose	WML/055	rose	Over Staveley	CH	Kendal	1813-1820	137	0.00	1	8	1.00	wood cutter	2	2.00
+1243	WML/055/rose	WML/055	rose	Over Staveley	CH	Kendal	1813-1820	137	0.00	1	8	1.00	officer of excise	1	1.00
+1244	WML/055/rose	WML/055	rose	Over Staveley	CH	Kendal	1813-1820	137	0.00	1	8	1.00	clerk	1	1.00
+1245	WML/055/rose	WML/055	rose	Over Staveley	CH	Kendal	1813-1820	137	0.00	1	8	1.00	waller	2	2.00
+1246	WML/055/rose	WML/055	rose	Over Staveley	CH	Kendal	1813-1820	137	0.00	1	8	1.00	butcher	1	1.00
+1247	WML/055/rose	WML/055	rose	Over Staveley	CH	Kendal	1813-1820	137	0.00	1	8	1.00	mole catcher	1	1.00
+1248	WML/055/rose	WML/055	rose	Over Staveley	CH	Kendal	1813-1820	137	0.00	1	8	1.00	shopkeeper	2	2.00
+1249	WML/055/rose	WML/055	rose	Over Staveley	CH	Kendal	1813-1820	137	0.00	1	8	1.00	sickle maker	1	1.00
+1250	WML/056/rose	WML/056	rose	Patterdale	CH	Barton	1813-1820	80	0.00	1	8	1.00	parish clerk	2	2.00
+1251	WML/056/rose	WML/056	rose	Patterdale	CH	Barton	1813-1820	80	0.00	1	8	1.00	husbandman	39	39.00
+1252	WML/056/rose	WML/056	rose	Patterdale	CH	Barton	1813-1820	80	0.00	1	8	1.00	slater	5	5.00
+1253	WML/056/rose	WML/056	rose	Patterdale	CH	Barton	1813-1820	80	0.00	1	8	1.00	miller	2	2.00
+1254	WML/056/rose	WML/056	rose	Patterdale	CH	Barton	1813-1820	80	0.00	1	8	1.00	labourer	4	4.00
+1255	WML/056/rose	WML/056	rose	Patterdale	CH	Barton	1813-1820	80	0.00	1	8	1.00	illegitimate	10	10.00
+1256	WML/056/rose	WML/056	rose	Patterdale	CH	Barton	1813-1820	80	0.00	1	8	1.00	game keeper	1	1.00
+1257	WML/056/rose	WML/056	rose	Patterdale	CH	Barton	1813-1820	80	0.00	1	8	1.00	shoemaker	1	1.00
+1258	WML/056/rose	WML/056	rose	Patterdale	CH	Barton	1813-1820	80	0.00	1	8	1.00	slate merchant	4	4.00
+1259	WML/056/rose	WML/056	rose	Patterdale	CH	Barton	1813-1820	80	0.00	1	8	1.00	carpenter	1	1.00
+1260	WML/056/rose	WML/056	rose	Patterdale	CH	Barton	1813-1820	80	0.00	1	8	1.00	waller	1	1.00
+1261	WML/056/rose	WML/056	rose	Patterdale	CH	Barton	1813-1820	80	0.00	1	8	1.00	carrier	2	2.00
+1262	WML/056/rose	WML/056	rose	Patterdale	CH	Barton	1813-1820	80	0.00	1	8	1.00	officer in the custom house	1	1.00
+1263	WML/056/rose	WML/056	rose	Patterdale	CH	Barton	1813-1820	80	0.00	1	8	1.00	innkeeper	2	2.00
+1264	WML/056/rose	WML/056	rose	Patterdale	CH	Barton	1813-1820	80	0.00	1	8	1.00	clerk in holy orders	1	1.00
+1265	WML/056/rose	WML/056	rose	Patterdale	CH	Barton	1813-1820	80	0.00	1	8	1.00	potter	1	1.00
+1266	WML/056/rose	WML/056	rose	Patterdale	CH	Barton	1813-1820	80	0.00	1	8	1.00	joiner	1	1.00
+1267	WML/056/rose	WML/056	rose	Patterdale	CH	Barton	1813-1820	80	0.00	1	8	1.00	schoolmaster	2	2.00
+1268	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	husbandman	52	52.00
+1269	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	labourer	43	43.00
+1270	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	victualler	7	7.00
+1271	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	yeoman	10	10.00
+1272	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	shoemaker	5	5.00
+1273	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	tailor	7	7.00
+1274	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	surveyor	2	2.00
+1275	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	illegitimate	19	19.00
+1276	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	founder	2	2.00
+1277	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	miller	11	11.00
+1278	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	cotton dresser	1	1.00
+1279	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	farmer	43	43.00
+1280	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	weaver	1	1.00
+1281	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	smith	6	6.00
+1282	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	tailor and draper	1	1.00
+1283	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	manufacturer	3	3.00
+1284	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	carpenter	6	6.00
+1285	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	mason	3	3.00
+1286	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	canal cutter	1	1.00
+1287	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	flax dresser	1	1.00
+1288	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	cordwainer	2	2.00
+1289	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	twine spinner	1	1.00
+1290	WML/057/rose	WML/057	rose	Preston Patrick	CH	Burton in Kendal	1813-1820	229	0.00	1	8	1.00	blacksmith	2	2.00
+1291	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	farmer	79	79.00
+1292	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	labourer	31	31.00
+1293	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	cordwainer	2	2.00
+1294	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	illegitimate	14	14.00
+1295	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	tailor	6	6.00
+1296	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	yeoman	35	35.00
+1297	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	schoolmaster	1	1.00
+1298	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	weaver	1	1.00
+1299	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	innkeeper and shoemaker	1	1.00
+1300	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	shoemaker	1	1.00
+1301	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	carpenter	3	3.00
+1302	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	yeoman and farmer	1	1.00
+1303	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	minister schoolmaster and justice of the peace	1	1.00
+1304	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	carrier and farmer	2	2.00
+1305	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	husbandman	5	5.00
+1306	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	miller	3	3.00
+1307	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	yeoman and gamekeeper	2	2.00
+1308	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	farmer and carrier	6	6.00
+1309	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	yeoman and butcher	3	3.00
+1310	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	clogger	2	2.00
+1311	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	carpenter and farmer	2	2.00
+1312	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	grocer	1	1.00
+1313	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	carrier	1	1.00
+1314	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	blacksmith	2	2.00
+1315	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	auctioneer	1	1.00
+1316	WML/058/rose	WML/058	rose	Ravenstonedale	AP	Ravenstonedale	1813-1820	207	0.00	1	8	1.00	farmer and drover	1	1.00
+1317	WML/059/rose	WML/059	rose	Selside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	illegitimate	7	7.00
+1318	WML/059/rose	WML/059	rose	Selside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	farmer	56	56.00
+1319	WML/059/rose	WML/059	rose	Selside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	yeoman	14	14.00
+1320	WML/059/rose	WML/059	rose	Selside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	miller	7	7.00
+1321	WML/059/rose	WML/059	rose	Selside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	house carpenter	1	1.00
+1322	WML/059/rose	WML/059	rose	Selside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	clerk	1	1.00
+1323	WML/059/rose	WML/059	rose	Selside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	labourer	29	29.00
+1324	WML/059/rose	WML/059	rose	Selside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	carpenter	4	4.00
+1325	WML/059/rose	WML/059	rose	Selside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	husbandman	10	10.00
+1326	WML/059/rose	WML/059	rose	Selside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	innkeeper	5	5.00
+1327	WML/059/rose	WML/059	rose	Selside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	servant	1	1.00
+1328	WML/059/rose	WML/059	rose	Selside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	bobbin turner	5	5.00
+1329	WML/059/rose	WML/059	rose	Selside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	cordwainer	3	3.00
+1330	WML/059/rose	WML/059	rose	Selside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	tailor	3	3.00
+1331	WML/059/rose	WML/059	rose	Selside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	pauper	2	2.00
+1332	WML/059/rose	WML/059	rose	Selside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	blacksmith	4	4.00
+1333	WML/059/rose	WML/059	rose	Selside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	turner	1	1.00
+1334	WML/059/rose	WML/059	rose	Selside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	esquire	3	3.00
+1335	WML/059/rose	WML/059	rose	Selside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	chaise driver	1	1.00
+1336	WML/059/rose	WML/059	rose	Selside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	shepherd	1	1.00
+1337	WML/059/rose	WML/059	rose	Selside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	coach driver	1	1.00
+1338	WML/059/rose	WML/059	rose	Selside	CH	Kendal	1813-1820	160	0.00	1	8	1.00	painter	1	1.00
+1339	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	servant in husbandry	8	8.00
+1340	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	butcher	9	9.00
+1341	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	slate cutter	5	5.00
+1342	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	husbandman	71	71.00
+1343	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	coach driver	1	1.00
+1344	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	shepherd	4	4.00
+1345	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	carter	3	3.00
+1346	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	farmer	10	10.00
+1347	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	illegitimate	10	10.00
+1348	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	labourer	27	27.00
+1349	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	tailor	2	2.00
+1350	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	stone mason	2	2.00
+1351	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	miller	7	7.00
+1352	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	post chaise driver	2	2.00
+1353	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	curate	1	1.00
+1354	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	officer of excise	4	4.00
+1355	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	carrier	6	6.00
+1356	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	carpenter	8	8.00
+1357	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	blacksmith	6	6.00
+1358	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	pauper	1	1.00
+1359	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	linen draper	3	3.00
+1360	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	yeoman	3	3.00
+1361	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	innkeeper	2	2.00
+1362	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	ostler	2	2.00
+1363	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	shoemaker	2	2.00
+1364	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	slate merchant	1	1.00
+1365	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	coachman	1	1.00
+1366	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	weaver	2	2.00
+1367	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	soldier	2	2.00
+1368	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	travelling merchant	1	1.00
+1369	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	mole catcher	1	1.00
+1370	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	sadler	2	2.00
+1371	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	baker	2	2.00
+1372	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	horse keeper	1	1.00
+1373	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	maltster	1	1.00
+1374	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	cooper	1	1.00
+1375	WML/060/rose	WML/060	rose	Shap	AP	Shap	1813-1820	215	0.49	1	8	1.00	no occupation specified	1	1.00
+1376	WML/061/rose	WML/061	rose	Soulby	CH	Kirkby Stephen	1813-1820	58	0.00	1	8	1.00	shoemaker	3	3.00
+1377	WML/061/rose	WML/061	rose	Soulby	CH	Kirkby Stephen	1813-1820	58	0.00	1	8	1.00	innkeeper	3	3.00
+1378	WML/061/rose	WML/061	rose	Soulby	CH	Kirkby Stephen	1813-1820	58	0.00	1	8	1.00	basket maker	1	1.00
+1379	WML/061/rose	WML/061	rose	Soulby	CH	Kirkby Stephen	1813-1820	58	0.00	1	8	1.00	blacksmith	4	4.00
+1380	WML/061/rose	WML/061	rose	Soulby	CH	Kirkby Stephen	1813-1820	58	0.00	1	8	1.00	yeoman	5	5.00
+1381	WML/061/rose	WML/061	rose	Soulby	CH	Kirkby Stephen	1813-1820	58	0.00	1	8	1.00	miller	3	3.00
+1382	WML/061/rose	WML/061	rose	Soulby	CH	Kirkby Stephen	1813-1820	58	0.00	1	8	1.00	illegitimate	3	3.00
+1383	WML/061/rose	WML/061	rose	Soulby	CH	Kirkby Stephen	1813-1820	58	0.00	1	8	1.00	mason	4	4.00
+1384	WML/061/rose	WML/061	rose	Soulby	CH	Kirkby Stephen	1813-1820	58	0.00	1	8	1.00	husbandman	29	29.00
+1385	WML/061/rose	WML/061	rose	Soulby	CH	Kirkby Stephen	1813-1820	58	0.00	1	8	1.00	lieutenant royal navy	2	2.00
+1386	WML/061/rose	WML/061	rose	Soulby	CH	Kirkby Stephen	1813-1820	58	0.00	1	8	1.00	clergyman	1	1.00
+1387	WML/062/rose	WML/062	rose	Stainmore	CH	Brough	1813-1820	106	0.00	1	8	1.00	illegitimate	5	5.00
+1388	WML/062/rose	WML/062	rose	Stainmore	CH	Brough	1813-1820	106	0.00	1	8	1.00	labourer	20	20.00
+1389	WML/062/rose	WML/062	rose	Stainmore	CH	Brough	1813-1820	106	0.00	1	8	1.00	yeoman	24	24.00
+1390	WML/062/rose	WML/062	rose	Stainmore	CH	Brough	1813-1820	106	0.00	1	8	1.00	farmer	26	26.00
+1391	WML/062/rose	WML/062	rose	Stainmore	CH	Brough	1813-1820	106	0.00	1	8	1.00	tailor	3	3.00
+1392	WML/062/rose	WML/062	rose	Stainmore	CH	Brough	1813-1820	106	0.00	1	8	1.00	collier	2	2.00
+1393	WML/062/rose	WML/062	rose	Stainmore	CH	Brough	1813-1820	106	0.00	1	8	1.00	husbandman	17	17.00
+1394	WML/062/rose	WML/062	rose	Stainmore	CH	Brough	1813-1820	106	0.00	1	8	1.00	carrier	3	3.00
+1395	WML/062/rose	WML/062	rose	Stainmore	CH	Brough	1813-1820	106	0.00	1	8	1.00	miller	2	2.00
+1396	WML/062/rose	WML/062	rose	Stainmore	CH	Brough	1813-1820	106	0.00	1	8	1.00	servant	2	2.00
+1397	WML/062/rose	WML/062	rose	Stainmore	CH	Brough	1813-1820	106	0.00	1	8	1.00	shoemaker	2	2.00
+1398	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	husbandman	19	19.00
+1399	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	labourer	14	14.00
+1400	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	butcher	2	2.00
+1401	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	blacksmith	4	4.00
+1402	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	cooper	3	3.00
+1403	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	farmer	9	9.00
+1404	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	spirit merchant	1	1.00
+1405	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	gentleman	6	6.00
+1406	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	yeoman	1	1.00
+1407	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	tanner	5	5.00
+1408	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	carpenter	14	14.00
+1409	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	illegitimate	3	3.00
+1410	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	shopkeeper	1	1.00
+1411	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	shoemaker	3	3.00
+1412	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	currier	4	4.00
+1413	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	tailor	4	4.00
+1414	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	gardener	3	3.00
+1415	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	spirit dealer	3	3.00
+1416	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	grocer	3	3.00
+1417	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	weaver	2	2.00
+1418	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	saddler	1	1.00
+1419	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	innkeeper	1	1.00
+1420	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	private in the marine corps	1	1.00
+1421	WML/063/rose	WML/063	rose	Temple Sowerby	CH	Kirkby Thorpe	1813-1820	109	0.00	1	8	1.00	footman	2	2.00
+1422	WML/064/rose	WML/064	rose	Thrimby	CH	Morland	1813-1820	52	0.00	1	8	1.00	tailor	1	1.00
+1423	WML/064/rose	WML/064	rose	Thrimby	CH	Morland	1813-1820	52	0.00	1	8	1.00	yeoman	2	2.00
+1424	WML/064/rose	WML/064	rose	Thrimby	CH	Morland	1813-1820	52	0.00	1	8	1.00	farmer	16	16.00
+1425	WML/064/rose	WML/064	rose	Thrimby	CH	Morland	1813-1820	52	0.00	1	8	1.00	weaver	4	4.00
+1426	WML/064/rose	WML/064	rose	Thrimby	CH	Morland	1813-1820	52	0.00	1	8	1.00	labourer	11	11.00
+1427	WML/064/rose	WML/064	rose	Thrimby	CH	Morland	1813-1820	52	0.00	1	8	1.00	waller	1	1.00
+1428	WML/064/rose	WML/064	rose	Thrimby	CH	Morland	1813-1820	52	0.00	1	8	1.00	husbandman	10	10.00
+1429	WML/064/rose	WML/064	rose	Thrimby	CH	Morland	1813-1820	52	0.00	1	8	1.00	illegitimate	7	7.00
+1430	WML/065/rose	WML/065	rose	Troutbeck	CH	Windermere	1813-1820	83	0.00	1	8	1.00	husbandman	37	37.00
+1431	WML/065/rose	WML/065	rose	Troutbeck	CH	Windermere	1813-1820	83	0.00	1	8	1.00	cordwainer	5	5.00
+1432	WML/065/rose	WML/065	rose	Troutbeck	CH	Windermere	1813-1820	83	0.00	1	8	1.00	joiner	4	4.00
+1433	WML/065/rose	WML/065	rose	Troutbeck	CH	Windermere	1813-1820	83	0.00	1	8	1.00	weaver	6	6.00
+1434	WML/065/rose	WML/065	rose	Troutbeck	CH	Windermere	1813-1820	83	0.00	1	8	1.00	illegitimate	8	8.00
+1435	WML/065/rose	WML/065	rose	Troutbeck	CH	Windermere	1813-1820	83	0.00	1	8	1.00	schoolmaster	1	1.00
+1436	WML/065/rose	WML/065	rose	Troutbeck	CH	Windermere	1813-1820	83	0.00	1	8	1.00	waller	4	4.00
+1437	WML/065/rose	WML/065	rose	Troutbeck	CH	Windermere	1813-1820	83	0.00	1	8	1.00	blacksmith	3	3.00
+1438	WML/065/rose	WML/065	rose	Troutbeck	CH	Windermere	1813-1820	83	0.00	1	8	1.00	tailor	3	3.00
+1439	WML/065/rose	WML/065	rose	Troutbeck	CH	Windermere	1813-1820	83	0.00	1	8	1.00	labourer	1	1.00
+1440	WML/065/rose	WML/065	rose	Troutbeck	CH	Windermere	1813-1820	83	0.00	1	8	1.00	carpenter	4	4.00
+1441	WML/065/rose	WML/065	rose	Troutbeck	CH	Windermere	1813-1820	83	0.00	1	8	1.00	pointer	1	1.00
+1442	WML/065/rose	WML/065	rose	Troutbeck	CH	Windermere	1813-1820	83	0.00	1	8	1.00	joiner and carpenter	1	1.00
+1443	WML/065/rose	WML/065	rose	Troutbeck	CH	Windermere	1813-1820	83	0.00	1	8	1.00	woodmonger	2	2.00
+1444	WML/065/rose	WML/065	rose	Troutbeck	CH	Windermere	1813-1820	83	0.00	1	8	1.00	bobbin turner	1	1.00
+1445	WML/065/rose	WML/065	rose	Troutbeck	CH	Windermere	1813-1820	83	0.00	1	8	1.00	statesman	1	1.00
+1446	WML/065/rose	WML/065	rose	Troutbeck	CH	Windermere	1813-1820	83	0.00	1	8	1.00	farmer	1	1.00
+1447	WML/066/rose	WML/066	rose	Underbarrow	CH	Kendal	1813-1820	93	0.00	1	8	1.00	husbandman	58	58.00
+1448	WML/066/rose	WML/066	rose	Underbarrow	CH	Kendal	1813-1820	93	0.00	1	8	1.00	illegitimate	8	8.00
+1449	WML/066/rose	WML/066	rose	Underbarrow	CH	Kendal	1813-1820	93	0.00	1	8	1.00	weaver	5	5.00
+1450	WML/066/rose	WML/066	rose	Underbarrow	CH	Kendal	1813-1820	93	0.00	1	8	1.00	gentleman	2	2.00
+1451	WML/066/rose	WML/066	rose	Underbarrow	CH	Kendal	1813-1820	93	0.00	1	8	1.00	shoemaker	8	8.00
+1452	WML/066/rose	WML/066	rose	Underbarrow	CH	Kendal	1813-1820	93	0.00	1	8	1.00	maltster	1	1.00
+1453	WML/066/rose	WML/066	rose	Underbarrow	CH	Kendal	1813-1820	93	0.00	1	8	1.00	hatter	1	1.00
+1454	WML/066/rose	WML/066	rose	Underbarrow	CH	Kendal	1813-1820	93	0.00	1	8	1.00	smith	1	1.00
+1455	WML/066/rose	WML/066	rose	Underbarrow	CH	Kendal	1813-1820	93	0.00	1	8	1.00	miller	3	3.00
+1456	WML/066/rose	WML/066	rose	Underbarrow	CH	Kendal	1813-1820	93	0.00	1	8	1.00	butcher	1	1.00
+1457	WML/066/rose	WML/066	rose	Underbarrow	CH	Kendal	1813-1820	93	0.00	1	8	1.00	waller	3	3.00
+1458	WML/066/rose	WML/066	rose	Underbarrow	CH	Kendal	1813-1820	93	0.00	1	8	1.00	clerk	1	1.00
+1459	WML/066/rose	WML/066	rose	Underbarrow	CH	Kendal	1813-1820	93	0.00	1	8	1.00	tanner	1	1.00
+1460	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	farmer	41	41.00
+1461	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	joiner	5	5.00
+1462	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	baker	2	2.00
+1463	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	husbandman	2	2.00
+1464	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	collier	4	4.00
+1465	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	yeoman	17	17.00
+1466	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	labourer	34	34.00
+1467	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	cattle dealer	1	1.00
+1468	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	esquire	1	1.00
+1469	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	shoemaker	3	3.00
+1470	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	smith	5	5.00
+1471	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	mason	1	1.00
+1472	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	illegitimate	2	2.00
+1473	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	servant	3	3.00
+1474	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	tailor	4	4.00
+1475	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	master and commander royal navy	2	2.00
+1476	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	grocer	2	2.00
+1477	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	pauper	1	1.00
+1478	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	no occupation specified	1	1.00
+1479	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	clogger	2	2.00
+1480	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	blacksmith	1	1.00
+1481	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	innkeeper	1	1.00
+1482	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	brewer	1	1.00
+1483	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	carpenter	1	1.00
+1484	WML/067/rose	WML/067	rose	Warcop	AP	Warcop	1813-1820	138	0.74	1	8	1.00	rope maker	1	1.00
+1485	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	tailor	8	8.00
+1486	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	esquire	8	8.00
+1487	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	labourer	34	34.00
+1488	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	husbandman	45	45.00
+1489	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	innkeeper	1	1.00
+1490	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	sawyer	2	2.00
+1491	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	coachman	2	2.00
+1492	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	blacksmith	2	2.00
+1493	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	coach driver	1	1.00
+1494	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	lieutenant royal navy	1	1.00
+1495	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	weaver	2	2.00
+1496	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	joiner	3	3.00
+1497	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	illegitimate	12	12.00
+1498	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	clergyman	1	1.00
+1499	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	bobbin turner	4	4.00
+1500	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	gardener	11	11.00
+1501	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	farmer	33	33.00
+1502	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	boatsman	6	6.00
+1503	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	miller	1	1.00
+1504	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	butcher	1	1.00
+1505	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	parish clerk	2	2.00
+1506	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	yeoman	14	14.00
+1507	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	smith	3	3.00
+1508	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	colonel	2	2.00
+1509	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	shoemaker	3	3.00
+1510	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	mason	5	5.00
+1511	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	master in the royal navy	1	1.00
+1512	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	tanner	2	2.00
+1513	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	hooper	1	1.00
+1514	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	clerk	3	3.00
+1515	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	house servant	1	1.00
+1516	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	royal navy	5	5.00
+1517	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	minister	1	1.00
+1518	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	chaise driver	1	1.00
+1519	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	fisherman	2	2.00
+1520	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	house carpenter	1	1.00
+1521	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	pauper	1	1.00
+1522	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	lieutenant	1	1.00
+1523	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	bleacher	1	1.00
+1524	WML/068/rose	WML/068	rose	Windermere	AP	Windermere	1813-1820	229	0.00	1	8	1.00	servant	1	1.00
+1525	WML/069/rose	WML/069	rose	Winster	CH	Kendal	1813-1820	33	0.00	1	8	1.00	labourer	11	11.00
+1526	WML/069/rose	WML/069	rose	Winster	CH	Kendal	1813-1820	33	0.00	1	8	1.00	illegitimate	2	2.00
+1527	WML/069/rose	WML/069	rose	Winster	CH	Kendal	1813-1820	33	0.00	1	8	1.00	husbandman	10	10.00
+1528	WML/069/rose	WML/069	rose	Winster	CH	Kendal	1813-1820	33	0.00	1	8	1.00	wisket maker	3	3.00
+1529	WML/069/rose	WML/069	rose	Winster	CH	Kendal	1813-1820	33	0.00	1	8	1.00	stone mason	4	4.00
+1530	WML/069/rose	WML/069	rose	Winster	CH	Kendal	1813-1820	33	0.00	1	8	1.00	farmer	1	1.00
+1531	WML/069/rose	WML/069	rose	Winster	CH	Kendal	1813-1820	33	0.00	1	8	1.00	miller	1	1.00
+1532	WML/069/rose	WML/069	rose	Winster	CH	Kendal	1813-1820	33	0.00	1	8	1.00	tanner	1	1.00
+1533	WML/070/rose	WML/070	rose	Witherslack	CH	Beetham	1813-1820	127	0.89	1	8	1.00	labourer	36	36.00
+1534	WML/070/rose	WML/070	rose	Witherslack	CH	Beetham	1813-1820	127	0.89	1	8	1.00	hoop maker	5	5.00
+1535	WML/070/rose	WML/070	rose	Witherslack	CH	Beetham	1813-1820	127	0.89	1	8	1.00	illegitimate	13	13.00
+1536	WML/070/rose	WML/070	rose	Witherslack	CH	Beetham	1813-1820	127	0.89	1	8	1.00	farmer	26	26.00
+1537	WML/070/rose	WML/070	rose	Witherslack	CH	Beetham	1813-1820	127	0.89	1	8	1.00	yeoman	16	16.00
+1538	WML/070/rose	WML/070	rose	Witherslack	CH	Beetham	1813-1820	127	0.89	1	8	1.00	husbandman	9	9.00
+1539	WML/070/rose	WML/070	rose	Witherslack	CH	Beetham	1813-1820	127	0.89	1	8	1.00	weaver	3	3.00
+1540	WML/070/rose	WML/070	rose	Witherslack	CH	Beetham	1813-1820	127	0.89	1	8	1.00	other parish - no occupation	2	2.00
+1541	WML/070/rose	WML/070	rose	Witherslack	CH	Beetham	1813-1820	127	0.89	1	8	1.00	house carpenter	4	4.00
+1542	WML/070/rose	WML/070	rose	Witherslack	CH	Beetham	1813-1820	127	0.89	1	8	1.00	charcoal burner	5	5.00
+1543	WML/070/rose	WML/070	rose	Witherslack	CH	Beetham	1813-1820	127	0.89	1	8	1.00	shoemaker	2	2.00
+1544	WML/070/rose	WML/070	rose	Witherslack	CH	Beetham	1813-1820	127	0.89	1	8	1.00	innkeeper	2	2.00
+1545	WML/070/rose	WML/070	rose	Witherslack	CH	Beetham	1813-1820	127	0.89	1	8	1.00	no occupation specified	1	1.00
+1546	WML/070/rose	WML/070	rose	Witherslack	CH	Beetham	1813-1820	127	0.89	1	8	1.00	innkeeper and farmer	1	1.00
+1547	WML/070/rose	WML/070	rose	Witherslack	CH	Beetham	1813-1820	127	0.89	1	8	1.00	miller	1	1.00
+1548	WML/070/rose	WML/070	rose	Witherslack	CH	Beetham	1813-1820	127	0.89	1	8	1.00	labourer and pauper	1	1.00

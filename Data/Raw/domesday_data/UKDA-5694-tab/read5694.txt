@@ -1,0 +1,78 @@
+5694 - Electronic Edition of Domesday Book: Translation, Databases and 
+Scholarly Commentary, 1086
+
+
+
+Data Set Type
+=============
+
+Database files (6 files)
+Data files (30 files)
+Plain text (113 files)
+
+
+
+Data Set Format
+===============
+
+The following data formats have been prepared by the History Data Service:
+
+Microsoft Access2003 (6 files, containing 23 tables and 7 queries)
+
+AND
+
+Rich Text Format files (113 files)
+
+OR
+
+Tab delimited text files (30 files)
+
+AND
+
+Rich Text Format files (113 files)
+
+If requested, data may have been supplied in other formats where
+practicable.
+
+
+
+Documentation
+=============
+The master documentation file is called 'guide' and can be found in the
+mrdoc folder in either *.rtf or *.pdf formats. In this document you will
+find the necessary information to understand and interpret the contents of
+this data collection. The document 'important_information', also
+located in the mrdoc folder provides an overview of the contents of this
+collection as well as some notes about other available resources involving
+Domesday Book related materials.
+
+
+
+Using the Data
+==============
+The data for this resource are of two different sorts.
+
+If you have downloaded the MSAccess2003 version of the data you will have:
+Six MSAccess2003 files in the folded 'access' and 113 files containing
+textual material (in *.rtf format) kept in four different folders according
+to their content. These folders are: 'appendix', 'introduction', 'notes'
+and 'statistic_notes'.
+
+If you have downloaded the tab version of the data you will have:
+
+30 tab delimited (tab) files containing the same statistical information
+contained in the MSAccess data above but kept in a format that can be used
+with various other statistical packages and across different computational
+platforms, and the same 113 rich text format files mentioned above.
+
+
+
+History Data Service, 16/09/2010
+UK Data Archive
+University of Essex
+Colchester CO4 3SQ
+
+Tel: +44 (0)1206 872326
+Fax: +44 (0)1206 872003
+Email: hds@essex.ac.uk
+URL: http://hds.essex.ac.uk/

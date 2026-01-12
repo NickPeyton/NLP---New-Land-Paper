@@ -1,0 +1,100 @@
+bruce_id	struct_idx	sub_idx	county	phillimore	tenant_in_chief	area	hundred	vill	geld	g_code	notes	places_idx
+20	15528	1	YB	3.10E+02	Robert of Brus	East Riding	Burton	Burton [Agnes]	44	geld	geld for Burton Agnes and its 6 jurisdictions recorded under Burton	11966
+40	15528	2	YB	3.10E+02	Robert of Brus	East Riding	Burton	Harpham		recorded elsewhere	geld for Burton Agnes and its 6 jurisdictions recorded under Burton	29686
+60	15528	3	YB	3.10E+02	Robert of Brus	East Riding	Burton	Gransmoor		recorded elsewhere	geld for Burton Agnes and its 6 jurisdictions recorded under Burton	27471
+80	15528	4	YB	3.10E+02	Robert of Brus	East Riding	Burton	Haisthorpe		recorded elsewhere	geld for Burton Agnes and its 6 jurisdictions recorded under Burton	28461
+100	15528	5	YB	3.10E+02	Robert of Brus	East Riding	Burton	Thornholme		recorded elsewhere	geld for Burton Agnes and its 6 jurisdictions recorded under Burton	62556
+120	15528	6	YB	3.10E+02	Robert of Brus	East Riding	Hunthow	Foxholes		recorded elsewhere	geld for Burton Agnes and its 6 jurisdictions recorded under Burton	25651
+140	15528	7	YB	3.10E+02	Robert of Brus	East Riding	Burton	Thwing		recorded elsewhere	geld for Burton Agnes and its 6 jurisdictions recorded under Burton	63626
+160	15529	2	YB	3.10E+03	Robert of Brus	East Riding	Burton	Thwing	10	geld		63626
+180	15529	3	YB	3.10E+03	Robert of Brus	East Riding	Burton	Rudston	8	geld		52956
+200	15529	1	YB	3.10E+03	Robert of Brus	East Riding	{Toreshou}	[East] Heslerton	10.75	geld	geld shared between the 2 Heslertons	31401
+220	15529	4	YB	3.10E+03	Robert of Brus	East Riding	{Toreshou}	[West] Heslerton		recorded elsewhere	geld shared between the 2 Heslertons	31406
+240	15529	5	YB	3.10E+03	Robert of Brus	East Riding	{Scard}	Scampston	5	geld		54156
+260	15530	1	YB	3.10E+04	Robert of Brus	East Riding	Driffield	[Kirk]burn	32.25	geld	geld shared between Kirkburn & Tibthorpe. Part of land is Robert Fossard's Holding	36651
+280	15530	2	YB	3.10E+04	Robert of Brus	East Riding	Driffield	Tibthorpe		recorded elsewhere	geld shared between Kirkburn & Tibthorpe	63661
+300	15531	1	YB	3.10E+05	Robert of Brus	East Riding	Welton	Brantingham	9.12	geld	"geld shared between the Brantingham, North Cave and Hotham"	9431
+320	15531	2	YB	3.10E+05	Robert of Brus	East Riding	Cave	[North] Cave		recorded elsewhere	"geld shared between the Brantingham, North Cave and Hotham"	13606
+340	15531	3	YB	3.10E+05	Robert of Brus	East Riding	Cave	Hotham		recorded elsewhere	"geld shared between the Brantingham, North Cave and Hotham"	33516
+360	15532	3	YB	3.10E+06	Robert of Brus	East Riding	Cave	[South] Cliffe	0.25	geld		16066
+380	15532	1	YB	3.10E+06	Robert of Brus	East Riding	Warter	Kilnwick [Percy]	16	geld		36086
+400	15532	2	YB	3.10E+06	Robert of Brus	East Riding	Warter	Millington	0.75	geld		43141
+420	15533	3	YB	3.10E+07	Robert of Brus	East Riding	{Scard}	Birdsall	2	geld		7146
+440	15533	1	YB	3.10E+07	Robert of Brus	East Riding	Acklam	Garrowby [Hall]	6	geld		26441
+460	15533	2	YB	3.10E+07	Robert of Brus	East Riding	Acklam	Eddlethorpe	4	geld		22461
+480	15534	1	YB	3.10E+08	Robert of Brus	East Riding	Acklam	Thornthorpe	1.75	geld	Not in DB	62571
+500	15535	3	YB	3.10E+09	Robert of Brus	East Riding	Acklam	Firby	2	geld	Not in DB	24981
+520	15535	1	YB	3.10E+09	Robert of Brus	East Riding	{Scard}	[North] Grimston	4.25	geld		27896
+540	15535	2	YB	3.10E+09	Robert of Brus	East Riding	Acklam	Burythorpe	3	geld		12181
+560	15536	3	YB	31W1	Robert of Brus	West Riding	`Burghshire'	Allerton [Mauleverer]	6	geld		1126
+580	15537	3	YB	31W2	Robert of Brus	West Riding	`Burghshire'	Widdington [Hall]	1	geld		70171
+600	15537	1	YB	31W2	Robert of Brus	West Riding	`Burghshire'	[Great] Ouseburn	12	geld		47621
+620	15537	2	YB	31W2	Robert of Brus	West Riding	`Burghshire'	Hopperton	4	geld		33071
+640	15538	5	YB	31W3	Robert of Brus	West Riding	`Burghshire'	Dunsforth	2.5	geld		21511
+660	15538	4	YB	31W3	Robert of Brus	West Riding	`Burghshire'	Branton [Green]	3.37	geld		9446
+680	15538	2	YB	31W3	Robert of Brus	West Riding	`Burghshire'	Grafton	4.75	geld		27396
+700	15538	6	YB	31W3	Robert of Brus	West Riding	`Burghshire'	{[Scotton] Thorpe}	2	geld		63126
+720	15538	7	YB	31W3	Robert of Brus	West Riding	`Burghshire'	Scotton	2	geld		54371
+740	15538	8	YB	31W3	Robert of Brus	West Riding	`Burghshire'	Susacres	1	geld		60526
+760	15538	3	YB	31W3	Robert of Brus	West Riding	`Burghshire'	Laverton	4.5	geld		38041
+780	15538	1	YB	31W3	Robert of Brus	West Riding	`Burghshire'	Azerley	6	geld		3631
+800	15539	1	YB	31W4	Robert of Brus	West Riding	`Burghshire'	Leathley	2	geld		38331
+820	15539	3	YB	31W4	Robert of Brus	West Riding	`Skyrack'	Rawdon	0.75	geld		51291
+840	15539	2	YB	31W4	Robert of Brus	West Riding	`Skyrack'	Horsforth	2	geld		33356
+860	15540	2	YB	31W5	Robert of Brus	West Riding	`Burghshire'	[Grewel]thorpe	2	geld		27771
+880	15540	1	YB	31W5	Robert of Brus	West Riding	Barkston	Carlton	6	geld		13146
+900	15540	3	YB	31W5	Robert of Brus	West Riding	Barkston	Camblesforth	1	geld		12796
+920	15541	1	YB	31N1	Robert of Brus	North Riding	Allerton	Appleton [Wiske]	6	geld		2001
+940	15542	3	YB	31N2	Robert of Brus	North Riding	Allerton	Hornby	2	geld	Not in DB	33226
+960	15542	1	YB	31N2	Robert of Brus	North Riding	Allerton	[Low] Worsall	3	geld		72836
+980	15542	2	YB	31N2	Robert of Brus	North Riding	Allerton	Yarm	3	geld		73576
+1000	15543	1	YB	31N3	Robert of Brus	North Riding	Allerton	[South] Otterington	6	geld		47541
+1020	15543	2	YB	31N3	Robert of Brus	North Riding	Allerton	[East] Harlsey	6	geld		29646
+1040	15543	3	YB	31N3	Robert of Brus	North Riding	Allerton	Welbury	6	geld		68141
+1060	15544	1	YB	31N4	Robert of Brus	North Riding	Allerton	[Kirk] Leavington	6	geld		38361
+1080	15544	2	YB	31N4	Robert of Brus	North Riding	Allerton	[Castle] Leavington	4	geld		38356
+1100	15544	3	YB	31N4	Robert of Brus	North Riding	Allerton	Morton [Grange]	3	geld		44111
+1120	15545	11	YB	31N5	Robert of Brus	North Riding	Allerton	Mount Grace	2	geld		44271
+1140	15545	12	YB	31N5	Robert of Brus	North Riding	Allerton	Arncliffe [Hall]	2	geld		2176
+1160	15545	3	YB	31N5	Robert of Brus	North Riding	Allerton	Ingleby [Arncliffe]	6	geld		34831
+1180	15545	10	YB	31N5	Robert of Brus	North Riding	Langbaurgh	[Little] Busby	2	geld		12191
+1200	15545	1	YB	31N5	Robert of Brus	North Riding	Langbaurgh	Crathorne	9	geld	geld shared between Crathorne a& Foxton	18421
+1220	15545	17	YB	31N5	Robert of Brus	North Riding	Langbaurgh	Foxton		recorded elsewhere	geld shared between Crathorne a& Foxton	25686
+1240	15545	7	YB	31N5	Robert of Brus	North Riding	Langbaurgh	Hilton	3	geld		31916
+1260	15545	18	YB	31N5	Robert of Brus	North Riding	Langbaurgh	Thornaby	1.5	geld		62381
+1280	15545	5	YB	31N5	Robert of Brus	North Riding	Langbaurgh	Marton [in Cleveland]	4	geld		41971
+1300	15545	9	YB	31N5	Robert of Brus	North Riding	Langbaurgh	Newham [Hall]	2.25	geld		45141
+1320	15545	6	YB	31N5	Robert of Brus	North Riding	Langbaurgh	Tollesby	3	geld		64231
+1340	15545	13	YB	31N5	Robert of Brus	North Riding	Langbaurgh	Acklam	2	geld		146
+1360	15545	2	YB	31N5	Robert of Brus	North Riding	Langbaurgh	Faceby	8	geld		24131
+1380	15545	8	YB	31N5	Robert of Brus	North Riding	Langbaurgh	Tanton	2.5	geld		61541
+1400	15545	14	YB	31N5	Robert of Brus	North Riding	Langbaurgh	Goulton [Grange]	1	geld		27336
+1420	15545	15	YB	31N5	Robert of Brus	North Riding	Langbaurgh	{Bergolbi}	1	geld		6246
+1440	15545	4	YB	31N5	Robert of Brus	North Riding	Langbaurgh	[Nun]Thorpe	6	geld		46431
+1460	15546	2	YB	31N6	Robert of Brus	North Riding	Allerton	Morton [Grange]	3	geld		44111
+1480	15546	1	YB	31N6	Robert of Brus	North Riding	Langbaurgh	Newton	4.75	geld		45451
+1500	15546	3	YB	31N6	Robert of Brus	North Riding	Langbaurgh	Upsall [Hall]	3	geld		66231
+1520	15546	4	YB	31N6	Robert of Brus	North Riding	Langbaurgh	[Pinchin]thorpe [Hall]	3	geld		49286
+1540	15547	2	YB	31N7	Robert of Brus	North Riding	Langbaurgh	Kildale	6	geld		35976
+1560	15547	1	YB	31N7	Robert of Brus	North Riding	Langbaurgh	Ormesby	12	geld		47241
+1580	15547	3	YB	31N7	Robert of Brus	North Riding	Langbaurgh	Lazenby	1.5	geld		38206
+1600	15547	4	YB	31N7	Robert of Brus	North Riding	Langbaurgh	Guisborough	1	geld		28051
+1620	15548	10	YB	31N8	Robert of Brus	North Riding	Langbaurgh	`Stainton'	0.12	geld		57786
+1640	15548	9	YB	31N8	Robert of Brus	North Riding	Langbaurgh	Moorsholm	0.5	geld		43801
+1660	15548	7	YB	31N8	Robert of Brus	North Riding	{Dic}	Cawthorn	1	geld		13671
+1680	15548	1	YB	31N8	Robert of Brus	North Riding	`Bulford'	Crambe	4	geld		18321
+1700	15548	6	YB	31N8	Robert of Brus	North Riding	{Maneshou}	Newsham	1.25	geld		45281
+1720	15548	4	YB	31N8	Robert of Brus	North Riding	{Maneshou}	Amotherby	2.5	geld		1661
+1740	15548	2	YB	31N8	Robert of Brus	North Riding	`Bulford'	[Low] Hutton	3	geld		34326
+1760	15548	8	YB	31N8	Robert of Brus	North Riding	`Bulford'	Ganthorpe	0.5	geld		26376
+1780	15548	3	YB	31N8	Robert of Brus	North Riding	{Dic}	Brompton	1.75	geld		10501
+1800	15548	5	YB	31N8	Robert of Brus	North Riding	{Dic}	Thornton [Dale]	1.37	geld		62636
+1820	15549	2	YB	31N9	Robert of Brus	North Riding	{Dic}	Wykeham	0.5	geld		73326
+1840	15549	1	YB	31N9	Robert of Brus	North Riding	{Dic}	Cayton	2	geld		13721
+1860	15550	1	YB	31N10	Robert of Brus	East Riding	Burton	Harpham	8	geld	by exhange with the king	29686
+1880	15550	4	YB	31N10	Robert of Brus	East Riding	Burton	Gransmoor	2	geld		27471
+1920	15550	2	YB	31N10	Robert of Brus	North Riding	Langbaurgh	Danby	6	geld	"12.25 in Eskdaleside, that is Danby, Crunkly Gill, the 2 Hangtons & Lealholm"	19556
+1940	15550	3	YB	31N10	Robert of Brus	North Riding	Langbaurgh	Crunkly [Gill]	3	geld		19036
+1960	15550	5	YB	31N10	Robert of Brus	North Riding	Langbaurgh	`Hangton'	2	geld	Not in DB. Geld shared between the 2 Hangtons	29136
+1980	15550	7	YB	31N10	Robert of Brus	North Riding	Langbaurgh	Hangton Hill		recorded elsewhere	Not in DB. Geld shared between the 2 Hangtons	29141
+2000	15550	6	YB	31N10	Robert of Brus	North Riding	Langbaurgh	Lealholm	1.25	geld		38301

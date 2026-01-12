@@ -1,0 +1,52 @@
+3820 - Enclousre, Rating, Drainage, and Sanitary Maps of ngland and Wales in 
+Public Archives, 1598-1936
+
+
+
+Dataset Description
+======
+
+
+Type
+------
+Flat database (one table).
+
+
+Format
+------
+The data is stored as a tab delimited ASCII text file. The first row of the 
+file gives the field names for the table. Text values are not delimited by 
+any form of quotes (double or single).
+
+
+
+Dataset Contents
+======
+
+
+Field CAT
+------
+There are a number of words and phrases in some entries, also "s" appears 
+frequently as part of a code sequence (eg, "Ts"), and codes are combined 
+using "and", "or", and "," (separating items in a list).
+
+
+Field TYP
+------
+There are no "U" codes in this field.
+
+
+Field SUM
+------
+This field contains some numbers which are expressed using commas (eg 
+100,000).
+
+
+Field TMD
+------
+One unexpected entry: "xxxx".
+
+
+
+Hamish James, History Data Service, 15/04/99
+

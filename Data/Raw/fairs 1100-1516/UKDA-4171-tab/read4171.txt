@@ -1,0 +1,59 @@
+4171 - Markets and Fairs in England and Wales to AD 1516
+
+
+
+Data Set Type
+=============
+Data files (99 files)
+
+
+
+Data Set Format
+===============
+The following data formats have been prepared by the AHDS History.
+
+Tab delimited files (40 files)
+
+AND
+
+Rtf files (52 files)
+
+AND
+
+Pdf files (59 files)
+
+If requested, data may have been supplied in other formats where
+practicable.
+
+
+
+Documentation
+=============
+The documentation makes reference to file formats that may not have 
+been supplied with this order. All data content, however, has been 
+supplied.
+
+
+
+File Name Changes
+=================
+All white space and capitalisation has been removed from file names.
+
+"Gaz Intro and prelims.doc" --> "intro.rtf"
+
+"list of places.doc" --> "list_places.rtf"
+
+"somer.txt" --> "som.tab"
+
+"rutland.txt" --> "rutl.tab" 
+
+
+AHDS History, 07/04/2008
+UK Data Archive
+University of Essex
+Colchester CO4 3SQ
+
+Tel: +44 (0)1206 872326
+Fax: +44 (0)1206 872003
+Email: info@history.ahds.ac.uk
+URL: http://history.ahds.ac.uk/

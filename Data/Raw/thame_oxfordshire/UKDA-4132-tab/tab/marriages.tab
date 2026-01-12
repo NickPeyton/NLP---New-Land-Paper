@@ -1,0 +1,2278 @@
+SC	ID	Title	Fname	Sname	Gender	Status	Occup	Place	Role	Year	Day	Month	MFname	MSname	Licence	Comment
+MAR	1	 	Elizabeth	Pittman	F	 	 		Marriage	1601.00	16.00	5.00	John	Pecke		
+MAR	2	 	John	Pecke	M	 	 		Marriage	1601.00	16.00	5.00	Elizabeth	Pittman		
+MAR	3	 	Elizabeth	Springall	F	 	 		Marriage	1601.00	20.00	5.00	Christopher	Munday		
+MAR	4	 	Christopher	Munday	M	 	 		Marriage	1601.00	20.00	5.00	Elizabeth	Springall		
+MAR	5	 	Ales	Dawson	F	 	 		Marriage	1601.00	30.00	5.00	Thomas	Hide		
+MAR	6	 	Thomas	Hide	M	 	 		Marriage	1601.00	30.00	5.00	Ales	Dawson		
+MAR	7	 	Katherine	Mountegue	F	 	 		Marriage	1601.00	18.00	6.00	George	Warde		
+MAR	8	 	George	Warde	M	 	 		Marriage	1601.00	18.00	6.00	Katherine	Mountegue		
+MAR	9	 	Elizabeth	Stevens	F	 	 		Marriage	1601.00	22.00	6.00	Richard	Wittney		
+MAR	10	 	Richard	Wittney	M	 	 		Marriage	1601.00	22.00	6.00	Elizabeth	Stevens		
+MAR	11	 	Elizabeth	Snowe	F	 	 		Marriage	1601.00	10.00	8.00	Thomas	Collins		
+MAR	12	 	Thomas	Collins	M	 	 		Marriage	1601.00	10.00	8.00	Elizabeth	Snowe		
+MAR	13	 	Anne	Barker	F	 	 		Marriage	1601.00	19.00	8.00	Edward	Blances		
+MAR	14	 	Edward	Blances	M	 	 		Marriage	1601.00	19.00	8.00	Anne	Barker		
+MAR	15	 	Elen	Bigg	F	 	 		Marriage	1601.00	15.00	9.00	Edward	Rooson		
+MAR	16	 	Edward	Rooson	M	 	 		Marriage	1601.00	15.00	9.00	Elen	Bigg		
+MAR	17	 	Mary	Cotton	F	 	 		Marriage	1601.00	19.00	10.00	Edward	Bigge		
+MAR	18	 	Edward	Bigge	M	 	 		Marriage	1601.00	19.00	10.00	Mary	Cotton		
+MAR	19	 	Ales	Reynolds	F	 	 		Marriage	1601.00	26.00	10.00	Thomas	Vickers		
+MAR	20	 	Thomas	Vickers	M	 	 		Marriage	1601.00	26.00	10.00	Ales	Reynolds		
+MAR	21	 	Elizabeth	Eynett	F	 	 		Marriage	1601.00	20.00	11.00	Robert	Wingrove		
+MAR	22	 	Robert	Wingrove	M	 	 		Marriage	1601.00	20.00	11.00	Elizabeth	Eynett		
+MAR	23	 	Joane	Bowyere	F	 	 		Marriage	1601.00	25.00	11.00	Ralph	Sowthen		
+MAR	24	 	Ralph	Sowthen	M	 	 		Marriage	1601.00	25.00	11.00	Joane	Bowyere		
+MAR	25	 	Anne	Burnam	F	 	 		Marriage	1602.00	5.00	5.00	William	Francklin		
+MAR	26	 	William	Francklin	M	 	 		Marriage	1602.00	5.00	5.00	Anne	Burnam		
+MAR	27	 	Ales	Burt	F	 	 		Marriage	1602.00	12.00	6.00	John	Pedde		
+MAR	28	 	John	Pedde	M	 	 		Marriage	1602.00	12.00	6.00	Ales	Burt		
+MAR	29	 	Annis	Herringe	F	 	 		Marriage	1602.00	19.00	6.00	Thomas	Ledgingham		
+MAR	30	 	Thomas	Ledgingham	M	 	 		Marriage	1602.00	19.00	6.00	Annis	Herringe		
+MAR	31	 	Elizabeth	Rogers	F	 	 		Marriage	1602.00	1.00	8.00	Richard	Rowlande		
+MAR	32	 	Richard	Rowlande	M	 	 		Marriage	1602.00	1.00	8.00	Elizabeth	Rogers		
+MAR	34	 	Robert	Judson	M	 	 		Marriage	1602.00	17.00	10.00	  	  		
+MAR	35	 	Jone	Byrde	F	 	 		Marriage	1602.00	4.00	11.00	William	South		
+MAR	36	 	William	South	M	 	 		Marriage	1602.00	4.00	11.00	Jone	Byrde		
+MAR	37	 	Mary	Allen	F	 	 		Marriage	1602.00	15.00	11.00	Nicholas	Shuffe		
+MAR	38	 	Nicholas	Shuffe	M	 	 		Marriage	1602.00	15.00	11.00	Mary	Allen		
+MAR	39	 	Jone	Fisher	F	 	 		Marriage	1602.00	18.00	11.00	John	Smith		
+MAR	40	 	John	Smith	M	 	 		Marriage	1602.00	18.00	11.00	Jone	Fisher		
+MAR	41	 	Jone	Cobbett	F	 	 		Marriage	1602.00	24.00	11.00	Christopher	Pitt		
+MAR	42	 	Christopher	Pitt	M	 	 		Marriage	1602.00	24.00	11.00	Jone	Cobbett		
+MAR	43	 	Helen	Loveday	F	 	 		Marriage	1603.00	17.00	1.00	Laurence	Powell		
+MAR	44	 	Laurence	Powell	M	 	 		Marriage	1603.00	17.00	1.00	Helen	Loveday		
+MAR	45	 	Elizabeth	Burnam	F	 	 		Marriage	1603.00	30.00	1.00	Richard	Baker		
+MAR	46	 	Richard	Baker	M	 	 		Marriage	1603.00	30.00	1.00	Elizabeth	Burnam		
+MAR	47	 	Jone	Clarcke	F	 	 		Marriage	1603.00	16.00	5.00	James	Cole		
+MAR	48	 	James	Cole	M	 	 		Marriage	1603.00	16.00	5.00	Jone	Clarcke		
+MAR	49	 	Margery	Tomlins	F	 	 		Marriage	1603.00	17.00	5.00	William	Robbins		
+MAR	50	 	William	Robbins	M	 	 		Marriage	1603.00	17.00	5.00	Margery	Tomlins		
+MAR	51	 	Mary	Pickman	F	 	 		Marriage	1603.00	4.00	7.00	Christopher	Hadley		
+MAR	52	 	Christopher	Hadley	M	 	 		Marriage	1603.00	4.00	7.00	Mary	Pickman		
+MAR	53	 	Mary	Coosen	F	 	 		Marriage	1603.00	3.00	11.00	Robert	Eynott		
+MAR	54	 	Robert	Eynott	M	 	 		Marriage	1603.00	3.00	11.00	Mary	Coosen		
+MAR	55	 	Amy	Spring	F	 	 		Marriage	1603.00	14.00	11.00	John	Amor		
+MAR	56	 	John	Amor	M	 	 		Marriage	1603.00	14.00	11.00	Amy	Spring		
+MAR	57	 	Elizabeth	West	F	 	 		Marriage	1604.00	6.00	2.00	Richard	Goldinge		
+MAR	58	 	Richard	Goldinge	M	 	 		Marriage	1604.00	6.00	2.00	Elizabeth	West		
+MAR	59	 	Elizabeth	Locke	F	 	 		Marriage	1604.00	21.00	6.00	Christopher	Newman		
+MAR	60	 	Christopher	Newman	M	 	 		Marriage	1604.00	21.00	6.00	Elizabeth	Locke		
+MAR	61	 	Julia	Belson	F	 	 		Marriage	1604.00	4.00	8.00	Francis	Verney		
+MAR	62	 	Francis	Verney	M	 	 		Marriage	1604.00	4.00	8.00	Julia	Belson		
+MAR	63	 	Mary	Cooke	F	 	 		Marriage	1604.00	21.00	8.00	John	Bullford		
+MAR	64	 	John	Bullford	M	 	 		Marriage	1604.00	21.00	8.00	Mary	Cooke		
+MAR	65	 	Sibell	Childs	F	 	 		Marriage	1604.00	22.00	10.00	William	Spindler		
+MAR	66	 	William	Spindler	M	 	 		Marriage	1604.00	22.00	10.00	Sibell	Childs		
+MAR	67	 	Ales	Cooke	F	 	 		Marriage	1604.00	24.00	10.00	Jo.	Tattnell		
+MAR	68	 	Jo	Tattnell	M	 	 		Marriage	1604.00	24.00	10.00	Ales	Cooke		
+MAR	69	 	Elizabeth	Cox	F	 	 		Marriage	1604.00	1.00	11.00	Lawrence	Emry		
+MAR	70	 	Lawrence	Emry	M	 	 		Marriage	1604.00	1.00	11.00	Elizabeth	Cox		
+MAR	71	 	Margery	Gibbs	F	 	 		Marriage	1604.00	25.00	11.00	John	Garlicke		
+MAR	72	 	John	Garlicke	M	 	 		Marriage	1604.00	25.00	11.00	Margery	Gibbs		
+MAR	73	 	Susanna	Carter	F	 	 		Marriage	1605.00	31.00	1.00	Thomas	Kinge		
+MAR	74	 	Thomas	Kinge	M	 	 		Marriage	1605.00	31.00	1.00	Susanna	Carter		
+MAR	75	 	Joane	Goode	F	 	 		Marriage	1605.00	11.00	2.00	John	Messenger		
+MAR	76	 	John	Messenger	M	 	 		Marriage	1605.00	11.00	2.00	Joane	Goode		
+MAR	77	 	Dennis	Allern	F	 	 		Marriage	1605.00	11.00	2.00	William	Wynche		
+MAR	78	 	William	Wynche	M	 	 		Marriage	1605.00	11.00	2.00	Dennis	Allern		
+MAR	79	 	Susan	Hurles	F	 	 		Marriage	1605.00	12.00	3.00	Thomas	Hewis		
+MAR	80	 	Thomas	Hewis	M	 	 		Marriage	1605.00	12.00	3.00	Susan	Hurles		
+MAR	81	 	Margery	Fletcher	F	 	 		Marriage	1605.00	1.00	4.00	Richard	Cotton		
+MAR	82	 	Richard	Cotton	M	 	 		Marriage	1605.00	1.00	4.00	Margery	Fletcher		
+MAR	83	 	Margrett	Froste	F	 	 		Marriage	1605.00	9.00	4.00	Morrice	Goldinge		
+MAR	84	 	Morrice	Goldinge	M	 	 		Marriage	1605.00	9.00	4.00	Margrett	Froste		
+MAR	85	 	Ales	Walker	F	 	 		Marriage	1605.00	18.00	4.00	Allen	Blincowe		
+MAR	86	 	Allen	Blincowe	M	 	 		Marriage	1605.00	18.00	4.00	Ales	Walker		
+MAR	87	 	Katherine	Ridge	F	 	 		Marriage	1605.00	2.00	5.00	William	Garner		
+MAR	88	 	William	Garner	M	 	 		Marriage	1605.00	2.00	5.00	Katherine	Ridge		
+MAR	89	 	Joane	Ridley	F	 	 		Marriage	1605.00	18.00	6.00	John	Bower		
+MAR	90	 	John	Bower	M	 	 		Marriage	1605.00	18.00	6.00	Joane	Ridley		
+MAR	91	 	Margret	Bryan	F	 	 		Marriage	1605.00	25.00	8.00	Leonard	Burton		
+MAR	92	 	Leonard	Burton	M	 	 		Marriage	1605.00	25.00	8.00	Margret	Bryan		
+MAR	93	 	Isabell	Surman	F	 	 		Marriage	1605.00	17.00	10.00	Walter	Hemett		
+MAR	94	 	Walter	Hemett	M	 	 		Marriage	1605.00	17.00	10.00	Isabell	Surman		
+MAR	95	 	Jane	 	F	 	 		Marriage	1605.00	21.00	10.00	Leonard	Bigg		
+MAR	96	 	Leonard	Bigg	M	 	 		Marriage	1605.00	21.00	10.00	Jane	  		
+MAR	97	 	Anne	Stratton	F	 	 		Marriage	1605.00	25.00	10.00	Thomas	Crooke		
+MAR	98	 	Thomas	Crooke	M	 	 		Marriage	1605.00	25.00	10.00	Anne	Stratton		
+MAR	99	 	Grace	Bartlett	F	 	 		Marriage	1605.00	28.00	11.00	Thomas	Oaley		
+MAR	100	 	Thomas	Oaley	M	 	 		Marriage	1605.00	28.00	11.00	Grace	Bartlett		
+MAR	101	 	Joane	Adams	F	 	 		Marriage	1605.00	2.00	12.00	Thomas	Eynott		
+MAR	102	 	Thomas	Eynott	M	 	 		Marriage	1605.00	2.00	12.00	Joane	Adams		
+MAR	103	 	Anne	Granet	F	 	 		Marriage	1605.00	15.00	12.00	William	Yonge		
+MAR	104	 	William	Yonge	M	 	 		Marriage	1605.00	15.00	12.00	Anne	Granet		
+MAR	105	 	Margret	Minchard	F	 	 		Marriage	1606.00	27.00	2.00	James	Stanton		
+MAR	106	 	James	Stanton	M	 	 		Marriage	1606.00	27.00	2.00	Margret	Minchard		
+MAR	107	 	Margery	Lea	F	 	 		Marriage	1606.00	26.00	4.00	Robert	Collingridge		
+MAR	108	 	Robert	Collingridge	M	 	 		Marriage	1606.00	26.00	4.00	Margery	Lea		
+MAR	109	 	Mary	Cotton	F	 	 		Marriage	1606.00	11.00	6.00	Thomas	West		
+MAR	110	 	Thomas	West	M	 	 		Marriage	1606.00	11.00	6.00	Mary	Cotton		
+MAR	111	 	Jone	Elcocke	F	 	 		Marriage	1606.00	6.00	7.00	Geffry	Byshoppe		
+MAR	112	 	Geffry	Byshoppe	M	 	 		Marriage	1606.00	6.00	7.00	Jone	Elcocke		
+MAR	113	 	Jone	Goddard	F	 	 		Marriage	1606.00	17.00	7.00	William	Wright		
+MAR	114	 	William	Wright	M	 	 		Marriage	1606.00	17.00	7.00	Jone	Goddard		
+MAR	115	 	Elizabeth	Vearo	F	 	 		Marriage	1606.00	17.00	7.00	Edward	Adams		
+MAR	116	 	Edward	Adams	M	 	 		Marriage	1606.00	17.00	7.00	Elizabeth	Vearo		
+MAR	117	 	Margett	Turner	F	 	 		Marriage	1606.00	31.00	7.00	John	Stevens		
+MAR	118	 	John	Stevens	M	 	 		Marriage	1606.00	31.00	7.00	Margett	Turner		
+MAR	119	 	Katherine	Corner	F	 	 		Marriage	1606.00	31.00	7.00	Leonard	Towne		
+MAR	120	 	Leonard	Towne	M	 	 		Marriage	1606.00	31.00	7.00	Katherine	Corner		
+MAR	121	 	Ales	Gibbins	F	 	 		Marriage	1606.00	4.00	8.00	Philipp	Allnett		
+MAR	122	 	Philipp	Allnett	M	 	 		Marriage	1606.00	4.00	8.00	Ales	Gibbins		
+MAR	123	 	Prudence	Cooper	F	 	 		Marriage	1606.00	11.00	8.00	Thomas	Luce		
+MAR	124	 	Thomas	Luce	M	 	 		Marriage	1606.00	11.00	8.00	Prudence	Cooper		
+MAR	125	 	Elizabeth	Millinath	F	 	 		Marriage	1606.00	11.00	8.00	John	Dickens		
+MAR	126	 	John	Dickens	M	 	 		Marriage	1606.00	11.00	8.00	Elizabeth	Millinath		
+MAR	127	 	Annis	Stratton	F	 	 		Marriage	1606.00	15.00	10.00	Thomas	Bee		
+MAR	128	 	Thomas	Bee	M	 	 		Marriage	1606.00	15.00	10.00	Annis	Stratton		
+MAR	129	 	Joane	Stringer	F	 	 		Marriage	1606.00	15.00	10.00	Richard	Dewbery		
+MAR	130	 	Richard	Dewbery	M	 	 		Marriage	1606.00	15.00	10.00	Joane	Stringer		
+MAR	131	 	Margery	Gurgeiny	F	 	 		Marriage	1606.00	25.00	10.00	Philipp	Baylie		
+MAR	132	 	Philipp	Baylie	M	 	 		Marriage	1606.00	25.00	10.00	Margery	Gurgeiny		
+MAR	133	 	Ales	Groome	F	 	 		Marriage	1606.00	6.00	11.00	Humfry	Jemott		
+MAR	134	 	Humfry	Jemott	M	 	 		Marriage	1606.00	6.00	11.00	Ales	Groome		
+MAR	135	 	Margett	Towne	F	 	 		Marriage	1606.00	20.00	11.00	William	Smith		
+MAR	136	 	William	Smith	M	 	 		Marriage	1606.00	20.00	11.00	Margett	Towne		
+MAR	137	 	Elizabeth	Smith	F	 	 		Marriage	1606.00	27.00	11.00	Francis	King		
+MAR	138	 	Francis	King	M	 	 		Marriage	1606.00	27.00	11.00	Elizabeth	Smith		
+MAR	139	 	Annis	Allnett	F	 	 		Marriage	1606.00	27.00	11.00	John	Warner		
+MAR	140	 	John	Warner	M	 	 		Marriage	1606.00	27.00	11.00	Annis	Allnett		
+MAR	141	 	Ales	Scotchett	F	 	 		Marriage	1606.00	10.00	12.00	Robert	Bennett		
+MAR	142	 	Robert	Bennett	M	 	 		Marriage	1606.00	10.00	12.00	Ales	Scotchett		
+MAR	143	 	Anne	Franklin	F	 	 		Marriage	1607.00	26.00	1.00	Robert	Acclee		
+MAR	144	 	Robert	Acclee	M	 	 		Marriage	1607.00	26.00	1.00	Anne	Franklin		
+MAR	145	 	Joane	Eaton	F	 	 		Marriage	1607.00	9.00	2.00	John	Tackett		
+MAR	146	 	John	Tackett	M	 	 		Marriage	1607.00	9.00	2.00	Joane	Eaton		
+MAR	147	 	Elizabeth	Hide	F	 	 		Marriage	1607.00	15.00	2.00	William	Baker		
+MAR	148	 	William	Baker	M	als Bowry	 		Marriage	1607.00	15.00	2.00	Elizabeth	Hide		
+MAR	149	 	Elizabeth	Mores	F	 	 		Marriage	1607.00	25.00	2.00	Thomas	Nicholls		
+MAR	150	 	Thomas	Nicholls	M	 	 		Marriage	1607.00	25.00	2.00	Elizabeth	Mores		
+MAR	151	 	Joane	Tybberd	F	 	 		Marriage	1607.00	4.00	5.00	Griffith	Carter		
+MAR	152	 	Griffith	Carter	M	 	 		Marriage	1607.00	4.00	5.00	Joane	Tybberd		
+MAR	153	 	Mary	Springall	F	 	 		Marriage	1607.00	25.00	5.00	Christopher	Cole		
+MAR	154	 	Christopher	Cole	M	 	 		Marriage	1607.00	25.00	5.00	Mary	Springall		
+MAR	155	 	Joane	 	F	 	 		Marriage	1607.00	27.00	8.00	William	Willson		
+MAR	156	 	William	Willson	M	 	 		Marriage	1607.00	27.00	8.00	Joane	  		
+MAR	157	 	Joane	Striblehill	F	 	 		Marriage	1607.00	15.00	9.00	Richard	Haughton		
+MAR	158	 	Richard	Haughton	M	 	 		Marriage	1607.00	15.00	9.00	Joane	Striblehill		
+MAR	159	 	Margrett	Striblehill	F	 	 		Marriage	1607.00	19.00	10.00	John	Kendall		
+MAR	160	 	John	Kendall	M	 	 		Marriage	1607.00	19.00	10.00	Margrett	Striblehill		
+MAR	161	 	Jane	Boorne	F	 	 		Marriage	1607.00	20.00	10.00	John	Clarke		
+MAR	162	 	John	Clarke	M	 	 		Marriage	1607.00	20.00	10.00	Jane	Boorne		
+MAR	163	 	Elizabeth	Williams	F	 	 		Marriage	1607.00	26.00	10.00	William	Ellis		
+MAR	164	 	William	Ellis	M	 	 		Marriage	1607.00	26.00	10.00	Elizabeth	Williams		
+MAR	165	 	Joane	Wittney	F	 	 		Marriage	1607.00	12.00	11.00	Geffry	Munday		
+MAR	166	 	Geffry	Munday	M	 	 		Marriage	1607.00	12.00	11.00	Joane	Wittney		
+MAR	167	 	Anne	Cox	F	 	 		Marriage	1607.00	8.00	12.00	Richard	Messenger		
+MAR	168	 	Richard	Messenger	M	 	 		Marriage	1607.00	8.00	12.00	Anne	Cox		
+MAR	169	 	Isabell	Hobtroughe	F	 	 		Marriage	1607.00	14.00	12.00	Robert	Cules		
+MAR	170	 	Robert	Cules	M	 	 		Marriage	1607.00	14.00	12.00	Isabell	Hobtroughe		
+MAR	171	 	Mary	Burde	F	 	 		Marriage	1608.00	11.00	4.00	Walter	Cotton		
+MAR	172	 	Walter	Cotton	M	 	 		Marriage	1608.00	11.00	4.00	Mary	Burde		
+MAR	173	 	Ellin	Cubbidge	F	 	 		Marriage	1608.00	11.00	4.00	Thomas	Owen		
+MAR	174	 	Thomas	Owen	M	 	 		Marriage	1608.00	11.00	4.00	Ellin	Cubbidge		
+MAR	175	 	Susann	Keene	F	 	 		Marriage	1608.00	26.00	5.00	William	Smith		
+MAR	176	 	William	Smith	M	 	 		Marriage	1608.00	26.00	5.00	Susann	Keene		
+MAR	177	 	Joane	Ford	F	 	 		Marriage	1608.00	2.00	6.00	William	Hawkins		
+MAR	178	 	William	Hawkins	M	 	 		Marriage	1608.00	2.00	6.00	Joane	Ford		
+MAR	179	 	Jone	Steven	F	 	 		Marriage	1608.00	21.00	7.00	Edward	Heise		
+MAR	180	 	Edward	Heise	M	 	 		Marriage	1608.00	21.00	7.00	Jone	Steven		
+MAR	181	 	Jane	Cripps	F	 	 		Marriage	1608.00	12.00	9.00	Richard	Tymberlake		
+MAR	182	 	Richard	Tymberlake	M	 	 		Marriage	1608.00	12.00	9.00	Jane	Cripps		
+MAR	183	 	Joane	Wethered	F	 	 		Marriage	1608.00	14.00	10.00	Edward	Beale		
+MAR	184	 	Edward	Beale	M	 	 		Marriage	1608.00	14.00	10.00	Joane	Wethered		
+MAR	185	 	Ann	Ellett	F	 	 		Marriage	1608.00	20.00	10.00	William	Grey		
+MAR	186	 	William	Grey	M	 	 		Marriage	1608.00	20.00	10.00	Ann	Ellett		
+MAR	187	 	Susann	Mynard	F	 	 		Marriage	1608.00	9.00	11.00	John	Burton		
+MAR	188	 	John	Burton	M	 	 		Marriage	1608.00	9.00	11.00	Susann	Mynard		
+MAR	189	 	Mary	Stevens	F	 	 		Marriage	1609.00	15.00	1.00	John	Bellson		
+MAR	190	 	John	Bellson	M	 	 		Marriage	1609.00	15.00	1.00	Mary	Stevens		
+MAR	191	 	Joane	Bigg	F	 	 		Marriage	1609.00	19.00	2.00	Christopher	Wixson		
+MAR	192	 	Christopher	Wixson	M	 	 		Marriage	1609.00	19.00	2.00	Joane	Bigg		
+MAR	193	 	Marian	Grant	F	 	 		Marriage	1609.00	27.00	2.00	Thomas	Robbins		
+MAR	194	 	Thomas	Robbins	M	 	 		Marriage	1609.00	27.00	2.00	Marian	Grant		
+MAR	195	 	Hellen	Hunt	F	 	 		Marriage	1609.00	21.00	5.00	Edward	Burton		
+MAR	196	 	Edward	Burton	M	 	 		Marriage	1609.00	21.00	5.00	Hellen	Hunt		
+MAR	197	 	Annis	Hodsdon	F	 	 		Marriage	1609.00	22.00	5.00	John	Audry		
+MAR	198	 	John	Audry	M	 	 		Marriage	1609.00	22.00	5.00	Annis	Hodsdon		
+MAR	199	 	Ellnor	Miles	F	 	 		Marriage	1609.00	29.00	5.00	Edward	Stake		
+MAR	200	 	Edward	Stake	M	 	 		Marriage	1609.00	29.00	5.00	Ellnor	Miles		
+MAR	201	 	Julian	Lane	F	 	 		Marriage	1609.00	2.00	10.00	Bartholmew	Druse		
+MAR	202	 	Bartholmew	Druse	M	 	 		Marriage	1609.00	2.00	10.00	Julian	Lane		
+MAR	203	 	Elizabeth	Greene	F	 	 		Marriage	1609.00	11.00	10.00	Edward	  		
+MAR	204	 	Edward	 	M	 	 		Marriage	1609.00	11.00	10.00	Elizabeth	Greene		
+MAR	205	 	Margery	Muller	F	 	 		Marriage	1609.00	12.00	10.00	Walter	Palmer		
+MAR	206	 	Walter	Palmer	M	 	 		Marriage	1609.00	12.00	10.00	Margery	Muller		
+MAR	207	 	Margret	Francklin	F	 	 		Marriage	1609.00	22.00	10.00	William	Atkins		
+MAR	208	 	William	Atkins	M	 	 		Marriage	1609.00	22.00	10.00	Margret	Francklin		
+MAR	209	 	Elizabeth	Griffin	F	 	 		Marriage	1609.00	23.00	10.00	Richard	Clarke		
+MAR	210	 	Richard	Clarke	M	 	 		Marriage	1609.00	23.00	10.00	Elizabeth	Griffin		
+MAR	211	 	Katherin	Bartlet	F	 	 		Marriage	1609.00	3.00	11.00	Thomas	Burnham		
+MAR	212	 	Thomas	Burnham	M	 	 		Marriage	1609.00	3.00	11.00	Katherin	Bartlet		
+MAR	213	 	Anne	Pitman	F	 	 		Marriage	1609.00	9.00	11.00	John	??hel??		
+MAR	214	 	John	??hel??	M	 	 		Marriage	1609.00	9.00	11.00	Anne	Pitman		
+MAR	215	 	Katherine	Potts	F	 	 		Marriage	1609.00	29.00	11.00	Thomas	Rolls		
+MAR	216	 	Thomas	Rolls	M	 	 		Marriage	1609.00	29.00	11.00	Katherine	Potts		
+MAR	217	 	Margret	Carter	F	 	 		Marriage	1610.00	7.00	1.00	Edward	Arrington		
+MAR	218	 	Edward	Arrington	M	 	 		Marriage	1610.00	7.00	1.00	Margret	Carter		
+MAR	219	 	Ann	Dorrell	F	 	 		Marriage	1610.00	27.00	1.00	William	Wheeler		
+MAR	220	 	William	Wheeler	M	 	 		Marriage	1610.00	27.00	1.00	Ann	Dorrell		
+MAR	221	 	Elizabeth	Towne	F	 	 		Marriage	1610.00	15.00	2.00	Leonarde	Greene		
+MAR	222	 	Leonarde	Greene	M	 	 		Marriage	1610.00	15.00	2.00	Elizabeth	Towne		
+MAR	223	 	Margaret	Nash	F	 	 		Marriage	1610.00	11.00	6.00	Thomas	Hall		
+MAR	224	 	Thomas	Hall	M	 	 		Marriage	1610.00	11.00	6.00	Margaret	Nash		
+MAR	225	 	Ann	Crosse	F	 	 		Marriage	1610.00	18.00	6.00	Anthonie	Willman		
+MAR	226	 	Anthonie	Willman	M	 	 		Marriage	1610.00	18.00	6.00	Ann	Crosse		
+MAR	227	 	Martha	Baker	F	 	 		Marriage	1610.00	22.00	11.00	Moses	Clarke		
+MAR	228	 	Moses	Clarke	M	 	 		Marriage	1610.00	22.00	11.00	Martha	Baker		
+MAR	229	 	Margery	Cocks	F	 	 		Marriage	1610.00	28.00	11.00	John	Peade		
+MAR	230	 	John	Peade	M	 	 		Marriage	1610.00	28.00	11.00	Margery	Cocks		
+MAR	231	 	Joyce	Pollin	F	 	 		Marriage	1612.00	10.00	12.00	Edward	Bull		
+MAR	232	 	Edward	Bull	M	 	 		Marriage	1612.00	10.00	12.00	Joyce	Pollin		
+MAR	233	Mrs	Francis	Barry	F	 	 		Marriage	1612.00	21.00	12.00	Michaell	Saunders 		
+MAR	234	Mr	Michael	Saunders	M	 	 		Marriage	1612.00	21.00	12.00	Francis	Barry  		
+MAR	235	 	Anne	Cotton	F	 	 		Marriage	1613.00	4.00	2.00	Symon	Wilkins		
+MAR	236	 	Symon	Wilkins	M	 	 		Marriage	1613.00	4.00	2.00	Anne	Cotton		
+MAR	237	 	Johne	Reading	F	 	 		Marriage	1613.00	10.00	2.00	Henry	Byrd		
+MAR	238	 	Henry	Byrd	M	 	 		Marriage	1613.00	10.00	2.00	Johne	Reading		
+MAR	239	 	Mary	Calcott	F	 	 		Marriage	1613.00	5.00	8.00	Thomas	Springall		
+MAR	240	 	Thomas	Springall	M	 	 		Marriage	1613.00	5.00	8.00	Mary	Calcott		
+MAR	241	 	Rebecca	Jurden	F	 	 		Marriage	1613.00	9.00	8.00	Robert	Belson		
+MAR	242	 	Robert	Belson	M	 	 		Marriage	1613.00	9.00	8.00	Rebecca	Jurden		
+MAR	243	 	Elizabeth	Minchard	F	 	 		Marriage	1613.00	26.00	11.00	Evan	Jones		
+MAR	244	 	Evan	Jones	M	 	 		Marriage	1613.00	26.00	11.00	Elizabeth	Minchard		
+MAR	245	 	Bridgett	Smith	F	 	 		Marriage	1614.00	12.00	1.00	Thomas	Pue		
+MAR	246	 	Thomas	Pue	M	 	 		Marriage	1614.00	12.00	1.00	Bridgett	Smith		
+MAR	247	 	Maria	Robbins	F	 	 		Marriage	1614.00	10.00	2.00	John	Simon		
+MAR	248	 	John	Simon	M	 	 		Marriage	1614.00	10.00	2.00	Maria	Robbins		
+MAR	249	 	Agnes	Lions	F	 	 		Marriage	1614.00	26.00	3.00	Thomas	Heather		
+MAR	250	 	Thomas	Heather	M	 	 		Marriage	1614.00	26.00	3.00	Agnes	Lions		
+MAR	251	 	Elizabeth	Greene	F	 	 		Marriage	1614.00	27.00	4.00	John	Calcott		
+MAR	252	 	John	Calcott	M	 	 		Marriage	1614.00	27.00	4.00	Elizabeth	Greene		
+MAR	253	 	Margret	Clarcke	F	 	 		Marriage	1614.00	1.00	5.00	James	Parrett		
+MAR	254	 	James	Parrett	M	 	 		Marriage	1614.00	1.00	5.00	Margret	Clarcke		
+MAR	255	 	Myldred	Warner	F	 	 		Marriage	1614.00	29.00	5.00	Thomas	Coles		
+MAR	256	 	Thomas	Coles	M	 	 		Marriage	1614.00	29.00	5.00	Myldred	Warner		
+MAR	257	 	Jane	Clarke	F	 	 		Marriage	1614.00	3.00	10.00	William	Miles		
+MAR	258	 	William	Miles	M	 	 		Marriage	1614.00	3.00	10.00	Jane	Clarke		
+MAR	259	 	Marie	Avery	F	 	 		Marriage	1614.00	4.00	10.00	William	Smith		
+MAR	260	 	William	Smith	M	 	 		Marriage	1614.00	4.00	10.00	Marie	Avery		
+MAR	261	 	Elizabeth	Bentham	F	 	 		Marriage	1614.00	9.00	10.00	Edward	Gurden		
+MAR	262	 	Edward	Gurden	M	 	 		Marriage	1614.00	9.00	10.00	Elizabeth	Bentham		
+MAR	263	 	Elizabeth	Ellis	F	 	 		Marriage	1614.00	17.00	11.00	Nicholas	Allmond		
+MAR	264	 	Nicholas	Allmond	M	 	 		Marriage	1614.00	17.00	11.00	Elizabeth	Ellis		
+MAR	265	 	Alice	Legingham	F	 	 		Marriage	1614.00	17.00	11.00	William	Grice		
+MAR	266	 	William	Grice	M	 	 		Marriage	1614.00	17.00	11.00	Alice	Legingham		
+MAR	267	 	Joyce	Vero	F	 	 		Marriage	1615.00	20.00	2.00	Anthonie	Warren		
+MAR	268	 	Anthonie	Warren	M	 	 		Marriage	1615.00	20.00	2.00	Joyce	Vero		
+MAR	269	 	Alice	Cotton	F	 	 		Marriage	1615.00	20.00	2.00	John	Barret		
+MAR	270	 	John	Barret	M	 	 		Marriage	1615.00	20.00	2.00	Alice	Cotton		
+MAR	271	 	Elizabeth	Yates	F	 	 		Marriage	1615.00	17.00	4.00	Thomas	Mountegue		
+MAR	272	 	Thomas	Mountegue	M	 	 		Marriage	1615.00	17.00	4.00	Elizabeth	Yates		
+MAR	273	 	Elizabeth	Nicholls	F	 	 		Marriage	1615.00	20.00	4.00	William	Lowe		
+MAR	274	 	William	Lowe	M	 	 		Marriage	1615.00	20.00	4.00	Elizabeth	Nicholls		
+MAR	275	 	Alice	Bennet	F	 	 		Marriage	1615.00	18.00	5.00	Bartholomew	Burd		
+MAR	276	 	Bartholomew	Burd	M	 	 		Marriage	1615.00	18.00	5.00	Alice	Bennet		
+MAR	277	 	Elizabeth	Turner	F	 	 		Marriage	1615.00	5.00	6.00	John	Stronge		
+MAR	278	 	John	Stronge	M	 	 		Marriage	1615.00	5.00	6.00	Elizabeth	Turner		
+MAR	279	 	Joane	Dakers	F	 	 		Marriage	1615.00	8.00	6.00	Richard	Woodancie		
+MAR	280	 	Richard	Woodancie	M	 	 		Marriage	1615.00	8.00	6.00	Joane	Dakers		
+MAR	281	 	Alice	Spire	F	 	 		Marriage	1615.00	29.00	6.00	Richard	Tybberd		
+MAR	282	 	Richard	Tybberd	M	 	 		Marriage	1615.00	29.00	6.00	Alice	Spire		
+MAR	283	 	Mary	Anceter	F	 	 		Marriage	1615.00	17.00	8.00	Thomas	Flexney		
+MAR	284	Mr	Thomas	Flexney	M	 	 		Marriage	1615.00	17.00	8.00	Mary	Anceter		
+MAR	285	 	Luce	Dolliriner	F	 	 		Marriage	1615.00	8.00	10.00	John	Bennett		
+MAR	286	 	John	Bennett	M	 	 		Marriage	1615.00	8.00	10.00	Luce	Dolliriner		
+MAR	287	 	Alice	Neighbor	F	 	 		Marriage	1615.00	9.00	10.00	Richard	Atkins		
+MAR	288	 	Richard	Atkins	M	 	 		Marriage	1615.00	9.00	10.00	Alice	Neighbor		
+MAR	289	 	Helinor	Goodale	F	 	 		Marriage	1615.00	8.00	11.00	Christopher	Newman		
+MAR	290	 	Christopher	Newman	M	 	 		Marriage	1615.00	8.00	11.00	Helinor	Goodale		
+MAR	291	 	Joyce	Benson	F	 	 		Marriage	1615.00	11.00	11.00	Steven	North		
+MAR	292	 	Steven	North	M	 	 		Marriage	1615.00	11.00	11.00	Joyce	Benson		
+MAR	293	 	Joane	Calfielde	F	 	 		Marriage	1615.00	25.00	11.00	Henry	Bowler		
+MAR	294	 	Henry	Bowler	M	 	 		Marriage	1615.00	25.00	11.00	Joane	Calfielde		
+MAR	295	 	Margret	Simons	F	 	 		Marriage	1615.00	29.00	11.00	John	Griffith		
+MAR	296	 	John	Griffith	M	 	 		Marriage	1615.00	29.00	11.00	Margret	Simons		
+MAR	297	 	Sarah	Edwards	F	 	 		Marriage	1615.00	14.00	12.00	James	Cox		
+MAR	298	 	James	Cox	M	 	 		Marriage	1615.00	14.00	12.00	Sarah	Edwards		
+MAR	299	 	Ann	Bradbury	F	 	 		Marriage	1616.00	25.00	1.00	William	Kinge		
+MAR	300	 	William	Kinge	M	 	 		Marriage	1616.00	25.00	1.00	Ann	Bradbury		
+MAR	301	 	Ann	Englishe	F	 	 		Marriage	1616.00	30.00	1.00	John	Purtlock		
+MAR	302	 	John	Purtlock	M	 	 		Marriage	1616.00	30.00	1.00	Ann	Englishe		
+MAR	303	 	Phillis	Francklin	F	 	 		Marriage	1616.00	20.00	2.00	Thomas	Mates		
+MAR	304	 	Thomas	Mates	M	 	 		Marriage	1616.00	20.00	2.00	Phillis	Francklin		
+MAR	305	 	Cicely	Minge	F	 	 		Marriage	1616.00	14.00	4.00	John	Pedly		
+MAR	306	 	John	Pedly	M	 	 		Marriage	1616.00	14.00	4.00	Cicely	Minge		
+MAR	307	 	Joane	Hester	F	 	 		Marriage	1616.00	29.00	4.00	George	Boyse		
+MAR	308	 	George	Boyse	M	 	 		Marriage	1616.00	29.00	4.00	Joane	Hester		
+MAR	309	 	Dorothie	Cadman	F	 	 		Marriage	1616.00	14.00	5.00	Matthewe	Warters		
+MAR	310	 	Matthewe	Warters	M	 	 		Marriage	1616.00	14.00	5.00	Dorothie	Cadman		
+MAR	311	 	Elizabeth	Tomson	F	 	 		Marriage	1616.00	19.00	5.00	Steven	Belson		
+MAR	312	 	Steven	Belson	M	 	 		Marriage	1616.00	19.00	5.00	Elizabeth	Tomson		
+MAR	313	 	Phillis	Stevens	F	 	 		Marriage	1616.00	20.00	7.00	William	Grome		
+MAR	314	 	William	Grome	M	 	 		Marriage	1616.00	20.00	7.00	Phillis	Stevens		
+MAR	315	 	Ann	Plester 	F	 	 		Marriage	1616.00	20.00	7.00	Thomas	Gibbins		
+MAR	316	 	Thomas	Gibbins	M	 	 		Marriage	1616.00	20.00	7.00	Ann	Plester		
+MAR	317	 	Alice	Joell 	F	 	 		Marriage	1616.00	3.00	9.00	Edward	Cox		
+MAR	318	 	Edward	Cox	M	 	 		Marriage	1616.00	3.00	9.00	Alice	Joell		
+MAR	319	 	Bridgett	Alce	F	 	 		Marriage	1616.00	14.00	9.00	Thomas	Gomm		
+MAR	320	 	Thomas	Gomm	M	 	 		Marriage	1616.00	14.00	9.00	Bridgett	Alce		
+MAR	321	 	Isabell	Wylde	F	 	 		Marriage	1616.00	17.00	10.00	William	Neighbour		
+MAR	322	 	William	Neighbour	M	 	 		Marriage	1616.00	17.00	10.00	Isabell	Wylde		
+MAR	323	 	Elizabeth	 	F	 	 		Marriage	1616.00	22.00	10.00	Peter	West		
+MAR	324	 	Peter	West	M	 	 		Marriage	1616.00	22.00	10.00	Elizabeth	  		
+MAR	325	 	Joane	Evans	F	 	 		Marriage	1616.00	22.00	10.00	Daniel	  		
+MAR	326	 	Daniel	 	M	 	 		Marriage	1616.00	22.00	10.00	Joane	Evans		
+MAR	327	 	Elizabeth	Kitly	F	 	 		Marriage	1616.00	27.00	10.00	Thomas	Vero		
+MAR	328	 	Thomas	Vero	M	 	 		Marriage	1616.00	27.00	10.00	Elizabeth	Kitly		
+MAR	329	 	Dorothie	Hebb	F	 	 		Marriage	1616.00	18.00	11.00	Edward	Carter		
+MAR	330	 	Edward	Carter	M	 	 		Marriage	1616.00	18.00	11.00	Dorothie	Hebb		
+MAR	331	 	Dorothie	Greeland	F	 	 		Marriage	1616.00	21.00	11.00	John	North		
+MAR	332	 	John	North	M	 	 		Marriage	1616.00	21.00	11.00	Dorothie	Greeland		
+MAR	333	 	Ann	Coosen	F	 	 		Marriage	1616.00	10.00	12.00	Thomas	Botiley		
+MAR	334	 	Thomas	Botiley	M	 	 		Marriage	1616.00	10.00	12.00	Ann	Coosen		
+MAR	335	 	Pleasance	Allen	F	 	 		Marriage	1617.00	16.00	6.00	John	Godden		
+MAR	336	 	John	Godden	M	 	 		Marriage	1617.00	16.00	6.00	Pleasance	Allen		
+MAR	337	 	Joane	Tomson	F	 	 		Marriage	1617.00	20.00	9.00	Thomas	Hunt		
+MAR	338	 	Thomas	Hunt	M	 	 		Marriage	1617.00	20.00	9.00	Joane	Tomson		
+MAR	339	 	Elizabeth	Aston	F	 	 		Marriage	1617.00	29.00	9.00	Hughe	Hambleden		
+MAR	340	 	Hughe	Hambleden	M	 	 		Marriage	1617.00	29.00	9.00	Elizabeth	Aston		
+MAR	341	 	Katherine	Yonge	F	 	 		Marriage	1617.00	4.00	11.00	Robert	Walker		
+MAR	342	 	Robert	Walker	M	 	 		Marriage	1617.00	4.00	11.00	Katherine	Yonge		
+MAR	343	 	Agnes	Iron	F	 	 		Marriage	1617.00	6.00	11.00	William	Wenlow		
+MAR	344	 	William	Wenlow	M	 	 		Marriage	1617.00	6.00	11.00	Agnes	Iron		
+MAR	345	 	Mary	Bunton	F	 	 		Marriage	1617.00	16.00	12.00	John	Daunce		
+MAR	346	 	John	Daunce	M	 	 		Marriage	1617.00	16.00	12.00	Mary	Bunton		
+MAR	347	 	Elizabeth	Gincks	F	 	 		Marriage	1617.00	26.00	12.00	Robert	Hadland		
+MAR	348	 	Robert	Hadland	M	 	 		Marriage	1617.00	26.00	12.00	Elizabeth	Gincks		
+MAR	349	 	Mary	Redding	F	 	 		Marriage	1618.00	11.00	1.00	Henry	Simons		
+MAR	350	 	Henry	Simons	M	 	 		Marriage	1618.00	11.00	1.00	Mary	Redding		
+MAR	351	 	Christian	Stronge	F	 	 		Marriage	1618.00	18.00	1.00	John	Breedon		
+MAR	352	 	John	Breedon	M	 	 		Marriage	1618.00	18.00	1.00	Christian	Stronge		
+MAR	353	 	Anne	Cox	F	 	 		Marriage	1618.00	18.00	1.00	Henry	Cope		
+MAR	354	 	Henry	Cope	M	 	 		Marriage	1618.00	18.00	1.00	Anne	Cox		
+MAR	355	 	Joane	Joy	F	 	 		Marriage	1618.00	28.00	1.00	William	Woodmane		
+MAR	356	 	William	Woodmane	M	 	 		Marriage	1618.00	28.00	1.00	Joane	Joy		
+MAR	357	 	Avis	Costard	F	 	 		Marriage	1618.00	10.00	2.00	Edmund	Bampton		
+MAR	358	 	Edmund	Bampton	M	 	 		Marriage	1618.00	10.00	2.00	Avis	Costard		
+MAR	359	 	Bridget	 	F	 	 		Marriage	1618.00	19.00	4.00	John	Hide		
+MAR	360	 	John	Hide	M	 	 		Marriage	1618.00	19.00	4.00	Bridget	  		
+MAR	361	 	Alice	Harman	F	 	 		Marriage	1618.00	27.00	5.00	Robert	Stansmore		
+MAR	362	 	Robert	Stansmore	M	 	 		Marriage	1618.00	27.00	5.00	Alice	Harman		
+MAR	363	 	Elizabeth	Cotton	F	 	 		Marriage	1618.00	23.00	6.00	John	Player		
+MAR	364	Mr	John	Player	M	 	 		Marriage	1618.00	23.00	6.00	Elizabeth	Cotton		
+MAR	365	 	Jane	Somer	F	 	 		Marriage	1618.00	24.00	6.00	Robert	Blackoll		
+MAR	366	 	Robert	Blackoll	M	 	 		Marriage	1618.00	24.00	6.00	Jane	Somer		
+MAR	367	 	Anne	Coosen	F	 	 		Marriage	1618.00	31.00	8.00	Edward	Lawrence		
+MAR	368	 	Edward	Lawrence	M	 	 		Marriage	1618.00	31.00	8.00	Anne	Coosen		
+MAR	369	 	Elinor	Higgins	F	 	 		Marriage	1618.00	25.00	9.00	John	Messenger		
+MAR	370	 	John	Messenger	M	 	 		Marriage	1618.00	25.00	9.00	Elinor	Higgins		
+MAR	371	 	Cassandra	King	F	 	 		Marriage	1618.00	12.00	10.00	Henry	Edgerton		
+MAR	372	 	Henry	Edgerton	M	 	 		Marriage	1618.00	12.00	10.00	Cassandra	King		
+MAR	373	 	Joane	Jemot	F	 	 		Marriage	1618.00	15.00	10.00	John	Robinson		
+MAR	374	 	John	Robinson	M	 	 		Marriage	1618.00	15.00	10.00	Joane	Jemot		
+MAR	375	 	Margret	Such	F	 	 		Marriage	1618.00	26.00	10.00	John	Carter		
+MAR	376	 	John	Carter	M	 	 		Marriage	1618.00	26.00	10.00	Margret	Such		
+MAR	377	 	Margret	Rogers	F	 	 		Marriage	1618.00	8.00	11.00	John	Simon		
+MAR	378	 	John	Simon	M	 	 		Marriage	1618.00	8.00	11.00	Margret	Rogers		
+MAR	379	 	Elizabeth	Saloman	F	 	 		Marriage	1618.00	29.00	11.00	Robert	Ewster		
+MAR	380	 	Robert	Ewster	M	 	 		Marriage	1618.00	29.00	11.00	Elizabeth	Saloman		
+MAR	381	 	Joane	Alley	F	 	 		Marriage	1618.00	24.00	12.00	William	Rose		
+MAR	382	 	William	Rose	M	 	 		Marriage	1618.00	24.00	12.00	Joane	Alley		
+MAR	383	 	Ales	 	F	 	 		Marriage	1619.00	7.00	1.00	Robert	Hutchens		
+MAR	384	 	Robert	Hutchens	M	 	 		Marriage	1619.00	7.00	1.00	Ales	  		
+MAR	385	 	Sibell	Hall	F	 	 		Marriage	1619.00	17.00	1.00	William	Towne		
+MAR	386	 	William	Towne	M	 	 		Marriage	1619.00	17.00	1.00	Sibell	Hall		
+MAR	387	 	Alice	 	F	 	 		Marriage	1619.00	17.00	1.00	Richard	Porter		
+MAR	388	 	Richard	Porter	M	 	 		Marriage	1619.00	17.00	1.00	Alice	  		
+MAR	389	 	Joyce	Edwards	F	 	 		Marriage	1619.00	8.00	4.00	Jo:	Nashe		
+MAR	390	 	Jo	Nashe	M	 	 		Marriage	1619.00	8.00	4.00	Joyce	Edwards		
+MAR	391	 	Anne	Lee	F	 	 		Marriage	1619.00	18.00	7.00	William	Wallis		
+MAR	392	 	William	Wallis	M	 	 		Marriage	1619.00	18.00	7.00	Anne	Lee		
+MAR	393	 	Elnor	Greene	F	 	 		Marriage	1619.00	23.00	8.00	Roger	Greene		
+MAR	394	 	Roger	Greene	M	 	 		Marriage	1619.00	23.00	8.00	Elnor	Greene		
+MAR	395	 	Anne	Burton	F	 	 		Marriage	1619.00	17.00	9.00	William	Harris		
+MAR	396	 	William	Harris	M	 	 		Marriage	1619.00	17.00	9.00	Anne	Burton		
+MAR	397	 	Mary	Franklin	F	 	 		Marriage	1619.00	23.00	9.00	John	Hester		
+MAR	398	 	John	Hester	M	 	 		Marriage	1619.00	23.00	9.00	Mary	Franklin		
+MAR	399	 	Jane	Allnet	F	 	 		Marriage	1619.00	10.00	10.00	John	Heath		
+MAR	400	 	John	Heath	M	 	 		Marriage	1619.00	10.00	10.00	Jane	Allnet		
+MAR	401	 	Agnes	Nashe	F	 	 		Marriage	1619.00	18.00	11.00	George	Biggs		
+MAR	402	 	George	Biggs	M	 	 		Marriage	1619.00	18.00	11.00	Agnes	Nashe		
+MAR	403	 	Alice	Smith	F	 	 		Marriage	1619.00	28.00	11.00	Gregory	Hunt		
+MAR	404	 	Gregory	Hunt	M	 	 		Marriage	1619.00	28.00	11.00	Alice	Smith		
+MAR	405	 	Elizabeth	Calcot	F	 	 		Marriage	1620.00	11.00	2.00	John	Greene		
+MAR	406	 	John	Greene	M	 	 		Marriage	1620.00	11.00	2.00	Elizabeth	Calcot		
+MAR	407	 	Joane	Cowden	F	 	 		Marriage	1620.00	22.00	2.00	John	Powell		
+MAR	408	 	John	Powell	M	 	 		Marriage	1620.00	22.00	2.00	Joane	Cowden		
+MAR	409	 	 	Wingrowe	F	 	 		Marriage	1620.00	23.00	4.00	John	Louch		
+MAR	410	 	John	Louch	M	 	 		Marriage	1620.00	23.00	4.00	  	Wingrowe		
+MAR	411	 	Averel	 	F	 	 		Marriage	1620.00	23.00	4.00	Edward	Smith		
+MAR	412	 	Edward	Smith	M	 	 		Marriage	1620.00	23.00	4.00	Averel	  		
+MAR	413	 	Jane	Hall	F	 	 		Marriage	1620.00	1.00	5.00	Philippe	Jeffry		
+MAR	414	 	Philippe	Jeffry	M	 	 		Marriage	1620.00	1.00	5.00	Jane	Hall		
+MAR	415	 	Martha	Hudson	F	 	 		Marriage	1620.00	11.00	5.00	William	Meade		
+MAR	416	 	William	Meade	M	 	 		Marriage	1620.00	11.00	5.00	Martha	Hudson		
+MAR	417	 	Anne	Messenger	F	 	 		Marriage	1620.00	1.00	6.00	Edward	Redknot		
+MAR	418	 	Edward	Redknot	M	 	 		Marriage	1620.00	1.00	6.00	Anne	Messenger		
+MAR	419	 	Alice	Woorlye	F	 	 		Marriage	1620.00	27.00	6.00	Richard	Swanne		
+MAR	420	 	Richard	Swanne	M	 	 		Marriage	1620.00	27.00	6.00	Alice	Woorlye		
+MAR	421	 	Bridgett	Boorton	F	 	 		Marriage	1620.00	2.00	7.00	Richard	Stanton		
+MAR	422	 	Richard	Stanton	M	 	 		Marriage	1620.00	2.00	7.00	Bridgett	Boorton		
+MAR	423	 	Margret	Loveday	F	 	 		Marriage	1620.00	21.00	7.00	William	Day		
+MAR	424	 	William	Day	M	 	 		Marriage	1620.00	21.00	7.00	Margret	Loveday		
+MAR	425	 	Jane	Hunt	F	 	 		Marriage	1620.00	14.00	12.00	Henry	Wallington		
+MAR	426	 	Henry	Wallington	M	 	 		Marriage	1620.00	14.00	12.00	Jane	Hunt		
+MAR	427	 	Alice	Hardie	F	 	 		Marriage	1621.00	15.00	1.00	Thomas	Williams		
+MAR	428	 	Thomas	Williams	M	 	 		Marriage	1621.00	15.00	1.00	Alice	Hardie		
+MAR	429	 	Jane	Tyndall	F	 	 		Marriage	1621.00	16.00	1.00	Richard	Phipps		
+MAR	430	 	Richard	Phipps	M	 	 		Marriage	1621.00	16.00	1.00	Jane	Tyndall		
+MAR	431	 	Elnor	Aires	F	 	 		Marriage	1621.00	19.00	1.00	William	Evans		
+MAR	432	 	William	Evans	M	 	 		Marriage	1621.00	19.00	1.00	Elnor	Aires		
+MAR	433	 	Mary	Sanford	F	 	 		Marriage	1621.00	11.00	2.00	Edward	Barnes		
+MAR	434	 	Edward	Barnes	M	 	 		Marriage	1621.00	11.00	2.00	Mary	Sanford		
+MAR	435	 	Elizabeth	Springall	F	 	 		Marriage	1621.00	23.00	2.00	Robert	Coles		
+MAR	436	 	Robert	Coles	M	 	 		Marriage	1621.00	23.00	2.00	Elizabeth	Springall		
+MAR	437	 	Elizabeth	Hardinge	F	 	 		Marriage	1621.00	2.00	3.00	Robert	Newman		
+MAR	438	 	Robert	Newman	M	 	 		Marriage	1621.00	2.00	3.00	Elizabeth	Hardinge		
+MAR	439	 	Marie	Leche	F	 	 		Marriage	1621.00	20.00	4.00	John	Yonge		
+MAR	440	 	John	Yonge	M	 	 		Marriage	1621.00	20.00	4.00	Marie	Leche		
+MAR	441	 	Margret	Griffin	F	 	 		Marriage	1621.00	21.00	5.00	Henry	Stevens		
+MAR	442	 	Henry	Stevens	M	 	 		Marriage	1621.00	21.00	5.00	Margret	Griffin		
+MAR	443	 	Prudence	Beston	F	 	 		Marriage	1621.00	28.00	5.00	John	Cussens		
+MAR	444	 	John	Cussens	M	 	 		Marriage	1621.00	28.00	5.00	Prudence	Beston		
+MAR	445	 	Christian	Ford	F	 	 		Marriage	1621.00	7.00	6.00	Nicholas	Pricke		
+MAR	446	 	Nicholas	Pricke	M	 	 		Marriage	1621.00	7.00	6.00	Christian	Ford		
+MAR	447	 	Sibell	Tibbard	F	 	 		Marriage	1621.00	15.00	6.00	Humfrey	Stringar		
+MAR	448	 	Humfrey	Stringar	M	 	 		Marriage	1621.00	15.00	6.00	Sibell	Tibbard		
+MAR	449	 	Elizabeth	Brangwin	F	 	 		Marriage	1621.00	23.00	6.00	Thomas	Bond		
+MAR	450	 	Thomas	Bond	M	 	 		Marriage	1621.00	23.00	6.00	Elizabeth	Brangwin		
+MAR	451	 	Margaret	Paine 	F	 	 		Marriage	1621.00	18.00	7.00	William	Edmunds		
+MAR	452	 	William	Edmunds	M	 	 		Marriage	1621.00	18.00	7.00	Margaret	Paine		
+MAR	454	 	Francis	Rogers	M	 	 		Marriage	1621.00	20.00	8.00	  	  		
+MAR	455	 	Mary	Chapman	F	 	 		Marriage	1621.00	20.00	9.00	Bartholomew	White		
+MAR	456	 	Bartholomew	White	M	 	 		Marriage	1621.00	20.00	9.00	Mary	Chapman		
+MAR	458	 	Elizabeth	Atkins	F	 	 		Marriage	1621.00	5.00	10.00	William	Powell		
+MAR	459	 	William	Powell	M	 	 		Marriage	1621.00	5.00	10.00	Elizabeth	Atkins		
+MAR	461	 	Edward	 	M	 	 		Marriage	1621.00	5.00	11.00	  	  		
+MAR	462	 	Anne	Groome	F	 	 		Marriage	1621.00	27.00	12.00	William	Hitchingde		
+MAR	463	 	William	Hitchingde	M	 	 		Marriage	1621.00	27.00	12.00	Anne	Groome		
+MAR	464	 	Jone	Beale	F	 	 		Marriage	1622.00	15.00	1.00	Nicholas	Woodbridge		
+MAR	465	 	Nicholas	Woodbridge	M	 	 		Marriage	1622.00	15.00	1.00	Jone	Beale		
+MAR	466	 	Joane	Messenger	F	 	 		Marriage	1622.00	31.00	1.00	Thomas	Stone		
+MAR	467	 	Thomas	Stone	M	 	 		Marriage	1622.00	31.00	1.00	Joane	Messenger		
+MAR	468	 	Elizabeth	Range	F	 	 		Marriage	1622.00	4.00	3.00	Henry	Ingram		
+MAR	469	 	Henry	Ingram	M	 	 		Marriage	1622.00	4.00	3.00	Elizabeth	Range		
+MAR	470	 	Jane	Sherlie	F	 	 		Marriage	1622.00	25.00	4.00	Richard	Cotton		
+MAR	471	 	Richard	Cotton	M	 	 		Marriage	1622.00	25.00	4.00	Jane	Sherlie		
+MAR	472	 	Jane	Rayer	F	 	 		Marriage	1622.00	29.00	4.00	Henry	Cowlie		
+MAR	473	 	Henry	Cowlie	M	 	 		Marriage	1622.00	29.00	4.00	Jane	Rayer		
+MAR	474	 	Wynifruit	Franklin	F	 	 		Marriage	1622.00	7.00	7.00	Robert	Burnham		
+MAR	475	 	Robert	Burnham	M	 	 		Marriage	1622.00	7.00	7.00	Wynifruit	Franklin		
+MAR	476	 	Margaret	Bristowe	F	 	 		Marriage	1622.00	17.00	10.00	Richard	Strangar		
+MAR	477	 	Richard	Strangar	M	 	 		Marriage	1622.00	17.00	10.00	Margaret	Bristowe		
+MAR	478	 	Lilly	Goddale	F	 	 		Marriage	1622.00	28.00	10.00	Giles	Clisby		
+MAR	479	 	Giles	Clisby	M	 	 		Marriage	1622.00	28.00	10.00	Lilly	Goddale		
+MAR	480	 	Elizabeth	Pratte	F	 	 		Marriage	1622.00	7.00	11.00	John	Mortimer		
+MAR	481	 	John	Mortimer	M	 	 		Marriage	1622.00	7.00	11.00	Elizabeth	Pratte		
+MAR	482	 	Ales	Lowe	F	 	 		Marriage	1622.00	7.00	11.00	John	Allen		
+MAR	483	 	John	Allen	M	 	 		Marriage	1622.00	7.00	11.00	Ales	Lowe		
+MAR	484	 	Anne	Colly	F	 	 		Marriage	1622.00	26.00	11.00	Francis	Thornton		
+MAR	485	 	Francis	Thornton	M	 	 		Marriage	1622.00	26.00	11.00	Anne	Colly		
+MAR	486	 	Elizabeth	Franklin	F	 	 		Marriage	1623.00	14.00	4.00	John	Powell		
+MAR	487	 	John	Powell	M	 	 		Marriage	1623.00	14.00	4.00	Elizabeth	Franklin		
+MAR	488	 	Joane	Shepparde	F	 	 		Marriage	1623.00	24.00	4.00	John	Bradhurst		
+MAR	489	 	John	Bradhurst	M	 	 		Marriage	1623.00	24.00	4.00	Joane	Shepparde		
+MAR	490	 	Anne	Cooke	F	 	 		Marriage	1623.00	8.00	7.00	John	Greene		
+MAR	491	 	John	Greene	M	 	 		Marriage	1623.00	8.00	7.00	Anne	Cooke		
+MAR	492	 	Martha	Clarke	F	 	 		Marriage	1623.00	21.00	7.00	John	Joyner		
+MAR	493	 	John	Joyner	M	 	 		Marriage	1623.00	21.00	7.00	Martha	Clarke		
+MAR	494	 	Anne	Smithe	F	 	 		Marriage	1623.00	30.00	10.00	Thomas	Calcott		
+MAR	495	 	Thomas	Calcott	M	 	 		Marriage	1623.00	30.00	10.00	Anne	Smithe		
+MAR	496	 	Jone	Milton	F	 	 		Marriage	1623.00	21.00	11.00	Robert	Mores		
+MAR	497	 	Robert	Mores	M	 	 		Marriage	1623.00	21.00	11.00	Jone	Milton		
+MAR	498	 	Dorothie	Parrott	F	 	 		Marriage	1623.00	27.00	11.00	Robert	Applegate		
+MAR	499	 	Robert	Applegate	M	 	 		Marriage	1623.00	27.00	11.00	Dorothie	Parrott		
+MAR	500	 	Margret	Cornelis	F	 	 		Marriage	1624.00	21.00	1.00	John	Shewell		
+MAR	501	 	John	Shewell	M	 	 		Marriage	1624.00	21.00	1.00	Margret	Cornelis		
+MAR	502	 	Winefread	Slater	F	 	 		Marriage	1624.00	2.00	2.00	Edmund	Littlepage		
+MAR	503	 	Edmund	Littlepage	M	 	 		Marriage	1624.00	2.00	2.00	Winefread	Slater		
+MAR	504	 	Mary	Gurneloe	F	 	 		Marriage	1624.00	9.00	2.00	Thomas	Alnet		
+MAR	505	 	Thomas	Alnet	M	 	 		Marriage	1624.00	9.00	2.00	Mary	Gurneloe		
+MAR	506	 	Margery	Parslowe	F	 	 		Marriage	1624.00	14.00	7.00	John	Louche		
+MAR	507	 	John	Louche	M	 	 		Marriage	1624.00	14.00	7.00	Margery	Parslowe		
+MAR	508	 	Grace	Grimborowe	F	 	 		Marriage	1624.00	0.00	9.00	Thomas	Rose		
+MAR	509	 	Thomas	Rose	M	 	 		Marriage	1624.00	0.00	9.00	Grace	Grimborowe		
+MAR	510	 	Margret	Philips	F	 	 		Marriage	1624.00	27.00	9.00	Thomas	Langston		
+MAR	511	 	Thomas	Langston	M	 	 		Marriage	1624.00	27.00	9.00	Margret	Philips		
+MAR	512	 	Anne	Gomme	F	 	 		Marriage	1624.00	4.00	10.00	William	Lawrence		
+MAR	513	 	William	Lawrence	M	 	 		Marriage	1624.00	4.00	10.00	Anne	Gomme		
+MAR	514	 	Elizabeth	Corner	F	 	 		Marriage	1625.00	2.00	2.00	Philippe	Willmor		
+MAR	515	 	Philippe	Willmor	M	 	 		Marriage	1625.00	2.00	2.00	Elizabeth	Corner		
+MAR	516	 	Anne	Tomlinson	F	 	 		Marriage	1625.00	20.00	2.00	Thomas	Bryan		
+MAR	517	 	Thomas	Bryan	M	 	 		Marriage	1625.00	20.00	2.00	Anne	Tomlinson		
+MAR	518	 	Alice	Eustice	F	 	 		Marriage	1625.00	27.00	2.00	Samuel	Carter		
+MAR	519	 	Samuel	Carter	M	 	 		Marriage	1625.00	27.00	2.00	Alice	Eustice		
+MAR	520	 	Margret	Tayler	F	 	 		Marriage	1625.00	15.00	5.00	William	Lambern		
+MAR	521	 	William	Lambern	M	 	 		Marriage	1625.00	15.00	5.00	Margret	Tayler		
+MAR	522	 	Alice	Holliman	F	 	 		Marriage	1625.00	28.00	8.00	Thomas	Plaiter		
+MAR	523	 	Thomas	Plaiter	M	 	 		Marriage	1625.00	28.00	8.00	Alice	Holliman		
+MAR	524	 	Martha	Aubery	F	 	 		Marriage	1625.00	26.00	9.00	William	Sheppard		
+MAR	525	 	William	Sheppard	M	 	 		Marriage	1625.00	26.00	9.00	Martha	Aubery		
+MAR	526	 	Jane	Burges	F	 	 		Marriage	1625.00	26.00	9.00	William	Trippe		
+MAR	527	 	William	Trippe	M	 	 		Marriage	1625.00	26.00	9.00	Jane	Burges		
+MAR	528	 	Margret	Merifielde	F	 	 		Marriage	1625.00	29.00	9.00	William	Herne		
+MAR	529	 	William	Herne	M	 	 		Marriage	1625.00	29.00	9.00	Margret	Merifielde		
+MAR	530	 	Elizabeth	Greene	F	 	 		Marriage	1625.00	11.00	10.00	Richard	Avery		
+MAR	531	 	Richard	Avery	M	 	 		Marriage	1625.00	11.00	10.00	Elizabeth	Greene		
+MAR	532	 	Mary	Costard	F	 	 		Marriage	1625.00	21.00	11.00	William	Temple		
+MAR	533	 	William	Temple	M	 	 		Marriage	1625.00	21.00	11.00	Mary	Costard		
+MAR	534	 	Anne	Day	F	 	 		Marriage	1625.00	17.00	12.00	William	Simes		
+MAR	535	 	William	Simes	M	 	 		Marriage	1625.00	17.00	12.00	Anne	Day		
+MAR	536	 	Elizabeth	Welche	F	 	 		Marriage	1626.00	4.00	1.00	John	Hewes		
+MAR	537	 	John	Hewes	M	 	 		Marriage	1626.00	4.00	1.00	Elizabeth	Welche		
+MAR	538	 	Elizabeth	House	F	 	 		Marriage	1626.00	21.00	2.00	Thomas	Pewtri?		
+MAR	539	 	Thomas	Pewtri?	M	 	 		Marriage	1626.00	21.00	2.00	Elizabeth	House		
+MAR	540	 	Joane	Allnet	F	 	 		Marriage	1626.00	1.00	5.00	Robert	North		
+MAR	541	 	Robert	North	M	 	 		Marriage	1626.00	1.00	5.00	Joane	Allnet		
+MAR	542	 	Elizabeth	Tippinge	F	 	 		Marriage	1626.00	5.00	5.00	John	Woodbridge		
+MAR	543	 	John	Woodbridge	M	 	 		Marriage	1626.00	5.00	5.00	Elizabeth	Tippinge		
+MAR	544	 	Agnes	Ingoldsby	F	 	 		Marriage	1626.00	7.00	5.00	Richard	Woodrofe		
+MAR	545	 	Richard	Woodrofe	M	 	 		Marriage	1626.00	7.00	5.00	Agnes	Ingoldsby		
+MAR	546	 	Wynifriud	Rayner	F	 	 		Marriage	1626.00	23.00	5.00	Thomas	Greenwood		
+MAR	547	 	Thomas	Greenwood	M	 	 		Marriage	1626.00	23.00	5.00	Wynifriud	Rayner		
+MAR	548	 	Mary	Hatchman	F	 	 		Marriage	1626.00	12.00	6.00	William	Whitefielde		
+MAR	549	 	William	Whitefielde	M	 	 		Marriage	1626.00	12.00	6.00	Mary	Hatchman		
+MAR	550	 	 	Hadman	F	 	 		Marriage	1626.00	17.00	9.00	Edward	Clizbie		
+MAR	551	 	Edward	Clizbie	M	 	 		Marriage	1626.00	17.00	9.00	  	Hadman		
+MAR	552	 	Katherine	Benson	F	 	 		Marriage	1626.00	30.00	11.00	Thomas	Accle		
+MAR	553	 	Thomas	Accle	M	 	 		Marriage	1626.00	30.00	11.00	Katherine	Benson		
+MAR	554	 	Katherin	Stokeslye	F	 	 		Marriage	1627.00	10.00	11.00	William	Hall		
+MAR	555	 	William	Hall	M	 	 		Marriage	1627.00	10.00	11.00	Katherin	Stokeslye		
+MAR	556	 	Alice	Collins	F	 	 		Marriage	1628.00	30.00	4.00	Thomas	Barnard		
+MAR	557	 	Thomas	Barnard	M	 	 		Marriage	1628.00	30.00	4.00	Alice	Collins		
+MAR	558	 	Helen	Tuchell	F	 	 		Marriage	1628.00	2.00	6.00	Thomas	Fletcher		
+MAR	559	 	Thomas	Fletcher	M	 	 		Marriage	1628.00	2.00	6.00	Helen	Tuchell		
+MAR	560	 	Joane	Lovell	F	 	 		Marriage	1628.00	10.00	9.00	Thomas	Burt		
+MAR	561	 	Thomas	Burt	M	 	 		Marriage	1628.00	10.00	9.00	Joane	Lovell		
+MAR	562	 	Anne	Warren	F	 	 		Marriage	1628.00	5.00	10.00	Zacharie	Gadbury	By Licence	
+MAR	563	 	Zacharie	Gadbury	M	 	 		Marriage	1628.00	5.00	10.00	Anne	Warren	By Licence	
+MAR	564	 	Avis	Sallett	F	 	 		Marriage	1628.00	21.00	10.00	Robert	Shepparde		
+MAR	565	 	Robert	Shepparde	M	 	 		Marriage	1628.00	21.00	10.00	Avis	Sallett		
+MAR	566	 	Parnell	Weston	F	 	 		Marriage	1628.00	20.00	11.00	John	Garlicke	By Licence	
+MAR	567	 	John	Garlicke	M	 	 		Marriage	1628.00	20.00	11.00	Parnell	Weston	By Licence	
+MAR	568	 	Agnes	Tirrell	F	 	 		Marriage	1628.00	27.00	11.00	William	Tipsone		
+MAR	569	 	William	Tipsone	M	 	 		Marriage	1628.00	27.00	11.00	Agnes	Tirrell		
+MAR	570	 	Katherine	Wheeler	F	 	 		Marriage	1629.00	6.00	4.00	Richard	Woode	By Licence	
+MAR	571	 	Richard	Woode	M	 	 		Marriage	1629.00	6.00	4.00	Katherine	Wheeler	By Licence	
+MAR	572	 	Susan	Smithe	F	 	 		Marriage	1629.00	5.00	5.00	Richard	Greenland		
+MAR	573	 	Richard	Greenland	M	 	 		Marriage	1629.00	5.00	5.00	Susan	Smithe		
+MAR	574	 	Katherin	Champon	F	 	 		Marriage	1629.00	2.00	6.00	Aaron	Barten		
+MAR	575	 	Aaron	Barten	M	 	 		Marriage	1629.00	2.00	6.00	Katherin	Champon		
+MAR	576	 	Avis	Coles	F	 	 		Marriage	1629.00	2.00	8.00	George	Ward		
+MAR	577	 	George	Ward	M	 	 		Marriage	1629.00	2.00	8.00	Avis	Coles		
+MAR	578	 	Anne	Shreeve	F	 	 		Marriage	1629.00	12.00	11.00	James	Wittell		
+MAR	579	 	James	Wittell	M	 	 		Marriage	1629.00	12.00	11.00	Anne	Shreeve		
+MAR	580	 	Elnor	Vickers	F	 	 		Marriage	1629.00	21.00	12.00	James	Smythe	without lic.	
+MAR	581	 	James	Smythe	M	 	 	of Towersey	Marriage	1629.00	21.00	12.00	Elnor	Vickers	without lic.	son of Olliver of Towersey
+MAR	582	 	Sibbell	Groome	F	 	 		Marriage	1630.00	31.00	1.00	Edwarde	Beathe		
+MAR	583	 	Edwarde	Beathe	M	 	 		Marriage	1630.00	31.00	1.00	Sibbell	Groome		
+MAR	584	 	Anne	Eyres	F	 	 		Marriage	1630.00	29.00	4.00	Edward	Bowier		
+MAR	585	 	Edward	Bowier	M	 	 		Marriage	1630.00	29.00	4.00	Anne	Eyres		
+MAR	586	 	Anne	Timson	F	 	 		Marriage	1630.00	2.00	5.00	Thomas	Bouden		
+MAR	587	 	Thomas	Bouden	M	 	 		Marriage	1630.00	2.00	5.00	Anne	Timson		
+MAR	588	 	Mary	Bussard	F	 	 		Marriage	1630.00	14.00	6.00	Thomas	Jues		
+MAR	589	 	Thomas	Jues	M	 	 		Marriage	1630.00	14.00	6.00	Mary	Bussard		
+MAR	590	 	Anne	Davis	F	 	 		Marriage	1630.00	19.00	8.00	Francis	Simons		
+MAR	591	 	Francis	Simons	M	 	 		Marriage	1630.00	19.00	8.00	Anne	Davis		
+MAR	592	 	Agnes	Tyder	F	 	 		Marriage	1630.00	14.00	10.00	William	Stratton		
+MAR	593	 	William	Stratton	M	 	 		Marriage	1630.00	14.00	10.00	Agnes	Tyder		
+MAR	594	 	Anne	Coxe	F	 	 		Marriage	1630.00	21.00	10.00	Richard	Pearce		
+MAR	595	 	Richard	Pearce	M	 	 		Marriage	1630.00	21.00	10.00	Anne	Coxe		
+MAR	596	 	Elizabeth	Petty	F	 	 		Marriage	1631.00	17.00	1.00	Thomas	Hennant	By Licence	
+MAR	597	 	Thomas	Hennant	M	 	Vicar	at Tetsworth	Marriage	1631.00	17.00	1.00	Elizabeth	Petty	By Licence	
+MAR	598	Widow	Alice	Stanton	F	 	 		Marriage	1631.00	30.00	1.00	William	Winch	By Licence	
+MAR	599	 	William	Winch	M	 	 		Marriage	1631.00	30.00	1.00	Alice	Stanton	By Licence	
+MAR	600	 	Elizabeth	Cornwall	F	 	 		Marriage	1631.00	3.00	2.00	Calebb	Hinton		
+MAR	601	 	Calebb	Hinton	M	 	 		Marriage	1631.00	3.00	2.00	Elizabeth	Cornwall		
+MAR	602	 	Margaret	Watkins	F	 	 		Marriage	1631.00	17.00	2.00	William	Parslow		
+MAR	603	 	William	Parslow	M	 	 		Marriage	1631.00	17.00	2.00	Margaret	Watkins		
+MAR	604	 	Elizabeth	Harris	F	 	 		Marriage	1631.00	21.00	2.00	William	Powell	By Licence	
+MAR	605	 	William	Powell	M	 	 		Marriage	1631.00	21.00	2.00	Elizabeth	Harris	By Licence	
+MAR	606	 	Elizabeth	Smith	F	 	 		Marriage	1631.00	21.00	2.00	John	Horsman	By Licence	
+MAR	607	 	John	Horsman	M	 	 		Marriage	1631.00	21.00	2.00	Elizabeth	Smith	By Licence	
+MAR	608	 	Mary	Adly	F	 	 		Marriage	1631.00	2.00	5.00	John	Simmes		
+MAR	609	 	John	Simmes	M	 	 		Marriage	1631.00	2.00	5.00	Mary	Adly		
+MAR	610	 	Margery	Griffin	F	 	 		Marriage	1631.00	30.00	5.00	Evan	David	By Licence	
+MAR	611	 	Evan	David	M	 	 		Marriage	1631.00	30.00	5.00	Margery	Griffin	By Licence	
+MAR	612	 	Katherine	Dormar	F	 	 		Marriage	1631.00	16.00	6.00	Robert	King		
+MAR	613	 	Robert	King	M	 	 		Marriage	1631.00	16.00	6.00	Katherine	Dormar		
+MAR	614	 	Anne	Vicars	F	 	 	at Tetsworth	Marriage	1631.00	17.00	6.00	William	Hester	By Licence	
+MAR	615	 	William	Hester	M	 	 	at Tetsworth	Marriage	1631.00	17.00	6.00	Anne	Vicars	By Licence	
+MAR	616	 	Mary	Stone	F	 	 		Marriage	1631.00	23.00	6.00	John	Hyggons		
+MAR	617	 	John	Hyggons	M	 	 		Marriage	1631.00	23.00	6.00	Mary	Stone		
+MAR	618	 	Isabell	Garlick	F	 	 		Marriage	1631.00	23.00	6.00	Robert	Jetson		
+MAR	619	 	Robert	Jetson	M	 	 		Marriage	1631.00	23.00	6.00	Isabell	Garlick		
+MAR	620	 	Anne	Robotham	F	 	 		Marriage	1631.00	29.00	7.00	Richard	LLoyde	By Licence	
+MAR	621	 	Richard	Lloyde	M	 	Clark		Marriage	1631.00	29.00	7.00	Anne	Robotham	By Licence	
+MAR	622	 	Margaret	Burgis	F	 	 		Marriage	1631.00	21.00	8.00	Thomas	Spindlex		
+MAR	623	 	Thomas	Spindlex	M	 	 		Marriage	1631.00	21.00	8.00	Margaret	Burgis		
+MAR	624	 	Rebekah	Petty	F	 	 		Marriage	1631.00	24.00	8.00	John	Ellis	By Licence	
+MAR	625	 	John	Ellis	M	 	Clark		Marriage	1631.00	24.00	8.00	Rebekah	Petty	By Licence	
+MAR	626	 	Margaret	Jones	F	 	 		Marriage	1631.00	4.00	9.00	Robert	Heynes		
+MAR	627	 	Robert	Heynes	M	 	 		Marriage	1631.00	4.00	9.00	Margaret	Jones		
+MAR	628	 	Anne	Holly	F	 	 		Marriage	1631.00	26.00	9.00	Robert	Petty		
+MAR	629	 	Robert	Petty	M	 	 		Marriage	1631.00	26.00	9.00	Anne	Holly		
+MAR	630	 	Joane	Bagget	F	 	 		Marriage	1631.00	20.00	10.00	Thomas	Cooke		
+MAR	631	 	Thomas	Cooke	M	 	 		Marriage	1631.00	20.00	10.00	Joane	Bagget		
+MAR	632	 	Elizabeth	Smith	F	 	 		Marriage	1631.00	26.00	10.00	Richard	Hester		
+MAR	633	 	Richard	Hester	M	 	 		Marriage	1631.00	26.00	10.00	Elizabeth	Smith		
+MAR	634	 	Joane	Durlam	F	 	 		Marriage	1631.00	3.00	11.00	Thomas	Mathews		
+MAR	635	 	Thomas	Mathews	M	 	 		Marriage	1631.00	3.00	11.00	Joane	Durlam		
+MAR	636	 	Mary	Hour	F	 	 		Marriage	1631.00	25.00	11.00	William	Wheeler	By Licence	
+MAR	637	 	William	Wheeler	M	 	 		Marriage	1631.00	25.00	11.00	Mary	Hour	By Licence	
+MAR	638	Widow	Julian	Clinkcott	F	 	 		Marriage	1631.00	12.00	12.00	Henry	Cooles	By Licence	
+MAR	639	 	Henry	Cooles	M	 	 		Marriage	1631.00	12.00	12.00	Julian	Clinkcott	By Licence	
+MAR	640	 	Mary	Sawer	F	 	 		Marriage	1631.00	22.00	12.00	William	Spenser	By Licence	
+MAR	641	 	William	Spenser	M	 	 		Marriage	1631.00	22.00	12.00	Mary	Sawer	By Licence	
+MAR	642	 	Margaret	Griffin	F	 	 		Marriage	1632.00	19.00	1.00	Jermone	Powell		
+MAR	643	 	Jermone	Powell	M	 	 		Marriage	1632.00	19.00	1.00	Margaret	Griffin		
+MAR	644	 	Anne	Adams	F	 	 		Marriage	1632.00	9.00	2.00	Phillip	Burton	By Licence	
+MAR	645	 	Phillip	Burton	M	 	 		Marriage	1632.00	9.00	2.00	Anne	Adams	By Licence	
+MAR	646	 	Anne	Powell	F	 	 		Marriage	1632.00	2.00	5.00	Steeven	Fletcher	By Licence	
+MAR	647	 	Steeven	Fletcher	M	 	 		Marriage	1632.00	2.00	5.00	Anne	Powell	By Licence	
+MAR	648	 	Mary	Neale	F	 	 		Marriage	1632.00	3.00	5.00	Richard	Eggerton		
+MAR	649	 	Richard	Eggerton	M	 	 		Marriage	1632.00	3.00	5.00	Mary	Neale		
+MAR	650	 	Margaret	Wheeler	F	 	 		Marriage	1632.00	21.00	5.00	John	Lloid	By Licence	
+MAR	651	 	John	Lloid	M	 	 		Marriage	1632.00	21.00	5.00	Margaret	Wheeler	By Licence	
+MAR	652	 	Rose	Eversage	F	 	 		Marriage	1632.00	16.00	6.00	Edward	Haunce	By Licence	
+MAR	653	 	Edward	Haunce	M	 	 		Marriage	1632.00	16.00	6.00	Rose	Eversage	By Licence	
+MAR	654	 	Joane	Worrell	F	 	 		Marriage	1632.00	28.00	6.00	Walter	Howell	By Licence	
+MAR	655	 	Walter	Howell	M	 	 		Marriage	1632.00	28.00	6.00	Joane	Worrell	By Licence	
+MAR	656	 	Mary	Sheafer	F	 	 		Marriage	1632.00	5.00	7.00	Richard	Howse		
+MAR	657	 	Richard	Howse	M	 	 		Marriage	1632.00	5.00	7.00	Mary	Sheafer		
+MAR	658	 	Anne	Lovell	F	 	 		Marriage	1632.00	4.00	9.00	John	Worland		
+MAR	659	 	John	Worland	M	 	 		Marriage	1632.00	4.00	9.00	Anne	Lovell		
+MAR	660	 	Anne	Lovell	F	 	 		Marriage	1632.00	15.00	10.00	Thomas	Sanders		
+MAR	661	 	Thomas	Sanders	M	 	 		Marriage	1632.00	15.00	10.00	Anne	Lovell		
+MAR	662	 	Joane	Bersteede	F	 	 		Marriage	1632.00	22.00	10.00	Henry	Cooper	By Licence	
+MAR	663	 	Henry	Cooper	M	 	 		Marriage	1632.00	22.00	10.00	Joane	Bersteede	By Licence	
+MAR	664	 	Damrise	Mercer	F	 	 		Marriage	1632.00	23.00	10.00	John	Meacock		
+MAR	665	 	John	Meacock	M	 	 		Marriage	1632.00	23.00	10.00	Damrise	Mercer		
+MAR	666	 	Cyslie	Edwards	F	 	 		Marriage	1632.00	28.00	10.00	William	Bedford		
+MAR	667	 	William	Bedford	M	 	 		Marriage	1632.00	28.00	10.00	Cyslie	Edwards		
+MAR	668	 	Anne	Lever	F	 	 		Marriage	1632.00	5.00	11.00	William	Teder		
+MAR	669	 	William	Teder	M	 	 		Marriage	1632.00	5.00	11.00	Anne	Lever		
+MAR	670	 	Izabel	Griffin	F	 	 		Marriage	1632.00	8.00	11.00	Thomas	Parker		
+MAR	671	 	Thomas	Parker	M	 	 		Marriage	1632.00	8.00	11.00	Izable	Griffin		
+MAR	672	 	Dorothy	Barnard	F	 	 		Marriage	1632.00	12.00	11.00	John	Moretimer	By Licence	
+MAR	673	 	John	Moretimer	M	 	 		Marriage	1632.00	12.00	11.00	Dorothy	Barnard	By Licence	
+MAR	674	 	Elizabeth	Griffin	F	 	 		Marriage	1632.00	25.00	11.00	Henry	Franklin		
+MAR	675	 	Henry	Franklin	M	 	 		Marriage	1632.00	25.00	11.00	Elizabeth	Griffin		
+MAR	676	 	Mary	Paron	F	 	 		Marriage	1632.00	29.00	11.00	Richard	Pitman	By Licence	
+MAR	677	 	Richard	Pitman	M	 	 		Marriage	1632.00	29.00	11.00	Mary	Paron	By Licence	
+MAR	678	 	Ursula	Browne	F	 	 		Marriage	1632.00	12.00	12.00	William	Barney	By Licence	
+MAR	679	 	William	Barney	M	 	 		Marriage	1632.00	12.00	12.00	Ursula	Browne	By Licence	
+MAR	680	 	Agnes	Cowden	F	 	 		Marriage	1633.00	21.00	1.00	John	Colley	By Licence	
+MAR	681	 	John	Colley	M	 	 		Marriage	1633.00	21.00	1.00	Agnes	Cowden	By Licence	
+MAR	682	 	Mathew	Quarterman	F	 	 		Marriage	1633.00	4.00	3.00	John (Joan)	May		
+MAR	683	 	John (Joan)	May	M	 	 		Marriage	1633.00	4.00	3.00	Mathew	Quarterman		
+MAR	684	 	Emline	Crawley	F	 	 		Marriage	1633.00	27.00	5.00	Christopher	Bourne	By Licence	
+MAR	685	 	Christopher	Bourne	M	 	 		Marriage	1633.00	27.00	5.00	Emline	Crawley	By Licence	
+MAR	686	 	Anne	Fellowe	F	 	 		Marriage	1633.00	17.00	6.00	Robert	Smarte		
+MAR	687	 	Robert	Smarte	M	 	 		Marriage	1633.00	17.00	6.00	Anne	Fellowe		
+MAR	688	 	Martha	Peade	F	 	 		Marriage	1633.00	3.00	9.00	Richard	Smithe	By Licence	
+MAR	689	 	Richard	Smithe	M	 	 		Marriage	1633.00	3.00	9.00	Martha	Peade	By Licence	
+MAR	690	 	Elizabeth	Lord	F	 	 		Marriage	1633.00	12.00	9.00	Christopher	Yeats	By Licence	
+MAR	691	 	Christopher	Yeats	M	 	 		Marriage	1633.00	12.00	9.00	Elizabeth	Lord	By Licence	
+MAR	692	 	Elizabeth	Woodbridge	F	 	 		Marriage	1633.00	19.00	9.00	William	Burt	By Licence	
+MAR	693	 	William	Burt	M	 	 		Marriage	1633.00	19.00	9.00	Elizabeth	Woodbridge	By Licence	
+MAR	694	 	Joane	Fritwell	F	 	 		Marriage	1633.00	21.00	9.00	Robert	Sanders	By Licence	
+MAR	695	 	Robert	Sanders	M	 	 		Marriage	1633.00	21.00	9.00	Joane	Fritwell	By Licence	
+MAR	696	 	Elizabeth	Aston	F	 	 		Marriage	1633.00	30.00	9.00	Anthonie	Pune		
+MAR	697	 	Anthonie	Pune	M	 	 		Marriage	1633.00	30.00	9.00	Elizabeth	Aston		
+MAR	698	 	Jane	Bruce	F	 	 		Marriage	1633.00	29.00	10.00	William	Floyd		
+MAR	699	 	William	Floyd	M	 	 		Marriage	1633.00	29.00	10.00	Jane	Bruce		
+MAR	700	 	Anne	Clark	F	 	 		Marriage	1633.00	12.00	11.00	Richard	Platter		
+MAR	701	 	Richard	Platter	M	 	 		Marriage	1633.00	12.00	11.00	Anne	Clark		
+MAR	702	 	Katherine	Griffin	F	 	 		Marriage	1633.00	27.00	11.00	Richard	Crosse	By Licence	
+MAR	703	 	Richard	Crosse	M	 	 		Marriage	1633.00	27.00	11.00	Katherine	Griffin	By Licence	
+MAR	704	 	Joane	Inet 	F	 	 		Marriage	1634.00	2.00	2.00	Robert	Stone		
+MAR	705	 	Robert	Stone	M	 	 		Marriage	1634.00	2.00	2.00	Joane	Inet		
+MAR	706	 	Ellin	Rakstrawe	F	 	 		Marriage	1634.00	2.00	2.00	Richard	Soden		
+MAR	707	 	Richard	Soden	M	 	 		Marriage	1634.00	2.00	2.00	Ellin	Rakstrawe		
+MAR	708	 	Joane	Barnes	F	 	 		Marriage	1634.00	6.00	2.00	Edmunde	Brooke	By Licence	
+MAR	709	 	Edmunde	Brooke	M	 	 		Marriage	1634.00	6.00	2.00	Joane	Barnes	By Licence	
+MAR	710	 	Katherine	Bennet	F	 	 		Marriage	1634.00	15.00	2.00	William	Parker	By Licence	
+MAR	711	 	William	Parker	M	 	 		Marriage	1634.00	15.00	2.00	Katherine	Bennet	By Licence	
+MAR	712	 	Anne	Towne	F	 	 		Marriage	1634.00	10.00	4.00	Roger	Eawstace		
+MAR	713	 	Roger	Eawstace	M	 	 		Marriage	1634.00	10.00	4.00	Anne	Towne		
+MAR	714	 	Alice	Woodbridge	F	 	 		Marriage	1634.00	17.00	4.00	Thomas	Powell		
+MAR	715	 	Thomas	Powell	M	 	 		Marriage	1634.00	17.00	4.00	Alice	Woodbridge		
+MAR	716	 	Frances	Heiborne	F	 	 		Marriage	1634.00	17.00	4.00	Edward	Stranger		
+MAR	717	 	Edward	Stranger	M	 	 		Marriage	1634.00	17.00	4.00	Frances	Heiborne		
+MAR	718	 	Elizabeth	Messenger	F	 	 		Marriage	1634.00	5.00	6.00	Richard	Jones		
+MAR	719	 	Richard	Jones	M	 	 		Marriage	1634.00	5.00	6.00	Elizabeth	Messenger		
+MAR	720	 	Susan	Warde	F	 	 		Marriage	1634.00	12.00	6.00	Thomas	Wingrove		
+MAR	721	 	Thomas	Wingrove	M	 	 		Marriage	1634.00	12.00	6.00	Susan	Warde		
+MAR	722	 	Joane	Nicolles	F	 	 		Marriage	1634.00	12.00	6.00	Nycolas	Shepheard		
+MAR	723	 	Nycolas	Shepheard	M	 	 		Marriage	1634.00	12.00	6.00	Joane	Nicolles		
+MAR	724	 	Alice	Sellerie	F	 	 		Marriage	1634.00	24.00	6.00	William	Walklin		
+MAR	725	 	William	Walklin	M	 	 		Marriage	1634.00	24.00	6.00	Alice	Sellerie		
+MAR	726	 	Elizabeth	Cousins	F	 	 		Marriage	1634.00	7.00	7.00	Philip	Groome	By Licence	
+MAR	727	 	Philip	Groome	M	 	 		Marriage	1634.00	7.00	7.00	Elizabeth	Cousins	By Licence	
+MAR	728	 	Jane	Ashurst	F	 	 		Marriage	1634.00	22.00	7.00	Peter	Wrench	By Licence	
+MAR	729	 	Peter	Wrench	M	 	 		Marriage	1634.00	22.00	7.00	Jane	Ashurst	By Licence	
+MAR	730	 	Anne	Sweabey	F	 	 		Marriage	1634.00	15.00	10.00	Henrie	Trippe		
+MAR	731	 	Henrie	Trippe	M	 	 		Marriage	1634.00	15.00	10.00	Anne	Sweabey		
+MAR	732	 	Anne	Peerse	F	 	 		Marriage	1634.00	16.00	10.00	William	Osburn		
+MAR	733	 	William	Osburn	M	 	 		Marriage	1634.00	16.00	10.00	Anne	Peerse		
+MAR	734	 	Alice	Stookley	F	 	 		Marriage	1634.00	19.00	10.00	William	Pimme		
+MAR	735	 	William	Pimme	M	 	 		Marriage	1634.00	19.00	10.00	Alice	Stookley		
+MAR	736	 	Christian	Burges	F	 	 		Marriage	1634.00	20.00	11.00	Robert	Robinson	By Licence	
+MAR	737	 	Robert	Robinson	M	 	 		Marriage	1634.00	20.00	11.00	Christian	Burges	By Licence	
+MAR	738	 	Margaret	Griffin	F	 	 		Marriage	1634.00	27.00	11.00	Edward	Hebbe		
+MAR	739	 	Edward	Hebbe	M	 	 		Marriage	1634.00	27.00	11.00	Margaret	Griffin		
+MAR	740	 	Mary	Cotton	F	 	 		Marriage	1634.00	30.00	11.00	Thomas	Dover		
+MAR	741	 	Thomas	Dover	M	 	 		Marriage	1634.00	30.00	11.00	Mary	Cotton		
+MAR	742	 	Grace	Forde	F	 	 		Marriage	1635.00	8.00	1.00	Leonard	Towne	By Licence	
+MAR	743	 	Leonard	Towne	M	 	 		Marriage	1635.00	8.00	1.00	Grace	Forde	By Licence	
+MAR	744	 	Anne	Heyborne	F	 	 		Marriage	1635.00	2.00	2.00	Jeffrey	Woodbridge	By Licence	
+MAR	745	 	Jeffrey	Woodbridge	M	 	 		Marriage	1635.00	2.00	2.00	Anne	Heyborne	By Licence	
+MAR	746	 	Mary	Bundocke	F	 	 		Marriage	1635.00	8.00	2.00	Robert	Wheeler	By Licence	
+MAR	747	 	Robert	Wheeler	M	 	 		Marriage	1635.00	8.00	2.00	Mary	Bundocke	By Licence	
+MAR	748	 	Mary	Heyborne	F	 	 		Marriage	1635.00	13.00	4.00	John	Burnham	By Licence	
+MAR	749	 	John	Burnham	M	 	 		Marriage	1635.00	13.00	4.00	Mary	Heyborne	By Licence	
+MAR	750	 	Joane	Newe	F	 	 		Marriage	1635.00	23.00	4.00	Thomas	Boulton	By Licence	
+MAR	751	 	Thomas	Boulton	M	 	 		Marriage	1635.00	23.00	4.00	Joane	Newe	By Licence	
+MAR	752	 	Katherine	Eliat	F	 	 		Marriage	1635.00	27.00	4.00	Richard	Pottenger	By Licence	
+MAR	753	 	Richard	Pottenger	M	 	 		Marriage	1635.00	27.00	4.00	Katherine	Eliat	By Licence	
+MAR	754	 	Agnes	March	F	 	 		Marriage	1635.00	28.00	5.00	Peter	Neighboure		
+MAR	755	 	Peter	Neighboure	M	 	 		Marriage	1635.00	28.00	5.00	Agnes	March		
+MAR	756	 	Joane	Cleare	F	 	 		Marriage	1635.00	30.00	5.00	Richard	Sudyer	By Licence	
+MAR	757	 	Richard	Sudyer	M	 	 		Marriage	1635.00	30.00	5.00	Joane	Cleare	By Licence	
+MAR	758	 	Elizabeth	Sels	F	 	 		Marriage	1635.00	18.00	6.00	Henry	Fritwell		
+MAR	759	 	Henry	Fritwell	M	 	 		Marriage	1635.00	18.00	6.00	Elizabeth	Sels		
+MAR	760	 	Joane	Williams	F	 	 		Marriage	1635.00	25.00	6.00	John	Brasbridge		
+MAR	761	 	John	Brasbridge	M	 	 		Marriage	1635.00	25.00	6.00	Joane	Williams		
+MAR	762	 	Sibill	Newman	F	 	 		Marriage	1635.00	28.00	6.00	John	Okes		
+MAR	763	 	John	Okes	M	 	 		Marriage	1635.00	28.00	6.00	Sibill	Newman		
+MAR	764	 	Elizabeth	Warner	F	 	 		Marriage	1635.00	8.00	10.00	John	Yonge	By Licence	
+MAR	765	 	John	Yonge	M	 	 		Marriage	1635.00	8.00	10.00	Elizabeth	Warner	By Licence	
+MAR	766	 	Anne	Barnes	F	 	 		Marriage	1635.00	19.00	10.00	Henry	Lorde		
+MAR	767	 	Henry	Lorde	M	 	 		Marriage	1635.00	19.00	10.00	Anne	Barnes		
+MAR	768	 	Mary	Chapman	F	 	 		Marriage	1635.00	19.00	10.00	Michael	Steakes		
+MAR	769	 	Michael	Steakes	M	 	 		Marriage	1635.00	19.00	10.00	Mary	Chapman		
+MAR	770	 	Margery	Cobham	F	als Watkins	 		Marriage	1635.00	29.00	10.00	William	White		
+MAR	771	 	William	White	M	 	 		Marriage	1635.00	29.00	10.00	Margery	Cobham		als Watkins
+MAR	772	 	Alice	Haywood	F	 	 		Marriage	1635.00	29.00	10.00	John	Pope		
+MAR	773	 	John	Pope	M	 	 		Marriage	1635.00	29.00	10.00	Alice	Haywood		
+MAR	774	 	Katherine	Chapman	F	 	 		Marriage	1636.00	14.00	1.00	Robert	Hill		
+MAR	775	 	Robert	Hill	M	 	 		Marriage	1636.00	14.00	1.00	Katherine	Chapman		
+MAR	776	 	Elizabeth	Tomlinson	F	 	 		Marriage	1636.00	18.00	2.00	John	Boler	By Licence	
+MAR	777	 	John	Boler	M	 	 		Marriage	1636.00	18.00	2.00	Elizabeth	Tomlinson	By Licence	
+MAR	778	 	Elizabeth	Springall	F	 	 		Marriage	1636.00	18.00	2.00	William	Heiborne		
+MAR	779	 	William	Heiborne	M	 	 		Marriage	1636.00	18.00	2.00	Elizabeth	Springall		
+MAR	780	 	Elizabeth	Lane	F	 	 		Marriage	1636.00	25.00	2.00	John	Lydall	By Licence	
+MAR	781	 	John	Lydall	M	 	 		Marriage	1636.00	25.00	2.00	Elizabeth	Lane	By Licence	
+MAR	782	 	Margery	Waters	F	 	 		Marriage	1636.00	21.00	3.00	John	Broadwater	By Licence	
+MAR	783	 	John	Broadwater	M	 	 		Marriage	1636.00	21.00	3.00	Margery	Waters	By Licence	
+MAR	784	 	Joane	Jonson	F	 	 		Marriage	1636.00	21.00	4.00	John	Steward	By Licence	
+MAR	785	 	John	Steward	M	 	 		Marriage	1636.00	21.00	4.00	Joane	Jonson	By Licence	
+MAR	786	 	Agnes	Norris	F	 	 		Marriage	1636.00	26.00	5.00	Thomas	Wasse	By Licence	
+MAR	787	 	Thomas	Wasse	M	 	 		Marriage	1636.00	26.00	5.00	Agnes	Norris	By Licence	
+MAR	788	 	Margaret	Write	F	 	 		Marriage	1636.00	7.00	7.00	Richard	Hall		
+MAR	789	 	Richard	Hall	M	 	 		Marriage	1636.00	7.00	7.00	Margaret	Write		
+MAR	790	 	Mary	Catever	F	 	 	Tetsworth	Marriage	1636.00	20.00	7.00	Richard	Weller	By Licence	
+MAR	791	 	Richard	Weller 	M	 	 	Great Haseley	Marriage	1636.00	20.00	7.00	Mary	Catever	By Licence	
+MAR	792	 	Frances	Cousins	F	 	 		Marriage	1636.00	21.00	7.00	Richard	Holton		
+MAR	793	 	Richard	Holton	M	 	 		Marriage	1636.00	21.00	7.00	Frances	Cousins		
+MAR	794	 	Jane	Inet	F	 	 		Marriage	1636.00	24.00	7.00	Edward	Adkins		
+MAR	795	 	Edward	Adkins	M	 	 		Marriage	1636.00	24.00	7.00	Jane	Inet		
+MAR	796	 	Anne	Trowe	F	 	 		Marriage	1636.00	3.00	11.00	Thomas	Rogers	By Licence	
+MAR	797	 	Thomas	Rogers	M	 	 		Marriage	1636.00	3.00	11.00	Anne	Trowe	By Licence	
+MAR	798	 	Joane	Jonsone	F	 	 		Marriage	1636.00	24.00	11.00	Henry	Worley		
+MAR	799	 	Henry	Worley	M	 	 		Marriage	1636.00	24.00	11.00	Joane	Jonsone		
+MAR	800	 	Margaret	Deane	F	 	 	Tetsworth	Marriage	1636.00	27.00	11.00	Richard	Hobbs	By Licence	
+MAR	801	 	Richard	Hobbs	M	 	 		Marriage	1636.00	27.00	11.00	Margaret	Deane	By Licence	
+MAR	802	 	Adery	Smithe	F	 	 	Thame	Marriage	1636.00	27.00	11.00	William	Priest	By Licence	
+MAR	803	 	William	Priest	M	 	 		Marriage	1636.00	27.00	11.00	Adery	Smithe	By Licence	
+MAR	804	 	Mary	Smithe	F	 	 		Marriage	1636.00	22.00	12.00	Thomas	Heyborne	By Licence	
+MAR	805	 	Thomas	Heyborne	M	 	 		Marriage	1636.00	22.00	12.00	Mary	Smithe	By Licence	
+MAR	806	 	Joane	Porter	F	 	 		Marriage	1637.00	19.00	1.00	Thomas	Burton		
+MAR	807	 	Thomas	Burton	M	 	 		Marriage	1637.00	19.00	1.00	Joane	Porter		
+MAR	808	Mrs	Dorothy	Stewarde	F	 	 		Marriage	1637.00	20.00	1.00	Thomas	Warde	By Licence	
+MAR	809	 	Thomas	Warde	M	 	 		Marriage	1637.00	20.00	1.00	Dorothy	Stewarde	By Licence	
+MAR	810	 	Alice	Burton	F	 	 		Marriage	1637.00	23.00	1.00	John	Calcott	By Licence	
+MAR	811	 	John	Calcott	M	 	 		Marriage	1637.00	23.00	1.00	Alice	Burton	By Licence	
+MAR	812	 	Elizabeth	Petty	F	 	 		Marriage	1637.00	26.00	1.00	William	Burt		
+MAR	813	 	William	Burt	M	 	Clerk		Marriage	1637.00	26.00	1.00	Elizabeth	Petty		
+MAR	814	 	Dianis	Warren	F	 	 		Marriage	1637.00	2.00	2.00	Michael	Cocke	By Licence	
+MAR	815	 	Michael	Cocke	M	 	 		Marriage	1637.00	2.00	2.00	Dianis	Warren	By Licence	
+MAR	816	 	Bridget	Eares	F	 	 		Marriage	1637.00	5.00	2.00	Edwarde	Kente	By Licence	
+MAR	817	 	Edwarde	Kente	M	 	 		Marriage	1637.00	5.00	2.00	Bridget	Eares	By Licence	
+MAR	818	 	Joane	Barney	F	 	 		Marriage	1637.00	16.00	2.00	Thomas	Tresler	By Licence	
+MAR	819	 	Thomas	Tresler	M	 	 		Marriage	1637.00	16.00	2.00	Joane	Barney	By Licence	
+MAR	820	 	Joane	Peerce	F	 	 		Marriage	1637.00	8.00	6.00	John	Mountaine		
+MAR	821	 	John	Mountaine	M	 	 		Marriage	1637.00	8.00	6.00	Joane	Peerce		
+MAR	822	 	Elizabeth	Ingarham	F	 	 		Marriage	1637.00	15.00	6.00	John	Burton	By Licence	
+MAR	823	 	John	Burton	M	elder	 		Marriage	1637.00	15.00	6.00	Elizabeth	Ingarham	By Licence	
+MAR	824	 	Dorothy	Basse	F	 	 		Marriage	1637.00	24.00	7.00	Richard	Inet		
+MAR	825	 	Richard	Inet	M	 	 		Marriage	1637.00	24.00	7.00	Dorothy	Basse		
+MAR	826	 	Elizabeth	Hester	F	 	 		Marriage	1637.00	24.00	8.00	Francis	Robotham	By Licence	
+MAR	827	 	Francis	Robotham	M	 	 		Marriage	1637.00	24.00	8.00	Elizabeth	Hester	By Licence	
+MAR	828	 	Betteris	Redman	F	 	 		Marriage	1637.00	31.00	8.00	William	Burnham	By Licence	
+MAR	829	 	William	Burnham	M	 	 		Marriage	1637.00	31.00	8.00	Betteris	Redman	By Licence	
+MAR	830	 	Joane	Goodman	F	 	 		Marriage	1637.00	9.00	10.00	Thomas	Kinge		
+MAR	831	 	Thomas	Kinge	M	 	 		Marriage	1637.00	9.00	10.00	Joane	Goodman		
+MAR	832	 	Mary	Moore	F	 	 		Marriage	1637.00	10.00	10.00	Richard	Comber	By Licence	
+MAR	833	 	Richard	Comber	M	 	 		Marriage	1637.00	10.00	10.00	Mary	Moore	By Licence	
+MAR	834	 	Isabell	Gronte	F	 	 		Marriage	1637.00	10.00	10.00	Leonard	Greene		
+MAR	835	 	Leonard	Greene	M	 	 		Marriage	1637.00	10.00	10.00	Isabell	Gronte		
+MAR	836	 	Margery	Skilton	F	 	 		Marriage	1637.00	12.00	10.00	William	Franklin		
+MAR	837	 	William	Franklin	M	 	 		Marriage	1637.00	12.00	10.00	Margery	Skilton		
+MAR	838	 	Margery	Warters	F	 	 		Marriage	1637.00	12.00	10.00	George	Bristow	By Licence	
+MAR	839	 	George	Bristow	M	 	 		Marriage	1637.00	12.00	10.00	Margery	Warters	By Licence	
+MAR	840	 	Ellinor	Burton	F	 	 		Marriage	1637.00	15.00	10.00	John	Figg	By Licence	
+MAR	841	 	John	Figg	M	 	 		Marriage	1637.00	15.00	10.00	Ellinor	Burton	By Licence	
+MAR	842	 	Elizabeth	Tharpe	F	 	 		Marriage	1637.00	29.00	10.00	Thomas	Griffin		
+MAR	843	 	Thomas	Griffin	M	 	 		Marriage	1637.00	29.00	10.00	Elizabeth	Tharpe		
+MAR	844	 	Mary	Howes	F	 	 		Marriage	1637.00	16.00	11.00	William	Haslegrove		
+MAR	845	 	William	Haslegrove	M	 	 		Marriage	1637.00	16.00	11.00	Mary	Howes		
+MAR	846	 	Margaret	Eldridge	F	 	 		Marriage	1637.00	28.00	12.00	Gabriel	Goddard	By Licence	
+MAR	847	 	Gabriel	Goddard	M	 	 		Marriage	1637.00	28.00	12.00	Margaret	Eldridge	By Licence	
+MAR	848	 	Alice	Wibline	F	 	 		Marriage	1638.00	14.00	1.00	Thomas	Broadwater	By Licence	
+MAR	849	 	Thomas	Broadwater	M	 	 		Marriage	1638.00	14.00	1.00	Alice	Wibline	By Licence	
+MAR	850	 	Elizabeth	Coxe	F	 	 		Marriage	1638.00	17.00	1.00	Humphrey	Munday		
+MAR	851	 	Humphrey	Munday	M	 	 		Marriage	1638.00	17.00	1.00	Elizabeth	Coxe		
+MAR	852	 	Dorothy	Stacie	F	 	 		Marriage	1638.00	6.00	2.00	John	May	By Licence	
+MAR	853	 	John	May	M	 	 		Marriage	1638.00	6.00	2.00	Dorothy	Stacie	By Licence	
+MAR	854	 	Elizabeth	Smith	F	 	 	Towersey	Marriage	1638.00	4.00	4.00	Robert	Mortemore	By Licence	
+MAR	855	 	Robert	Mortemore	M	 	 		Marriage	1638.00	4.00	4.00	Elizabeth	Smith	By Licence	
+MAR	856	 	Anne	Newell	F	 	 		Marriage	1638.00	18.00	4.00	George	Yonge	By Licence	
+MAR	857	 	George	Yonge	M	 	 		Marriage	1638.00	18.00	4.00	Anne	Newell	By Licence	
+MAR	858	 	Martha	Cadery	F	 	 		Marriage	1638.00	28.00	5.00	Richard	Robinson		
+MAR	859	 	Richard	Robinson	M	 	 		Marriage	1638.00	28.00	5.00	Martha	Cadery		
+MAR	860	Widow	 	Franklin	F	 	 		Marriage	1638.00	31.00	5.00	John	Goodchild	By Licence	
+MAR	861	 	John	Goodchild	M	 	 		Marriage	1638.00	31.00	5.00	Widow	Franklin	By Licence	
+MAR	862	 	Frances	Burges	F	 	 		Marriage	1638.00	14.00	6.00	Humfrey	Jonson		als Cooke
+MAR	863	 	Humfrey	Jonson	M	als Cooke	 		Marriage	1638.00	14.00	6.00	Frances	Burges		
+MAR	864	 	Joane	Lewis	F	 	 		Marriage	1638.00	29.00	8.00	Edward	Jonson	By Licence	als Cooke
+MAR	865	 	Edward	Jonson	M	als Cooke	 		Marriage	1638.00	29.00	8.00	Joane	Lewis	By Licence	
+MAR	866	 	Elizabeth	Garlicke	F	 	 		Marriage	1638.00	19.00	9.00	Michael	Ambridge		
+MAR	867	 	Michael	Ambridge	M	 	 		Marriage	1638.00	19.00	9.00	Elizabeth	Garlicke		
+MAR	868	 	Joane	Dormer	F	 	 		Marriage	1638.00	13.00	11.00	Robert	Cotton	By Licence	
+MAR	869	 	Robert	Cotton	M	 	 		Marriage	1638.00	13.00	11.00	Joane	Dormer	By Licence	
+MAR	870	 	Joane	Fellow	F	 	 		Marriage	1638.00	29.00	11.00	Henry	Peirce	By Licence	
+MAR	871	 	Henry	Peirce	M	 	 		Marriage	1638.00	29.00	11.00	Joane	Fellow	By Licence	
+MAR	872	 	Elizabeth	Coosins	F	 	 		Marriage	1638.00	16.00	12.00	Daniel	Brookes	By Licence	
+MAR	873	 	Daniel	Brookes	M	 	 		Marriage	1638.00	16.00	12.00	Elizabeth	Coosins	By Licence	
+MAR	874	 	Jane	Yonge	F	 	 		Marriage	1638.00	19.00	12.00	Christopher	Borne	By Licence	
+MAR	875	 	Christopher	Borne	M	 	 		Marriage	1638.00	19.00	12.00	Jane	Yonge	By Licence	
+MAR	876	 	Margaret	Stevens	F	 	 		Marriage	1639.00	31.00	1.00	Richard	Smith		
+MAR	877	 	Richard	Smith	M	 	 		Marriage	1639.00	31.00	1.00	Margaret	Stevens		
+MAR	878	 	Elizabeth	Hambleden	F	 	 		Marriage	1639.00	4.00	2.00	Gyles	Webbe		
+MAR	879	 	Gyles	Webbe	M	 	 		Marriage	1639.00	4.00	2.00	Elizabeth	Hambleden		
+MAR	880	 	Anne	Corner	F	 	 		Marriage	1639.00	22.00	4.00	William	Coxe		
+MAR	881	 	William	Coxe	M	 	 		Marriage	1639.00	22.00	4.00	Anne	Corner		
+MAR	882	 	Elizabeth	Turpin	F	 	 		Marriage	1639.00	1.00	5.00	Abell	Roberts	By Licence	
+MAR	883	 	Abell	Roberts	M	 	 		Marriage	1639.00	1.00	5.00	Elizabeth	Turpin	By Licence	
+MAR	884	 	Marline	Jonson	F	 	 		Marriage	1639.00	10.00	6.00	John	Slater		
+MAR	885	 	John	Slater	M	 	 		Marriage	1639.00	10.00	6.00	Marline	Jonson		
+MAR	886	 	Alice	Woodbridge	F	 	 		Marriage	1639.00	24.00	6.00	William	Inge		
+MAR	887	 	William	Inge	M	 	 		Marriage	1639.00	24.00	6.00	Alice	Woodbridge		
+MAR	888	 	Joane	Jonson	F	 	 		Marriage	1639.00	7.00	7.00	Edmund	Cornelius		
+MAR	889	 	Edmund	Cornelius	M	 	 		Marriage	1639.00	7.00	7.00	Joane	Jonson		
+MAR	890	 	Margaret	Clearly	F	 	 		Marriage	1639.00	11.00	7.00	Humfry	Bradford		
+MAR	891	 	Humfry	Bradford	M	 	 		Marriage	1639.00	11.00	7.00	Margaret	Clearly		
+MAR	892	 	Priscilla	Jennings	F	 	 		Marriage	1639.00	26.00	8.00	Christopher	Foxe	By Licence	
+MAR	893	 	Christopher	Foxe	M	 	 		Marriage	1639.00	26.00	8.00	Priscilla	Jennings	By Licence	
+MAR	894	 	Rebecah	Way	F	 	 		Marriage	1639.00	26.00	8.00	John	Newbury	By Licence	
+MAR	895	 	John	Newbury	M	 	 		Marriage	1639.00	26.00	8.00	Rebecah	Way	By Licence	
+MAR	896	 	Agnes	Pearce	F	 	 		Marriage	1639.00	30.00	9.00	Edward	Kinke		
+MAR	897	 	Edward	Kinke	M	 	 		Marriage	1639.00	30.00	9.00	Agnes	Pearce		
+MAR	898	 	Mary	Costard	F	 	 		Marriage	1639.00	7.00	10.00	Thomas	Harris		
+MAR	899	 	Thomas	Harris	M	 	 		Marriage	1639.00	7.00	10.00	Mary	Costard		
+MAR	900	 	Mary	Heyward	F	 	 		Marriage	1639.00	21.00	10.00	John	Yonge		
+MAR	901	 	John	Yonge	M	 	 		Marriage	1639.00	21.00	10.00	Mary	Heyward		
+MAR	902	 	Anne	Mantell	F	 	 		Marriage	1639.00	9.00	11.00	William	Walkline		
+MAR	903	 	William	Walkline	M	 	 		Marriage	1639.00	9.00	11.00	Anne	Mantell		
+MAR	904	 	Mary	Cary	F	 	 		Marriage	1639.00	10.00	12.00	William	Scoules	By Licence	
+MAR	905	 	William	Scoules	M	 	 		Marriage	1639.00	10.00	12.00	Mary	Cary	By Licence	
+MAR	906	 	Bridget	Yeomans	F	 	 		Marriage	1639.00	16.00	12.00	John	Webbe	By Licence	
+MAR	907	 	John	Webbe	M	 	 		Marriage	1639.00	16.00	12.00	Bridget	Yeomans	By Licence	
+MAR	908	 	Mary	Smithe	F	 	 		Marriage	1639.00	17.00	12.00	Richard	Freer		
+MAR	909	 	Richard	Freer	M	 	 		Marriage	1639.00	17.00	12.00	Mary	Smithe		
+MAR	910	 	Jane	Sterne	F	 	 		Marriage	1640.00	30.00	1.00	Richard	Smithe	By Licence	
+MAR	911	 	Richard	Smithe	M	 	 		Marriage	1640.00	30.00	1.00	Jane	Sterne	By Licence	
+MAR	912	 	Isabell	Siftrwesh 	F	 	 		Marriage	1640.00	1.00	2.00	Robert	Blacke	By Licence	
+MAR	913	 	Robert	Blacke	M	 	 		Marriage	1640.00	1.00	2.00	Isabell	Siftrwesh ?	By Licence	
+MAR	914	 	Alice	Timberlake	F	 	 		Marriage	1640.00	1.00	2.00	Henry	Flatchman	By Licence	
+MAR	915	 	Henry	Flatchman	M	 	 		Marriage	1640.00	1.00	2.00	Alice	Timberlake	By Licence	
+MAR	916	 	Elizabeth	Ekins	F	 	 		Marriage	1640.00	25.00	4.00	Gilbert	Gunter	By Licence	
+MAR	917	 	Gilbert	Gunter	M	 	 		Marriage	1640.00	25.00	4.00	Elizabeth	Ekins	By Licence	
+MAR	918	 	Anne	Parton	F	 	 		Marriage	1640.00	30.00	4.00	Thomas	Webster		
+MAR	919	 	Thomas	Webster	M	 	 		Marriage	1640.00	30.00	4.00	Anne	Parton		
+MAR	920	 	Mary	Messenger	F	 	 		Marriage	1640.00	4.00	5.00	Mortimore	Druce		
+MAR	921	 	Mortimore	Druce	M	 	 		Marriage	1640.00	4.00	5.00	Mary	Messenger		
+MAR	922	 	Jane	Stone	F	 	 		Marriage	1640.00	7.00	5.00	John	Cock		
+MAR	923	 	John	Cock	M	 	 		Marriage	1640.00	7.00	5.00	Jane	Stone		
+MAR	924	 	Martha	Dakers	F	 	 		Marriage	1640.00	7.00	5.00	Zachary	Edwards		
+MAR	925	 	Zachary	Edwards	M	 	 		Marriage	1640.00	7.00	5.00	Martha	Dakers		
+MAR	926	 	Mary	Floyde	F	 	 		Marriage	1640.00	23.00	7.00	William	Wenloe		
+MAR	927	 	William	Wenloe	M	 	 		Marriage	1640.00	23.00	7.00	Mary	Floyde		
+MAR	928	 	Elizabeth	Page	F	 	 		Marriage	1640.00	3.00	9.00	Ralphe	Feidde	By Licence	
+MAR	929	 	Ralphe	Feidde	M	 	 		Marriage	1640.00	3.00	9.00	Elizabeth	Page	By Licence	
+MAR	930	 	Anne	Browne	F	 	 		Marriage	1640.00	7.00	10.00	John	Holly		
+MAR	931	 	John	Holly	M	 	 		Marriage	1640.00	7.00	10.00	Anne	Browne		
+MAR	932	 	Judith	Couzin	F	 	 		Marriage	1640.00	16.00	10.00	George	Yonge		
+MAR	933	 	George	Yonge	M	 	 		Marriage	1640.00	16.00	10.00	Judith	Couzin		
+MAR	934	 	Elizabeth	Adams	F	 	 		Marriage	1640.00	9.00	11.00	John	Holland		
+MAR	935	 	John	Holland	M	 	 		Marriage	1640.00	9.00	11.00	Elizabeth	Adams		
+MAR	936	 	Joane	Benson	F	 	 		Marriage	1640.00	10.00	11.00	Edmund	Maund		
+MAR	937	 	Edmund	Maund	M	 	 		Marriage	1640.00	10.00	11.00	Joane	Benson		
+MAR	938	 	Mary	Raunce	F	 	 		Marriage	1640.00	11.00	11.00	Steven	Wels		
+MAR	939	 	Steven	Wels	M	 	 		Marriage	1640.00	11.00	11.00	Mary	Raunce		
+MAR	940	 	Margaret	 	F	 	 		Marriage	1640.00	19.00	11.00	Toby	Clarke		
+MAR	941	 	Toby	Clarke	M	 	 		Marriage	1640.00	19.00	11.00	Margaret	  		
+MAR	942	 	Anis	Wheeler	F	 	 		Marriage	1640.00	28.00	11.00	William	Osman		
+MAR	943	 	William	Osman	M	 	 		Marriage	1640.00	28.00	11.00	Anis	Wheeler		
+MAR	944	 	Joane	Cordrey	F	 	 		Marriage	1641.00	16.00	1.00	Henry	Cowley		
+MAR	945	 	Henry	Cowley	M	 	 		Marriage	1641.00	16.00	1.00	Joane	Cordrey		
+MAR	946	 	Maria	Bennett	F	 	 		Marriage	1641.00	31.00	1.00	Steven ?	Fletcher		
+MAR	947	 	Steven 	Fletcher	M	 	 		Marriage	1641.00	31.00	1.00	Maria	Bennett		
+MAR	948	 	Elizabeth	Porter	F	 	 		Marriage	1641.00	28.00	2.00	John	Heyfield		
+MAR	949	 	John	Heyfield	M	 	 		Marriage	1641.00	28.00	2.00	Elizabeth	Porter		
+MAR	950	 	Pleasant	Alin	F	 	 		Marriage	1641.00	8.00	3.00	Thomas	Wilcox		
+MAR	951	 	Thomas	Wilcox	M	 	 		Marriage	1641.00	8.00	3.00	Pleasant	Alin		
+MAR	952	 	Mary	Howes	F	 	 		Marriage	1641.00	6.00	5.00	Jo	Dobbinson		
+MAR	953	 	Jo	Dobbinson	M	 	 		Marriage	1641.00	6.00	5.00	Mary	Howes		
+MAR	954	 	Mary	Skilton	F	 	 		Marriage	1641.00	27.00	5.00	Benjamin	Corner		
+MAR	955	 	Benjamin	Corner	M	 	 		Marriage	1641.00	27.00	5.00	Mary	Skilton		
+MAR	956	 	Agnes	White	F	 	 		Marriage	1641.00	12.00	7.00	John	King	By Licence	
+MAR	957	 	John	King	M	 	 		Marriage	1641.00	12.00	7.00	Agnes	White	By Licence	
+MAR	958	 	Margaret	Clark	F	 	 		Marriage	1641.00	4.00	11.00	William	Eares		
+MAR	959	 	William	Eares	M	 	 		Marriage	1641.00	4.00	11.00	Margaret	Clark		
+MAR	960	 	Frissen	Woomborne 	F	 	 		Marriage	1641.00	18.00	11.00	Richard	Barret		
+MAR	961	 	Richard	Barret	M	 	 		Marriage	1641.00	18.00	11.00	Frissen	Woomborne ?		
+MAR	962	 	Joane	Messenger	F	 	 		Marriage	1641.00	22.00	12.00	John	Striblehill		
+MAR	963	 	John	Striblehill	M	 	 		Marriage	1641.00	22.00	12.00	Joane	Messenger		
+MAR	964	 	Margaret	Kendall	F	 	 		Marriage	1642.00	28.00	1.00	Robert	Prince		
+MAR	965	 	Robert	Prince	M	 	 		Marriage	1642.00	28.00	1.00	Margaret	Kendall		
+MAR	966	 	Susanna	Peck	F	 	 		Marriage	1642.00	2.00	2.00	Robert	Warters		
+MAR	967	 	Robert	Warters	M	 	 		Marriage	1642.00	2.00	2.00	Susanna	Peck		
+MAR	968	 	Joane	Stone	F	 	 		Marriage	1642.00	14.00	2.00	John	Philipps 		als Wilkins
+MAR	969	 	John	Philipps	M	als Wilkins	 		Marriage	1642.00	14.00	2.00	Joane	Stone		
+MAR	970	 	Alice	Inge	F	 	 		Marriage	1642.00	16.00	4.00	William	Hamson		
+MAR	971	 	William	Hamson	M	 	 		Marriage	1642.00	16.00	4.00	Alice	Inge		
+MAR	972	 	Joane	Powell	F	 	 		Marriage	1642.00	14.00	5.00	Robert	Barnes		
+MAR	973	 	Robert	Barnes	M	 	 		Marriage	1642.00	14.00	5.00	Joane	Powell		
+MAR	974	 	Elizabeth	Bigge	F	 	 		Marriage	1642.00	19.00	5.00	Thomas	Calcott		
+MAR	975	 	Thomas	Calcott	M	 	 		Marriage	1642.00	19.00	5.00	Elizabeth	Bigge		
+MAR	976	 	Margaret	Wilgoose	F	 	 		Marriage	1642.00	16.00	6.00	Robert	Wilgoose		
+MAR	977	 	Robert	Wilgoose	M	 	 		Marriage	1642.00	16.00	6.00	Margaret	Wilgoose		
+MAR	978	 	Rebecka	Page	F	 	 		Marriage	1642.00	30.00	6.00	John	Eares 		
+MAR	979	 	John	Eares	M	Jnr	 		Marriage	1642.00	30.00	6.00	Rebecka	Page		
+MAR	980	 	Joane	Broadhurst	F	 	 		Marriage	1642.00	14.00	7.00	James	Hopkins		
+MAR	981	 	James	Hopkins	M	 	 		Marriage	1642.00	14.00	7.00	Joane	Broadhurst		
+MAR	982	 	Margery	Louche	F	 	 		Marriage	1642.00	25.00	7.00	Thomas	Baker		
+MAR	983	 	Thomas	Baker	M	 	 		Marriage	1642.00	25.00	7.00	Margery	Louche		
+MAR	984	 	Ruth	Butler	F	 	 		Marriage	1642.00	25.00	7.00	John	Eares		
+MAR	985	 	John	Eares	M	 	 		Marriage	1642.00	25.00	7.00	Ruth	Butler		
+MAR	986	 	Mary	Rogers	F	 	 		Marriage	1642.00	8.00	9.00	William	Bennet		
+MAR	987	 	William	Bennet	M	 	 		Marriage	1642.00	8.00	9.00	Mary	Rogers		
+MAR	988	 	Dorothy	Cooke	F	 	 		Marriage	1642.00	18.00	9.00	Robert	Clack		
+MAR	989	 	Robert	Clack	M	 	 		Marriage	1642.00	18.00	9.00	Dorothy	Cooke		
+MAR	990	 	Mary	Sherrfe	F	 	 		Marriage	1642.00	9.00	10.00	Thomas	Franklin		
+MAR	991	 	Thomas	Franklin	M	 	 		Marriage	1642.00	9.00	10.00	Mary	Sherrfe		
+MAR	992	 	Mary	Clacke	F	 	 		Marriage	1642.00	13.00	12.00	Thomas	Adams		
+MAR	993	 	Thomas	Adams	M	 	 		Marriage	1642.00	13.00	12.00	Mary	Clacke		
+MAR	994	 	Anne	Stevens	F	 	 		Marriage	1643.00	28.00	1.00	Wake	Pollard		
+MAR	995	 	Wake	Pollard	M	 	 		Marriage	1643.00	28.00	1.00	Anne	Stevens		
+MAR	996	 	Joane	Griffin	F	 	 		Marriage	1643.00	31.00	1.00	John	Belson		
+MAR	997	 	John	Belson	M	 	 		Marriage	1643.00	31.00	1.00	Joane	Griffin		
+MAR	998	 	Anne	Baldwine	F	 	 		Marriage	1643.00	2.00	2.00	William	Stone		
+MAR	999	 	William	Stone	M	 	 		Marriage	1643.00	2.00	2.00	Anne	Baldwine		
+MAR	1000	 	Joice	Robinson	F	 	 		Marriage	1643.00	6.00	2.00	Henry	Jemmott		
+MAR	1001	 	Henry	Jemmott	M	 	 		Marriage	1643.00	6.00	2.00	Joice	Robinson		
+MAR	1002	 	Katherine	Saer	F	 	 		Marriage	1643.00	1.00	5.00	Luke	Wixon		
+MAR	1003	 	Luke	Wixon	M	 	 		Marriage	1643.00	1.00	5.00	Katherine	Saer		
+MAR	1004	 	Alice	Wiggins	F	 	 		Marriage	1643.00	19.00	5.00	Peter	Ives 		
+MAR	1005	 	Peter	Ives	M	 	 		Marriage	1643.00	19.00	5.00	Alice	Wiggins		
+MAR	1006	 	Margaret	Stranger	F	 	 		Marriage	1643.00	10.00	8.00	Edward	Boswell		
+MAR	1007	 	Edward	Boswell	M	 	 		Marriage	1643.00	10.00	8.00	Margaret	Stranger		
+MAR	1008	 	Dennis	Cleere	F	 	 		Marriage	1643.00	3.00	10.00	Thomas	Titt		
+MAR	1009	 	Thomas	Titt	M	 	 		Marriage	1643.00	3.00	10.00	Dennis	Cleere		
+MAR	1010	 	Hester	Warde	F	 	 		Marriage	1643.00	7.00	10.00	William	Paulin		
+MAR	1011	 	William	Paulin	M	 	 		Marriage	1643.00	7.00	10.00	Hester	Warde		
+MAR	1012	 	Mary	Hunt	F	 	 		Marriage	1643.00	25.00	10.00	Thomas	Men		
+MAR	1013	 	Thomas	Men	M	 	 		Marriage	1643.00	25.00	10.00	Mary	Hunt		
+MAR	1014	 	Alice	Newbury	F	 	 		Marriage	1643.00	4.00	11.00	Jo	Dobinson		
+MAR	1015	 	Jo	Dobinson	M	 	 		Marriage	1643.00	4.00	11.00	Alice	Newbury		
+MAR	1016	 	Margaret	Broadstock	F	 	 		Marriage	1643.00	4.00	12.00	Edward	Bosnell		
+MAR	1017	 	Edward	Bosnell	M	 	 		Marriage	1643.00	4.00	12.00	Margaret	Broadstock		
+MAR	1018	 	Anne	Woodbridge	F	 	 		Marriage	1644.00	7.00	1.00	John	Bernard		
+MAR	1019	 	John	Bernard	M	 	 		Marriage	1644.00	7.00	1.00	Anne	Woodbridge		
+MAR	1020	 	Anne	Neighbour	F	 	 		Marriage	1644.00	7.00	1.00	Christopher	Edwards		
+MAR	1021	 	Christopher	Edwards	M	 	 		Marriage	1644.00	7.00	1.00	Anne	Neighbour		
+MAR	1022	 	Anne	Fletcher	F	 	 		Marriage	1644.00	8.00	1.00	Thomas	Woodhouse		
+MAR	1023	 	Thomas	Woodhouse	M	 	 		Marriage	1644.00	8.00	1.00	Anne	Fletcher		
+MAR	1024	 	Elizabeth	Coussins	F	 	 		Marriage	1644.00	18.00	1.00	Richard	Holton		
+MAR	1025	 	Richard	Holton	M	 	 		Marriage	1644.00	18.00	1.00	Elizabeth	Coussins		
+MAR	1026	 	Mary	Burnham	F	 	 		Marriage	1644.00	8.00	2.00	William	Townese		
+MAR	1027	 	William	Townese	M	 	 		Marriage	1644.00	8.00	2.00	Mary	Burnham		
+MAR	1028	 	Frances	Horton	F	 	 		Marriage	1644.00	15.00	2.00	Christopher	Grace		
+MAR	1029	 	Christopher	Grace	M	 	 		Marriage	1644.00	15.00	2.00	Frances	Horton		
+MAR	1030	 	Anne	White	F	 	 		Marriage	1644.00	14.00	3.00	Richard	Springall		
+MAR	1031	 	Richard	Springall	M	 	 		Marriage	1644.00	14.00	3.00	Anne	White		
+MAR	1032	 	Margery	Newman	F	 	 		Marriage	1644.00	29.00	4.00	William	Wallis		
+MAR	1033	 	William	Wallis	M	 	 		Marriage	1644.00	29.00	4.00	Margery	Newman		
+MAR	1034	 	Susanah	Dorrell	F	 	 		Marriage	1644.00	29.00	4.00	Edward	Laurence		
+MAR	1035	 	Edward	Laurence	M	 	 		Marriage	1644.00	29.00	4.00	Susanah	Dorrell		
+MAR	1036	 	Margaret	Powell	F	 	 		Marriage	1644.00	29.00	4.00	Henry	Wheeler		
+MAR	1037	 	Henry	Wheeler	M	 	 		Marriage	1644.00	29.00	4.00	Margaret	Powell		
+MAR	1038	 	Susannah	Franklin	F	 	 		Marriage	1644.00	1.00	5.00	Thomas	Jonson		
+MAR	1039	 	Thomas	Jonson	M	 	 		Marriage	1644.00	1.00	5.00	Susannah	Franklin		
+MAR	1040	 	Alice	Nicolls	F	 	 		Marriage	1644.00	25.00	5.00	Thomas	Franklin		
+MAR	1041	 	Thomas	Franklin	M	 	 		Marriage	1644.00	25.00	5.00	Alice	Nicolls		
+MAR	1042	 	Mary	Sheirley	F	 	 		Marriage	1644.00	15.00	6.00	Richard	Hearne		
+MAR	1043	 	Richard	Hearne	M	 	 		Marriage	1644.00	15.00	6.00	Mary	Sheirley		
+MAR	1044	 	Mary	Woodbridge	F	 	 		Marriage	1644.00	16.00	6.00	Thomas	Munday		
+MAR	1045	 	Thomas	Munday	M	 	 		Marriage	1644.00	16.00	6.00	Mary	Woodbridge		
+MAR	1046	 	Anne	Foxe	F	 	 		Marriage	1644.00	17.00	6.00	George	Hawkins		
+MAR	1047	 	George	Hawkins	M	 	 		Marriage	1644.00	17.00	6.00	Anne	Foxe		
+MAR	1048	 	Margaret	Allen	F	 	 		Marriage	1644.00	19.00	6.00	Gyles	Clysby		
+MAR	1049	 	Gyles	Clysby	M	 	 		Marriage	1644.00	19.00	6.00	Margaret	Allen		
+MAR	1050	 	Hannah	Barton	F	 	 		Marriage	1644.00	27.00	6.00	John	Grimes		
+MAR	1051	 	John	Grimes	M	 	 		Marriage	1644.00	27.00	6.00	Hannah	Barton		
+MAR	1052	 	Alice	Hawkins	F	 	 		Marriage	1644.00	11.00	7.00	Richard	Reede		
+MAR	1053	 	Richard	Reede	M	 	 		Marriage	1644.00	11.00	7.00	Alice	Hawkins		
+MAR	1054	 	Frances	Howe	F	 	 		Marriage	1644.00	14.00	7.00	Richard	Simons		
+MAR	1055	 	Richard	Simons	M	 	 		Marriage	1644.00	14.00	7.00	Frances	Howe		
+MAR	1056	 	Anne	Carter	F	 	 		Marriage	1644.00	26.00	9.00	John	Wiggine		
+MAR	1057	 	John	Wiggine	M	 	 		Marriage	1644.00	26.00	9.00	Anne	Carter		
+MAR	1058	 	Margaret	Griffin	F	 	 		Marriage	1644.00	30.00	9.00	Richard	Walker		
+MAR	1059	 	Richard	Walker	M	 	 		Marriage	1644.00	30.00	9.00	Margaret	Griffin		
+MAR	1060	 	Elizabeth	Yonge	F	 	 		Marriage	1644.00	31.00	10.00	Henry	Rolles		
+MAR	1061	 	Henry	Rolles	M	 	 		Marriage	1644.00	31.00	10.00	Elizabeth	Yonge		
+MAR	1062	 	Joane	Dover	F	 	 		Marriage	1644.00	5.00	11.00	George	Cleere		
+MAR	1063	 	George	Cleere	M	 	 		Marriage	1644.00	5.00	11.00	Joane	Dover		
+MAR	1064	 	Mary	Lewis	F	 	 		Marriage	1644.00	27.00	11.00	Philip	Messenger		
+MAR	1065	 	Philip	Messenger	M	 	 		Marriage	1644.00	27.00	11.00	Mary	Lewis		
+MAR	1066	 	Anne	Clerke	F	 	 		Marriage	1645.00	9.00	1.00	Christopher	Franklin		
+MAR	1067	 	Christopher	Franklin	M	 	 		Marriage	1645.00	9.00	1.00	Anne	Clerke		
+MAR	1068	 	Elizabeth	Godin	F	 	 		Marriage	1645.00	20.00	2.00	Thomas	Estace		
+MAR	1069	 	Thomas	Estace	M	 	 		Marriage	1645.00	20.00	2.00	Elizabeth	Godin		
+MAR	1070	 	Margaret	Adkins	F	 	 		Marriage	1645.00	20.00	2.00	William	Burnham		
+MAR	1071	 	William	Burnham	M	 	 		Marriage	1645.00	20.00	2.00	Margaret	Adkins		
+MAR	1072	 	Margaret	James	F	 	 		Marriage	1645.00	27.00	3.00	William	Heyborne		
+MAR	1073	 	William	Heyborne	M	 	 		Marriage	1645.00	27.00	3.00	Margaret	James		
+MAR	1074	 	Elinor	Andrews	F	 	 		Marriage	1645.00	30.00	4.00	Jo	Adams		
+MAR	1075	 	Jo	Adams	M	 	 		Marriage	1645.00	30.00	4.00	Elinor	Andrews		
+MAR	1076	 	Mary	Eustace	F	 	 		Marriage	1645.00	8.00	5.00	Edward	Jemmott		
+MAR	1077	 	Edward	Jemmott	M	 	 		Marriage	1645.00	8.00	5.00	Mary	Eustace		
+MAR	1078	 	Alice	Broadhurst	F	 	 		Marriage	1645.00	25.00	6.00	Jo	Cotton		
+MAR	1079	 	Jo	Cotton	M	 	 		Marriage	1645.00	25.00	6.00	Alice	Broadhurst		
+MAR	1080	 	Margery	Couch	F	 	 		Marriage	1645.00	26.00	6.00	Jo	West		
+MAR	1081	 	Jo	West	M	 	 		Marriage	1645.00	26.00	6.00	Margery	Couch		
+MAR	1082	 	Susanna	Sexton	F	 	 		Marriage	1645.00	30.00	6.00	Nicolas	Rippingam		
+MAR	1083	 	Nicolas	Rippingam	M	 	 		Marriage	1645.00	30.00	6.00	Susanna	Sexton		
+MAR	1084	 	Mary	Coxe	F	 	 		Marriage	1645.00	24.00	7.00	Robert	Stevens		
+MAR	1085	 	Robert	Stevens	M	 	 		Marriage	1645.00	24.00	7.00	Mary	Coxe		
+MAR	1086	 	Anne	Price	F	 	 		Marriage	1645.00	20.00	10.00	Richard	Caudery		
+MAR	1087	 	Richard	Caudery	M	 	 		Marriage	1645.00	20.00	10.00	Anne	Price		
+MAR	1088	 	Anne	Burton	F	 	 		Marriage	1645.00	21.00	11.00	Richard	Pimme		
+MAR	1089	 	Richard	Pimme	M	 	 		Marriage	1645.00	21.00	11.00	Anne	Burton		
+MAR	1090	 	Mary	Dobbinson	F	 	 		Marriage	1646.00	15.00	1.00	Jeffery	Minge		
+MAR	1091	 	Jeffery	Minge	M	 	 		Marriage	1646.00	15.00	1.00	Mary	Dobbinson		
+MAR	1092	 	Anne	Cooke	F	 	 		Marriage	1646.00	21.00	4.00	John	Wilmott		
+MAR	1093	 	John	Wilmott	M	 	 		Marriage	1646.00	21.00	4.00	Anne	Cooke		
+MAR	1094	 	Anne	Groome	F	 	 		Marriage	1646.00	23.00	4.00	Richard	Ejcott		
+MAR	1095	 	Richard	Ejcott	M	 	 		Marriage	1646.00	23.00	4.00	Anne	Groome		
+MAR	1096	 	Frances	Heath	F	 	 		Marriage	1646.00	24.00	4.00	William	Steemens		
+MAR	1097	 	William	Steemens	M	 	 		Marriage	1646.00	24.00	4.00	Frances	Heath		
+MAR	1098	 	Mary	Messenger	F	 	 		Marriage	1646.00	8.00	6.00	Thomas	Inet		
+MAR	1099	 	Thomas	Inet	M	 	 		Marriage	1646.00	8.00	6.00	Mary	Messenger		
+MAR	1100	 	Mary	Thornton	F	 	 		Marriage	1646.00	8.00	6.00	John	Caudry		
+MAR	1101	 	John	Caudry	M	 	 		Marriage	1646.00	8.00	6.00	Mary	Thornton		
+MAR	1102	 	Margery	Deane	F	 	 		Marriage	1646.00	11.00	6.00	Richard	Bolton		
+MAR	1103	 	Richard	Bolton	M	 	 		Marriage	1646.00	11.00	6.00	Margery	Deane		
+MAR	1104	 	Isabell	Jutson	F	 	 		Marriage	1646.00	15.00	7.00	Luke	Burham		
+MAR	1105	 	Luke	Burham	M	 	 		Marriage	1646.00	15.00	7.00	Isabell	Jutson		
+MAR	1106	 	Elizabeth	Langston	F	 	 		Marriage	1646.00	16.00	7.00	Robert	Greene		
+MAR	1107	 	Robert	Greene	M	 	 		Marriage	1646.00	16.00	7.00	Elizabeth	Langston		
+MAR	1108	 	Anne	Petty	F	 	 		Marriage	1646.00	29.00	7.00	Thomas	Smith		
+MAR	1109	 	Thomas	Smith	M	 	 		Marriage	1646.00	29.00	7.00	Anne	Petty		
+MAR	1110	 	Joane	Ward	F	 	 		Marriage	1646.00	1.00	10.00	John	Carter		
+MAR	1111	 	John	Carter	M	 	 		Marriage	1646.00	1.00	10.00	Joane	Ward		
+MAR	1112	 	Lucy	Waine	F	 	 		Marriage	1646.00	1.00	10.00	William	Heirne		
+MAR	1113	 	William	Heirne	M	 	 		Marriage	1646.00	1.00	10.00	Lucy	Waine		
+MAR	1114	 	Joane	Starline	F	 	 		Marriage	1646.00	2.00	11.00	John	Timothy		
+MAR	1115	 	John	Timothy	M	 	 		Marriage	1646.00	2.00	11.00	Joane	Starline		
+MAR	1116	 	Joane	Wallis	F	 	 		Marriage	1646.00	30.00	11.00	Jo	Meredith		
+MAR	1117	 	Jo	Meredith	M	 	 		Marriage	1646.00	30.00	11.00	Joane	Wallis		
+MAR	1118	 	Elizabeth	Woodley	F	 	 		Marriage	1646.00	10.00	12.00	Huge	Swannill		
+MAR	1119	 	Huge	Swannill	M	 	 		Marriage	1646.00	10.00	12.00	Elizabeth	Woodley		
+MAR	1120	 	Margaret	Allin	F	 	 		Marriage	1647.00	11.00	1.00	Henry	Williams		
+MAR	1121	 	Henry	Williams	M	 	 		Marriage	1647.00	11.00	1.00	Margaret	Allin		
+MAR	1122	 	Katherine	Heyborne	F	 	 		Marriage	1647.00	21.00	1.00	Philip	Hamilton		
+MAR	1123	 	Philip	Hamilton	M	 	 		Marriage	1647.00	21.00	1.00	Katherine	Heyborne		
+MAR	1124	 	Mary	Simmes	F	 	 		Marriage	1647.00	24.00	1.00	Luke	Burnham		
+MAR	1125	 	Luke	Burnham	M	 	 		Marriage	1647.00	24.00	1.00	Mary	Simmes		
+MAR	1126	 	Mary	Winter	F	 	 		Marriage	1647.00	11.00	5.00	William	Typpin		
+MAR	1127	 	William	Typpin	M	 	 		Marriage	1647.00	11.00	5.00	Mary	Winter		
+MAR	1128	 	Jane	Messenger	F	 	 		Marriage	1647.00	24.00	10.00	William	Munday		
+MAR	1129	 	William	Munday	M	 	 		Marriage	1647.00	24.00	10.00	Jane	Messenger		
+MAR	1130	 	Joane	Trippe	F	 	 		Marriage	1647.00	14.00	12.00	William	Corbyl		
+MAR	1131	 	William	Corbyl	M	 	 		Marriage	1647.00	14.00	12.00	Joane	Trippe		
+MAR	1132	 	Mary	Sherley	F	 	 		Marriage	1648.00	11.00	5.00	Gyles	Bett		
+MAR	1133	 	Gyles	Bett	M	 	 		Marriage	1648.00	11.00	5.00	Mary	Sherley		
+MAR	1134	 	Dorothy	Jenkes	F	 	 		Marriage	1648.00	17.00	11.00	Thomas	Burgis		
+MAR	1135	 	Thomas	Burgis	M	 	 		Marriage	1648.00	17.00	11.00	Dorothy	Jenkes		
+MAR	1136	Mrs	Margaret	Barry	F	 	 		Marriage	1649.00	1.00	3.00	Edward	Oakley		
+MAR	1137	Mr	Edward	Oakley	M	 	 		Marriage	1649.00	1.00	3.00	Margaret	Barry		
+MAR	1138	 	Dorothy	Heyborne	F	 	 		Marriage	1649.00	5.00	4.00	Edward	Smith		
+MAR	1139	 	Edward	Smith	M	 	 		Marriage	1649.00	5.00	4.00	Dorothy	Heyborne		
+MAR	1140	 	Collebury	Beale	F	 	 		Marriage	1649.00	17.00	4.00	George	Franklin		
+MAR	1141	 	George	Franklin	M	 	 		Marriage	1649.00	17.00	4.00	Collebury	Beale		
+MAR	1142	 	Rebeca	Heasey	F	 	 		Marriage	1649.00	31.00	5.00	Jo	Haukins		
+MAR	1143	 	Jo	Haukins	M	 	 		Marriage	1649.00	31.00	5.00	Rebeca	Heasey		
+MAR	1144	 	Mary	Bryan	F	 	 		Marriage	1649.00	8.00	7.00	  	  		
+MAR	1146	 	Anne	Woodbridge	F	 	 		Marriage	1649.00	15.00	7.00	William	Lee		
+MAR	1147	 	William	Lee	M	 	 		Marriage	1649.00	15.00	7.00	Anne	Woodbridge		
+MAR	1148	 	Joane	Pratt	F	 	 		Marriage	1649.00	1.00	10.00	Thomas	White		
+MAR	1149	 	Thomas	White	M	 	 		Marriage	1649.00	1.00	10.00	Joane	Pratt		
+MAR	1150	 	Lettice	Jonson	F	 	 		Marriage	1649.00	15.00	10.00	Jo	Badger		
+MAR	1151	 	Jo	Badger	M	 	 		Marriage	1649.00	15.00	10.00	Lettice	Jonson		
+MAR	1152	 	Anne	Greene	F	 	 		Marriage	1649.00	16.00	10.00	Jo	Carter		
+MAR	1153	 	Jo	Carter	M	 	 		Marriage	1649.00	16.00	10.00	Anne	Greene		
+MAR	1154	 	Mary	Wenloe	F	 	 		Marriage	1649.00	31.00	10.00	Jo	Clerke		
+MAR	1155	 	Jo	Clerke	M	 	 		Marriage	1649.00	31.00	10.00	Mary	Wenloe		
+MAR	1156	 	Elizabeth	Cotton	F	 	 		Marriage	1649.00	1.00	12.00	John	Hughes		
+MAR	1157	 	John	Hughes	M	 	 		Marriage	1649.00	1.00	12.00	Elizabeth	Cotton		
+MAR	1158	 	Marie	Weston	F	 	 		Marriage	1649.00	24.00	12.00	Richard	Gybbons		
+MAR	1159	 	Richard	Gybbons	M	 	 		Marriage	1649.00	24.00	12.00	Marie	Weston		
+MAR	1160	 	Margaret	Louch	F	 	 		Marriage	1650.00	12.00	1.00	Thomas	Fletcher		
+MAR	1161	 	Thomas	Fletcher	M	 	 		Marriage	1650.00	12.00	1.00	Margaret	Louch		
+MAR	1162	 	Elizabeth	Emmerton	F	 	 		Marriage	1650.00	4.00	2.00	Nathaniel	Hambleton		
+MAR	1163	 	Nathaniel	Hambleton	M	 	 		Marriage	1650.00	4.00	2.00	Elizabeth	Emmerton		
+MAR	1164	 	Anne	Wheeler	F	 	 		Marriage	1650.00	12.00	3.00	Thomas	Eaton		
+MAR	1165	 	Thomas	Eaton	M	 	 		Marriage	1650.00	12.00	3.00	Anne	Wheeler		
+MAR	1166	 	Clemens	 	F	 	 		Marriage	1650.00	16.00	4.00	Walter	Couzin		
+MAR	1167	 	Walter	Couzin	M	 	 		Marriage	1650.00	16.00	4.00	Clemens	  		
+MAR	1168	 	Elizabeth	Plaston	F	 	 		Marriage	1650.00	21.00	4.00	Henry	Jemmott		
+MAR	1169	 	Henry	Jemmott	M	 	 		Marriage	1650.00	21.00	4.00	Elizabeth	Plaston		
+MAR	1170	 	Agnes	Smart	F	 	 		Marriage	1650.00	17.00	6.00	John	Bernard		
+MAR	1171	 	John	Bernard	M	 	 		Marriage	1650.00	17.00	6.00	Agnes	Smart		
+MAR	1172	 	Sibbill	Mores	F	 	 		Marriage	1650.00	15.00	7.00	John	Hayes		
+MAR	1173	 	John	Hayes	M	 	 		Marriage	1650.00	15.00	7.00	Sibbill	Mores		
+MAR	1174	 	Anne	 	F	 	 		Marriage	1650.00	15.00	10.00	William	Jennings		
+MAR	1175	 	William	Jennings	M	 	 		Marriage	1650.00	15.00	10.00	Anne	  		
+MAR	1176	 	Anne	Messenger	F	 	 		Marriage	1650.00	20.00	10.00	Richard	Laurence		
+MAR	1177	 	Richard	Laurence	M	 	 		Marriage	1650.00	20.00	10.00	Anne	Messenger		
+MAR	1178	 	Mary	Shephard	F	 	 		Marriage	1651.00	15.00	1.00	Richard	Willis		
+MAR	1179	 	Richard	Willis	M	 	 		Marriage	1651.00	15.00	1.00	Mary	Shephard		
+MAR	1180	 	Julian	White	F	 	 		Marriage	1651.00	16.00	3.00	Richard	Barrett		
+MAR	1181	 	Richard	Barrett	M	 	 		Marriage	1651.00	16.00	3.00	Julian	White		
+MAR	1182	 	Joane	Bayley	F	 	 		Marriage	1651.00	7.00	10.00	Edward	Toovy		
+MAR	1183	 	Edward	Toovy	M	 	 		Marriage	1651.00	7.00	10.00	Joane	Bayley		
+MAR	1184	 	Frizes	Hadock	F	 	 		Marriage	1651.00	14.00	10.00	George	Hatley		
+MAR	1185	 	George	Hatley	M	 	 		Marriage	1651.00	14.00	10.00	Frizes	Hadock		
+MAR	1186	 	Katherine	Tippin	F	 	 		Marriage	1651.00	25.00	11.00	Izaak	Stevens		
+MAR	1187	 	Izaak	Stevens	M	 	 		Marriage	1651.00	25.00	11.00	Katherine	Tippin		
+MAR	1188	 	Alice	Greenwoode	F	 	 		Marriage	1651.00	27.00	11.00	William	Coleman		
+MAR	1189	 	William	Coleman	M	 	 		Marriage	1651.00	27.00	11.00	Alice	Greenwoode		
+MAR	1190	 	Anne	Burgis	F	 	 		Marriage	1651.00	18.00	12.00	John	Randnam		
+MAR	1191	 	John	Randnam	M	 	 		Marriage	1651.00	18.00	12.00	Anne	Burgis		
+MAR	1192	 	Agnes	Hayfield	F	 	 		Marriage	1651.00	23.00	12.00	Walter	Lewis		
+MAR	1193	 	Walter	Lewis	M	 	 		Marriage	1651.00	23.00	12.00	Agnes	Hayfield		
+MAR	1194	 	Mary	Stone	F	 	 		Marriage	1652.00	26.00	1.00	Robert	Belson		
+MAR	1195	 	Robert	Belson	M	 	 		Marriage	1652.00	26.00	1.00	Mary	Stone		
+MAR	1196	 	Elizabeth	Harris	F	 	 		Marriage	1652.00	19.00	4.00	Edward	Wyet		
+MAR	1197	 	Edward	Wyet	M	 	 		Marriage	1652.00	19.00	4.00	Elizabeth	Harris		
+MAR	1198	 	Mary	 	F	 	 		Marriage	1652.00	18.00	5.00	Leonard	Cousin		
+MAR	1199	 	Leonard	Cousin	M	 	 		Marriage	1652.00	18.00	5.00	Mary	  		
+MAR	1200	 	Joane	Wright	F	 	 		Marriage	1652.00	8.00	6.00	Jo	Plasteed		
+MAR	1201	 	Jo	Plasteed	M	 	 		Marriage	1652.00	8.00	6.00	Joane	Wright		
+MAR	1202	 	Ellenor	Messenger	F	 	 		Marriage	1652.00	24.00	6.00	William	Stone		
+MAR	1203	 	William	Stone	M	 	 		Marriage	1652.00	24.00	6.00	Ellenor	Messenger		
+MAR	1204	 	Jane	Stanton	F	 	 		Marriage	1652.00	27.00	6.00	Jo	Randolph		
+MAR	1205	 	Jo	Randolph	M	 	 		Marriage	1652.00	27.00	6.00	Jane	Stanton		
+MAR	1206	 	Elinor	Stone	F	 	 		Marriage	1652.00	15.00	8.00	Thomas	Messenger		
+MAR	1207	 	Thomas	Messenger	M	 	 		Marriage	1652.00	15.00	8.00	Elinor	Stone		
+MAR	1208	 	Joane	Wright	F	 	 		Marriage	1652.00	29.00	9.00	Edward	Haise		
+MAR	1209	 	Edward	Haise	M	 	 		Marriage	1652.00	29.00	9.00	Joane	Wright		
+MAR	1210	 	Anne	Messenger	F	 	 		Marriage	1653.00	10.00	2.00	John	Martin		
+MAR	1211	 	John	Martin	M	 	 		Marriage	1653.00	10.00	2.00	Anne	Messenger		
+MAR	1212	 	Elizabeth	Day	F	 	 		Marriage	1653.00	11.00	7.00	John	Heyes		
+MAR	1213	 	John	Heyes	M	 	 		Marriage	1653.00	11.00	7.00	Elizabeth	Day		
+MAR	1214	 	Idie	Belson	F	 	 		Marriage	1653.00	25.00	7.00	William	North		
+MAR	1215	 	William	North	M	 	 		Marriage	1653.00	25.00	7.00	Idie	Belson		
+MAR	1216	 	Joane	Floyde	F	 	 		Marriage	1653.00	1.00	9.00	John	Powell		
+MAR	1217	 	John	Powell	M	 	 		Marriage	1653.00	1.00	9.00	Joane	Floyde		
+MAR	1218	 	Izabel	Syred	F	 	 		Marriage	1653.00	5.00	9.00	William	Powell		
+MAR	1219	 	William	Powell	M	 	 		Marriage	1653.00	5.00	9.00	Izabel	Syred		
+MAR	1220	 	Jane	Philips	F	 	 		Marriage	1653.00	11.00	9.00	Edward	Leaver		
+MAR	1221	 	Edward	Leaver	M	 	 		Marriage	1653.00	11.00	9.00	Jane	Philips		
+MAR	1222	 	Audrey	Debbel 	F	 	 		Marriage	1653.00	18.00	9.00	Jo	Rosebrooke		
+MAR	1223	 	Jo	Rosebrooke	M	 	 		Marriage	1653.00	18.00	9.00	Audrey	Debbel		
+MAR	1224	 	Mary	Draper	F	 	 		Marriage	1653.00	18.00	9.00	William	Smith		
+MAR	1225	 	William	Smith	M	 	 		Marriage	1653.00	18.00	9.00	Mary	Draper		
+MAR	1226	 	Elizabeth	Philips	F	 	 		Marriage	1653.00	28.00	9.00	John	Britton		
+MAR	1227	 	John	Britton	M	 	 		Marriage	1653.00	28.00	9.00	Elizabeth	Philips		
+MAR	1228	 	Audrey	Rea	F	 	 		Marriage	1653.00	28.00	9.00	John	Collins		
+MAR	1229	 	John	Collins	M	 	 		Marriage	1653.00	28.00	9.00	Audrey	Rea		
+MAR	1230	 	Dorothy	Greenwood	F	 	 		Marriage	1653.00	28.00	9.00	John	Springall		
+MAR	1231	 	John	Springall	M	 	 		Marriage	1653.00	28.00	9.00	Dorothy	Greenwood		
+MAR	1232	 	Elizabeth	Jones	F	 	 		Marriage	1657.00	29.00	9.00	Richard	Walker		
+MAR	1233	 	Richard	Walker	M	 	 		Marriage	1657.00	29.00	9.00	Elizabeth	Jones		
+MAR	1234	 	Jane	Platt	F	 	 		Marriage	1657.00	29.00	9.00	John	Notingham		
+MAR	1235	 	John	Notingham	M	 	 		Marriage	1657.00	29.00	9.00	Jane	Platt		
+MAR	1236	 	Dorothy	Shephard	F	 	 		Marriage	1657.00	11.00	11.00	John	Winlowe		
+MAR	1237	 	John	Winlowe	M	 	 		Marriage	1657.00	11.00	11.00	Dorothy	Shephard		
+MAR	1238	 	Elizabeth	Smithe	F	 	 		Marriage	1657.00	21.00	11.00	Thomas	Handly		
+MAR	1239	 	Thomas	Handly	M	 	 		Marriage	1657.00	21.00	11.00	Elizabeth	Smithe		
+MAR	1240	 	Kathrine	Swinborne	F	 	 		Marriage	1657.00	30.00	12.00	Thomas	Woode		
+MAR	1241	 	Thomas	Woode	M	 	 		Marriage	1657.00	30.00	12.00	Kathrine	Swinborne		
+MAR	1242	 	Joane	Price	F	 	 		Marriage	1658.00	2.00	1.00	Thomas	Huxley		
+MAR	1243	 	Thomas	Huxley	M	 	 		Marriage	1658.00	2.00	1.00	Joane	Price		
+MAR	1244	 	Francis	Towne	F	 	 		Marriage	1658.00	14.00	1.00	Jenat ?	Towne		
+MAR	1245	 	Jenat 	Towne	M	 	 		Marriage	1658.00	14.00	1.00	Francis	Towne		
+MAR	1246	 	Alice	Adals	F	 	 		Marriage	1658.00	4.00	2.00	William	Meade		
+MAR	1247	 	William	Meade	M	 	 		Marriage	1658.00	4.00	2.00	Alice	Adals		
+MAR	1248	 	Anne	Herbry 	F	 	 		Marriage	1658.00	6.00	2.00	William	Heyborne		
+MAR	1249	 	William	Heyborne	M	 	 		Marriage	1658.00	6.00	2.00	Anne	Herbry ?		
+MAR	1250	 	Anne	Goode	F	 	 		Marriage	1658.00	10.00	2.00	Robert	Baker		
+MAR	1251	 	Robert	Baker	M	 	 		Marriage	1658.00	10.00	2.00	Anne	Goode?		
+MAR	1252	 	Elizabeth	Jenkes	F	 	 		Marriage	1658.00	18.00	2.00	Richard	Towne		
+MAR	1253	 	Richard	Towne	M	 	 		Marriage	1658.00	18.00	2.00	Elizabeth	Jenkes		
+MAR	1254	 	Anne	Rice	F	 	 		Marriage	1658.00	12.00	4.00	William	Winter		
+MAR	1255	 	William	Winter	M	 	 		Marriage	1658.00	12.00	4.00	Anne	Rice		
+MAR	1256	 	Mary	Reynolds	F	 	 		Marriage	1658.00	15.00	4.00	Richard	Cotton		
+MAR	1257	 	Richard	Cotton	M	 	 		Marriage	1658.00	15.00	4.00	Mary	Reynolds		
+MAR	1258	 	Jane	Crafts	F	 	 		Marriage	1658.00	20.00	6.00	William	Cotton		
+MAR	1259	 	William	Cotton	M	 	 		Marriage	1658.00	20.00	6.00	Jane	Crafts		
+MAR	1260	 	Anne	Jonson	F	 	 		Marriage	1658.00	22.00	8.00	John	Aclee		
+MAR	1261	 	John	Aclee	M	 	 		Marriage	1658.00	22.00	8.00	Anne	Jonson		
+MAR	1262	 	Frances	Childs	F	 	 		Marriage	1658.00	29.00	9.00	John	Mitchell		
+MAR	1263	 	John	Mitchell	M	 	 		Marriage	1658.00	29.00	9.00	Frances	Childs		
+MAR	1264	 	Dorothy	Moores	F	 	 		Marriage	1658.00	2.00	10.00	Thomas	Hawes		
+MAR	1265	 	Thomas	Hawes	M	 	 		Marriage	1658.00	2.00	10.00	Dorothy	Moores		
+MAR	1266	 	Elizabeth	Gunter	F	 	 		Marriage	1658.00	4.00	10.00	George	Ashwell		
+MAR	1267	 	George	Ashwell	M	 	Clerk		Marriage	1658.00	4.00	10.00	Elizabeth	Gunter		George Aswell was Rector of Hanwell Oxon
+MAR	1268	 	Susanna	Gybbons	F	 	 		Marriage	1658.00	14.00	10.00	John	Standbridge		
+MAR	1269	 	John	Standbridge	M	 	 		Marriage	1658.00	14.00	10.00	Susanna	Gybbons		Stanbridge or Grace
+MAR	1270	 	Elizabeth	Simons	F	 	 		Marriage	1658.00	18.00	10.00	Thomas	Headache		
+MAR	1271	 	Thomas	Headache	M	 	 		Marriage	1658.00	18.00	10.00	Elizabeth	Simons		
+MAR	1272	 	Joane	Burges	F	 	 		Marriage	1658.00	31.00	10.00	Thomas	Wheeler		
+MAR	1273	 	Thomas	Wheeler	M	 	 		Marriage	1658.00	31.00	10.00	Joane	Burges		
+MAR	1274	 	Ursula	Baldwin	F	 	 		Marriage	1658.00	10.00	12.00	Roger	Goode		
+MAR	1275	 	Roger	Goode	M	 	 		Marriage	1658.00	10.00	12.00	Ursula	Baldwin		
+MAR	1276	 	Rose	Redhead	F	 	 		Marriage	1658.00	17.00	12.00	John	Paty		
+MAR	1277	 	John	Paty	M	 	 		Marriage	1658.00	17.00	12.00	Rose	Redhead		
+MAR	1278	 	Elizabeth	Maior	F	 	 		Marriage	1658.00	30.00	12.00	John	Typping		
+MAR	1279	 	John	Typping	M	 	 		Marriage	1658.00	30.00	12.00	Elizabeth	Maior		
+MAR	1280	 	Elizabeth	Meade	F	 	 		Marriage	1659.00	2.00	1.00	Edward	Naith		
+MAR	1281	 	Edward	Naith	M	 	 		Marriage	1659.00	2.00	1.00	Elizabeth	Meade		
+MAR	1282	 	Katherine	Cuket	F	 	 		Marriage	1659.00	5.00	4.00	Thomas	Luce		
+MAR	1283	 	Thomas	Luce	M	 	 		Marriage	1659.00	5.00	4.00	Katherine	Cuket		
+MAR	1284	 	Jane	Hawes	F	 	 		Marriage	1659.00	7.00	6.00	Jo	Woster		
+MAR	1285	 	Jo	Woster	M	 	 		Marriage	1659.00	7.00	6.00	Jane	Hawes		
+MAR	1286	 	Mary	Burt	F	 	 		Marriage	1659.00	21.00	6.00	Peter	Tomlinson		
+MAR	1287	 	Peter	Tomlinson	M	 	 		Marriage	1659.00	21.00	6.00	Mary	Burt		
+MAR	1288	 	Sara	Turner	F	 	 		Marriage	1659.00	6.00	9.00	John	  		
+MAR	1289	 	John	 	M	 	 		Marriage	1659.00	6.00	9.00	Sara	Turner		
+MAR	1290	 	Mary	Francis	F	 	 		Marriage	1659.00	29.00	9.00	Thomas	Bartlet		
+MAR	1291	 	Thomas	Bartlet	M	 	 		Marriage	1659.00	29.00	9.00	Mary	Francis		
+MAR	1292	 	Mary	Hawkes	F	 	 		Marriage	1659.00	12.00	10.00	John	Hawkins		
+MAR	1293	 	John	Hawkins	M	 	 		Marriage	1659.00	12.00	10.00	Mary	Hawkes		
+MAR	1294	 	Elizabeth	West	F	 	 		Marriage	1659.00	13.00	10.00	William	Gybson		
+MAR	1295	 	William	Gybson	M	 	 		Marriage	1659.00	13.00	10.00	Elizabeth	West		
+MAR	1296	 	Margaret	Bennett	F	 	 		Marriage	1659.00	13.00	10.00	John	Cooley		
+MAR	1297	 	John	Cooley	M	 	 		Marriage	1659.00	13.00	10.00	Margaret	Bennett		
+MAR	1298	 	Margaret	Dewsbury	F	 	 		Marriage	1659.00	2.00	11.00	Richard	Sidenham		
+MAR	1299	 	Richard	Sidenham	M	 	 		Marriage	1659.00	2.00	11.00	Margaret	Dewsbury		
+MAR	1300	 	Elizabeth	Yonge	F	 	 		Marriage	1659.00	26.00	11.00	Thomas	Burton		
+MAR	1301	 	Thomas	Burton	M	 	 		Marriage	1659.00	26.00	11.00	Elizabeth	Yonge		
+MAR	1302	 	Elizabeth	Yonge	F	 	 		Marriage	1659.00	15.00	12.00	Thomas	Messenger		
+MAR	1303	 	Thomas	Messenger	M	 	 		Marriage	1659.00	15.00	12.00	Elizabeth	Yonge		
+MAR	1304	 	Anne	Tripp	F	 	 		Marriage	1659.00	29.00	12.00	John	Clark		
+MAR	1305	 	John	Clark	M	 	 		Marriage	1659.00	29.00	12.00	Anne	Tripp		
+MAR	1306	 	Anne	Groutt	F	 	 		Marriage	1660.00	2.00	2.00	John	Bewe		
+MAR	1307	 	John	Bewe	M	 	 		Marriage	1660.00	2.00	2.00	Anne	Groutt		
+MAR	1308	 	Margaret	Messenger	F	 	 		Marriage	1660.00	5.00	3.00	John	Springall		
+MAR	1309	 	John	Springall	M	 	 		Marriage	1660.00	5.00	3.00	Margaret	Messenger		
+MAR	1310	 	Joane	Winter	F	 	 		Marriage	1660.00	11.00	3.00	Thomas	Dee		
+MAR	1311	 	Thomas	Dee	M	 	 		Marriage	1660.00	11.00	3.00	Joane	Winter		
+MAR	1312	 	Elizabeth	Smithe	F	 	 		Marriage	1660.00	25.00	4.00	Thomas	Standley		
+MAR	1313	 	Thomas	Standley	M	 	 		Marriage	1660.00	25.00	4.00	Elizabeth	Smithe		
+MAR	1314	 	Anne	Floyde	F	 	 		Marriage	1660.00	25.00	4.00	William	Wheeler		
+MAR	1315	 	William	Wheeler	M	 	 		Marriage	1660.00	25.00	4.00	Anne	Floyde		
+MAR	1316	 	Ann	Dupper	F	 	 		Marriage	1660.00	10.00	5.00	John	Hore		
+MAR	1317	 	John	Hore	M	 	 		Marriage	1660.00	10.00	5.00	Ann	Dupper		
+MAR	1318	 	Anne	Devon	F	 	 		Marriage	1660.00	12.00	6.00	Robert	Stonnill		
+MAR	1319	 	Robert	Stonnill	M	 	 		Marriage	1660.00	12.00	6.00	Anne	Devon		
+MAR	1320	 	Joane	White	F	 	 		Marriage	1660.00	10.00	9.00	Robert	Tyloure ?		
+MAR	1321	 	Robert	Tyloure	M	 	 		Marriage	1660.00	10.00	9.00	Joane	White		
+MAR	1322	 	Mary	Groome	F	 	 		Marriage	1660.00	2.00	10.00	William	Webb		
+MAR	1323	 	William	Webb	M	 	 		Marriage	1660.00	2.00	10.00	Mary	Groome		
+MAR	1324	 	Mary	Horwoode	F	 	 		Marriage	1660.00	7.00	10.00	Marmaduke	Price		
+MAR	1325	 	Marmaduke	Price	M	 	 		Marriage	1660.00	7.00	10.00	Mary	Horwoode		
+MAR	1326	 	Elizabeth	Horton	F	 	 		Marriage	1660.00	1.00	11.00	Thomas	Coop		
+MAR	1327	 	Thomas	Coop	M	 	 		Marriage	1660.00	1.00	11.00	Elizabeth	Horton		
+MAR	1328	 	Elizabeth	Field	F	 	 		Marriage	1660.00	15.00	11.00	Edward	Maunde		
+MAR	1329	 	Edward	Maunde	M	 	 		Marriage	1660.00	15.00	11.00	Elizabeth	Field		
+MAR	1330	 	Elizabeth	Towersey	F	 	 		Marriage	1660.00	21.00	11.00	John	Paine		
+MAR	1331	 	John	Paine	M	 	 		Marriage	1660.00	21.00	11.00	Elizabeth	Towersey		
+MAR	1332	 	Mary	Jones	F	 	 		Marriage	1660.00	16.00	12.00	Thomas	King		
+MAR	1333	 	Thomas	King	M	 	 		Marriage	1660.00	16.00	12.00	Mary	Jones		
+MAR	1334	 	Anne	Goddard	F	 	 		Marriage	1661.00	14.00	2.00	Thomas	Williams		
+MAR	1335	 	Thomas	Williams	M	 	 		Marriage	1661.00	14.00	2.00	Anne	Goddard		
+MAR	1336	 	Sibill	Bates	F	 	 		Marriage	1661.00	21.00	3.00	Nicholas	Wilson		
+MAR	1337	 	Nicholas	Wilson	M	 	 		Marriage	1661.00	21.00	3.00	Sibill	Bates		
+MAR	1338	 	Cysely	Baker	F	 	 		Marriage	1661.00	25.00	3.00	John	Ewstace		
+MAR	1339	 	John	Ewstace	M	 	 		Marriage	1661.00	25.00	3.00	Cysely	Baker		
+MAR	1340	 	Alice	Cooles	F	 	 		Marriage	1661.00	26.00	3.00	Robert	Pearce		
+MAR	1341	 	Robert	Pearce	M	 	 		Marriage	1661.00	26.00	3.00	Alice	Cooles		
+MAR	1342	 	Elizabeth	Watson	F	 	 		Marriage	1661.00	9.00	6.00	Richard	Springall		
+MAR	1343	 	Richard	Springall	M	 	 		Marriage	1661.00	9.00	6.00	Ezabeth	Watson		
+MAR	1344	 	Ames	Towersie	F	 	 		Marriage	1661.00	19.00	6.00	Anthony	Forde		
+MAR	1345	 	Anthony	Forde	M	 	 		Marriage	1661.00	19.00	6.00	Ames	Towersie		
+MAR	1346	 	Mary	Tredwell	F	 	 		Marriage	1661.00	20.00	10.00	Turvish ?	Cobham		
+MAR	1347	 	Turvish 	Cobham	M	 	 		Marriage	1661.00	20.00	10.00	Mary	Tredwell		
+MAR	1348	 	Elizabeth	Allen	F	 	 		Marriage	1661.00	20.00	10.00	Simon	Clark		
+MAR	1349	 	Simon	Clark	M	 	 		Marriage	1661.00	20.00	10.00	Elizabeth	Allen		
+MAR	1350	 	Joane	Williams	F	 	 		Marriage	1661.00	31.00	10.00	Mathew	Barton		
+MAR	1351	 	Mathew	Barton	M	 	 		Marriage	1661.00	31.00	10.00	Joane	Williams		
+MAR	1352	 	Elizabeth	Crewes	F	 	 		Marriage	1661.00	3.00	11.00	John	Bewe	By Licence	
+MAR	1353	 	John	Bewe	M	 	 		Marriage	1661.00	3.00	11.00	Elizabeth	Crewes	By Licence	
+MAR	1354	 	Anne	Fletcher	F	 	 		Marriage	1661.00	12.00	11.00	Augustine	Slater	By Licence	
+MAR	1355	 	Augustine	Slater	M	 	 		Marriage	1661.00	12.00	11.00	Anne	Fletcher	By Licence	
+MAR	1356	 	Elizabeth	Powell	F	 	 		Marriage	1661.00	21.00	11.00	John	Cornport	By Licence	
+MAR	1357	 	John	Cornport	M	 	 		Marriage	1661.00	21.00	11.00	Elizabeth	Powell	By Licence	
+MAR	1358	 	Mary	Brookes	F	 	 		Marriage	1661.00	12.00	12.00	Thomas	Crewes	By Licence	
+MAR	1359	 	Thomas	Crewes	M	 	 		Marriage	1661.00	12.00	12.00	Mary	Brookes	By Licence	
+MAR	1360	 	Anne	Smithe	F	 	 		Marriage	1661.00	26.00	12.00	William	Crofts		
+MAR	1361	 	William	Crofts	M	 	 		Marriage	1661.00	26.00	12.00	Anne	Smithe		
+MAR	1362	 	Alice	Bennet	F	 	 		Marriage	1662.00	2.00	1.00	Richard	Haines		
+MAR	1363	 	Richard	Haines	M	 	 		Marriage	1662.00	2.00	1.00	Alice	Bennet		
+MAR	1364	 	Mary	Bennett	F	 	 		Marriage	1662.00	11.00	2.00	John	Roads	By Licence	
+MAR	1365	 	John	Roads	M	 	 		Marriage	1662.00	11.00	2.00	Mary	Bennett	By Licence	
+MAR	1366	 	Joan	Titt	F	 	 		Marriage	1662.00	30.00	4.00	John	Messenger	By Licence	
+MAR	1367	 	John	Messenger	M	 	 		Marriage	1662.00	30.00	4.00	Joan	Titt	By Licence	
+MAR	1368	 	Jane	Beale	F	 	 		Marriage	1662.00	29.00	6.00	Henry	Slatter		
+MAR	1369	 	Henry	Slatter	M	 	 		Marriage	1662.00	29.00	6.00	Jane	Beale		
+MAR	1370	 	Joane	Cooke	F	 	 		Marriage	1662.00	28.00	7.00	William	Jemmott	By Licence	
+MAR	1371	 	William	Jemmott	M	 	 		Marriage	1662.00	28.00	7.00	Joane	Cooke	By Licence	
+MAR	1372	 	Prudence	Jues 	F	 	 		Marriage	1662.00	29.00	9.00	Nicholas	Wagge	By Licence	
+MAR	1373	 	Nicholas	Wagge	M	 	 		Marriage	1662.00	29.00	9.00	Prudence	Jues ?	By Licence	
+MAR	1374	 	Anne	Walklin	F	 	 		Marriage	1662.00	4.00	10.00	William	Yong		
+MAR	1375	 	William	Yong	M	 	 		Marriage	1662.00	4.00	10.00	Anne	Walklin		
+MAR	1376	 	Mary	Smith	F	 	 		Marriage	1662.00	7.00	10.00	Thomas	West	By Licence	
+MAR	1377	 	Thomas	West	M	 	 		Marriage	1662.00	7.00	10.00	Mary	Smith	By Licence	
+MAR	1378	 	Joane	Crofts	F	 	 		Marriage	1662.00	23.00	10.00	John	Forest		
+MAR	1379	 	John	Forest	M	 	 		Marriage	1662.00	23.00	10.00	Joane	Crofts		
+MAR	1380	 	Mary	Westfield	F	 	 		Marriage	1662.00	6.00	11.00	Joseph	Meade	By Licence	
+MAR	1381	 	Joseph	Meade	M	 	 		Marriage	1662.00	6.00	11.00	Mary	Westfield	By Licence	
+MAR	1382	 	Mary	Hester	F	 	 		Marriage	1662.00	6.00	11.00	Robert	Stevens		
+MAR	1383	 	Robert	Stevens	M	 	 		Marriage	1662.00	6.00	11.00	Mary	Hester		
+MAR	1384	 	Mary	Page	F	 	 		Marriage	1662.00	29.00	12.00	Jerome	Browne		
+MAR	1385	 	Jerome	Browne	M	 	 		Marriage	1662.00	29.00	12.00	Mary	Page		
+MAR	1386	 	Ellenor	Clysbey	F	 	 		Marriage	1663.00	5.00	2.00	William	Fletcher		
+MAR	1387	 	William	Fletcher	M	 	 		Marriage	1663.00	5.00	2.00	Ellenor	Clysbey		
+MAR	1388	 	Elizabeth	Laceman	F	 	 		Marriage	1663.00	19.00	2.00	John	Lowsley		
+MAR	1389	 	John	Lowsley	M	 	 		Marriage	1663.00	19.00	2.00	Elizabeth	Laceman		
+MAR	1390	 	Jane	Cock	F	 	 		Marriage	1663.00	25.00	2.00	John	Randolph	By Licence	
+MAR	1391	 	John	Randolph	M	 	 		Marriage	1663.00	25.00	2.00	Jane	Cock	By Licence	
+MAR	1392	 	Margaret	Gurney	F	 	 		Marriage	1663.00	2.00	3.00	John	Knapp		
+MAR	1393	 	John	Knapp	M	 	 		Marriage	1663.00	2.00	3.00	Margaret	Gurney		
+MAR	1394	 	Anne	Barret	F	 	 		Marriage	1663.00	3.00	3.00	Thomas	West	By Licence	
+MAR	1395	 	Thomas	West	M	 	 		Marriage	1663.00	3.00	3.00	Anne	Barret	By Licence	
+MAR	1396	 	Marlin	Jay 	F	 	 		Marriage	1663.00	26.00	4.00	Richard	Alley		
+MAR	1397	 	Richard	Alley	M	 	 		Marriage	1663.00	26.00	4.00	Marlin	Jay ?		
+MAR	1398	 	Mary	Woodroofe	F	 	 		Marriage	1663.00	1.00	5.00	Edward	Hill		
+MAR	1399	 	Edward	Hill	M	 	 		Marriage	1663.00	1.00	5.00	Mary	Woodroofe		
+MAR	1400	 	Mary	Stanley	F	 	 		Marriage	1663.00	8.00	6.00	Francis	Stevens		
+MAR	1401	 	Francis	Stevens	M	 	 		Marriage	1663.00	8.00	6.00	Mary	Stanley		
+MAR	1402	 	Mary	Gardiner	F	 	 		Marriage	1663.00	15.00	6.00	John	James	By Licence	
+MAR	1403	 	John	James	M	 	 		Marriage	1663.00	15.00	6.00	Mary	Gardiner	By Licence	
+MAR	1404	 	Anne	Harris	F	 	 		Marriage	1663.00	25.00	6.00	Richard	Smitton		
+MAR	1405	 	Richard	Smitton	M	 	 		Marriage	1663.00	25.00	6.00	Anne	Harris		
+MAR	1406	 	Anne	Winloe	F	 	 		Marriage	1663.00	29.00	6.00	John	Hawkins		
+MAR	1407	 	John	Hawkins	M	 	 		Marriage	1663.00	29.00	6.00	Anne	Winloe		
+MAR	1408	 	Mary	Fletcher	F	 	 		Marriage	1663.00	2.00	7.00	Robert	Beale		
+MAR	1409	 	Robert	Beale	M	 	 		Marriage	1663.00	2.00	7.00	Mary	Fletcher		
+MAR	1410	 	Sibill	Norwood	F	 	 		Marriage	1663.00	14.00	9.00	William	Gurney	By Licence	
+MAR	1411	 	William	Gurney	M	 	 		Marriage	1663.00	14.00	9.00	Sibill	Norwood	By Licence	
+MAR	1412	 	Margaret	Carter	F	 	 		Marriage	1663.00	21.00	9.00	John	Messenger	By Licence	
+MAR	1413	 	John	Messenger	M	 	 		Marriage	1663.00	21.00	9.00	Margaret	Carter	By Licence	
+MAR	1414	 	Elizabeth	Paine 	F	 	 		Marriage	1663.00	21.00	10.00	Francis ?	Hill		
+MAR	1415	 	Francis 	Hill	M	 	 		Marriage	1663.00	21.00	10.00	Elizabeth	Paine		
+MAR	1416	 	Ursula	Greene	F	 	 		Marriage	1663.00	10.00	11.00	Augustine	Slatter	By Licence	
+MAR	1417	 	Augustine	Slatter	M	 	 		Marriage	1663.00	10.00	11.00	Ursula	Greene	By Licence	
+MAR	1418	 	Elizabeth	Turton	F	 	 		Marriage	1664.00	3.00	1.00	Christopher	Horne		
+MAR	1419	 	Christopher	Horne	M	 	 		Marriage	1664.00	3.00	1.00	Elizabeth	Turton		
+MAR	1420	 	Muriall ?	Waite	F	 	 		Marriage	1664.00	5.00	1.00	Hugh	Dorrell	By Licence	
+MAR	1421	 	Hugh	Dorrell	M	 	 		Marriage	1664.00	5.00	1.00	Muriall ?	Waite	By Licence	
+MAR	1422	 	Mary	Alnett	F	 	 		Marriage	1664.00	21.00	1.00	John	Sanders	By Licence	
+MAR	1423	 	John	Sanders	M	 	 		Marriage	1664.00	21.00	1.00	Mary	Alnett	By Licence	
+MAR	1424	 	Dorothy	Winlow	F	 	 		Marriage	1664.00	18.00	2.00	John	Mores		
+MAR	1425	 	John	Mores	M	 	 		Marriage	1664.00	18.00	2.00	Dorothy	Winlow		
+MAR	1426	 	Sarah	Rose	F	 	 		Marriage	1664.00	22.00	2.00	John	Roberts	By Licence	
+MAR	1427	 	John	Roberts	M	 	 		Marriage	1664.00	22.00	2.00	Sarah	Rose	By Licence	
+MAR	1428	 	Hannah	Stevens	F	 	 		Marriage	1664.00	23.00	2.00	John	Smithe		
+MAR	1429	 	John	Smithe	M	 	 		Marriage	1664.00	23.00	2.00	Hannah	Stevens		
+MAR	1430	 	Anne	Figge	F	 	 		Marriage	1664.00	25.00	4.00	William	Funge	By Licence	
+MAR	1431	 	William	Funge	M	 	 		Marriage	1664.00	25.00	4.00	Anne	Figge	By Licence	
+MAR	1432	 	Elizabeth	Tipto	F	 	 		Marriage	1664.00	17.00	5.00	Richard	Wenloe		
+MAR	1433	 	Richard	Wenloe	M	 	 		Marriage	1664.00	17.00	5.00	Elizabeth	Tipto		
+MAR	1434	 	Anne	Stone	F	 	 		Marriage	1664.00	31.00	5.00	John	Croxford	By Licence	
+MAR	1435	 	John	Croxford	M	 	 		Marriage	1664.00	31.00	5.00	Anne	Stone	By Licence	
+MAR	1436	 	Elizabeth	Wilson	F	 	 		Marriage	1664.00	6.00	6.00	William	Coop	By Licence	
+MAR	1437	 	William	Coop	M	 	 		Marriage	1664.00	6.00	6.00	Elizabeth	Wilson	By Licence	
+MAR	1438	 	Anne	Davis	F	 	 		Marriage	1664.00	22.00	6.00	James	Crooke		
+MAR	1439	 	James	Crooke	M	 	 		Marriage	1664.00	22.00	6.00	Anne	Davis		
+MAR	1440	 	Mary	Way	F	 	 		Marriage	1664.00	24.00	7.00	Thomas	Wheatley	By Licence	
+MAR	1441	 	Thomas	Wheatley	M	 	 		Marriage	1664.00	24.00	7.00	Mary	Way	By Licence	
+MAR	1442	 	Anne	Stires	F	 	 		Marriage	1664.00	1.00	10.00	Thomas	Battes		
+MAR	1443	 	Thomas	Battes	M	 	 		Marriage	1664.00	1.00	10.00	Anne	Stires		
+MAR	1444	 	Mary	Wallington	F	 	 		Marriage	1664.00	2.00	10.00	Robert	Loosley		
+MAR	1445	 	Robert	Loosley	M	 	 		Marriage	1664.00	2.00	10.00	Mary	Wallington		
+MAR	1446	 	Joane	Bygge	F	 	 		Marriage	1664.00	2.00	10.00	Henry	Hobs		
+MAR	1447	 	Henry	Hobs	M	 	 		Marriage	1664.00	2.00	10.00	Joane	Bygge		
+MAR	1448	 	Alice	Faulkner	F	 	 		Marriage	1664.00	5.00	10.00	John	Lawrence	By Licence	
+MAR	1449	 	John	Lawrence	M	 	 		Marriage	1664.00	5.00	10.00	Alice	Faulkner	By Licence	
+MAR	1450	 	Dorothy	Carpenter	F	 	 		Marriage	1664.00	26.00	10.00	Roger	Fletcher	By Licence	
+MAR	1451	 	Roger	Fletcher	M	 	 		Marriage	1664.00	26.00	10.00	Dorothy	Carpenter	By Licence	
+MAR	1452	 	Catherine	Richardson	F	 	 		Marriage	1664.00	5.00	11.00	James	Woodbridge		
+MAR	1453	 	James	Woodbridge	M	 	 		Marriage	1664.00	5.00	11.00	Catherine	Richardson		
+MAR	1454	 	Rose	Meacocke	F	 	 		Marriage	1665.00	15.00	5.00	John	Howell		
+MAR	1455	 	John	Howell	M	 	 		Marriage	1665.00	15.00	5.00	Rose	Meacocke		
+MAR	1456	 	Elizabeth	Larence	F	 	 	Thame	Marriage	1665.00	16.00	5.00	Edmond	Inett		
+MAR	1457	 	Edmond	Inett	M	Jnr	 	Thame	Marriage	1665.00	16.00	5.00	Elizabeth	Larence		
+MAR	1458	 	Frances	Smarte	F	 	 		Marriage	1665.00	8.00	6.00	Robert	Cruse	By Licence	
+MAR	1459	 	Robert	Cruse	M	 	 		Marriage	1665.00	8.00	6.00	Frances	Smarte	By Licence	
+MAR	1460	 	Ann	Carpenter	F	 	 		Marriage	1665.00	8.00	6.00	Henry	Tripp	By Licence	
+MAR	1461	 	Henry	Tripp	M	younger	 		Marriage	1665.00	8.00	6.00	Ann	Carpenter	By Licence	
+MAR	1462	 	Susannah	Adams	F	 	 		Marriage	1665.00	0.00	7.00	Richard	Symons		
+MAR	1463	 	Richard	Symons	M	 	 		Marriage	1665.00	0.00	7.00	Susannah	Adams		
+MAR	1464	 	Marianne	Faulkner	F	 	 		Marriage	1665.00	24.00	9.00	John	Willmott	By Licence	
+MAR	1465	 	John	Willmott	M	 	 		Marriage	1665.00	24.00	9.00	Marianne	Faulkner	By Licence	
+MAR	1466	 	Sarah	Cantwell	F	 	 		Marriage	1665.00	11.00	10.00	Thomas	Smith	By Licence	
+MAR	1467	 	Thomas	Smith	M	 	 		Marriage	1665.00	11.00	10.00	Sarah	Cantwell	By Licence	
+MAR	1468	 	Elizabeth	Russell	F	 	 		Marriage	1665.00	23.00	10.00	Joseph	Munday		
+MAR	1469	 	Joseph	Munday	M	 	 		Marriage	1665.00	23.00	10.00	Elizabeth	Russell		
+MAR	1470	 	Mary	Timothy	F	 	 		Marriage	1665.00	12.00	11.00	Henry	Rush		
+MAR	1471	 	Henry	Rush	M	 	 		Marriage	1665.00	12.00	11.00	Mary	Timothy		
+MAR	1472	 	Katherine	Rogers	F	 	 		Marriage	1665.00	24.00	12.00	John	Cope		
+MAR	1473	 	John	Cope	M	 	 		Marriage	1665.00	24.00	12.00	Katherine	Rogers		
+MAR	1474	 	Mary	Langston	F	 	 	Thame	Marriage	1666.00	1.00	1.00	John	Shell		
+MAR	1475	 	John	Shell	M	 	 	Postcombe	Marriage	1666.00	1.00	1.00	Mary	Langston		
+MAR	1476	 	Catherine	Smith	F	 	 		Marriage	1666.00	21.00	1.00	Robert	Peck	By Licence	
+MAR	1477	 	Robert	Peck	M	 	 		Marriage	1666.00	21.00	1.00	Catherine	Smith	By Licence	
+MAR	1478	 	Alice	Green	F	 	 		Marriage	1666.00	5.00	2.00	William	Glossop		
+MAR	1479	 	William	Glossop	M	 	 		Marriage	1666.00	5.00	2.00	Alice	Green		
+MAR	1480	 	Susannah	Childe	F	 	 		Marriage	1666.00	8.00	2.00	Richard	Atkins	By Licence	
+MAR	1481	 	Richard	Atkins	M	 	 		Marriage	1666.00	8.00	2.00	Susannah	Childe	By Licence	
+MAR	1482	 	Ruth	Ayres	F	 	 		Marriage	1666.00	11.00	2.00	Edward	Bouery		
+MAR	1483	 	Edward	Bouery	M	 	 		Marriage	1666.00	11.00	2.00	Ruth	Ayres		at the same time as Edward Bouery
+MAR	1484	 	Esthur	Kearne	F	 	 		Marriage	1666.00	11.00	2.00	Timothy	Ransom		
+MAR	1485	 	Timothy	Ransom	M	 	 		Marriage	1666.00	11.00	2.00	Esthur	Kearne		at the same time as Timothy Ransom
+MAR	1486	 	Frances	Messenger	F	 	 		Marriage	1666.00	16.00	4.00	William	Cook	By Licence	
+MAR	1487	 	William	Cook	M	 	 		Marriage	1666.00	16.00	4.00	Frances	Messenger	By Licence	
+MAR	1488	 	Elizabeth	Warters	F	 	 		Marriage	1666.00	22.00	4.00	John	Funge	By Licence	
+MAR	1489	 	John	Funge	M	 	 		Marriage	1666.00	22.00	4.00	Elizabeth	Warters	By Licence	
+MAR	1490	 	Eleanour	Kinge	F	 	 		Marriage	1666.00	29.00	4.00	Thomas	Harris	By Licence	
+MAR	1491	 	Thomas	Harris	M	 	 		Marriage	1666.00	29.00	4.00	Eleanour	Kinge	By Licence	
+MAR	1492	 	Christian	Symmons	F	 	 		Marriage	1666.00	30.00	4.00	Daniel	Robinson		
+MAR	1493	 	Daniel	Robinson	M	 	 		Marriage	1666.00	30.00	4.00	Christian	Symmons		
+MAR	1494	 	Margaret	Horton	F	 	 		Marriage	1666.00	20.00	5.00	Joseph	Wheeler		
+MAR	1495	 	Joseph	Wheeler	M	 	 		Marriage	1666.00	20.00	5.00	Margaret	Horton		
+MAR	1496	 	Sarah	William	F	 	 		Marriage	1666.00	24.00	5.00	Jeremiah	Edgerton		
+MAR	1497	 	Jeremiah	Edgerton	M	 	 		Marriage	1666.00	24.00	5.00	Sarah	William		
+MAR	1498	 	Mary	Paulin	F	 	 		Marriage	1666.00	20.00	8.00	Robert	Beale		
+MAR	1499	 	Robert	Beale	M	 	 		Marriage	1666.00	20.00	8.00	Mary	Paulin		
+MAR	1501	Mr	John	??ope	M	 	 	Thame P	Marriage	1666.00	0.00	9.00	  	  		
+MAR	1502	 	Elizabeth	Collins	F	 	 		Marriage	1666.00	5.00	10.00	Leonard	Allnutt		
+MAR	1503	 	Leonard	Allnutt	M	 	 		Marriage	1666.00	5.00	10.00	Elizabeth	Collins		
+MAR	1504	 	Mary	Gom	F	 	 		Marriage	1666.00	5.00	10.00	John	Edgerton		
+MAR	1505	 	John	Edgerton	M	Jnr	 		Marriage	1666.00	5.00	10.00	Mary	Gom		
+MAR	1506	 	Joane	Kent	F	 	 		Marriage	1666.00	7.00	10.00	Richard	Onner	By Licence	
+MAR	1507	 	Richard	Onner	M	 	 		Marriage	1666.00	7.00	10.00	Joane	Kent	By Licence	
+MAR	1508	 	Anne	Stevens	F	 	 		Marriage	1666.00	15.00	10.00	William	Cotton	By Licence	
+MAR	1509	 	William	Cotton	M	Sen	 		Marriage	1666.00	15.00	10.00	Anne	Stevens	By Licence	
+MAR	1510	 	Elizabeth	Bennett	F	 	 		Marriage	1666.00	21.00	10.00	Thomas	Winch		
+MAR	1511	 	Thomas	Winch	M	 	 		Marriage	1666.00	21.00	10.00	Elizabeth	Bennett		
+MAR	1512	 	Anne	Corby	F	 	 		Marriage	1666.00	12.00	11.00	Richard	Smitton		
+MAR	1513	 	Richard	Smitton	M	 	 		Marriage	1666.00	12.00	11.00	Anne	Corby		
+MAR	1514	 	Mary	Cooper	F	 	 		Marriage	1666.00	2.00	12.00	Thomas	Bennett		
+MAR	1515	 	Thomas	Bennett	M	 	 		Marriage	1666.00	2.00	12.00	Mary	Cooper		
+MAR	1516	 	Ellen	Fletcher	F	 	 		Marriage	1666.00	27.00	12.00	Edward	House		
+MAR	1517	 	Edward	House	M	 	 		Marriage	1666.00	27.00	12.00	Ellen	Fletcher		
+MAR	1518	 	Heather	Heibourne	F	 	 		Marriage	1666.00	31.00	12.00	Robert	Scoles	By Licence	
+MAR	1519	 	Robert	Scoles	M	 	 		Marriage	1666.00	31.00	12.00	Heather	Heibourne	By Licence	
+MAR	1520	 	Elizabeth	Plomridge	F	 	 		Marriage	1666.00	31.00	12.00	Edward	Sale	By Licence	
+MAR	1521	 	Edward	Sale	M	 	 		Marriage	1666.00	31.00	12.00	Elizabeth	Plomridge	By Licence	
+MAR	1522	 	Mary	Edwards	F	 	 		Marriage	1667.00	24.00	1.00	Oliver	Calcutt	By Licence	
+MAR	1523	 	Oliver	Calcutt	M	 	 		Marriage	1667.00	24.00	1.00	Mary	Edwards	By Licence	
+MAR	1524	 	Jane	Murton	F	 	 		Marriage	1667.00	25.00	4.00	Richard	Hester		
+MAR	1525	 	Richard	Hester	M	 	 		Marriage	1667.00	25.00	4.00	Jane	Murton		
+MAR	1526	Mrs	Mary	Burnham	F	 	 		Marriage	1667.00	2.00	5.00	Jacob	Watson	By Licence	
+MAR	1527	Mr	Jacob	Watson	M	 	 		Marriage	1667.00	2.00	5.00	Mary	Burnham	By Licence	
+MAR	1528	Mrs	Mary	Winter	F	 	 		Marriage	1667.00	12.00	5.00	William	Stratfold	By Licence	
+MAR	1529	Mr	William	Stratfold	M	 	 		Marriage	1667.00	12.00	5.00	Mary	Winter	By Licence	
+MAR	1530	 	Anne	Munday	F	 	 		Marriage	1667.00	26.00	5.00	John	Taylor		
+MAR	1531	 	John	Taylor	M	 	 		Marriage	1667.00	26.00	5.00	Anne	Munday		
+MAR	1532	 	Elizabeth	Hebb	F	 	 		Marriage	1667.00	30.00	5.00	Richard	Allnutt		
+MAR	1533	 	Richard	Allnutt	M	 	 		Marriage	1667.00	30.00	5.00	Elizabeth	Hebb		
+MAR	1534	 	Elizabeth	Saunders	F	 	 		Marriage	1667.00	7.00	7.00	Frances	Simmons		
+MAR	1535	 	Frances	Simmons	M	 	 		Marriage	1667.00	7.00	7.00	Elizabeth	Saunders		
+MAR	1536	 	Elizabeth	Blackwell	F	 	 		Marriage	1667.00	22.00	7.00	Andrew	North	By Licence	
+MAR	1537	 	Andrew	North	M	 	 		Marriage	1667.00	22.00	7.00	Elizabeth	Blackwell	By Licence	
+MAR	1538	 	Hannah	Brooke	F	 	 		Marriage	1667.00	3.00	10.00	Thomas	Clarke		
+MAR	1539	 	Thomas	Clarke	M	 	 		Marriage	1667.00	3.00	10.00	Hannah	Brooke		
+MAR	1540	 	Joane	Francklin	F	 	 		Marriage	1667.00	10.00	10.00	John	Cotton		
+MAR	1541	 	John	Cotton	M	 	 		Marriage	1667.00	10.00	10.00	Joane	Francklin		
+MAR	1542	 	Mary	Stevens	F	 	 		Marriage	1667.00	11.00	10.00	James	Foster	By Licence	
+MAR	1543	 	James	Foster	M	 	 		Marriage	1667.00	11.00	10.00	Mary	Stevens	By Licence	
+MAR	1544	 	Elizab	Weston	F	 	 		Marriage	1667.00	27.00	10.00	Thomas	James	By Licence	
+MAR	1545	 	Thomas	James	M	 	 		Marriage	1667.00	27.00	10.00	Elizab	Weston	By Licence	
+MAR	1546	 	Jane	Gibbons	F	 	 		Marriage	1667.00	31.00	10.00	Edmund	Coston	By Licence	
+MAR	1547	 	Edmund	Coston	M	 	 		Marriage	1667.00	31.00	10.00	Jane	Gibbons	By Licence	
+MAR	1548	 	Margaret	Stanley	F	 	 		Marriage	1667.00	4.00	11.00	Thomas	Sharpe		
+MAR	1549	 	Thomas	Sharpe	M	 	 		Marriage	1667.00	4.00	11.00	Margaret	Stanley		
+MAR	1550	 	Ursula	Tomlinson	F	 	 		Marriage	1667.00	31.00	12.00	Richard	Lake	By Licence	
+MAR	1551	 	Richard	Lake	M	 	 		Marriage	1667.00	31.00	12.00	Ursula	Tomlinson	By Licence	
+MAR	1552	 	Mary	Striblehill	F	 	 		Marriage	1668.00	1.00	1.00	John	Edwards	By Licence	
+MAR	1553	 	John	Edwards	M	 	 		Marriage	1668.00	1.00	1.00	Mary	Striblehill	By Licence	
+MAR	1554	 	Martha	Power 	F	 	 		Marriage	1668.00	4.00	2.00	Richard	Risley	By Licence	
+MAR	1555	 	Richard	Risley	M	 	 		Marriage	1668.00	4.00	2.00	Martha	Power	By Licence	
+MAR	1556	 	Mabell	Philby	F	 	 		Marriage	1668.00	26.00	3.00	Robert	Croxeford	By Licence	
+MAR	1557	 	Robert	Croxeford	M	 	 		Marriage	1668.00	26.00	3.00	Mabell	Philby	By Licence	
+MAR	1558	 	Anne	Williams	F	 	 		Marriage	1668.00	5.00	4.00	Richard	Cowden	By Licence	
+MAR	1559	 	Richard	Cowden	M	 	 		Marriage	1668.00	5.00	4.00	Anne	Williams	By Licence	
+MAR	1560	 	Joane	Ghost	F	 	 	Towersey	Marriage	1668.00	6.00	4.00	Frances ?	Funge		
+MAR	1561	 	Frances 	Funge	M	 	 		Marriage	1668.00	6.00	4.00	Joane	Ghost		
+MAR	1562	 	Margarett	Fletcher	F	 	 		Marriage	1668.00	7.00	4.00	Humphry	Lame	By Licence	
+MAR	1563	 	Humphry	Lame	M	 	 		Marriage	1668.00	7.00	4.00	Margarett	Fletcher	By Licence	
+MAR	1564	Mrs	Sarah	Burry	F	 	 		Marriage	1668.00	23.00	7.00	Nathaniel	Gunter	By Licence	
+MAR	1565	Mr	Nathaniel	Gunter	M	 	 		Marriage	1668.00	23.00	7.00	Sarah	Burry	By Licence	
+MAR	1566	 	Mary	Tomlins	F	 	 		Marriage	1668.00	29.00	7.00	John	Bennum		
+MAR	1567	 	John	Bennum	M	 	 		Marriage	1668.00	29.00	7.00	Mary	Tomlins		
+MAR	1568	 	Margarett	Toune	F	 	 		Marriage	1668.00	5.00	10.00	Henry	Edwards	By Licence	
+MAR	1569	 	Henry	Edwards	M	younger	 		Marriage	1668.00	5.00	10.00	Margarett	Toune	By Licence	
+MAR	1570	 	Martha	Thame	F	 	 		Marriage	1668.00	8.00	10.00	Richard	Burrowes	By Licence	
+MAR	1571	 	Richard	Burrowes	M	 	 		Marriage	1668.00	8.00	10.00	Martha	Thame	By Licence	
+MAR	1572	 	Jane	[illegible]	F	 	 		Marriage	1668.00	10.00	10.00	Thomas	Lever	By Licence	
+MAR	1573	 	Thomas	Lever	M	 	 		Marriage	1668.00	10.00	10.00	Jane	[illegible]	By Licence	
+MAR	1574	Widow	Joan	Wilson	F	 	 		Marriage	1668.00	27.00	10.00	Richard	Moseley		
+MAR	1575	 	Richard	Moseley	M	 	 		Marriage	1668.00	27.00	10.00	Joan	Wilson		
+MAR	1576	 	Jane	Powell	F	 	 		Marriage	1668.00	29.00	11.00	John	Pemmerton	By Licence	
+MAR	1577	 	John	Pemmerton	M	 	 		Marriage	1668.00	29.00	11.00	Jane	Powell	By Licence	
+MAR	1578	Widow	Christian	Shrive	F	 	 		Marriage	1668.00	30.00	12.00	Robert	Heath	By Licence	
+MAR	1579	 	Robert	Heath	M	 	 		Marriage	1668.00	30.00	12.00	Christian	Shrive	By Licence	
+MAR	1581	 	John	[illegible]	M	 	 		Marriage	1669.00	7.00	3.00	[illegible]	[illegible]		
+MAR	1582	 	Joane	Druse	F	 	 		Marriage	1669.00	21.00	3.00	William	Bullstrode	By Licence	
+MAR	1583	 	William	Bullstrode	M	 	 		Marriage	1669.00	21.00	3.00	Joane	Druse	By Licence	
+MAR	1584	 	Joane	Barton	F	 	 		Marriage	1669.00	29.00	4.00	John	Sheldon		
+MAR	1585	 	John	Sheldon	M	 	 		Marriage	1669.00	29.00	4.00	Joane	Barton		
+MAR	1586	 	Elizabeth	Rayner	F	 	 	Chinnor	Marriage	1669.00	11.00	5.00	Robert	Snell	By Licence	
+MAR	1587	 	Robert	Snell	M	 	 	Tydenham	Marriage	1669.00	11.00	5.00	Elizabeth	Rayner	By Licence	
+MAR	1588	 	Sarah	White	F	 	 		Marriage	1669.00	22.00	6.00	Augustine	Jefferye	By Licence	
+MAR	1589	 	Augustine	Jefferye	M	 	 		Marriage	1669.00	22.00	6.00	Sarah	White	By Licence	
+MAR	1590	 	Joane	Beale	F	 	 		Marriage	1669.00	3.00	7.00	Willm	Fellow		
+MAR	1591	 	Willm	Fellow	M	 	 		Marriage	1669.00	3.00	7.00	Joane	Beale		
+MAR	1592	 	Elizabeth	Sewell	F	 	 		Marriage	1669.00	24.00	8.00	William	Hadden		
+MAR	1593	 	William	Hadden	M	 	 		Marriage	1669.00	24.00	8.00	Elizabeth	Sewell		
+MAR	1594	 	Anne	Wreford	F	 	 		Marriage	1669.00	29.00	8.00	Leonard	Burton	By Licence	
+MAR	1595	 	Leonard	Burton	M	 	 		Marriage	1669.00	29.00	8.00	Anne	Wreford	By Licence	
+MAR	1596	 	Hannah	Bigge	F	 	 		Marriage	1669.00	13.00	9.00	Simon	Shrive	By Licence	
+MAR	1597	 	Simon	Shrive	M	 	 	Quainton	Marriage	1669.00	13.00	9.00	Hannah	Bigge	By Licence	
+MAR	1598	 	Anne	Towne	F	 	 		Marriage	1669.00	17.00	10.00	John	Berry	By Licence	
+MAR	1599	 	John	Berry	M	 	 		Marriage	1669.00	17.00	10.00	Anne	Towne	By Licence	
+MAR	1600	 	Sarah	Onner	F	 	 		Marriage	1669.00	1.00	11.00	John	Stone	By Licence	
+MAR	1601	 	John	Stone	M	 	 		Marriage	1669.00	1.00	11.00	Sarah	Onner	By Licence	
+MAR	1602	 	Letitia	[illegible]	F	 	 		Marriage	1670.00	13.00	1.00	Thomas	Smith	By Licence	
+MAR	1603	 	Thomas	Smith	M	 	 	Henley	Marriage	1670.00	13.00	1.00	Letitia	[illegible]	By Licence	
+MAR	1604	 	Anne	Heybourne	F	 	 		Marriage	1670.00	20.00	1.00	Thomas	Gibbons	By Licence	
+MAR	1605	 	Thomas	Gibbons	M	 	 		Marriage	1670.00	20.00	1.00	Anne	Heybourne	By Licence	
+MAR	1606	 	Jane	Russell	F	 	 		Marriage	1670.00	12.00	2.00	John	Taylour	By Licence	
+MAR	1607	 	John	Taylour	M	 	 		Marriage	1670.00	12.00	2.00	Jane	Russell	By Licence	
+MAR	1608	Widow	Phillis	Parker	F	 	 	Long Crendon	Marriage	1670.00	22.00	3.00	George	Burrowes	By Licence	
+MAR	1609	Mr	George	Burrowes	M	 	 		Marriage	1670.00	22.00	3.00	Phillis	Parker	By Licence	
+MAR	1610	 	Alice	Wares 	F	 	 		Marriage	1670.00	10.00	4.00	William	Trippe	By Licence	
+MAR	1611	 	William	Trippe	M	 	 		Marriage	1670.00	10.00	4.00	Alice	Wares ?	By Licence	
+MAR	1612	 	Elizabeth	Pinlow	F	 	 		Marriage	1670.00	30.00	4.00	Luke	Bucknam	By Licence	
+MAR	1613	 	Luke	Bucknam	M	 	 		Marriage	1670.00	30.00	4.00	Elizabeth	Pinlow	By Licence	
+MAR	1614	 	Joane	Webbe	F	 	 	Thame Park	Marriage	1670.00	4.00	5.00	John	Hitchinson	By Licence	
+MAR	1615	 	John	Hitchinson	M	 	 	Quainton	Marriage	1670.00	4.00	5.00	Joane	Webbe	By Licence	
+MAR	1616	Widow	Anne	Codden	F	 	 		Marriage	1670.00	8.00	6.00	William	Belton	By Licence	
+MAR	1617	 	William	Belton	M	 	 		Marriage	1670.00	8.00	6.00	Anne	Codden	By Licence	
+MAR	1618	Widow	Emme	Sheres 	F	 	 		Marriage	1670.00	14.00	7.00	Henry	Becke		
+MAR	1619	 	Henry	Becke	M	 	 		Marriage	1670.00	14.00	7.00	Emme	Sheres ?		
+MAR	1620	 	Sarah	Curtisse	F	 	 		Marriage	1670.00	29.00	9.00	George	Pendrith	By Licence	
+MAR	1621	 	George	Pendrith	M	 	 		Marriage	1670.00	29.00	9.00	Sarah	Curtisse	By Licence	
+MAR	1622	 	Eleanour	Fletcher	F	 	 		Marriage	1670.00	19.00	10.00	Robert	Allman		
+MAR	1623	 	Robert	Allman	M	 	 		Marriage	1670.00	19.00	10.00	Eleanour	Fletcher		
+MAR	1624	 	Joane	Randall	F	 	 		Marriage	1670.00	25.00	10.00	Nicholas	Godden	By Licence	
+MAR	1625	 	Nicholas	Godden	M	 	 		Marriage	1670.00	25.00	10.00	Joane	Randall	By Licence	
+MAR	1626	 	Alice	Clisby	F	 	 		Marriage	1670.00	25.00	10.00	William	Winlow		
+MAR	1627	 	William	Winlow	M	 	 		Marriage	1670.00	25.00	10.00	Alice	Clisby		
+MAR	1628	 	Joane	Edgerley	F	 	 		Marriage	1670.00	1.00	11.00	George	Stevens	By Licence	
+MAR	1629	 	George	Stevens	M	 	 		Marriage	1670.00	1.00	11.00	Joane	Edgerley	By Licence	
+MAR	1630	 	Joane	Bigge	F	 	 		Marriage	1670.00	2.00	11.00	John	Worley	By Licence	
+MAR	1631	 	John	Worley	M	 	 		Marriage	1670.00	2.00	11.00	Joane	Bigge	By Licence	
+MAR	1632	 	Hannah	Gibbons	F	 	 	Sydenham	Marriage	1670.00	8.00	11.00	John	Rance	By Licence	
+MAR	1633	 	John	Rance	M	 	 	Bledlow	Marriage	1670.00	8.00	11.00	Hannah	Gibbons	By Licence	
+MAR	1634	 	Jane	Borer 	F	 	 		Marriage	1670.00	6.00	12.00	Richard	Simons	By Licence	
+MAR	1635	 	Richard	Simons	M	 	 		Marriage	1670.00	6.00	12.00	Jane	Borer	By Licence	
+MAR	1636	 	Nelson	Whateley	F	 	 		Marriage	1670.00	28.00	12.00	Daniel	Brookes	By Licence	
+MAR	1637	Mr	Daniel	Brookes	M	 	 		Marriage	1670.00	28.00	12.00	Nelson	Whateley	By Licence	
+MAR	1638	 	Mary	Heath	F	 	 		Marriage	1671.00	21.00	1.00	William	Titt	By Licence	
+MAR	1639	 	William	Titt	M	 	 		Marriage	1671.00	21.00	1.00	Mary	Heath	By Licence	
+MAR	1640	 	Elizabeth	Browne	F	 	 	Thame	Marriage	1671.00	2.00	2.00	William	Smith		
+MAR	1641	 	William	Smith	M	 	 	Ickford	Marriage	1671.00	2.00	2.00	Elizabeth	Browne		
+MAR	1642	 	Jane	Simmons	F	 	 		Marriage	1671.00	10.00	2.00	John	Pendleton		
+MAR	1643	 	John	Pendleton	M	 	 		Marriage	1671.00	10.00	2.00	Jane	Simmons		
+MAR	1644	 	Mary	Bannister	F	 	 	Tetsworth	Marriage	1671.00	13.00	2.00	Simon	Hamlin	By Licence	
+MAR	1645	 	Simon	Hamlin	M	 	 	Great Milton	Marriage	1671.00	13.00	2.00	Mary	Bannister	By Licence	
+MAR	1646	 	Anne	Kempe	F	 	 		Marriage	1671.00	27.00	2.00	James	Howlett	By Licence	
+MAR	1647	 	James	Howlett	M	 	 		Marriage	1671.00	27.00	2.00	Anne	Kempe	By Licence	
+MAR	1648	 	Mary	Clarke	F	 	 		Marriage	1671.00	23.00	4.00	William	Hebly		
+MAR	1649	 	William	Hebly	M	 	 		Marriage	1671.00	23.00	4.00	Mary	Clarke		
+MAR	1651	 	Alice	Edwards	F	 	 	Tetsworth	Marriage	1671.00	15.00	5.00	Daniel	Woode	By Licence	
+MAR	1652	 	Daniel	Woode	M	 	 		Marriage	1671.00	15.00	5.00	Alice	Edwards	By Licence	
+MAR	1653	 	Joane	Grout	F	 	 		Marriage	1671.00	1.00	6.00	Richard	Tucker		
+MAR	1654	 	Richard	Tucker	M	 	 		Marriage	1671.00	1.00	6.00	Joane	Grout		
+MAR	1655	 	Elizabeth	Parsons	F	 	 	Bledlow	Marriage	1671.00	8.00	6.00	John	White	By Licence	
+MAR	1656	 	John	White	M	 	 	Sydenham	Marriage	1671.00	8.00	6.00	Elizabeth	Parsons	By Licence	
+MAR	1657	 	Anne	Catton	F	 	 	Thame	Marriage	1671.00	15.00	6.00	Edmund	Forst	By Licence	
+MAR	1658	 	Edmund	Forst	M	 	 	Winton	Marriage	1671.00	15.00	6.00	Anne	Catton	By Licence	
+MAR	1659	Widow	Frances	Becke	F	 	 	Thame	Marriage	1671.00	18.00	6.00	Griffin	Macock		
+MAR	1660	 	Griffin	Macock	M	 	 	Haddenham	Marriage	1671.00	18.00	6.00	Frances	Becke		
+MAR	1661	 	Alice	Messenger	F	 	 	Thame	Marriage	1671.00	25.00	7.00	Henry	Nobes	By Licence	
+MAR	1662	 	Henry	Nobes	M	 	 		Marriage	1671.00	25.00	7.00	Alice	Messenger	By Licence	
+MAR	1663	Widow	Eleanour	Coles	F	 	 	Thame	Marriage	1671.00	6.00	8.00	Henry	Parker		
+MAR	1664	 	Henry	Parker	M	 	 		Marriage	1671.00	6.00	8.00	Eleanour	Coles		
+MAR	1665	 	Abigaile	Stoppe	F	 	 		Marriage	1671.00	5.00	10.00	Leonard	Sharpe	By Licence	
+MAR	1666	 	Leonard	Sharpe	M	 	 		Marriage	1671.00	5.00	10.00	Abigaile	Stoppe	By Licence	
+MAR	1667	 	Margarett	Bradforde	F	 	 		Marriage	1671.00	1.00	11.00	Robt	Munday		
+MAR	1668	 	Robt	Munday	M	 	 		Marriage	1671.00	1.00	11.00	Margarett	Bradforde		
+MAR	1669	 	Elizabeth	Burton	F	 	 		Marriage	1671.00	24.00	12.00	Richard	Eeles	By Licence	
+MAR	1670	 	Richard	Eeles	M	 	 		Marriage	1671.00	24.00	12.00	Elizabeth	Burton	By Licence	
+MAR	1671	 	Dorothy	Luggrove	F	 	 	North Weston	Marriage	1672.00	6.00	1.00	John	Haukins		
+MAR	1672	 	John	Haukins	M	 	 	Noake	Marriage	1672.00	6.00	1.00	Dorothy	Luggrove		
+MAR	1673	 	Elizabeth	Butler	F	 	 	Sydenham	Marriage	1672.00	22.00	1.00	Joseph	Wise	By Licence	
+MAR	1674	 	Joseph	Wise	M	 	 		Marriage	1672.00	22.00	1.00	Elizabeth	Butler	By Licence	
+MAR	1675	 	Elizabeth	Tomkins	F	 	 	Thame	Marriage	1672.00	28.00	1.00	Joseph	Munday		
+MAR	1676	 	Joseph	Munday	M	 	 		Marriage	1672.00	28.00	1.00	Elizabeth	Tomkins	By Licence	
+MAR	1677	 	Joane	Cowley	F	 	 		Marriage	1672.00	14.00	2.00	John	Hesther		
+MAR	1678	 	John	Hesther	M	 	 		Marriage	1672.00	14.00	2.00	Joane	Cowley		
+MAR	1679	 	Margery	Gibbons	F	 	 		Marriage	1672.00	7.00	4.00	Thomas	Adams		
+MAR	1680	 	Thomas	Adams	M	 	 		Marriage	1672.00	7.00	4.00	Margery	Gibbons		
+MAR	1681	Widow	Sarah	Gooderidge	F	 	 		Marriage	1672.00	23.00	4.00	Thomas	Jackman	By Licence	
+MAR	1682	 	Thomas	Jackman	M	 	 		Marriage	1672.00	23.00	4.00	Sarah	Gooderidge	By Licence	
+MAR	1683	 	Mary	Towne	F	 	 		Marriage	1672.00	25.00	4.00	Abraham	Trencher		
+MAR	1684	 	Abraham	Trencher	M	 	 	Great Missenden	Marriage	1672.00	25.00	4.00	Mary	Towne		
+MAR	1685	 	Anne	Higlye	F	 	 	Great Hampton - Bucks 	Marriage	1672.00	29.00	4.00	Emmuel ?	Stringer		
+MAR	1686	 	Emmuel 	Stringer	M	 	 	Marston - Oxon	Marriage	1672.00	29.00	4.00	Anne	Higlye		
+MAR	1687	 	Elizabeth	Burke 	F	 	 		Marriage	1672.00	10.00	7.00	Thomas	Hunte		
+MAR	1688	 	Thomas	Hunte	M	 	 		Marriage	1672.00	10.00	7.00	Elizabeth	Burke ?		
+MAR	1689	 	Mary	Mundy	F	 	 		Marriage	1672.00	28.00	7.00	Francis	Pratt		
+MAR	1690	 	Francis	Pratt	M	 	 		Marriage	1672.00	28.00	7.00	Mary	Mundy		
+MAR	1691	 	Susannah	Stevens	F	 	 		Marriage	1672.00	4.00	9.00	John	Coxheade	By Licence	
+MAR	1692	 	John	Coxheade	M	 	 		Marriage	1672.00	4.00	9.00	Susannah	Stevens	By Licence	
+MAR	1693	Widow	Catherine	Woodbridge	F	 	 		Marriage	1672.00	10.00	9.00	Willm	Fellow		
+MAR	1694	 	Willm	Fellow	M	 	 		Marriage	1672.00	10.00	9.00	Catherine	Woodbridge		
+MAR	1695	 	 	Bayly	F	 	 		Marriage	1672.00	21.00	10.00	Leonard	Stires		
+MAR	1696	 	Leonard	Stires	M	 	 		Marriage	1672.00	21.00	10.00	  	Bayly		
+MAR	1697	 	Mary	Laurence	F	 	 		Marriage	1672.00	3.00	11.00	Edward	Balle	By Licence	
+MAR	1698	 	Edward	Balle	M	 	 		Marriage	1672.00	3.00	11.00	Mary	Laurence	By Licence	
+MAR	1699	 	Joane	King	F	 	 	Tetsworth	Marriage	1672.00	1.00	12.00	John	Slauter		
+MAR	1700	 	John	Slauter	M	 	 		Marriage	1672.00	1.00	12.00	Joane	King		
+MAR	1701	 	Catherine	Corsin 	F	 	 		Marriage	1672.00	30.00	12.00	John	Ives		
+MAR	1702	 	John	Ives	M	 	 		Marriage	1672.00	30.00	12.00	Catherine	Corsin ?		
+MAR	1703	 	Elizabeth	Steward	F	 	 		Marriage	1673.00	5.00	2.00	Thomas	Davis	By Licence	
+MAR	1704	 	Thomas	Davis	M	younger	 		Marriage	1673.00	5.00	2.00	Elizabeth	Steward	By Licence	
+MAR	1705	 	Anne	Prickett	F	 	 		Marriage	1673.00	3.00	4.00	Robert	Cotton	By Licence	
+MAR	1706	 	Robert	Cotton	M	 	 		Marriage	1673.00	3.00	4.00	Anne	Prickett	By Licence	
+MAR	1707	 	Sarah	Dobson 	F	 	 		Marriage	1673.00	10.00	4.00	Richard	Jarves	By Licence	
+MAR	1708	 	Richard	Jarves	M	 	 		Marriage	1673.00	10.00	4.00	Sarah	Dobson ?	By Licence	
+MAR	1709	 	John	Simmons	M	 	 		Marriage	1671.00	1.00	3.00	Elizabeth	Flower	By Licence	
+MAR	1710	 	Elizabeth	Flower	F	 	 		Marriage	1671.00	1.00	3.00	John	Simmonds	By Licence	
+MAR	1711	 	Grace	Bridgeman	F	 	 		Marriage	1673.00	3.00	5.00	John	Mountaine	By Licence	
+MAR	1712	 	John	Mountaine	M	 	 		Marriage	1673.00	3.00	5.00	Grace	Bridgeman	By Licence	
+MAR	1713	 	Elizabeth	Springall	F	 	 		Marriage	1673.00	5.00	5.00	Thomas	West		
+MAR	1714	 	Thomas	West	M	 	 		Marriage	1673.00	5.00	5.00	Elizabeth	Springall		
+MAR	1715	 	Grace	Neighbour	F	 	 		Marriage	1673.00	22.00	5.00	Christopher	Hunte	By Licence	
+MAR	1716	 	Christopher	Hunte	M	 	 		Marriage	1673.00	22.00	5.00	Grace	Neighbour	By Licence	
+MAR	1717	Widow	 	Pembrook	F	 	 		Marriage	1673.00	29.00	5.00	Richard	Wenlory		
+MAR	1718	 	Richard	Wenlory	M	 	 		Marriage	1673.00	29.00	5.00	Widow	Pembrook		
+MAR	1719	 	Elizabeth	Bigge	F	 	 	Aston	Marriage	1673.00	14.00	9.00	Philip	Messenger	By Licence	
+MAR	1720	 	Philip	Messenger	M	younger	 	Thame	Marriage	1673.00	14.00	9.00	Elizabeth	Bigge	By Licence	
+MAR	1721	 	Mary	Peade	F	 	 		Marriage	1673.00	22.00	9.00	Leonard	Messenger	By Licence	
+MAR	1722	 	Leonard	Messenger	M	 	 		Marriage	1673.00	22.00	9.00	Mary	Peade	By Licence	
+MAR	1723	 	Alice	Keine	F	 	 		Marriage	1673.00	4.00	11.00	Laurence	Mercer		
+MAR	1724	 	Laurence	Mercer	M	 	 		Marriage	1673.00	4.00	11.00	Alice	Keine		
+MAR	1725	 	Anne	Burnham	F	 	 	Tetsworth	Marriage	1673.00	2.00	12.00	Hugh	Fillby		
+MAR	1726	 	Hugh	Fillby	M	 	 		Marriage	1673.00	2.00	12.00	Anne	Burnham		
+MAR	1727	 	Anne	Philipps	F	 	 		Marriage	1673.00	7.00	12.00	Samuel	White	By Licence	
+MAR	1728	 	Samuel	White	M	 	 		Marriage	1673.00	7.00	12.00	Anne	Philipps	By Licence	
+MAR	1729	 	Margery	Adams	F	 	 		Marriage	1673.00	8.00	12.00	John	Ayres		
+MAR	1730	 	John	Ayres	M	 	 	North Weston	Marriage	1673.00	8.00	12.00	Margery	Adams		
+MAR	1731	 	Anne	Cleeve	F	 	 	Sydenham	Marriage	1674.00	26.00	1.00	John	Flight	By Licence	
+MAR	1732	 	John	Flight	M	 	 	Lukenor	Marriage	1674.00	26.00	1.00	Anne	Cleeve	By Licence	
+MAR	1733	 	Bridgett	Bates	F	 	 		Marriage	1674.00	26.00	1.00	Gerarde	Stires		
+MAR	1734	 	Gerarde	Stires	M	 	 		Marriage	1674.00	26.00	1.00	Bridgett	Bates		
+MAR	1735	Widow	Mary	Higgins	F	 	 		Marriage	1674.00	29.00	1.00	William	Ayres	By Licence	
+MAR	1736	 	William	Ayres	M	 	 		Marriage	1674.00	29.00	1.00	Mary	Higgins	By Licence	
+MAR	1737	 	Anne	Reynolds	F	 	 		Marriage	1674.00	2.00	2.00	Thomas	Gray		
+MAR	1738	 	Thomas	Gray	M	 	 		Marriage	1674.00	2.00	2.00	Anne	Reynolds		
+MAR	1739	 	Catharine	Gardner	F	 	 	Haseley	Marriage	1674.00	17.00	4.00	John	Wiggington	By Licence	
+MAR	1740	 	John	Wiggington	M	 	 	Thame	Marriage	1674.00	17.00	4.00	Catharine	Gardner	By Licence	
+MAR	1741	Widow	 	Laurence	F	 	 		Marriage	1674.00	20.00	4.00	Thomas	Harris		
+MAR	1742	 	Thomas	Harris	M	 	 		Marriage	1674.00	20.00	4.00	Widow	Laurence		
+MAR	1743	 	Christian	Jordon	F	 	 		Marriage	1674.00	20.00	4.00	William	Clacke		
+MAR	1744	 	William	Clacke	M	 	 	High Wickham	Marriage	1674.00	20.00	4.00	Christian	Jordon		
+MAR	1745	 	Welthian	Davis	F	 	 		Marriage	1674.00	21.00	4.00	Thomas	Paulin	By Licence	
+MAR	1746	 	Thomas	Paulin	M	 	 	North Weston	Marriage	1674.00	21.00	4.00	Welthian	Davis	By Licence	
+MAR	1747	 	Anne	Brookes	F	 	 	Thame	Marriage	1674.00	7.00	6.00	James	Nixon		
+MAR	1748	 	James	Nixon	M	 	 	Long Crendon	Marriage	1674.00	7.00	6.00	Anne	Brookes		
+MAR	1749	 	Mary	Meade	F	 	 	Towersey	Marriage	1674.00	12.00	6.00	Simon	Howlett		
+MAR	1750	 	Simon	Howlett	M	 	 		Marriage	1674.00	12.00	6.00	Mary	Meade		
+MAR	1751	 	Elizabeth	Busey	F	 	 		Marriage	1674.00	1.00	7.00	Richard	Mountaine		
+MAR	1752	 	Richard	Mountaine	M	 	 		Marriage	1674.00	1.00	7.00	Elizabeth	Busey		
+MAR	1753	 	Sarah	Feilde	F	 	 	Watlington	Marriage	1674.00	19.00	7.00	William	Bennett		
+MAR	1754	 	William	Bennett	M	 	 	Thame	Marriage	1674.00	19.00	7.00	Sarah	Feilde		
+MAR	1755	Widow	Frances	Rakestraw	F	 	 		Marriage	1674.00	26.00	7.00	Jasper	Walker	By Licence	
+MAR	1756	 	Jasper	Walker	M	 	 		Marriage	1674.00	26.00	7.00	Frances	Rakestraw	By Licence	
+MAR	1757	 	Alice	King	F	 	 		Marriage	1674.00	13.00	9.00	Thomas	Parnes	By Licence	
+MAR	1758	 	Thomas	Parnes	M	 	 		Marriage	1674.00	13.00	9.00	Alice	King	By Licence	
+MAR	1759	 	Hannah	Bradbury	F	 	 	Adwell	Marriage	1674.00	22.00	10.00	Thomas	Croxton	By Licence	
+MAR	1760	 	Thomas	Croxton	M	 	 	Sydenham	Marriage	1674.00	22.00	10.00	Hannah	Bradbury	By Licence	
+MAR	1761	 	Heather	Very 	F	 	 	Haddenham	Marriage	1674.00	31.00	12.00	Stephen	Kempe	By Licence	
+MAR	1762	 	Stephen	Kempe	M	 	 	Thame	Marriage	1674.00	31.00	12.00	Heather	Very ?	By Licence	
+MAR	1763	 	Jane	Worin 	F	 	 	Lukenor	Marriage	1675.00	16.00	2.00	Richard	Winlow	By Licence	
+MAR	1764	 	Richard	Winlow	M	 	 	Sydenham	Marriage	1675.00	16.00	2.00	Jane	Worin ?	By Licence	
+MAR	1765	 	Frances	Clarke	F	 	 		Marriage	1675.00	19.00	4.00	Samuel	Powell		
+MAR	1766	 	Samuel	Powell	M	 	 		Marriage	1675.00	19.00	4.00	Frances	Clarke		
+MAR	1767	 	Elizabeth	Wanborne	F	 	 		Marriage	1675.00	20.00	6.00	Richard	Fencutt		
+MAR	1768	 	Richard	Fencutt	M	 	 		Marriage	1675.00	20.00	6.00	Elizabeth	Wanborne		
+MAR	1769	 	Sarah	Paine	F	 	 		Marriage	1675.00	22.00	6.00	Leonard	Stykes		
+MAR	1770	 	Leonard	Stykes	M	elder	 		Marriage	1675.00	22.00	6.00	Sarah	Paine		
+MAR	1771	 	Elizabeth	Kent	F	 	 		Marriage	1675.00	24.00	10.00	Richard	Luce		
+MAR	1772	 	Richard	Luce	M	 	 		Marriage	1675.00	24.00	10.00	Elizabeth	Kent		
+MAR	1775	 	Frances	Slatford	F	 	 		Marriage	1676.00	17.00	7.00	Thomas	Druce		
+MAR	1776	 	Thomas	Druce	M	 	 		Marriage	1676.00	17.00	7.00	Frances	Slatford		
+MAR	1777	 	Elinor	Welseen 	F	 	 		Marriage	1676.00	17.00	9.00	John	Gaferie		
+MAR	1778	 	John	Gaferie	M	 	 		Marriage	1676.00	17.00	9.00	Elinor	Welseen ?		
+MAR	1779	 	Jone	Ledford	F	 	 		Marriage	1676.00	30.00	9.00	Thomas	Burren		
+MAR	1780	 	Thomas	Burren	M	 	 		Marriage	1676.00	30.00	9.00	Jone	Ledford		
+MAR	1781	 	Jone	Ambridge	F	 	 		Marriage	1676.00	1.00	10.00	Phillip	Billington		
+MAR	1782	 	Phillip	Billington	M	 	 		Marriage	1676.00	1.00	10.00	Jone	Ambridge		
+MAR	1783	 	Elizabeth	Slauter	F	 	 		Marriage	1676.00	2.00	10.00	John	Larence		
+MAR	1784	 	John	Larence	M	 	 		Marriage	1676.00	2.00	10.00	Elizabeth	Slauter		
+MAR	1785	 	Marrian	Mine	F	 	 		Marriage	1676.00	4.00	10.00	John	Mallin		
+MAR	1786	 	John	Mallin	M	 	 		Marriage	1676.00	4.00	10.00	Marrian	Mine		
+MAR	1787	 	Jane	Pownee	F	 	 		Marriage	1676.00	31.00	12.00	John	Willkins		
+MAR	1788	 	John	Willkins	M	 	 		Marriage	1676.00	31.00	12.00	Jane	Pownee		
+MAR	1789	 	Ann	Smith	F	 	 		Marriage	1676.00	31.00	12.00	Antony	Davis		
+MAR	1790	 	Antony	Davis	M	 	 		Marriage	1676.00	31.00	12.00	Ann	Smith		
+MAR	1791	Widow	 	King	F	 	 		Marriage	1677.00	22.00	1.00	Nicholas	Mills		
+MAR	1792	Mr	Nicholas	Mills	M	 	 		Marriage	1677.00	22.00	1.00	Widow	King		
+MAR	1793	 	Mary	Cheese	F	 	 		Marriage	1677.00	23.00	9.00	James	Bloy		
+MAR	1794	 	James	Bloy	M	 	 		Marriage	1677.00	23.00	9.00	Mary	Cheese		
+MAR	1795	 	Mary	Cooke	F	 	 		Marriage	1678.00	26.00	6.00	Thomas	Jacot ?		
+MAR	1796	 	Thomas	Jacot	M	 	 		Marriage	1678.00	26.00	6.00	Mary	Cooke		
+MAR	1797	 	Ann	Cheese	F	 	 		Marriage	1678.00	7.00	10.00	William	Meekes		
+MAR	1798	 	William	Meekes	M	 	 		Marriage	1678.00	7.00	10.00	Ann	Cheese		
+MAR	1799	 	Elizabeth	Godin	F	 	 		Marriage	1678.00	24.00	11.00	Phillip	Ming		
+MAR	1800	 	Phillip	Ming	M	 	 		Marriage	1678.00	24.00	11.00	Elizabeth	Godln		
+MAR	1801	 	Jone	Mills	F	 	 		Marriage	1679.00	10.00	2.00	Robert	Kibble		
+MAR	1802	 	Robert	Kibble	M	 	 		Marriage	1679.00	10.00	2.00	Jone	Mills		
+MAR	1803	 	Jone	Davis	F	 	 		Marriage	1679.00	21.00	9.00	John	Inot		
+MAR	1804	 	John	Inot	M	 	 		Marriage	1679.00	21.00	9.00	Jone	Davis		
+MAR	1805	Mrs	Mary	Neele	F	 	 		Marriage	1679.00	9.00	10.00	John	Sellwood		
+MAR	1806	Mr	John	Sellwood	M	 	 		Marriage	1679.00	9.00	10.00	Mary	Neele		
+MAR	1807	 	Mary	Burch	F	 	 		Marriage	1679.00	17.00	11.00	William	Starling		
+MAR	1808	 	William	Starling	M	 	 		Marriage	1679.00	17.00	11.00	Mary	Burch		
+MAR	1809	 	Ann	Holliman	F	 	 		Marriage	1679.00	7.00	12.00	John	Funge		
+MAR	1810	 	John	Funge	M	 	 		Marriage	1679.00	7.00	12.00	Ann	Holliman		
+MAR	1811	 	Elizabeth	Greene	F	 	 		Marriage	1680.00	12.00	1.00	John	Siene		
+MAR	1812	 	John	Siene	M	 	 		Marriage	1680.00	12.00	1.00	Elizabeth	Greene		
+MAR	1813	 	Ann	Druce	F	 	 		Marriage	1680.00	12.00	2.00	Edward	Sale		
+MAR	1814	 	Edward	Sale	M	 	 		Marriage	1680.00	12.00	2.00	Ann	Druce		
+MAR	1815	 	Elizabeth	Greene	F	 	 		Marriage	1680.00	17.00	7.00	James	Eynot ?		
+MAR	1816	 	James	Eynot	M	 	 		Marriage	1680.00	17.00	7.00	Elizabeth	Greene		
+MAR	1817	 	Mary	Timothy	F	 	 		Marriage	1680.00	31.00	10.00	William	Write		
+MAR	1818	 	William	Write	M	 	 		Marriage	1680.00	31.00	10.00	Mary	Timothy		
+MAR	1819	 	Margret	Bennet	F	 	 		Marriage	1680.00	31.00	10.00	Edward	Wiggs		
+MAR	1820	 	Edward	Wiggs	M	 	 		Marriage	1680.00	31.00	10.00	Margret	Bennet		
+MAR	1821	 	Ann	Larmore	F	 	 		Marriage	1681.00	26.00	5.00	John	[illegible]		
+MAR	1822	 	John	[illegible]	M	 	 		Marriage	1681.00	26.00	5.00	Ann	Larmore		
+MAR	1823	 	Elisabeth	Cave	F	 	 		Marriage	1681.00	30.00	7.00	Henry	Folly		
+MAR	1824	 	Henry	Folly	M	 	 		Marriage	1681.00	30.00	7.00	Elisabeth	Cave		
+MAR	1825	 	Ann	Peverill	F	 	 		Marriage	1681.00	25.00	9.00	William	Young		
+MAR	1826	 	William	Young	M	 	 		Marriage	1681.00	25.00	9.00	Ann	Peverill		
+MAR	1827	 	Jone	Franklin	F	 	 		Marriage	1681.00	6.00	10.00	Henry	Cope		
+MAR	1828	 	Henry	Cope	M	 	 		Marriage	1681.00	6.00	10.00	Jone	Franklin		
+MAR	1829	 	Ann	Casemore	F	 	 		Marriage	1681.00	9.00	10.00	Humfry	Jones		
+MAR	1830	 	Humfry	Jones	M	 	 		Marriage	1681.00	9.00	10.00	Ann	Casemore		
+MAR	1831	 	Mary	Cox	F	 	 		Marriage	1681.00	13.00	10.00	Jearamia	Doyly		
+MAR	1832	 	Jearamia	Doyly	M	 	 		Marriage	1681.00	13.00	10.00	Mary	Cox		
+MAR	1833	 	Jane	Brookes	F	 	 		Marriage	1681.00	27.00	10.00	Henry	Longe		
+MAR	1834	 	Henry	Longe	M	 	 		Marriage	1681.00	27.00	10.00	Jane	Brookes		
+MAR	1835	 	Marrian	Powell	F	 	 		Marriage	1682.00	23.00	1.00	John	Swains		
+MAR	1836	 	John	Swains	M	 	 		Marriage	1682.00	23.00	1.00	Marrian	Powell		
+MAR	1837	 	Margret	Pidington	F	 	 		Marriage	1682.00	2.00	2.00	Philip	Jonson		
+MAR	1838	 	Philip	Jonson	M	 	 		Marriage	1682.00	2.00	2.00	Margret	Pidington		
+MAR	1839	 	Mary	Plested	F	 	 		Marriage	1682.00	8.00	2.00	William	Wheler		
+MAR	1840	 	William	Wheler	M	 	 		Marriage	1682.00	8.00	2.00	Mary	Plested		
+MAR	1841	 	Ann	Carter	F	 	 		Marriage	1682.00	9.00	2.00	William	Pim		
+MAR	1842	 	William	Pim	M	 	 		Marriage	1682.00	9.00	2.00	Ann	Carter		
+MAR	1843	 	Elizabeth	Wheler	F	 	 		Marriage	1682.00	10.00	2.00	William	Bennet		
+MAR	1844	 	William	Bennet	M	 	 		Marriage	1682.00	10.00	2.00	Elizabeth	Wheler		
+MAR	1845	 	Elizabeth	Dobinson	F	 	 		Marriage	1682.00	26.00	2.00	Jeramia	Page		
+MAR	1846	 	Jeramia	Page	M	 	 		Marriage	1682.00	26.00	2.00	Elizabeth	Dobinson		
+MAR	1847	 	Elizabeth	Powell	F	 	 		Marriage	1682.00	20.00	6.00	John	Tucker		
+MAR	1848	 	John	Tucker	M	 	 		Marriage	1682.00	20.00	6.00	Elizabeth	Powell		
+MAR	1849	Mrs	Martha	Neale	F	 	 		Marriage	1682.00	10.00	8.00	John	Britewell		
+MAR	1850	Mr	John	Britewell	M	 	 		Marriage	1682.00	10.00	8.00	Martha	Neale		
+MAR	1851	 	Elizabeth	Evans	F	 	 		Marriage	1682.00	8.00	10.00	John	Neele		
+MAR	1852	 	John	Neele	M	 	 		Marriage	1682.00	8.00	10.00	Elizabeth	Evans		
+MAR	1853	 	Jone	Case 	F	 	 		Marriage	1682.00	12.00	10.00	Richard	Tomkins ?		
+MAR	1854	 	Richard	Tomkins	M	 	 		Marriage	1682.00	12.00	10.00	Jone	Case ?		
+MAR	1855	 	Elizabeth	Cox	F	 	 		Marriage	1682.00	29.00	10.00	Mortimore	Druce		
+MAR	1856	 	Mortimore	Druce	M	 	 		Marriage	1682.00	29.00	10.00	Elizabeth	Cox		
+MAR	1857	 	Jone	Bue	F	 	 		Marriage	1682.00	20.00	11.00	Ralfe	Bayly		
+MAR	1858	 	Ralfe	Bayly	M	 	 		Marriage	1682.00	20.00	11.00	Jone	Bue		
+MAR	1859	 	Mary	 	F	 	 		Marriage	1682.00	23.00	11.00	John	Skilton		
+MAR	1860	 	John	Skilton	M	 	 		Marriage	1682.00	23.00	11.00	Mary	  		
+MAR	1861	 	Jane	Randall	F	 	 		Marriage	1682.00	1.00	12.00	Henry	Edwards		
+MAR	1862	 	Henry	Edwards	M	 	 		Marriage	1682.00	1.00	12.00	Jane	Randall		
+MAR	1863	 	Elizabeth	Jeffs 	F	 	 		Marriage	1683.00	1.00	1.00	Wm	Jonson		
+MAR	1864	 	Wm	Jonson	M	 	 		Marriage	1683.00	1.00	1.00	Elizabeth	Jeffs		
+MAR	1865	 	Elizabeth	Baker	F	 	 		Marriage	1683.00	22.00	1.00	Edward	Russill		
+MAR	1866	 	Edward	Russill	M	 	 		Marriage	1683.00	22.00	1.00	Elizabeth	Baker		
+MAR	1867	 	Ann	Coleman	F	 	 		Marriage	1683.00	2.00	5.00	Matthew	Norman		
+MAR	1868	 	Matthew	Norman	M	 	 		Marriage	1683.00	2.00	5.00	Ann	Coleman		
+MAR	1869	 	Elinor	Higgins	F	 	 		Marriage	1683.00	4.00	5.00	Richard	Inot		
+MAR	1870	 	Richard	Inot	M	 	 		Marriage	1683.00	4.00	5.00	Elinor	Higgins		
+MAR	1871	 	Elenor	Figg	F	 	 		Marriage	1683.00	30.00	9.00	Robert	Dobinson		
+MAR	1872	 	Robert	Dobinson	M	 	 		Marriage	1683.00	30.00	9.00	Elenor	Figg		
+MAR	1873	 	Mary	Hiduck	F	 	 		Marriage	1683.00	7.00	10.00	Thomas	Pew		
+MAR	1874	 	Thomas	Pew	M	 	 		Marriage	1683.00	7.00	10.00	Mary	Hiduck		
+MAR	1875	 	Elizabeth	Hobbey	F	 	 		Marriage	1683.00	11.00	10.00	John	Jordan	By Licence	
+MAR	1876	 	John	Jordan	M	 	 		Marriage	1683.00	11.00	10.00	Elizabeth	Hobbey	By Licence	
+MAR	1877	 	Elizabeth	West	F	 	 		Marriage	1683.00	24.00	12.00	John	Burton		
+MAR	1878	 	John	Burton	M	 	 		Marriage	1683.00	24.00	12.00	Elizabeth	West		
+MAR	1879	 	Margrett	Cotten	F	 	 		Marriage	1684.00	30.00	3.00	William	Maunder	By Licence	
+MAR	1880	 	William	Maunder	M	 	 		Marriage	1684.00	30.00	3.00	Margrett	Cotton	By Licence	
+MAR	1881	Widow	 	Larrance	F	 	 		Marriage	1684.00	3.00	4.00	John	Borom		
+MAR	1882	 	John	Borom	M	 	 		Marriage	1684.00	3.00	4.00	Widow	Larrance		
+MAR	1883	 	Ruth	Smith	F	 	 		Marriage	1684.00	6.00	4.00	William	Curtis	By Licence	
+MAR	1884	 	William	Curtis	M	 	 		Marriage	1684.00	6.00	4.00	Ruth	Smith	By Licence	
+MAR	1885	 	Mary	Alnot	F	 	 		Marriage	1684.00	6.00	4.00	William	Wing	By Licence	
+MAR	1886	 	William	Wing	M	 	 		Marriage	1684.00	6.00	4.00	Mary	Alnot	By Licence	
+MAR	1887	 	Mary	Kent	F	 	 		Marriage	1684.00	18.00	5.00	Thomas	Luxford		
+MAR	1888	 	Thomas	Luxford	M	 	 		Marriage	1684.00	18.00	5.00	Mary	Kent		
+MAR	1889	 	Hannah	Stedens	F	 	 		Marriage	1684.00	19.00	5.00	  	Hellyman		
+MAR	1890	 	 	Hellyman	M	 	 		Marriage	1684.00	19.00	5.00	Hannah	Stedens		
+MAR	1891	Widow	Mary	Calcot	F	 	 		Marriage	1684.00	20.00	6.00	Richard	Luce	By Licence	
+MAR	1892	 	Richard	Luce	M	 	 		Marriage	1684.00	20.00	6.00	Mary	Calcot	By Licence	
+MAR	1893	 	Elizabeth	Meade	F	 	 		Marriage	1685.00	19.00	4.00	Richard	Mundaye		
+MAR	1894	 	Richard	Mundaye	M	 	 		Marriage	1685.00	19.00	4.00	Elizabeth	Meade		
+MAR	1895	 	Frances	Deane	F	 	 	Tetsworth	Marriage	1685.00	30.00	4.00	William	Hobdaye	By Licence	
+MAR	1896	 	William	Hobdaye	M	 	 		Marriage	1685.00	30.00	4.00	Frances	Deane	By Licence	
+MAR	1897	 	Ann	Tripp	F	 	 		Marriage	1685.00	12.00	5.00	Frances	Hill		
+MAR	1898	 	Frances	Hill	M	 	 		Marriage	1685.00	12.00	5.00	Ann	Tripp		
+MAR	1899	 	Mary	Green	F	 	 		Marriage	1685.00	21.00	5.00	Jams	Hedges		
+MAR	1900	 	Jams	Hedges	M	 	 		Marriage	1685.00	21.00	5.00	Mary	Green		
+MAR	1901	 	Phebe	Pratt	F	 	 		Marriage	1685.00	3.00	12.00	Nicholas	Cooke	By Licence	
+MAR	1902	 	Nicholas	Cooke	M	 	 		Marriage	1685.00	3.00	12.00	Phebe	Pratt	By Licence	
+MAR	1903	 	Elener	Kenton	F	 	 		Marriage	1686.00	6.00	1.00	John	Williams		
+MAR	1904	 	John	Williams	M	 	 		Marriage	1686.00	6.00	1.00	Elener	Kenton		
+MAR	1905	 	Joane	Reed	F	 	 		Marriage	1686.00	15.00	1.00	John	Jordan		
+MAR	1906	 	John	Jordan	M	 	 		Marriage	1686.00	15.00	1.00	Joane	Reed		
+MAR	1907	 	Margret	Greene	F	 	 		Marriage	1686.00	7.00	2.00	William	Jeffs		
+MAR	1908	 	William	Jeffs	M	 	 		Marriage	1686.00	7.00	2.00	Margret	Greene		
+MAR	1909	 	Sarah	Harris	F	 	 	Thame	Marriage	1686.00	10.00	2.00	Richard	Jennings		
+MAR	1910	 	Richard	Jennings	M	 	 	Stone	Marriage	1686.00	10.00	2.00	Sarah	Harris		
+MAR	1911	Mrs	Ann	Smith	F	 	 		Marriage	1686.00	0.00	7.00	William	Tue	By Licence	
+MAR	1912	Mr	William	Tue	M	 	 		Marriage	1686.00	0.00	7.00	Ann	Smith	By Licence	
+MAR	1913	 	Mary	Loosley	F	 	 		Marriage	1686.00	6.00	7.00	John	Low	By Licence	
+MAR	1914	 	John	Low	M	 	 		Marriage	1686.00	6.00	7.00	Mary	Loosley	By Licence	
+MAR	1915	 	Elizabeth	 	F	 	 		Marriage	1686.00	29.00	7.00	Thomas	  	By Licence	
+MAR	1916	 	Thomas	 	M	 	 		Marriage	1686.00	29.00	7.00	Elizabeth	  	By Licence	
+MAR	1917	 	Elizabeth	Munday	F	 	 		Marriage	1686.00	19.00	9.00	Joseph	Meakes		
+MAR	1918	 	Joseph	Meakes	M	 	 		Marriage	1686.00	19.00	9.00	Elizabeth	Munday		
+MAR	1919	 	Anne	Stoewell	F	 	 		Marriage	1686.00	30.00	9.00	Christofer	Shurly		
+MAR	1920	 	Christofer	Shurly	M	 	 		Marriage	1686.00	30.00	9.00	Anne	Stoewell		
+MAR	1921	 	Joane	 	F	 	 		Marriage	1686.00	30.00	9.00	John	Syance		
+MAR	1922	 	John	Syance	M	 	 		Marriage	1686.00	30.00	9.00	Joane	  		
+MAR	1923	 	Elizabeth	Woodbridge	F	 	 	Moreton	Marriage	1686.00	9.00	12.00	Henry	Goddin		
+MAR	1924	 	Henry	Goddin	M	 	 		Marriage	1686.00	9.00	12.00	Elizabeth	Woodbridge		
+MAR	1925	 	Rebeckah	Harris	F	 	 		Marriage	1687.00	4.00	4.00	John	Messenger	By Licence	
+MAR	1926	 	John	Messenger	M	 	 		Marriage	1687.00	4.00	4.00	Rebeckah	Harris	By Licence	
+MAR	1927	 	Avis	Billington	F	 	 		Marriage	1687.00	13.00	6.00	Andrew	Carpenter	By Licence	
+MAR	1928	 	Andrew	Carpenter	M	 	 		Marriage	1687.00	13.00	6.00	Avis	Billington	By Licence	
+MAR	1929	 	Elizabeth	Waite	F	 	 		Marriage	1687.00	26.00	6.00	Reinard	Green		
+MAR	1930	 	Reinard	Green	M	 	 		Marriage	1687.00	26.00	6.00	Elizabeth	Waite		
+MAR	1931	 	Prudence	Keene	F	 	 	Thame	Marriage	1687.00	1.00	8.00	Henry	Clarke		
+MAR	1932	 	Henry	Clarke	M	 	 		Marriage	1687.00	1.00	8.00	Prudence	Keene		
+MAR	1933	 	Martha	Turner	F	 	 		Marriage	1687.00	29.00	9.00	Thomas	Wicks		
+MAR	1934	 	Thomas	Wicks	M	 	 		Marriage	1687.00	29.00	9.00	Martha	Turner		
+MAR	1935	 	Grace	Persons	F	 	 		Marriage	1687.00	5.00	10.00	William	Wilkins		
+MAR	1936	 	William	Wilkins	M	 	 		Marriage	1687.00	5.00	10.00	Grace	Persons		
+MAR	1937	 	Elizabeth	Mounger	F	 	 		Marriage	1687.00	18.00	10.00	Thomas	Winch		
+MAR	1938	 	Thomas	Winch	M	 	 		Marriage	1687.00	18.00	10.00	Elizabeth	Mounger		
+MAR	1939	 	Sibbell	Allin	F	 	 		Marriage	1688.00	5.00	1.00	William	Shekell	By Licence	
+MAR	1940	 	William	Shekell	M	 	 		Marriage	1688.00	5.00	1.00	Sibbell	Allin	By Licence	
+MAR	1941	 	Elizabeth	Meriwether	F	 	 		Marriage	1688.00	9.00	2.00	Edward	Jordan	By Licence	
+MAR	1942	 	Edward	Jordan	M	 	 		Marriage	1688.00	9.00	2.00	Elizabeth	Meriwether	By Licence	
+MAR	1943	Widow	Elizabeth	Gibson	F	 	 	Thame	Marriage	1688.00	23.00	2.00	Richard	Towne		
+MAR	1944	 	Richard	Towne	M	 	 	Long Crendon	Marriage	1688.00	23.00	2.00	Elizabeth	Gibson		
+MAR	1945	 	Jane	West	F	 	 		Marriage	1688.00	22.00	4.00	Charles	Russell		
+MAR	1946	 	Charles	Russell	M	 	 		Marriage	1688.00	22.00	4.00	Jane	West		
+MAR	1947	 	Mary	Burnam	F	 	 		Marriage	1688.00	27.00	5.00	Rich	Clarridg		
+MAR	1948	 	Rich	Clarridg	M	 	 		Marriage	1688.00	27.00	5.00	Mary	Burnam		
+MAR	1949	Widow	 	Munday	F	 	 		Marriage	1688.00	4.00	7.00	John	Edwards		
+MAR	1950	 	John	Edwards	M	 	 		Marriage	1688.00	4.00	7.00	Widow	Munday		
+MAR	1951	 	Elizabeth	Gurney	F	 	 		Marriage	1688.00	19.00	9.00	William	Frigger		
+MAR	1952	 	William	Frigger	M	 	 		Marriage	1688.00	19.00	9.00	Elizabeth	Gurney		
+MAR	1953	 	Elizabeth	Parker	F	 	 		Marriage	1688.00	4.00	10.00	John	Stiles		
+MAR	1954	 	John	Stiles	M	 	 		Marriage	1688.00	4.00	10.00	Elizabeth	Parker		
+MAR	1955	 	Elizabeth	Pym	F	 	 		Marriage	1688.00	11.00	10.00	Frances	Hill		
+MAR	1956	 	Frances	Hill	M	 	 		Marriage	1688.00	11.00	10.00	Elizabeth	Pym		
+MAR	1957	 	Ann	Rogers	F	 	 	Wheatley	Marriage	1688.00	12.00	11.00	John	Wood		
+MAR	1958	 	John	Wood	M	 	 		Marriage	1688.00	12.00	11.00	Ann	Rogers		
+MAR	1959	 	Elizabeth	Bowden	F	 	 		Marriage	1688.00	13.00	11.00	Edward	Price		
+MAR	1960	 	Edward	Price	M	 	 		Marriage	1688.00	13.00	11.00	Elizabeth	Bowden		
+MAR	1961	 	Elizabeth	Pollicot	F	 	 		Marriage	1689.00	7.00	2.00	James	Mourton		
+MAR	1962	 	James	Mourton	M	 	 		Marriage	1689.00	7.00	2.00	Elizabeth	Pollicot		
+MAR	1963	 	Mabel	Bestsworth	F	 	 		Marriage	1689.00	13.00	2.00	Richard	Jordan		
+MAR	1964	 	Richard	Jordan	M	 	 		Marriage	1689.00	13.00	2.00	Mabel	Bestsworth		
+MAR	1965	 	Ane	Funge	F	 	 		Marriage	1689.00	24.00	3.00	William	Crasse		
+MAR	1966	 	William	Crasse	M	 	 		Marriage	1689.00	24.00	3.00	Ane	Funge		
+MAR	1967	 	Mary	White	F	 	 		Marriage	1689.00	4.00	4.00	Tobyas	Griffin		
+MAR	1968	 	Tobyas	Griffin	M	 	 		Marriage	1689.00	4.00	4.00	Mary	White		
+MAR	1969	 	Sarah	Barnabe	F	 	 		Marriage	1689.00	19.00	5.00	Robert	Keine		
+MAR	1970	 	Robert	Keine	M	 	 		Marriage	1689.00	19.00	5.00	Sarah	Barnabe		
+MAR	1971	 	Mary	 	F	 	 		Marriage	1689.00	20.00	5.00	Frances	Stevens		
+MAR	1972	 	Frances	Stevens	M	 	 		Marriage	1689.00	20.00	5.00	Mary	  		
+MAR	1973	 	Elizabeth	Clarke	F	 	 		Marriage	1689.00	8.00	7.00	William	Fatt	By Licence	
+MAR	1974	 	William	Fatt	M	 	 	Stokenchurch	Marriage	1689.00	8.00	7.00	Elizabeth	Clarke	By Licence	
+MAR	1975	 	Jane	Colley	F	 	 		Marriage	1689.00	16.00	7.00	Benjamin	Eustice	By Licence	
+MAR	1976	 	Benjamin	Eustice	M	 	 		Marriage	1689.00	16.00	7.00	Jane	Colley	By Licence	
+MAR	1977	 	Jane	Worgge	F	 	 		Marriage	1689.00	2.00	10.00	William	Spendler		
+MAR	1978	 	William	Spendler	M	 	 		Marriage	1689.00	2.00	10.00	Jane	Worgge		
+MAR	1979	 	Mary	Winch	F	 	 		Marriage	1689.00	19.00	10.00	John	Wood		
+MAR	1980	 	John	Wood	M	 	 		Marriage	1689.00	19.00	10.00	Mary	Winch		
+MAR	1981	 	Mary	Martin	F	 	 		Marriage	1689.00	19.00	12.00	Arian	Tayler		
+MAR	1982	 	Arian	Tayler	M	 	 		Marriage	1689.00	19.00	12.00	Mary	Martin		
+MAR	1983	 	Margery	Summer	F	 	 		Marriage	1690.00	6.00	3.00	Edward	Cowden		
+MAR	1984	 	Edward	Cowden	M	 	 		Marriage	1690.00	6.00	3.00	Margery	Summer		
+MAR	1987	 	Alse	Cowden	F	 	 		Marriage	1690.00	20.00	4.00	Henry	Johnson		
+MAR	1988	 	Henry	Johnson	M	 	 		Marriage	1690.00	20.00	4.00	Alse	Cowden		
+MAR	1989	 	Anne	Browne	F	 	 		Marriage	1690.00	1.00	6.00	John	Greene		
+MAR	1990	 	John	Greene	M	 	 		Marriage	1690.00	1.00	6.00	Anne	Browne		
+MAR	1991	 	Anne	Sewell	F	 	 	Sydenham	Marriage	1690.00	11.00	9.00	Joseph	Sewell		
+MAR	1992	 	Joseph	Sewell	M	 	 		Marriage	1690.00	11.00	9.00	Anne	Sewell		
+MAR	1993	 	Anne	Barratt	F	 	 		Marriage	1690.00	18.00	9.00	Richard	Fencott		
+MAR	1994	 	Richard	Fencott	M	 	 		Marriage	1690.00	18.00	9.00	Anne	Barratt		
+MAR	1995	 	Elizabeth	Judge	F	 	 		Marriage	1690.00	2.00	10.00	William	Nash		
+MAR	1996	 	William	Nash	M	 	 	Wattleton	Marriage	1690.00	2.00	10.00	Elizabeth	Judge		
+MAR	1997	 	Mary	Inglish	F	 	 		Marriage	1690.00	16.00	10.00	William	Wixon		
+MAR	1998	 	William	Wixon	M	 	 		Marriage	1690.00	16.00	10.00	Mary	Inglish		
+MAR	1999	 	Anne	Hoell	F	 	 		Marriage	1690.00	21.00	10.00	William	Mortimer		
+MAR	2000	 	William	Mortimer	M	 	 		Marriage	1690.00	21.00	10.00	Anne	Hoell		
+MAR	2001	 	Anne	Wallington	F	 	 		Marriage	1690.00	30.00	11.00	John	Tymothy		
+MAR	2002	 	John	Tymothy	M	 	 		Marriage	1690.00	30.00	11.00	Anne	Wallington		
+MAR	2003	 	Elizabeth	 	F	 	 		Marriage	1690.00	23.00	12.00	Edward	  	By Licence	
+MAR	2004	 	Edward	 	M	 	 		Marriage	1690.00	23.00	12.00	Elizabeth	  	By Licence	
+MAR	2005	 	Ane	Wilshere	F	 	 		Marriage	1691.00	13.00	1.00	Robert	Heath		
+MAR	2006	 	Robert	Heath	M	 	 		Marriage	1691.00	13.00	1.00	Ane	Wilshere		
+MAR	2007	 	Mary	Blee	F	 	 		Marriage	1691.00	1.00	6.00	Mathew	Cotton		
+MAR	2008	 	Mathew	Cotton	M	 	 		Marriage	1691.00	1.00	6.00	Mary	Blee		
+MAR	2009	 	Elizabeth	Betsworth	F	 	 		Marriage	1691.00	23.00	8.00	William	Low	By Licence	
+MAR	2010	 	William	Low	M	 	 		Marriage	1691.00	23.00	8.00	Elizabeth	Betsworth	By Licence	
+MAR	2011	 	Mary	 	F	 	 		Marriage	1691.00	17.00	9.00	Edward	  		
+MAR	2012	 	Edward	 	M	 	 		Marriage	1691.00	17.00	9.00	Mary	  		
+MAR	2013	 	Susanah	Wright	F	 	 		Marriage	1691.00	13.00	10.00	William	Carter		
+MAR	2014	 	William	Carter	M	 	 		Marriage	1691.00	13.00	10.00	Susanah	Wright		
+MAR	2015	 	Jane	Twisraf 	F	 	 	Oxford	Marriage	1691.00	20.00	10.00	Robert	Wiatt		
+MAR	2016	 	Robert	Wiatt	M	 	 	Milton	Marriage	1691.00	20.00	10.00	Jane	Twisraf ?	By Licence	
+MAR	2017	 	Anne	West	F	 	 		Marriage	1691.00	8.00	11.00	William	Batten		
+MAR	2018	 	William	Batten	M	 	 		Marriage	1691.00	8.00	11.00	Anne	West		
+MAR	2019	 	Elizabeth	Boswell	F	 	 		Marriage	1691.00	13.00	12.00	William	Whitfeild		
+MAR	2020	 	William	Whitfeild	M	 	 		Marriage	1691.00	13.00	12.00	Elizabeth	Boswell		
+MAR	2021	 	Mary	Homes	F	 	 		Marriage	1691.00	30.00	12.00	Thomas	Worley	By Licence	
+MAR	2022	 	Thomas	Worley	M	 	 		Marriage	1691.00	30.00	12.00	Mary	Homes	By Licence	
+MAR	2023	 	Elizabeth	 	F	 	 		Marriage	1692.00	26.00	3.00	John	Eustis	By Licence	
+MAR	2024	 	John	Eustis	M	 	 		Marriage	1692.00	26.00	3.00	Elizabeth	  	By Licence	
+MAR	2025	 	Anne	Crues	F	 	 		Marriage	1692.00	3.00	4.00	Samuell	Randall	By Licence	
+MAR	2026	 	Samuell	Randall	M	 	 		Marriage	1692.00	3.00	4.00	Anne	Crues	By Licence	
+MAR	2027	 	Johanah	Dubery	F	 	 		Marriage	1692.00	5.00	7.00	Robert	Loosley	By Licence	
+MAR	2028	 	Robert	Loosley	M	Jnr	 		Marriage	1692.00	5.00	7.00	Johanah	Dubery	By Licence	
+MAR	2029	 	Elizabeth	Kane	F	 	 	Long Crendon	Marriage	1692.00	3.00	10.00	Aron	Shulton		
+MAR	2030	 	Aron	Shulton	M	 	 		Marriage	1692.00	3.00	10.00	Elizabeth	Kane		
+MAR	2031	Mrs	Martha	Mideltun	F	 	 		Marriage	1693.00	2.00	2.00	Thomas	Eustis		
+MAR	2032	Mr	Thomas	Eustis	M	 	 		Marriage	1693.00	2.00	2.00	Martha	Mideltun		
+MAR	2033	 	Mary	Badger	F	 	 		Marriage	1693.00	4.00	5.00	William	Wheler		
+MAR	2034	 	William	Wheler	M	 	 		Marriage	1693.00	4.00	5.00	Mary	Badger		
+MAR	2035	Widow	 	???deb	F	 	 		Marriage	1693.00	2.00	7.00	[illegible]	[illegible]		
+MAR	2037	 	Mary	Lane	F	 	 		Marriage	1693.00	16.00	7.00	Austin	Slater 		
+MAR	2038	 	Austin	Slater	M	Jnr	 	Tetsworth	Marriage	1693.00	16.00	7.00	Mary	Lane		
+MAR	2039	 	Whinyfret	Alnat	F	 	 		Marriage	1693.00	19.00	10.00	Thomas	Munday		
+MAR	2040	 	Thomas	Munday	M	 	 		Marriage	1693.00	19.00	10.00	Whinyfret	Alnat		
+MAR	2041	Widow	 	Norres	F	 	 		Marriage	1693.00	22.00	10.00	Ralph	Howes		
+MAR	2042	 	Ralph	Howes	M	 	 		Marriage	1693.00	22.00	10.00	Widow	Norres		
+MAR	2043	 	Sarah	Winter	F	 	 		Marriage	1693.00	26.00	10.00	Thomas	  		
+MAR	2044	 	Thomas	 	M	 	 	Dorchester	Marriage	1693.00	26.00	10.00	Sarah	Winter		
+MAR	2045	 	Jane	Slater	F	 	 		Marriage	1694.00	23.00	1.00	Lenard	Stiers 		
+MAR	2046	 	Lenard	Stiers	M	Jnr	 		Marriage	1694.00	23.00	1.00	Jane	Slater		
+MAR	2047	Widow	 	Boswell	F	 	 	Morten	Marriage	1694.00	15.00	4.00	John	Hollyman		
+MAR	2048	 	John	Hollyman	M	 	 		Marriage	1694.00	15.00	4.00	Widow	Boswell		
+MAR	2049	 	Susanah	Brookes	F	 	 		Marriage	1694.00	31.00	5.00	Jeremiah	Edgerton	By Licence	
+MAR	2050	 	Jeremiah	Edgerton	M	 	 		Marriage	1694.00	31.00	5.00	Susanah	Brookes	By Licence	
+MAR	2051	 	Mary	Guy	F	 	 		Marriage	1694.00	26.00	6.00	John	Low		
+MAR	2052	 	John	Low	M	 	 	Towersey	Marriage	1694.00	26.00	6.00	Mary	Guy		
+MAR	2053	 	Elizabeth	 	F	 	 		Marriage	1694.00	10.00	7.00	Thomas	  		
+MAR	2054	 	Thomas	 	M	 	 		Marriage	1694.00	10.00	7.00	Elizabeth	  		
+MAR	2055	 	Mary	 	F	 	 		Marriage	1694.00	29.00	7.00	William	Sherad	By Licence	
+MAR	2056	 	William	Sherad	M	 	 	North Wesson	Marriage	1694.00	29.00	7.00	Mary	  	By Licence	
+MAR	2057	 	Mary	Byas	F	 	 		Marriage	1694.00	16.00	8.00	William	Loosly		
+MAR	2058	 	William	Loosly	M	 	 		Marriage	1694.00	16.00	8.00	Mary	Byas		
+MAR	2059	 	Catherin	Williams	F	 	 		Marriage	1694.00	21.00	8.00	George	Crisp		
+MAR	2060	 	George	Crisp	M	 	 		Marriage	1694.00	21.00	8.00	Catherin	Williams		
+MAR	2061	 	Joane	Sande 	F	 	 		Marriage	1694.00	16.00	9.00	John	Young	By Licence	
+MAR	2062	 	John	Young	M	 	 	Morton	Marriage	1694.00	16.00	9.00	Joane	Sande ?	By Licence	
+MAR	2063	 	Elizabeth	Fattin	F	 	 		Marriage	1694.00	27.00	9.00	William	Parker		
+MAR	2064	 	William	Parker	M	 	 		Marriage	1694.00	27.00	9.00	Elizabeth	Fattin		
+MAR	2065	 	Mary	Goodin	F	 	 		Marriage	1694.00	30.00	9.00	Thomas	Beale		
+MAR	2066	 	Thomas	Beale	M	 	 		Marriage	1694.00	30.00	9.00	Mary	Goodin		
+MAR	2067	 	Mary	Semar	F	 	 		Marriage	1694.00	7.00	10.00	Griffin	Bradly		
+MAR	2068	 	Griffin	Bradly	M	 	 		Marriage	1694.00	7.00	10.00	Mary	Semar		
+MAR	2069	 	Elizabeth	Tailer	F	 	 		Marriage	1694.00	9.00	10.00	John	Rance	By Licence	
+MAR	2070	 	John	Rance	M	 	 	Bledlow	Marriage	1694.00	9.00	10.00	Elizabeth	Tailer	By Licence	
+MAR	2071	 	Elner	Eustis	F	 	 		Marriage	1694.00	16.00	10.00	David	Willins		
+MAR	2072	 	David	Willins	M	 	 		Marriage	1694.00	16.00	10.00	Elner	Eustis		
+MAR	2073	 	Margret	Cowden	F	 	 		Marriage	1694.00	23.00	10.00	Richard	Butler		
+MAR	2074	 	Richard	Butler	M	 	 		Marriage	1694.00	23.00	10.00	Margret	Cowden		
+MAR	2075	 	Joan	Chits	F	 	 		Marriage	1694.00	23.00	10.00	John	Burrin		
+MAR	2076	 	John	Burrin	M	 	 		Marriage	1694.00	23.00	10.00	Joan	Chits		
+MAR	2077	 	Ann	 	F	 	 		Marriage	1694.00	0.00	11.00	John	  		
+MAR	2078	 	John	 	M	 	 		Marriage	1694.00	0.00	11.00	Ann	  		
+MAR	2079	 	Mary	Clarridge	F	 	 		Marriage	1694.00	4.00	11.00	Moredeque	Humfry		
+MAR	2080	 	Moredeque	Humfry	M	 	 		Marriage	1694.00	4.00	11.00	Mary	Clarridge		
+MAR	2081	Mrs	Phillis	Borrowes	F	 	 		Marriage	1695.00	7.00	2.00	Cristover	Potter		
+MAR	2082	Mr	Cristover	Potter	M	 	 		Marriage	1695.00	7.00	2.00	Phillis	Borrowes		
+MAR	2083	 	Sarah	 	F	 	 		Marriage	1695.00	24.00	4.00	James	  	By Licence	
+MAR	2084	 	James	 	M	 	 		Marriage	1695.00	24.00	4.00	Sarah	  	By Licence	
+MAR	2085	 	Mary	Pitman	F	 	 	Whitfeild	Marriage	1695.00	30.00	5.00	Thomas	Gibbs	By Licence	
+MAR	2086	 	Thomas	Gibbs	M	 	 		Marriage	1695.00	30.00	5.00	Mary	Pitman	By Licence	
+MAR	2088	 	James	Gravestock	M	 	 		Marriage	1695.00	2.00	6.00	  	  		no brides name given
+MAR	2089	 	Sarah	Barnad	F	 	 		Marriage	1695.00	29.00	9.00	Thomas	Hakins		
+MAR	2090	 	Thomas	Hakins	M	 	 		Marriage	1695.00	29.00	9.00	Sarah	Barnad		
+MAR	2091	 	Kathern	North	F	 	 		Marriage	1695.00	29.00	9.00	William	Drake		
+MAR	2092	 	William	Drake	M	 	 		Marriage	1695.00	29.00	9.00	Kathern	North		
+MAR	2094	 	William	Haskins	M	 	 		Marriage	1695.00	30.00	9.00	  	  		no bride mentioned
+MAR	2095	 	Catherine	Hollier	F	 	 	Wheatley	Marriage	1695.00	10.00	10.00	William	Wodbrid	By Licence	
+MAR	2096	 	William	Wodbrid	M	 	 	Wornall	Marriage	1695.00	10.00	10.00	Catherine	Hollier	By Licence	
+MAR	2097	 	Mary	 	F	 	 		Marriage	1695.00	28.00	10.00	Thomas	Messenger	By Licence	
+MAR	2098	 	Thomas	Messenger	M	Jnr	 		Marriage	1695.00	28.00	10.00	Mary	  	By Licence	
+MAR	2099	 	Lydia	Munday	F	 	 		Marriage	1695.00	2.00	12.00	Nickolas	Leafer		
+MAR	2100	 	Nickolas	Leafer	M	 	 		Marriage	1695.00	2.00	12.00	Lydia	Munday		
+MAR	2101	 	Anne	Young	F	 	 		Marriage	1696.00	30.00	1.00	Thomas	Jordan	By Licence	
+MAR	2102	 	Thomas	Jordan	M	 	 		Marriage	1696.00	30.00	1.00	Anne	Young	By Licence	
+MAR	2103	 	Elizabeth	Ladiman	F	 	 		Marriage	1696.00	7.00	2.00	John	Eustis	By Licence	
+MAR	2104	 	John	Eustis	M	 	 		Marriage	1696.00	7.00	2.00	Elizabeth	Ladiman	By Licence	
+MAR	2105	 	Sarah	Darnal	F	 	 	Jessell	Marriage	1696.00	1.00	4.00	John	Crues		
+MAR	2106	 	John	Crues	M	 	 		Marriage	1696.00	1.00	4.00	Sarah	Darnal		
+MAR	2107	 	Dorothy	Renals	F	 	 	Long Crendon	Marriage	1696.00	16.00	4.00	John	Taylor	By Licence	
+MAR	2108	 	John	Taylor	M	 	 	Sydenham	Marriage	1696.00	16.00	4.00	Dorothy	Renals	By Licence	
+MAR	2109	 	Elizabeth	Corar 	F	 	 		Marriage	1696.00	20.00	5.00	Robert	Crannig		
+MAR	2110	 	Robert	Crannig	M	 	 		Marriage	1696.00	20.00	5.00	Elizabeth	Corar ?		
+MAR	2111	 	Martha	Stone	F	 	 	Pyrton	Marriage	1696.00	4.00	6.00	John	Durbery	By Licence	
+MAR	2112	 	John	Durbery	M	 	 	Stone	Marriage	1696.00	4.00	6.00	Martha	Stone	By Licence	
+MAR	2113	 	Elizabeth	Ingram	F	 	 		Marriage	1696.00	20.00	8.00	John	Fritwell		
+MAR	2114	 	John	Fritwell	M	 	 		Marriage	1696.00	20.00	8.00	Elizabeth	Ingram		
+MAR	2115	 	Ruth	Harris	F	 	 		Marriage	1696.00	30.00	8.00	Edward	Simmonds		
+MAR	2116	 	Edward	Simmonds	M	 	 		Marriage	1696.00	30.00	8.00	Ruth	Harris		
+MAR	2117	 	Elizabeth	Gregory	F	 	 	Tetsworth	Marriage	1696.00	15.00	9.00	Richard	Allen	By Licence	
+MAR	2118	 	Richard	Allen	M	 	 	Sydenham	Marriage	1696.00	15.00	9.00	Elizabeth	Gregory	By Licence	
+MAR	2119	 	Ann	Lawrence	F	 	 		Marriage	1696.00	15.00	10.00	Thomas	Spyer		
+MAR	2120	 	Thomas	Spyer	M	 	 		Marriage	1696.00	15.00	10.00	Ann	Lawrence		
+MAR	2121	 	Mary	Plot	F	 	 		Marriage	1696.00	20.00	10.00	John	Dowle		
+MAR	2122	 	John	Dowle	M	 	 		Marriage	1696.00	20.00	10.00	Mary	Plot		
+MAR	2123	 	Ann	Parker	F	 	 		Marriage	1696.00	21.00	10.00	John	Drippet		
+MAR	2124	 	John	Drippet	M	 	 		Marriage	1696.00	21.00	10.00	Ann	Parker		
+MAR	2125	 	Mary	Hartford	F	 	 	Northweston	Marriage	1696.00	22.00	10.00	Edward	Deane		
+MAR	2126	 	Edward	Deane	M	 	 	Bix	Marriage	1696.00	22.00	10.00	Mary	Hartford		
+MAR	2127	 	Martha	Haines	F	 	 		Marriage	1696.00	31.00	12.00	George	Cooper		
+MAR	2128	 	George	Cooper	M	 	 		Marriage	1696.00	31.00	12.00	Martha	Haines		
+MAR	2129	 	Dorothy	Cooper	F	 	 		Marriage	1697.00	4.00	2.00	George	Frezesher		
+MAR	2130	 	George	Frezesher	M	 	 		Marriage	1697.00	4.00	2.00	Dorothy	Cooper		
+MAR	2131	 	Mary	Try	F	 	 		Marriage	1697.00	27.00	5.00	Edward	Holday		
+MAR	2132	 	Edward	Holday	M	 	 		Marriage	1697.00	27.00	5.00	Mary	Try		
+MAR	2133	 	Elizabeth	Hoe	F	 	 		Marriage	1697.00	3.00	8.00	Richard	Long	By Licence	
+MAR	2134	 	Richard	Long	M	 	 		Marriage	1697.00	3.00	8.00	Elizabeth	Hoe	By Licence	
+MAR	2135	 	Ann	Long	F	 	 		Marriage	1697.00	22.00	8.00	John	Beale		
+MAR	2136	 	John	Beale	M	 	 		Marriage	1697.00	22.00	8.00	Ann	Long		
+MAR	2137	 	Mary	Dolman	F	 	 		Marriage	1697.00	5.00	9.00	John	Adkins	By Licence	
+MAR	2138	 	John	Adkins	M	 	 		Marriage	1697.00	5.00	9.00	Mary	Dolman	By Licence	
+MAR	2139	 	Mary	Cotton	F	 	 		Marriage	1697.00	27.00	9.00	John	Louder	By Licence	
+MAR	2140	 	John	Louder	M	 	 		Marriage	1697.00	27.00	9.00	Mary	Cotton	By Licence	
+MAR	2141	 	Sarah	Smalbones	F	 	 		Marriage	1697.00	3.00	10.00	Richard	Claridge		
+MAR	2142	 	Richard	Claridge	M	 	 		Marriage	1697.00	3.00	10.00	Sarah	Smalbones		
+MAR	2143	 	Anne	Williams	F	 	 		Marriage	1697.00	3.00	10.00	James	Pollicot	By Licence	
+MAR	2144	 	James	Pollicot	M	 	 		Marriage	1697.00	3.00	10.00	Anne	Williams	By Licence	
+MAR	2145	 	Sarah	Smith	F	 	 	Cuddeston	Marriage	1697.00	5.00	10.00	John	Kemp	By Licence	
+MAR	2146	 	John	Kemp	M	 	 	Sydenham	Marriage	1697.00	5.00	10.00	Sarah	Smith	By Licence	
+MAR	2147	 	Anne	Bowden	F	 	 		Marriage	1697.00	6.00	10.00	William	Phillips		
+MAR	2148	 	William	Phillips	M	 	 		Marriage	1697.00	6.00	10.00	Anne	Bowden		
+MAR	2149	 	Elizabeth	Yongue	F	 	 		Marriage	1697.00	7.00	10.00	Woodard	Read	By Licence	
+MAR	2150	 	Woodard	Read	M	 	 		Marriage	1697.00	7.00	10.00	Elizabeth	Yongue	By Licence	
+MAR	2151	 	Joan	Burtlett	F	 	 		Marriage	1697.00	10.00	10.00	William	Hawkins		
+MAR	2152	 	William	Hawkins	M	 	 		Marriage	1697.00	10.00	10.00	Joan	Burtlett		
+MAR	2153	 	Elizabeth	Price	F	 	 		Marriage	1697.00	10.00	10.00	Thomas	Bates		
+MAR	2154	 	Thomas	Bates	M	 	 		Marriage	1697.00	10.00	10.00	Elizabeth	Price		
+MAR	2155	 	Mary	Molt	F	 	 		Marriage	1697.00	14.00	10.00	John	Kingsley		
+MAR	2156	 	John	Kingsley	M	 	 	Dinton	Marriage	1697.00	14.00	10.00	Mary	Molt		
+MAR	2157	 	Mary	Blay	F	 	 		Marriage	1698.00	27.00	4.00	Thomas	Williams		
+MAR	2158	 	Thomas	Williams	M	 	 		Marriage	1698.00	27.00	4.00	Mary	Blay		
+MAR	2159	 	Alice	Stone	F	 	 		Marriage	1698.00	28.00	4.00	William	Hill		
+MAR	2160	 	William	Hill	M	 	 		Marriage	1698.00	28.00	4.00	Alice	Stone		
+MAR	2161	 	Ann	Edwards	F	 	 		Marriage	1698.00	23.00	5.00	John	Murrow		
+MAR	2162	 	John	Murrow	M	 	 		Marriage	1698.00	23.00	5.00	Ann	Edwards		
+MAR	2163	 	Ann	Knapp	F	 	 		Marriage	1698.00	1.00	6.00	Leonard	Walker	By Licence	
+MAR	2164	 	Leonard	Walker	M	 	 		Marriage	1698.00	1.00	6.00	Ann	Knapp	By Licence	
+MAR	2165	 	Hannah	Egerton	F	 	 		Marriage	1698.00	5.00	6.00	John	Williams		
+MAR	2166	 	John	Williams	M	 	 		Marriage	1698.00	5.00	6.00	Hannah	Egerton		
+MAR	2167	Widow	 	Hew	F	 	 		Marriage	1698.00	22.00	6.00	Thomas	Sharp	By Licence	
+MAR	2168	 	Thomas	Sharp	M	 	 		Marriage	1698.00	22.00	6.00	Widow	Hew	By Licence	
+MAR	2169	 	Mary	Kily 	F	 	 		Marriage	1698.00	20.00	7.00	[illegible]	Sheldon		
+MAR	2170	 	[illegible]	Sheldon	M	 	 		Marriage	1698.00	20.00	7.00	Mary	Kily ?		
+MAR	2171	 	Elizabeth	Cobbock	F	 	 	Tetsworth	Marriage	1698.00	31.00	7.00	John	Low		
+MAR	2172	 	John	Low	M	 	 		Marriage	1698.00	31.00	7.00	Elizabeth	Cobbock		
+MAR	2173	 	Elizabeth	Bristow	F	 	 		Marriage	1698.00	2.00	10.00	John	Simmons		
+MAR	2174	 	John	Simmons	M	 	Labourer		Marriage	1698.00	2.00	10.00	Elizabeth	Bristow		
+MAR	2175	Widow	 	Heath	F	 	 		Marriage	1698.00	3.00	10.00	John	Spindler		
+MAR	2176	 	John	Spindler	M	 	Mason		Marriage	1698.00	3.00	10.00	Widow	Heath		
+MAR	2177	 	Ann	Hawkins	F	 	 		Marriage	1698.00	21.00	11.00	Edward	Hyte		
+MAR	2178	 	Edward	Hyte	M	 	Woolman		Marriage	1698.00	21.00	11.00	Ann	Hawkins		
+MAR	2179	 	Susannah	Parker	F	 	 		Marriage	1698.00	1.00	12.00	Thomas	Main		
+MAR	2180	 	Thomas	Main	M	 	Alehouse Keeper		Marriage	1698.00	1.00	12.00	Susannah	Parker		
+MAR	2181	 	Margaret	Powell	F	 	 		Marriage	1698.00	27.00	12.00	Thomas	Thatcher 		
+MAR	2182	 	Thomas	Thatcher 	M	 	Labourer		Marriage	1698.00	27.00	12.00	Margaret	Powell		
+MAR	2183	 	Mary	Fidnge 	F	 	 		Marriage	1699.00	1.00	1.00	William	Foster		
+MAR	2184	 	William	Foster	M	 	Cooper		Marriage	1699.00	1.00	1.00	Mary	Fidnge 		
+MAR	2185	 	Mary	Higgins	F	 	 	Oakley	Marriage	1699.00	19.00	1.00	Edward	Kerwood		
+MAR	2186	 	Edward	Kerwood	M	 	 		Marriage	1699.00	19.00	1.00	Mary	Higgins		
+MAR	2187	 	Jane	Wicks	F	 	 		Marriage	1699.00	2.00	4.00	Matthew	Cotton		
+MAR	2188	 	Matthew	Cotton	M	 	Butcher		Marriage	1699.00	2.00	4.00	Jane	Wicks		
+MAR	2189	 	Ann	Cotton	F	 	 		Marriage	1699.00	11.00	4.00	Mark	Boor		
+MAR	2190	 	Mark	Boor	M	 	Butcher		Marriage	1699.00	11.00	4.00	Ann	Cotton		
+MAR	2191	 	Jane	Bew	F	 	 		Marriage	1699.00	25.00	5.00	Thomas	Knapp		
+MAR	2192	 	Thomas	Knapp	M	 	Butcher		Marriage	1699.00	25.00	5.00	Jane	Bew		
+MAR	2193	 	Joan	Hastings	F	 	 		Marriage	1699.00	20.00	8.00	Daniel	Robinson		
+MAR	2194	 	Daniel	Robinson	M	 	 		Marriage	1699.00	20.00	8.00	Joan	Hastings		
+MAR	2195	 	Dinah	Taylor	F	 	 		Marriage	1699.00	28.00	8.00	Nathaniel	Taylor		
+MAR	2196	 	Nathaniel	Taylor	M	 	 		Marriage	1699.00	28.00	8.00	Dinah	Taylor		
+MAR	2197	 	Ann	Munday	F	 	 		Marriage	1699.00	4.00	9.00	Thomas	Parker		
+MAR	2198	 	Thomas	Parker	M	 	 		Marriage	1699.00	4.00	9.00	Ann	Munday		
+MAR	2199	 	Elizabeth	Fulford	F	 	 	Moreton	Marriage	1699.00	27.00	9.00	Edward	Hoare		
+MAR	2200	 	Edward	Hoare	M	 	 	Princes Risborough	Marriage	1699.00	27.00	9.00	Elizabeth	Fulford		
+MAR	2201	Widow	Jane	Collings	F	 	 		Marriage	1699.00	5.00	10.00	Henry	Knapp		
+MAR	2202	 	Henry	Knapp	M	 	 		Marriage	1699.00	5.00	10.00	Jane	Collings		
+MAR	2203	 	Mary	Sermon	F	 	 		Marriage	1699.00	8.00	10.00	Thomas	Green		
+MAR	2204	 	Thomas	Green	M	 	 		Marriage	1699.00	8.00	10.00	Mary	Sermon		
+MAR	2205	 	Bridget	Smyth	F	 	 		Marriage	1699.00	9.00	10.00	John	Bogan		
+MAR	2206	 	John	Bogan	M	 	 		Marriage	1699.00	9.00	10.00	Bridget	Smyth		
+MAR	2207	 	Ann	Lascombe	F	 	 		Marriage	1699.00	8.00	11.00	James	Graves		
+MAR	2208	 	James	Graves	M	 	 		Marriage	1699.00	8.00	11.00	Ann	Lascombe		
+MAR	2209	 	Elizabeth	Boryer	F	 	 		Marriage	1699.00	14.00	12.00	Thomas	Fudge		
+MAR	2210	 	Thomas	Fudge	M	 	 		Marriage	1699.00	14.00	12.00	Elizabeth	Boryer		
+MAR	2211	 	Ann	Croft	F	 	 		Marriage	1699.00	28.00	12.00	William	Rowland		
+MAR	2212	 	William	Rowland	M	 	 		Marriage	1699.00	28.00	12.00	Ann	Croft		
+MAR	2213	 	Ann	Cooper	F	 	 	Charlton 	Marriage	1700.00	2.00	7.00	John	Colcot		
+MAR	2214	 	John	Colcot	M	 	 	Sydenham	Marriage	1700.00	2.00	7.00	Ann	Cooper		
+MAR	2215	 	Catherine	Cooper	F	 	 	Milton	Marriage	1700.00	11.00	7.00	[illegible]	Davis		
+MAR	2216	 	[illegible]	Davis	M	 	 	Hambleton	Marriage	1700.00	11.00	7.00	Catherine	Cooper		
+MAR	2217	 	Elizabeth	Roberts	F	 	 		Marriage	1700.00	17.00	7.00	Thomas	Durns ?		
+MAR	2218	 	Thomas	Durns	M	 	 		Marriage	1700.00	17.00	7.00	Elizabeth	Roberts		
+MAR	2219	 	Abigail	Phillips	F	 	 		Marriage	1700.00	22.00	9.00	Robert	Sewell		
+MAR	2220	 	Robert	Sewell	M	 	 	Sydenham	Marriage	1700.00	22.00	9.00	Abigail	Phillips		
+MAR	2221	 	Elizabeth	Hamblton	F	 	 	Tetsworth	Marriage	1700.00	26.00	9.00	Samuel	Lee		
+MAR	2222	 	Samuel	Lee	M	 	 		Marriage	1700.00	26.00	9.00	Elizabeth	Hamblton		
+MAR	2223	 	Joan	Grace 	F	 	 		Marriage	1700.00	30.00	9.00	Richard	Syred		
+MAR	2224	 	Richard	Syred	M	 	 		Marriage	1700.00	30.00	9.00	Joan	Grace ?		
+MAR	2225	 	Katherine	Bliss 	F	 	 		Marriage	1700.00	1.00	10.00	Josiah	Lun		
+MAR	2226	 	Josiah	Lun	M	 	 		Marriage	1700.00	1.00	10.00	Katherine	Bliss ?		
+MAR	2227	 	Elizabeth	Grey	F	 	 		Marriage	1700.00	2.00	10.00	Richard	Dobbinson		
+MAR	2228	 	Richard	Dobbinson	M	 	 		Marriage	1700.00	2.00	10.00	Elizabeth	Grey		
+MAR	2229	 	Ann	Cox	F	 	 		Marriage	1700.00	2.00	10.00	Robert	Warland		
+MAR	2230	 	Robert	Warland	M	 	 		Marriage	1700.00	2.00	10.00	Ann	Cox		
+MAR	2231	 	Ann	Peinter	F	 	 		Marriage	1700.00	7.00	10.00	Joseph	Parrot		
+MAR	2232	 	Joseph	Parrot	M	 	 		Marriage	1700.00	7.00	10.00	Ann	Peinter		
+MAR	2233	 	Hannah	Hastings	F	 	 		Marriage	1700.00	9.00	10.00	William	Horton		
+MAR	2234	 	William	Horton	M	 	 		Marriage	1700.00	9.00	10.00	Hannah	Hastings		
+MAR	2235	 	Frances	Miles	F	 	 		Marriage	1700.00	26.00	10.00	Thomas	Standley		
+MAR	2236	 	Thomas	Standley	M	 	 		Marriage	1700.00	26.00	10.00	Frances	Miles		
+MAR	2237	 	Ann	Spindler	F	 	 		Marriage	1700.00	27.00	10.00	Robert	Taylor		
+MAR	2238	 	Robert	Taylor	M	 	 		Marriage	1700.00	27.00	10.00	Ann	Spindler		
+MAR	2239	 	Mary	Parker	F	 	 		Marriage	1701.00	17.00	2.00	John	Woodbridge		
+MAR	2240	 	John	Woodbridge	M	 	 		Marriage	1701.00	17.00	2.00	Mary	Parker		
+MAR	2241	 	Ann	Walkland	F	 	 		Marriage	1701.00	27.00	2.00	Roger	Bettridge		
+MAR	2242	 	Roger	Bettridge	M	 	 		Marriage	1701.00	27.00	2.00	Ann	Walkland		
+MAR	2243	 	Joan	Brookes	F	 	 	Moreton	Marriage	1701.00	5.00	5.00	John	Webb		
+MAR	2244	 	John	Webb	M	 	 		Marriage	1701.00	5.00	5.00	Joan	Brookes		
+MAR	2245	 	Constance	Parns	F	 	 		Marriage	1701.00	12.00	6.00	Robert	Alnut		
+MAR	2246	 	Robert	Alnut	M	 	 		Marriage	1701.00	12.00	6.00	Constance	Parns		
+MAR	2247	 	Mary	Nickolls	F	 	 		Marriage	1701.00	3.00	7.00	Leonard	Styers		
+MAR	2248	 	Leonard	Styers	M	 	 		Marriage	1701.00	3.00	7.00	Mary	Nickolls		
+MAR	2249	 	Joan	Mountain	F	 	 		Marriage	1701.00	5.00	8.00	Richard	Munger		
+MAR	2250	 	Richard	Munger	M	 	 		Marriage	1701.00	5.00	8.00	Joan	Mountain		
+MAR	2251	 	Frances	Mund	F	 	 		Marriage	1701.00	14.00	11.00	Thomas	Smyth		
+MAR	2252	 	Thomas	Smyth	M	 	Woolman		Marriage	1701.00	14.00	11.00	Frances	Mund		
+MAR	2253	 	Ann	Spencer	F	 	 	Tetsworth	Marriage	1701.00	20.00	11.00	Thomas	Hill		
+MAR	2254	 	Thomas	Hill	M	 	 		Marriage	1701.00	20.00	11.00	Ann	Spencer		
+MAR	2255	 	Mary	Fenner	F	 	 		Marriage	1701.00	29.00	11.00	George	Wilson		
+MAR	2256	 	George	Wilson	M	 	 		Marriage	1701.00	29.00	11.00	Mary	Fenner		
+MAR	2257	 	Mary	Turner 	F	 	 		Marriage	1701.00	1.00	12.00	Will	Parslow		
+MAR	2258	 	Will	Parslow	M	 	 		Marriage	1701.00	1.00	12.00	Mary	Turner		
+MAR	2259	 	Alice	Mercer 	F	 	 		Marriage	1701.00	11.00	12.00	Tho	Smyth		
+MAR	2260	 	Tho	Smyth	M	 	 		Marriage	1701.00	11.00	12.00	Alice	Mercer ?		
+MAR	2261	 	Mary	Treadall	F	 	 		Marriage	1701.00	24.00	12.00	  	??mapp		
+MAR	2262	 	Mary	??mapp	M	 	 		Marriage	1701.00	24.00	12.00	Mary	Treadwell		
+MAR	2263	 	Joan	Smyth	F	 	 		Marriage	1701.00	29.00	12.00	William	Paulin		
+MAR	2264	 	William	Paulin	M	 	 		Marriage	1701.00	29.00	12.00	Joan	Smyth		
+MAR	2265	 	James	Wicklow	M	 	 		Marriage	1702.00	5.00	2.00	Ann	Gore		
+MAR	2266	 	Ann	Gore	F	 	 		Marriage	1702.00	5.00	2.00	James	Wicklow		
+MAR	2267	 	John	Eiles	M	 	 		Marriage	1702.00	16.00	2.00	Mary	Norcott		
+MAR	2268	 	Mary	Norcott	F	 	 		Marriage	1702.00	16.00	2.00	John	Eiles		
+MAR	2269	 	Edward	Gomm	M	 	 	Moreton	Marriage	1702.00	7.00	3.00	Eliz	Horsman		
+MAR	2270	 	Eliz	Horsman	F	 	 	Towersey	Marriage	1702.00	7.00	3.00	Edward	Gomm		
+MAR	2271	 	Richard	Smitten	M	 	 		Marriage	1702.00	11.00	10.00	Ann	Turner		
+MAR	2272	 	Ann	Turner	F	 	 		Marriage	1702.00	11.00	10.00	Richard	Smitten		
+MAR	2273	 	Richard	Pambridge	M	 	 		Marriage	1702.00	19.00	10.00	Ann	Rash		
+MAR	2274	 	Ann	Rash	F	 	 		Marriage	1702.00	19.00	10.00	Richard	Pambridge		
+MAR	2275	 	Thomas	Hawes	M	 	 	Thumbly	Marriage	1702.00	5.00	11.00	Mary	Brookes		
+MAR	2276	 	Mary	Brookes	F	 	 	Draycot	Marriage	1702.00	5.00	11.00	Thomas	Hawes		
+MAR	2277	 	Edward	Mansaw	M	 	 	Morton	Marriage	1702.00	19.00	11.00	Elinar	Bledlow		
+MAR	2278	 	Elinar	Bledlow	F	 	 	Wornnall	Marriage	1702.00	19.00	11.00	Edward	Mansaw		
+MAR	2279	 	George	Loosely	M	 	 		Marriage	1702.00	22.00	11.00	Ann	Burton		
+MAR	2280	 	Ann	Burton	F	 	 		Marriage	1702.00	22.00	11.00	George	Loosely		
+MAR	2281	 	James	Blay	M	 	 		Marriage	1702.00	6.00	12.00	Elinar	Cowden		
+MAR	2282	 	Elinor	Cowden	F	 	 		Marriage	1702.00	6.00	12.00	James	Blay		
+MAR	2283	 	William	Sanders	M	 	 	Chilton	Marriage	1702.00	10.00	12.00	Elinar	Towersey		
+MAR	2284	 	Elinar	Towersey	F	 	 		Marriage	1702.00	10.00	12.00	Wiliam	Sanders		
+MAR	2285	 	Rich	Mills	M	 	 		Marriage	1702.00	20.00	12.00	Alice	Spiers		
+MAR	2286	 	Alice	Spires	F	 	 	Moreton	Marriage	1702.00	20.00	12.00	Rich	Mills		
+MAR	2287	 	Nathaniel	Dubury	M	 	 	Haddenham	Marriage	1702.00	24.00	12.00	Ann	Ing		
+MAR	2288	 	Ann	Ing	F	 	 		Marriage	1702.00	24.00	12.00	Nathaniel	Dubury		
+MAR	2289	 	Joseph	Leaster	M	 	 		Marriage	1702.00	29.00	12.00	Alice	Leafer		
+MAR	2290	 	Alice	Leafer	F	 	 		Marriage	1702.00	29.00	12.00	Joseph	Leaster		
+MAR	2291	 	Susanna	Figge	F	 	 	 	Marriage	1658.00	7.00	11.00	Frances	Spindler		
+MAR	2292	 	Frances	Spindler	M	 	 	 	Marriage	1658.00	7.00	11.00	Susanna	Figge		

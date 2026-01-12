@@ -1,0 +1,1647 @@
+id	porID	ruID	por	runame	utype	parish	window	numevents	pcs	sr	numyears	iratio	occ	n	adjn
+1	HNT/001/rose	HNT/001	rose	Abbots Ripton	AP	Abbots Ripton	1813-1820	101	0.00	1	8	1.00	gardener	5	5.00
+2	HNT/001/rose	HNT/001	rose	Abbots Ripton	AP	Abbots Ripton	1813-1820	101	0.00	1	8	1.00	labourer	48	48.00
+3	HNT/001/rose	HNT/001	rose	Abbots Ripton	AP	Abbots Ripton	1813-1820	101	0.00	1	8	1.00	farmer	32	32.00
+4	HNT/001/rose	HNT/001	rose	Abbots Ripton	AP	Abbots Ripton	1813-1820	101	0.00	1	8	1.00	shoemaker	3	3.00
+5	HNT/001/rose	HNT/001	rose	Abbots Ripton	AP	Abbots Ripton	1813-1820	101	0.00	1	8	1.00	carpenter	3	3.00
+6	HNT/001/rose	HNT/001	rose	Abbots Ripton	AP	Abbots Ripton	1813-1820	101	0.00	1	8	1.00	cottager	2	2.00
+7	HNT/001/rose	HNT/001	rose	Abbots Ripton	AP	Abbots Ripton	1813-1820	101	0.00	1	8	1.00	illegitimate	2	2.00
+8	HNT/001/rose	HNT/001	rose	Abbots Ripton	AP	Abbots Ripton	1813-1820	101	0.00	1	8	1.00	soldier	1	1.00
+9	HNT/001/rose	HNT/001	rose	Abbots Ripton	AP	Abbots Ripton	1813-1820	101	0.00	1	8	1.00	rector	1	1.00
+10	HNT/001/rose	HNT/001	rose	Abbots Ripton	AP	Abbots Ripton	1813-1820	101	0.00	1	8	1.00	baker	1	1.00
+11	HNT/001/rose	HNT/001	rose	Abbots Ripton	AP	Abbots Ripton	1813-1820	101	0.00	1	8	1.00	servant	1	1.00
+12	HNT/001/rose	HNT/001	rose	Abbots Ripton	AP	Abbots Ripton	1813-1820	101	0.00	1	8	1.00	weaver	2	2.00
+13	HNT/002/rose	HNT/002	rose	Abbotsley	AP	Abbotsley	1813-1820	101	0.00	1	8	1.00	labourer	72	72.00
+14	HNT/002/rose	HNT/002	rose	Abbotsley	AP	Abbotsley	1813-1820	101	0.00	1	8	1.00	farmer	16	16.00
+15	HNT/002/rose	HNT/002	rose	Abbotsley	AP	Abbotsley	1813-1820	101	0.00	1	8	1.00	carpenter	4	4.00
+16	HNT/002/rose	HNT/002	rose	Abbotsley	AP	Abbotsley	1813-1820	101	0.00	1	8	1.00	tailor	1	1.00
+17	HNT/002/rose	HNT/002	rose	Abbotsley	AP	Abbotsley	1813-1820	101	0.00	1	8	1.00	horsedealer	1	1.00
+18	HNT/002/rose	HNT/002	rose	Abbotsley	AP	Abbotsley	1813-1820	101	0.00	1	8	1.00	blacksmith	2	2.00
+19	HNT/002/rose	HNT/002	rose	Abbotsley	AP	Abbotsley	1813-1820	101	0.00	1	8	1.00	butcher	1	1.00
+20	HNT/002/rose	HNT/002	rose	Abbotsley	AP	Abbotsley	1813-1820	101	0.00	1	8	1.00	gypsy	2	2.00
+21	HNT/002/rose	HNT/002	rose	Abbotsley	AP	Abbotsley	1813-1820	101	0.00	1	8	1.00	illegitimate	2	2.00
+22	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	labourer	172	172.00
+23	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	butcher	9	9.00
+24	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	illegitimate	10	10.00
+25	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	shoemaker	21	21.00
+26	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	thatcher	3	3.00
+27	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	farmer	25	25.00
+28	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	carpenter	29	29.00
+29	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	tailor	5	5.00
+30	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	brazier	2	2.00
+31	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	blacksmith	18	18.00
+32	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	innkeeper	4	4.00
+33	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	mason	2	2.00
+34	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	soldier	1	1.00
+35	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	glazier	2	2.00
+36	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	bricklayer	3	3.00
+37	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	filesmith	1	1.00
+38	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	shopkeeper	1	1.00
+39	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	drover	2	2.00
+40	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	miller	4	4.00
+41	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	publican	1	1.00
+42	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	house dweller	1	1.00
+43	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	schoolmaster	1	1.00
+44	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	householder	2	2.00
+45	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	shepherd	2	2.00
+46	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	coachman	1	1.00
+47	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	postman	1	1.00
+48	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	basket maker	2	2.00
+49	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	farming man	1	1.00
+50	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	horsekeeper	1	1.00
+51	HNT/003/rose	HNT/003	rose	Alconbury with Alconbury Weston	AP	Alconbury with Alconbury Weston	1813-1820	328	0.00	1	8	1.00	housekeeper	1	1.00
+52	HNT/004/rose	HNT/004	rose	Alwalton	AP	Alwalton	1813-1820	72	0.00	1	8	1.00	labourer	32	32.00
+53	HNT/004/rose	HNT/004	rose	Alwalton	AP	Alwalton	1813-1820	72	0.00	1	8	1.00	shepherd	2	2.00
+54	HNT/004/rose	HNT/004	rose	Alwalton	AP	Alwalton	1813-1820	72	0.00	1	8	1.00	servant in husbandry	1	1.00
+55	HNT/004/rose	HNT/004	rose	Alwalton	AP	Alwalton	1813-1820	72	0.00	1	8	1.00	sawyer and wheelwright	4	4.00
+56	HNT/004/rose	HNT/004	rose	Alwalton	AP	Alwalton	1813-1820	72	0.00	1	8	1.00	gentleman	8	8.00
+57	HNT/004/rose	HNT/004	rose	Alwalton	AP	Alwalton	1813-1820	72	0.00	1	8	1.00	blacksmith	3	3.00
+58	HNT/004/rose	HNT/004	rose	Alwalton	AP	Alwalton	1813-1820	72	0.00	1	8	1.00	wheelwright	3	3.00
+59	HNT/004/rose	HNT/004	rose	Alwalton	AP	Alwalton	1813-1820	72	0.00	1	8	1.00	carpenter	7	7.00
+60	HNT/004/rose	HNT/004	rose	Alwalton	AP	Alwalton	1813-1820	72	0.00	1	8	1.00	cordwainer	5	5.00
+61	HNT/004/rose	HNT/004	rose	Alwalton	AP	Alwalton	1813-1820	72	0.00	1	8	1.00	housekeeper	1	1.00
+62	HNT/004/rose	HNT/004	rose	Alwalton	AP	Alwalton	1813-1820	72	0.00	1	8	1.00	farmer	3	3.00
+63	HNT/004/rose	HNT/004	rose	Alwalton	AP	Alwalton	1813-1820	72	0.00	1	8	1.00	miller	1	1.00
+64	HNT/004/rose	HNT/004	rose	Alwalton	AP	Alwalton	1813-1820	72	0.00	1	8	1.00	illegitimate	1	1.00
+65	HNT/004/rose	HNT/004	rose	Alwalton	AP	Alwalton	1813-1820	72	0.00	1	8	1.00	pauper	1	1.00
+66	HNT/005/rose	HNT/005	rose	Barham	CH	Spalwick	1813-1820	34	0.00	1	8	1.00	labourer	23	23.00
+67	HNT/005/rose	HNT/005	rose	Barham	CH	Spalwick	1813-1820	34	0.00	1	8	1.00	farmer	6	6.00
+68	HNT/005/rose	HNT/005	rose	Barham	CH	Spalwick	1813-1820	34	0.00	1	8	1.00	shoemaker	2	2.00
+69	HNT/005/rose	HNT/005	rose	Barham	CH	Spalwick	1813-1820	34	0.00	1	8	1.00	carpenter	2	2.00
+70	HNT/005/rose	HNT/005	rose	Barham	CH	Spalwick	1813-1820	34	0.00	1	8	1.00	illegitimate	1	1.00
+71	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	basketmaker	2	2.00
+72	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	labourer	76	76.00
+73	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	tinker and brazier	3	3.00
+74	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	publican	6	6.00
+75	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	waterman	15	15.00
+76	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	boatwright	10	10.00
+77	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	gentleman	3	3.00
+78	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	dairyman	3	3.00
+79	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	jobber	1	1.00
+80	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	sojourner	1	1.00
+81	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	carpenter	10	10.00
+82	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	farmer	14	14.00
+83	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	baker	2	2.00
+84	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	butcher and labourer	2	2.00
+85	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	gardener	3	3.00
+86	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	rector	3	3.00
+87	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	horsebreaker	3	3.00
+88	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	gentleman farmer	3	3.00
+89	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	illegitimate	4	4.00
+90	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	thatcher	2	2.00
+91	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	turf digger	1	1.00
+92	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	yeoman	2	2.00
+93	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	blacksmith	3	3.00
+94	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	wheelwright	2	2.00
+95	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	shepherd	1	1.00
+96	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	publican and lighterman	1	1.00
+97	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	higler	4	4.00
+98	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	lighterman	3	3.00
+99	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	wine merchant	3	3.00
+100	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	cooper	1	1.00
+101	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	shoemaker	4	4.00
+102	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	baptism without named parents	1	1.00
+103	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	tailor	1	1.00
+104	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	shepherd or yeoman	1	1.00
+105	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	gamekeeper	2	2.00
+106	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	cooper and wheelwright	1	1.00
+107	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	hairdresser	1	1.00
+108	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	traveller	1	1.00
+109	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	innkeeper	1	1.00
+110	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	publican and farmer	1	1.00
+111	HNT/006/rose	HNT/006	rose	Bluntisham cum Earith	AP	Bluntisham cum Earith	1813-1820	202	0.00	1	8	1.00	miller	1	1.00
+112	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	labourer	128	128.00
+113	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	shoemaker	7	7.00
+114	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	servant	4	4.00
+115	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	butler	4	4.00
+116	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	farmer	9	9.00
+117	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	mason	1	1.00
+118	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	carpenter	16	16.00
+119	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	publican	5	5.00
+120	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	fisherman	3	3.00
+121	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	esquire	8	8.00
+122	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	baker	5	5.00
+123	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	bricklayer	8	8.00
+124	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	soldier	2	2.00
+125	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	wheelwright	6	6.00
+126	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	mechanic	1	1.00
+127	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	printer	1	1.00
+128	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	illegitimate	7	7.00
+129	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	yeoman	1	1.00
+130	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	gardener	8	8.00
+131	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	blacksmith	5	5.00
+132	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	miller	9	9.00
+133	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	tailor	2	2.00
+134	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	sawyer	4	4.00
+135	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	gentleman farmer	3	3.00
+136	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	thatcher	1	1.00
+137	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	slater	1	1.00
+138	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	fishmonger	1	1.00
+139	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	no occupation specified	1	1.00
+140	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	cooper	1	1.00
+141	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	cordwainer	2	2.00
+142	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	horsedealer	1	1.00
+143	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	attorney at law	2	2.00
+144	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	basket maker	1	1.00
+145	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	collar maker	7	7.00
+146	HNT/008/rose	HNT/008	rose	Brampton	AP	Brampton	1813-1820	266	0.39	1	8	1.00	waggoner	1	1.00
+147	HNT/009/rose	HNT/009	rose	Brington	AP	Brington	1813-1820	52	0.00	1	8	1.00	servant	2	2.00
+148	HNT/009/rose	HNT/009	rose	Brington	AP	Brington	1813-1820	52	0.00	1	8	1.00	labourer	34	34.00
+149	HNT/009/rose	HNT/009	rose	Brington	AP	Brington	1813-1820	52	0.00	1	8	1.00	illegitimate	3	3.00
+150	HNT/009/rose	HNT/009	rose	Brington	AP	Brington	1813-1820	52	0.00	1	8	1.00	farmer	9	9.00
+151	HNT/009/rose	HNT/009	rose	Brington	AP	Brington	1813-1820	52	0.00	1	8	1.00	basketmaker	2	2.00
+152	HNT/009/rose	HNT/009	rose	Brington	AP	Brington	1813-1820	52	0.00	1	8	1.00	butcher	1	1.00
+153	HNT/009/rose	HNT/009	rose	Brington	AP	Brington	1813-1820	52	0.00	1	8	1.00	carpenter	1	1.00
+154	HNT/010/rose	HNT/010	rose	Broughton	AP	Broughton	1813-1820	95	0.00	1	8	1.00	labourer	63	63.00
+155	HNT/010/rose	HNT/010	rose	Broughton	AP	Broughton	1813-1820	95	0.00	1	8	1.00	carpenter and labourer	1	1.00
+156	HNT/010/rose	HNT/010	rose	Broughton	AP	Broughton	1813-1820	95	0.00	1	8	1.00	carpenter	5	5.00
+157	HNT/010/rose	HNT/010	rose	Broughton	AP	Broughton	1813-1820	95	0.00	1	8	1.00	thatcher	1	1.00
+158	HNT/010/rose	HNT/010	rose	Broughton	AP	Broughton	1813-1820	95	0.00	1	8	1.00	shopkeeper and labourer	2	2.00
+159	HNT/010/rose	HNT/010	rose	Broughton	AP	Broughton	1813-1820	95	0.00	1	8	1.00	illegitimate	6	6.00
+160	HNT/010/rose	HNT/010	rose	Broughton	AP	Broughton	1813-1820	95	0.00	1	8	1.00	rector	1	1.00
+161	HNT/010/rose	HNT/010	rose	Broughton	AP	Broughton	1813-1820	95	0.00	1	8	1.00	blacksmith	1	1.00
+162	HNT/010/rose	HNT/010	rose	Broughton	AP	Broughton	1813-1820	95	0.00	1	8	1.00	schoolmaster	3	3.00
+163	HNT/010/rose	HNT/010	rose	Broughton	AP	Broughton	1813-1820	95	0.00	1	8	1.00	poulterer	1	1.00
+164	HNT/010/rose	HNT/010	rose	Broughton	AP	Broughton	1813-1820	95	0.00	1	8	1.00	farmer	3	3.00
+165	HNT/010/rose	HNT/010	rose	Broughton	AP	Broughton	1813-1820	95	0.00	1	8	1.00	butcher	1	1.00
+166	HNT/010/rose	HNT/010	rose	Broughton	AP	Broughton	1813-1820	95	0.00	1	8	1.00	gardener and labourer	1	1.00
+167	HNT/010/rose	HNT/010	rose	Broughton	AP	Broughton	1813-1820	95	0.00	1	8	1.00	machine man	2	2.00
+168	HNT/010/rose	HNT/010	rose	Broughton	AP	Broughton	1813-1820	95	0.00	1	8	1.00	shopkeeper	1	1.00
+169	HNT/010/rose	HNT/010	rose	Broughton	AP	Broughton	1813-1820	95	0.00	1	8	1.00	tailor	1	1.00
+170	HNT/010/rose	HNT/010	rose	Broughton	AP	Broughton	1813-1820	95	0.00	1	8	1.00	shepherd	2	2.00
+171	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	labourer	136	136.00
+172	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	esquire	3	3.00
+173	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	blacksmith	11	11.00
+174	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	servant	3	3.00
+175	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	publican	6	6.00
+176	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	gentleman	4	4.00
+177	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	carpenter	11	11.00
+178	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	illegitimate	12	12.00
+179	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	farmer	12	12.00
+180	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	shoemaker	15	15.00
+181	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	horse dealer	2	2.00
+182	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	postboy	3	3.00
+183	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	no occupation specified	1	1.00
+184	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	thatcher	3	3.00
+185	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	lieutenant of marines	1	1.00
+186	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	tanner	1	1.00
+187	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	miller	5	5.00
+188	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	smith	1	1.00
+189	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	soldier	1	1.00
+190	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	sergeant militia	1	1.00
+191	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	baker	4	4.00
+192	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	bailliff	2	2.00
+193	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	hairdresser	2	2.00
+194	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	half pay marine	1	1.00
+195	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	md	1	1.00
+196	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	butcher	4	4.00
+197	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	gardener	2	2.00
+198	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	corn dealer	2	2.00
+199	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	coachman	2	2.00
+200	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	captain half pay	1	1.00
+201	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	shepherd	1	1.00
+202	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	grocer	2	2.00
+203	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	weaver	5	5.00
+204	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	guard of coach	1	1.00
+205	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	solicitor	1	1.00
+206	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	seaman	1	1.00
+207	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	barber	1	1.00
+208	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	wheeler	1	1.00
+209	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	bricklayer	1	1.00
+210	HNT/011/rose	HNT/011	rose	Buckden	AP	Buckden	1813-1820	268	0.39	1	8	1.00	tailor	1	1.00
+211	HNT/012/rose	HNT/012	rose	Buckworth	AP	Buckworth	1813-1820	33	0.00	1	8	1.00	shepherd	1	1.00
+212	HNT/012/rose	HNT/012	rose	Buckworth	AP	Buckworth	1813-1820	33	0.00	1	8	1.00	wheelwright	1	1.00
+213	HNT/012/rose	HNT/012	rose	Buckworth	AP	Buckworth	1813-1820	33	0.00	1	8	1.00	labourer	26	26.00
+214	HNT/012/rose	HNT/012	rose	Buckworth	AP	Buckworth	1813-1820	33	0.00	1	8	1.00	reverend and minister of this parish	1	1.00
+215	HNT/012/rose	HNT/012	rose	Buckworth	AP	Buckworth	1813-1820	33	0.00	1	8	1.00	illegitimate	2	2.00
+216	HNT/012/rose	HNT/012	rose	Buckworth	AP	Buckworth	1813-1820	33	0.00	1	8	1.00	baptism without named parents	1	1.00
+217	HNT/012/rose	HNT/012	rose	Buckworth	AP	Buckworth	1813-1820	33	0.00	1	8	1.00	farmer	1	1.00
+218	HNT/013/rose	HNT/013	rose	Bury cum Hepmangrove	AP	Bury cum Hepmangrove	1813-1820	70	0.00	1	8	1.00	labourer	58	58.00
+219	HNT/013/rose	HNT/013	rose	Bury cum Hepmangrove	AP	Bury cum Hepmangrove	1813-1820	70	0.00	1	8	1.00	farmer	5	5.00
+220	HNT/013/rose	HNT/013	rose	Bury cum Hepmangrove	AP	Bury cum Hepmangrove	1813-1820	70	0.00	1	8	1.00	gentleman	1	1.00
+221	HNT/013/rose	HNT/013	rose	Bury cum Hepmangrove	AP	Bury cum Hepmangrove	1813-1820	70	0.00	1	8	1.00	illegitimate	3	3.00
+222	HNT/013/rose	HNT/013	rose	Bury cum Hepmangrove	AP	Bury cum Hepmangrove	1813-1820	70	0.00	1	8	1.00	cordwainer	3	3.00
+223	HNT/014/rose	HNT/014	rose	Bythorn	CH	Broughton	1813-1820	29	0.00	1	8	1.00	farmer	1	1.00
+224	HNT/014/rose	HNT/014	rose	Bythorn	CH	Broughton	1813-1820	29	0.00	1	8	1.00	publican	3	3.00
+225	HNT/014/rose	HNT/014	rose	Bythorn	CH	Broughton	1813-1820	29	0.00	1	8	1.00	labourer	20	20.00
+226	HNT/014/rose	HNT/014	rose	Bythorn	CH	Broughton	1813-1820	29	0.00	1	8	1.00	gentleman yeoman	2	2.00
+227	HNT/014/rose	HNT/014	rose	Bythorn	CH	Broughton	1813-1820	29	0.00	1	8	1.00	clerk	1	1.00
+228	HNT/014/rose	HNT/014	rose	Bythorn	CH	Broughton	1813-1820	29	0.00	1	8	1.00	illegitimate	1	1.00
+229	HNT/014/rose	HNT/014	rose	Bythorn	CH	Broughton	1813-1820	29	0.00	1	8	1.00	schoolmaster and clerk	1	1.00
+230	HNT/015/rose	HNT/015	rose	Caldecote	AP	Caldecote	1813-1820	16	0.00	1	8	1.00	soldier in the northamptonshire militia	1	1.00
+231	HNT/015/rose	HNT/015	rose	Caldecote	AP	Caldecote	1813-1820	16	0.00	1	8	1.00	labourer	12	12.00
+232	HNT/015/rose	HNT/015	rose	Caldecote	AP	Caldecote	1813-1820	16	0.00	1	8	1.00	shepherd	3	3.00
+233	HNT/016/rose	HNT/016	rose	Chesterton	AP	Chesterton	1813-1820	23	0.00	1	8	1.00	farming man	1	1.00
+234	HNT/016/rose	HNT/016	rose	Chesterton	AP	Chesterton	1813-1820	23	0.00	1	8	1.00	innholder	2	2.00
+235	HNT/016/rose	HNT/016	rose	Chesterton	AP	Chesterton	1813-1820	23	0.00	1	8	1.00	labourer	8	8.00
+236	HNT/016/rose	HNT/016	rose	Chesterton	AP	Chesterton	1813-1820	23	0.00	1	8	1.00	blacksmith	5	5.00
+237	HNT/016/rose	HNT/016	rose	Chesterton	AP	Chesterton	1813-1820	23	0.00	1	8	1.00	gardener	1	1.00
+238	HNT/016/rose	HNT/016	rose	Chesterton	AP	Chesterton	1813-1820	23	0.00	1	8	1.00	clerk	1	1.00
+239	HNT/016/rose	HNT/016	rose	Chesterton	AP	Chesterton	1813-1820	23	0.00	1	8	1.00	innkeeper	1	1.00
+240	HNT/016/rose	HNT/016	rose	Chesterton	AP	Chesterton	1813-1820	23	0.00	1	8	1.00	farmer	3	3.00
+241	HNT/016/rose	HNT/016	rose	Chesterton	AP	Chesterton	1813-1820	23	0.00	1	8	1.00	illegitimate	1	1.00
+242	HNT/017/rose	HNT/017	rose	Colne	CH	Somersham	1815-1822	45	0.00	1	8	1.00	shoemaker	2	2.00
+243	HNT/017/rose	HNT/017	rose	Colne	CH	Somersham	1815-1822	45	0.00	1	8	1.00	illegitimate	2	2.00
+244	HNT/017/rose	HNT/017	rose	Colne	CH	Somersham	1815-1822	45	0.00	1	8	1.00	labourer	23	23.00
+245	HNT/017/rose	HNT/017	rose	Colne	CH	Somersham	1815-1822	45	0.00	1	8	1.00	carpenter	8	8.00
+246	HNT/017/rose	HNT/017	rose	Colne	CH	Somersham	1815-1822	45	0.00	1	8	1.00	sergeant 52nd regt	1	1.00
+247	HNT/017/rose	HNT/017	rose	Colne	CH	Somersham	1815-1822	45	0.00	1	8	1.00	shepherd	3	3.00
+248	HNT/017/rose	HNT/017	rose	Colne	CH	Somersham	1815-1822	45	0.00	1	8	1.00	sawyer	2	2.00
+249	HNT/017/rose	HNT/017	rose	Colne	CH	Somersham	1815-1822	45	0.00	1	8	1.00	serjeant	1	1.00
+250	HNT/017/rose	HNT/017	rose	Colne	CH	Somersham	1815-1822	45	0.00	1	8	1.00	miller	1	1.00
+251	HNT/017/rose	HNT/017	rose	Colne	CH	Somersham	1815-1822	45	0.00	1	8	1.00	higler	1	1.00
+252	HNT/017/rose	HNT/017	rose	Colne	CH	Somersham	1815-1822	45	0.00	1	8	1.00	gardener	1	1.00
+253	HNT/018/rose	HNT/018	rose	Connington	AP	Conington	1813-1820	57	0.00	1	8	1.00	farmer	6	6.00
+254	HNT/018/rose	HNT/018	rose	Connington	AP	Conington	1813-1820	57	0.00	1	8	1.00	labourer	37	37.00
+255	HNT/018/rose	HNT/018	rose	Connington	AP	Conington	1813-1820	57	0.00	1	8	1.00	servant	6	6.00
+256	HNT/018/rose	HNT/018	rose	Connington	AP	Conington	1813-1820	57	0.00	1	8	1.00	pig jobber	1	1.00
+257	HNT/018/rose	HNT/018	rose	Connington	AP	Conington	1813-1820	57	0.00	1	8	1.00	hawker	1	1.00
+258	HNT/018/rose	HNT/018	rose	Connington	AP	Conington	1813-1820	57	0.00	1	8	1.00	carpenter	1	1.00
+259	HNT/018/rose	HNT/018	rose	Connington	AP	Conington	1813-1820	57	0.00	1	8	1.00	illegitimate	2	2.00
+260	HNT/018/rose	HNT/018	rose	Connington	AP	Conington	1813-1820	57	0.00	1	8	1.00	shepherd	3	3.00
+261	HNT/020/rose	HNT/020	rose	Covington	AP	Covington	1813-1820	32	0.00	1	8	1.00	labourer	16	16.00
+262	HNT/020/rose	HNT/020	rose	Covington	AP	Covington	1813-1820	32	0.00	1	8	1.00	farmer	12	12.00
+263	HNT/020/rose	HNT/020	rose	Covington	AP	Covington	1813-1820	32	0.00	1	8	1.00	shoemaker	3	3.00
+264	HNT/020/rose	HNT/020	rose	Covington	AP	Covington	1813-1820	32	0.00	1	8	1.00	shepherd	1	1.00
+265	HNT/021/rose	HNT/021	rose	Denton	AP	Denton	1813-1820	24	4.17	1	8	1.00	gardener	1	1.00
+266	HNT/021/rose	HNT/021	rose	Denton	AP	Denton	1813-1820	24	4.17	1	8	1.00	tailor	3	3.00
+267	HNT/021/rose	HNT/021	rose	Denton	AP	Denton	1813-1820	24	4.17	1	8	1.00	labourer	14	14.00
+268	HNT/021/rose	HNT/021	rose	Denton	AP	Denton	1813-1820	24	4.17	1	8	1.00	no occupation specified	1	1.00
+269	HNT/021/rose	HNT/021	rose	Denton	AP	Denton	1813-1820	24	4.17	1	8	1.00	farmer	5	5.00
+270	HNT/022/rose	HNT/022	rose	Diddington	AP	Diddington	1813-1820	42	0.00	1	8	1.00	captain of engineers	1	1.00
+271	HNT/022/rose	HNT/022	rose	Diddington	AP	Diddington	1813-1820	42	0.00	1	8	1.00	labourer	28	28.00
+272	HNT/022/rose	HNT/022	rose	Diddington	AP	Diddington	1813-1820	42	0.00	1	8	1.00	servant	4	4.00
+273	HNT/022/rose	HNT/022	rose	Diddington	AP	Diddington	1813-1820	42	0.00	1	8	1.00	gardener	2	2.00
+274	HNT/022/rose	HNT/022	rose	Diddington	AP	Diddington	1813-1820	42	0.00	1	8	1.00	farmer	2	2.00
+275	HNT/022/rose	HNT/022	rose	Diddington	AP	Diddington	1813-1820	42	0.00	1	8	1.00	tailor	1	1.00
+276	HNT/022/rose	HNT/022	rose	Diddington	AP	Diddington	1813-1820	42	0.00	1	8	1.00	illegitimate	4	4.00
+277	HNT/024/rose	HNT/024	rose	Easton	AP	Easton	1813-1820	47	0.00	1	8	1.00	shepherd	5	5.00
+278	HNT/024/rose	HNT/024	rose	Easton	AP	Easton	1813-1820	47	0.00	1	8	1.00	farmer	6	6.00
+279	HNT/024/rose	HNT/024	rose	Easton	AP	Easton	1813-1820	47	0.00	1	8	1.00	labourer	28	28.00
+280	HNT/024/rose	HNT/024	rose	Easton	AP	Easton	1813-1820	47	0.00	1	8	1.00	grazier	3	3.00
+281	HNT/024/rose	HNT/024	rose	Easton	AP	Easton	1813-1820	47	0.00	1	8	1.00	drover	1	1.00
+282	HNT/024/rose	HNT/024	rose	Easton	AP	Easton	1813-1820	47	0.00	1	8	1.00	illegitimate	2	2.00
+283	HNT/024/rose	HNT/024	rose	Easton	AP	Easton	1813-1820	47	0.00	1	8	1.00	carpenter	2	2.00
+284	HNT/025/rose	HNT/025	rose	Ellington	AP	Ellington	1813-1820	93	1.12	1	8	1.00	illegitimate	4	4.00
+285	HNT/025/rose	HNT/025	rose	Ellington	AP	Ellington	1813-1820	93	1.12	1	8	1.00	labourer	58	58.00
+286	HNT/025/rose	HNT/025	rose	Ellington	AP	Ellington	1813-1820	93	1.12	1	8	1.00	soldier	2	2.00
+287	HNT/025/rose	HNT/025	rose	Ellington	AP	Ellington	1813-1820	93	1.12	1	8	1.00	brickmaker	1	1.00
+288	HNT/025/rose	HNT/025	rose	Ellington	AP	Ellington	1813-1820	93	1.12	1	8	1.00	grazier	2	2.00
+289	HNT/025/rose	HNT/025	rose	Ellington	AP	Ellington	1813-1820	93	1.12	1	8	1.00	farmer	13	13.00
+290	HNT/025/rose	HNT/025	rose	Ellington	AP	Ellington	1813-1820	93	1.12	1	8	1.00	blacksmith	2	2.00
+291	HNT/025/rose	HNT/025	rose	Ellington	AP	Ellington	1813-1820	93	1.12	1	8	1.00	miller	3	3.00
+292	HNT/025/rose	HNT/025	rose	Ellington	AP	Ellington	1813-1820	93	1.12	1	8	1.00	carpenter	4	4.00
+293	HNT/025/rose	HNT/025	rose	Ellington	AP	Ellington	1813-1820	93	1.12	1	8	1.00	well sinker	1	1.00
+294	HNT/025/rose	HNT/025	rose	Ellington	AP	Ellington	1813-1820	93	1.12	1	8	1.00	thatcher	1	1.00
+295	HNT/025/rose	HNT/025	rose	Ellington	AP	Ellington	1813-1820	93	1.12	1	8	1.00	butcher	1	1.00
+296	HNT/025/rose	HNT/025	rose	Ellington	AP	Ellington	1813-1820	93	1.12	1	8	1.00	no occupation specified	1	1.00
+297	HNT/026/rose	HNT/026	rose	Elton	AP	Elton	1813-1820	170	0.00	1	8	1.00	labourer	116	116.00
+298	HNT/026/rose	HNT/026	rose	Elton	AP	Elton	1813-1820	170	0.00	1	8	1.00	hawker	3	3.00
+299	HNT/026/rose	HNT/026	rose	Elton	AP	Elton	1813-1820	170	0.00	1	8	1.00	butcher	6	6.00
+300	HNT/026/rose	HNT/026	rose	Elton	AP	Elton	1813-1820	170	0.00	1	8	1.00	illegitimate	10	10.00
+301	HNT/026/rose	HNT/026	rose	Elton	AP	Elton	1813-1820	170	0.00	1	8	1.00	whitawer	4	4.00
+302	HNT/026/rose	HNT/026	rose	Elton	AP	Elton	1813-1820	170	0.00	1	8	1.00	north york militia	1	1.00
+303	HNT/026/rose	HNT/026	rose	Elton	AP	Elton	1813-1820	170	0.00	1	8	1.00	carpenter	4	4.00
+304	HNT/026/rose	HNT/026	rose	Elton	AP	Elton	1813-1820	170	0.00	1	8	1.00	surveyor of highways and constable	1	1.00
+305	HNT/026/rose	HNT/026	rose	Elton	AP	Elton	1813-1820	170	0.00	1	8	1.00	grazier	1	1.00
+306	HNT/026/rose	HNT/026	rose	Elton	AP	Elton	1813-1820	170	0.00	1	8	1.00	blacksmith	2	2.00
+307	HNT/026/rose	HNT/026	rose	Elton	AP	Elton	1813-1820	170	0.00	1	8	1.00	farmer	7	7.00
+308	HNT/026/rose	HNT/026	rose	Elton	AP	Elton	1813-1820	170	0.00	1	8	1.00	gamekeeper	1	1.00
+309	HNT/026/rose	HNT/026	rose	Elton	AP	Elton	1813-1820	170	0.00	1	8	1.00	surveyor of highways and grazier	1	1.00
+310	HNT/026/rose	HNT/026	rose	Elton	AP	Elton	1813-1820	170	0.00	1	8	1.00	footman	1	1.00
+311	HNT/026/rose	HNT/026	rose	Elton	AP	Elton	1813-1820	170	0.00	1	8	1.00	shopkeeper	1	1.00
+312	HNT/026/rose	HNT/026	rose	Elton	AP	Elton	1813-1820	170	0.00	1	8	1.00	shepherd	5	5.00
+313	HNT/026/rose	HNT/026	rose	Elton	AP	Elton	1813-1820	170	0.00	1	8	1.00	shoemaker	2	2.00
+314	HNT/026/rose	HNT/026	rose	Elton	AP	Elton	1813-1820	170	0.00	1	8	1.00	surveyor of highways	1	1.00
+315	HNT/026/rose	HNT/026	rose	Elton	AP	Elton	1813-1820	170	0.00	1	8	1.00	turnpike keeper	1	1.00
+316	HNT/026/rose	HNT/026	rose	Elton	AP	Elton	1813-1820	170	0.00	1	8	1.00	millwright	1	1.00
+317	HNT/026/rose	HNT/026	rose	Elton	AP	Elton	1813-1820	170	0.00	1	8	1.00	tailor	1	1.00
+318	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	carpenter	20	20.00
+319	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	labourer	96	96.00
+320	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	butcher	1	1.00
+321	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	farmer	4	4.00
+322	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	soldier	2	2.00
+323	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	wool comber	1	1.00
+324	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	jobber	2	2.00
+325	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	combmaker	4	4.00
+326	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	gardener	2	2.00
+327	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	smith	1	1.00
+328	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	gentleman	4	4.00
+329	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	sawyer	1	1.00
+330	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	bricklayer	5	5.00
+331	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	shepherd	4	4.00
+332	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	innkeeper	1	1.00
+333	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	cooper	1	1.00
+334	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	baker	2	2.00
+335	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	mealman	2	2.00
+336	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	cordwainer	1	1.00
+337	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	shoemaker	4	4.00
+338	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	yeoman	4	4.00
+339	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	lath render	3	3.00
+340	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	illegitimate	4	4.00
+341	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	blacksmith	4	4.00
+342	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	unreadable	1	1.00
+343	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	no occupation specified	1	1.00
+344	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	tailor	1	1.00
+345	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	labourer and carpenter	1	1.00
+346	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	publican	3	3.00
+347	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	dragoon	1	1.00
+348	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	mason	1	1.00
+349	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	exciseman	1	1.00
+350	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	servant	1	1.00
+351	HNT/027/rose	HNT/027	rose	Eynesbury	AP	Eynesbury	1813-1820	185	0.56	1	8	1.00	excise officer	1	1.00
+352	HNT/028/rose	HNT/028	rose	Farcett	CH	Stanground	1813-1820	136	0.00	1	8	1.00	labourer	86	86.00
+353	HNT/028/rose	HNT/028	rose	Farcett	CH	Stanground	1813-1820	136	0.00	1	8	1.00	farmer	28	28.00
+354	HNT/028/rose	HNT/028	rose	Farcett	CH	Stanground	1813-1820	136	0.00	1	8	1.00	wheelwright	1	1.00
+355	HNT/028/rose	HNT/028	rose	Farcett	CH	Stanground	1813-1820	136	0.00	1	8	1.00	schoolmaster	5	5.00
+356	HNT/028/rose	HNT/028	rose	Farcett	CH	Stanground	1813-1820	136	0.00	1	8	1.00	blacksmith	4	4.00
+357	HNT/028/rose	HNT/028	rose	Farcett	CH	Stanground	1813-1820	136	0.00	1	8	1.00	parish clerk	3	3.00
+358	HNT/028/rose	HNT/028	rose	Farcett	CH	Stanground	1813-1820	136	0.00	1	8	1.00	carpenter	2	2.00
+359	HNT/028/rose	HNT/028	rose	Farcett	CH	Stanground	1813-1820	136	0.00	1	8	1.00	illegitimate	4	4.00
+360	HNT/028/rose	HNT/028	rose	Farcett	CH	Stanground	1813-1820	136	0.00	1	8	1.00	baker	1	1.00
+361	HNT/028/rose	HNT/028	rose	Farcett	CH	Stanground	1813-1820	136	0.00	1	8	1.00	farmer and victualler	1	1.00
+362	HNT/028/rose	HNT/028	rose	Farcett	CH	Stanground	1813-1820	136	0.00	1	8	1.00	hawker	1	1.00
+363	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	shoemaker	2	2.00
+364	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	collarmaker	2	2.00
+365	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	glazier	2	2.00
+366	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	labourer	63	63.00
+367	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	baker	3	3.00
+368	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	clerk	3	3.00
+369	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	maltster	3	3.00
+370	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	tailor	6	6.00
+371	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	wheelwright	4	4.00
+372	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	encloser	5	5.00
+373	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	bricklayer	3	3.00
+374	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	farmer and land surveyor	1	1.00
+375	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	jobber	7	7.00
+376	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	carpenter	8	8.00
+377	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	journeyman boatwright	1	1.00
+378	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	postboy	2	2.00
+379	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	encloser and labourer	1	1.00
+380	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	cordwainer	1	1.00
+381	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	brushmaker	1	1.00
+382	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	chaisedriver	1	1.00
+383	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	schoolmaster	1	1.00
+384	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	vicar	1	1.00
+385	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	farmer	3	3.00
+386	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	exciseman	3	3.00
+387	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	innkeeper	1	1.00
+388	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	illegitimate	2	2.00
+389	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	thatcher	1	1.00
+390	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	boatwright	1	1.00
+391	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	butcher	1	1.00
+392	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	publican	1	1.00
+393	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	harness maker	1	1.00
+394	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	bricklayer and publican	1	1.00
+395	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	gentleman	1	1.00
+396	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	cowkeeper	1	1.00
+397	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	gardener	1	1.00
+398	HNT/029/rose	HNT/029	rose	Fenstanton	AP	Fenstanton	1813-1820	140	0.00	1	8	1.00	postlad	1	1.00
+399	HNT/030/rose	HNT/030	rose	Fletton	AP	Fletton	1813-1820	35	0.00	1	8	1.00	illegitimate	1	1.00
+400	HNT/030/rose	HNT/030	rose	Fletton	AP	Fletton	1813-1820	35	0.00	1	8	1.00	labourer	26	26.00
+401	HNT/030/rose	HNT/030	rose	Fletton	AP	Fletton	1813-1820	35	0.00	1	8	1.00	carpenter	4	4.00
+402	HNT/030/rose	HNT/030	rose	Fletton	AP	Fletton	1813-1820	35	0.00	1	8	1.00	miller	1	1.00
+403	HNT/030/rose	HNT/030	rose	Fletton	AP	Fletton	1813-1820	35	0.00	1	8	1.00	mole catcher	1	1.00
+404	HNT/030/rose	HNT/030	rose	Fletton	AP	Fletton	1813-1820	35	0.00	1	8	1.00	wool comber	1	1.00
+405	HNT/030/rose	HNT/030	rose	Fletton	AP	Fletton	1813-1820	35	0.00	1	8	1.00	blacksmith	1	1.00
+406	HNT/031/rose	HNT/031	rose	Folksworth	AP	Folksworth	1813-1820	59	0.00	1	8	1.00	labourer	35	35.00
+407	HNT/031/rose	HNT/031	rose	Folksworth	AP	Folksworth	1813-1820	59	0.00	1	8	1.00	private militia	4	4.00
+408	HNT/031/rose	HNT/031	rose	Folksworth	AP	Folksworth	1813-1820	59	0.00	1	8	1.00	shoemaker	2	2.00
+409	HNT/031/rose	HNT/031	rose	Folksworth	AP	Folksworth	1813-1820	59	0.00	1	8	1.00	sergeant militia	1	1.00
+410	HNT/031/rose	HNT/031	rose	Folksworth	AP	Folksworth	1813-1820	59	0.00	1	8	1.00	postboy	1	1.00
+411	HNT/031/rose	HNT/031	rose	Folksworth	AP	Folksworth	1813-1820	59	0.00	1	8	1.00	nailmaker	3	3.00
+412	HNT/031/rose	HNT/031	rose	Folksworth	AP	Folksworth	1813-1820	59	0.00	1	8	1.00	blacksmith	4	4.00
+413	HNT/031/rose	HNT/031	rose	Folksworth	AP	Folksworth	1813-1820	59	0.00	1	8	1.00	farmer	2	2.00
+414	HNT/031/rose	HNT/031	rose	Folksworth	AP	Folksworth	1813-1820	59	0.00	1	8	1.00	illegitimate	2	2.00
+415	HNT/031/rose	HNT/031	rose	Folksworth	AP	Folksworth	1813-1820	59	0.00	1	8	1.00	cordwainer	1	1.00
+416	HNT/031/rose	HNT/031	rose	Folksworth	AP	Folksworth	1813-1820	59	0.00	1	8	1.00	butcher	2	2.00
+417	HNT/031/rose	HNT/031	rose	Folksworth	AP	Folksworth	1813-1820	59	0.00	1	8	1.00	gentleman	1	1.00
+418	HNT/031/rose	HNT/031	rose	Folksworth	AP	Folksworth	1813-1820	59	0.00	1	8	1.00	nailer	1	1.00
+419	HNT/032/rose	HNT/032	rose	Glatton	AP	Glatton	1813-1820	101	0.00	1	8	1.00	labourer	43	43.00
+420	HNT/032/rose	HNT/032	rose	Glatton	AP	Glatton	1813-1820	101	0.00	1	8	1.00	blacksmith	1	1.00
+421	HNT/032/rose	HNT/032	rose	Glatton	AP	Glatton	1813-1820	101	0.00	1	8	1.00	baker	4	4.00
+422	HNT/032/rose	HNT/032	rose	Glatton	AP	Glatton	1813-1820	101	0.00	1	8	1.00	illegitimate	15	15.00
+423	HNT/032/rose	HNT/032	rose	Glatton	AP	Glatton	1813-1820	101	0.00	1	8	1.00	wheelwright	1	1.00
+424	HNT/032/rose	HNT/032	rose	Glatton	AP	Glatton	1813-1820	101	0.00	1	8	1.00	butcher	4	4.00
+425	HNT/032/rose	HNT/032	rose	Glatton	AP	Glatton	1813-1820	101	0.00	1	8	1.00	servant	2	2.00
+426	HNT/032/rose	HNT/032	rose	Glatton	AP	Glatton	1813-1820	101	0.00	1	8	1.00	farmer	12	12.00
+427	HNT/032/rose	HNT/032	rose	Glatton	AP	Glatton	1813-1820	101	0.00	1	8	1.00	tailor	3	3.00
+428	HNT/032/rose	HNT/032	rose	Glatton	AP	Glatton	1813-1820	101	0.00	1	8	1.00	shepherd	3	3.00
+429	HNT/032/rose	HNT/032	rose	Glatton	AP	Glatton	1813-1820	101	0.00	1	8	1.00	carpenter	5	5.00
+430	HNT/032/rose	HNT/032	rose	Glatton	AP	Glatton	1813-1820	101	0.00	1	8	1.00	drover	3	3.00
+431	HNT/032/rose	HNT/032	rose	Glatton	AP	Glatton	1813-1820	101	0.00	1	8	1.00	shoemaker	4	4.00
+432	HNT/032/rose	HNT/032	rose	Glatton	AP	Glatton	1813-1820	101	0.00	1	8	1.00	flax dresser	1	1.00
+433	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	tailor	5	5.00
+434	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	no occupation specified	8	8.00
+435	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	farmer	36	36.00
+436	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	labourer	174	174.00
+437	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	carpenter	13	13.00
+438	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	shoemaker	15	15.00
+439	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	baker	12	12.00
+440	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	illegitimate	23	23.00
+441	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	millwright	9	9.00
+442	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	farrier	2	2.00
+443	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	baptism without named parents	1	1.00
+444	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	gentleman	4	4.00
+445	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	esquire	2	2.00
+446	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	shepherd	5	5.00
+447	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	tanner	2	2.00
+448	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	grocer	3	3.00
+449	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	joiner and carpenter	1	1.00
+450	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	innkeeper	3	3.00
+451	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	gardener	10	10.00
+452	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	wheelwright	9	9.00
+453	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	soldier	6	6.00
+454	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	maltster	4	4.00
+455	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	shopkeeper	1	1.00
+456	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	draper	2	2.00
+457	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	cordwainer	7	7.00
+458	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	stagecoach man	1	1.00
+459	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	farming man	1	1.00
+460	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	stonecutter	1	1.00
+461	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	glazier	4	4.00
+462	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	cottager	1	1.00
+463	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	physician	3	3.00
+464	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	parish sexton	1	1.00
+465	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	bricklayer	4	4.00
+466	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	blacksmih	9	9.00
+467	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	brazier	2	2.00
+468	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	supervisor of excise	3	3.00
+469	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	servant	3	3.00
+470	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	officer of excise	1	1.00
+471	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	mason	2	2.00
+472	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	sadler	2	2.00
+473	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	sawyer	3	3.00
+474	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	mailcoach guard	1	1.00
+475	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	schoolmaster	3	3.00
+476	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	butcher	2	2.00
+477	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	thatcher	5	5.00
+478	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	stone mason	1	1.00
+479	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	cooper	2	2.00
+480	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	turner	1	1.00
+481	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	mercer and grocer	1	1.00
+482	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	adjutant of militia	1	1.00
+483	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	clerk	1	1.00
+484	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	exciseman	3	3.00
+485	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	coachman	1	1.00
+486	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	brickmaker	1	1.00
+487	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	calico printer	1	1.00
+488	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	solicitor	1	1.00
+489	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	chair turner	1	1.00
+490	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	thresher	1	1.00
+491	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	publican	3	3.00
+492	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	chandler	1	1.00
+493	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	pensioner	1	1.00
+494	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	plasterer	2	2.00
+495	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	plumber and glazier	2	2.00
+496	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	basketmaker	2	2.00
+497	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	merchant	2	2.00
+498	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	merchant and naval lieutenant	1	1.00
+499	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	jobber	1	1.00
+500	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	victualler	1	1.00
+501	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	groom	1	1.00
+502	HNT/033/rose	HNT/033	rose	Godmanchester	AP	Godmanchester	1813-1820	443	1.91	1	8	1.00	md	1	1.00
+503	HNT/034/rose	HNT/034	rose	Grafham	AP	Grafham	1813-1820	66	0.00	1	8	1.00	labourer	51	51.00
+504	HNT/034/rose	HNT/034	rose	Grafham	AP	Grafham	1813-1820	66	0.00	1	8	1.00	farmer	8	8.00
+505	HNT/034/rose	HNT/034	rose	Grafham	AP	Grafham	1813-1820	66	0.00	1	8	1.00	gamekeeper	2	2.00
+506	HNT/034/rose	HNT/034	rose	Grafham	AP	Grafham	1813-1820	66	0.00	1	8	1.00	shoemaker	2	2.00
+507	HNT/034/rose	HNT/034	rose	Grafham	AP	Grafham	1813-1820	66	0.00	1	8	1.00	illegitimate	3	3.00
+508	HNT/035/rose	HNT/035	rose	Great Gidding	AP	Great Gidding	1813-1820	100	0.00	1	8	1.00	illegitimate	9	9.00
+509	HNT/035/rose	HNT/035	rose	Great Gidding	AP	Great Gidding	1813-1820	100	0.00	1	8	1.00	labourer	63	63.00
+510	HNT/035/rose	HNT/035	rose	Great Gidding	AP	Great Gidding	1813-1820	100	0.00	1	8	1.00	tailor	5	5.00
+511	HNT/035/rose	HNT/035	rose	Great Gidding	AP	Great Gidding	1813-1820	100	0.00	1	8	1.00	breeches maker	3	3.00
+512	HNT/035/rose	HNT/035	rose	Great Gidding	AP	Great Gidding	1813-1820	100	0.00	1	8	1.00	poor	1	1.00
+513	HNT/035/rose	HNT/035	rose	Great Gidding	AP	Great Gidding	1813-1820	100	0.00	1	8	1.00	farmer	5	5.00
+514	HNT/035/rose	HNT/035	rose	Great Gidding	AP	Great Gidding	1813-1820	100	0.00	1	8	1.00	cordwainer	1	1.00
+515	HNT/035/rose	HNT/035	rose	Great Gidding	AP	Great Gidding	1813-1820	100	0.00	1	8	1.00	shepherd	1	1.00
+516	HNT/035/rose	HNT/035	rose	Great Gidding	AP	Great Gidding	1813-1820	100	0.00	1	8	1.00	miller	2	2.00
+517	HNT/035/rose	HNT/035	rose	Great Gidding	AP	Great Gidding	1813-1820	100	0.00	1	8	1.00	blacksmith	5	5.00
+518	HNT/035/rose	HNT/035	rose	Great Gidding	AP	Great Gidding	1813-1820	100	0.00	1	8	1.00	glover	2	2.00
+519	HNT/035/rose	HNT/035	rose	Great Gidding	AP	Great Gidding	1813-1820	100	0.00	1	8	1.00	schoolmaster	1	1.00
+520	HNT/035/rose	HNT/035	rose	Great Gidding	AP	Great Gidding	1813-1820	100	0.00	1	8	1.00	wheelwright	2	2.00
+521	HNT/036/rose	HNT/036	rose	Great Catworth	AP	Great Catworth	1813-1820	117	0.00	1	8	1.00	grazier	2	2.00
+522	HNT/036/rose	HNT/036	rose	Great Catworth	AP	Great Catworth	1813-1820	117	0.00	1	8	1.00	shepherd	5	5.00
+523	HNT/036/rose	HNT/036	rose	Great Catworth	AP	Great Catworth	1813-1820	117	0.00	1	8	1.00	tailor	2	2.00
+524	HNT/036/rose	HNT/036	rose	Great Catworth	AP	Great Catworth	1813-1820	117	0.00	1	8	1.00	illegitimate	5	5.00
+525	HNT/036/rose	HNT/036	rose	Great Catworth	AP	Great Catworth	1813-1820	117	0.00	1	8	1.00	farmer	18	18.00
+526	HNT/036/rose	HNT/036	rose	Great Catworth	AP	Great Catworth	1813-1820	117	0.00	1	8	1.00	labourer	64	64.00
+527	HNT/036/rose	HNT/036	rose	Great Catworth	AP	Great Catworth	1813-1820	117	0.00	1	8	1.00	collar maker	2	2.00
+528	HNT/036/rose	HNT/036	rose	Great Catworth	AP	Great Catworth	1813-1820	117	0.00	1	8	1.00	miller	2	2.00
+529	HNT/036/rose	HNT/036	rose	Great Catworth	AP	Great Catworth	1813-1820	117	0.00	1	8	1.00	baker	1	1.00
+530	HNT/036/rose	HNT/036	rose	Great Catworth	AP	Great Catworth	1813-1820	117	0.00	1	8	1.00	shoemaker	9	9.00
+531	HNT/036/rose	HNT/036	rose	Great Catworth	AP	Great Catworth	1813-1820	117	0.00	1	8	1.00	hog jobber	1	1.00
+532	HNT/036/rose	HNT/036	rose	Great Catworth	AP	Great Catworth	1813-1820	117	0.00	1	8	1.00	grocer	1	1.00
+533	HNT/036/rose	HNT/036	rose	Great Catworth	AP	Great Catworth	1813-1820	117	0.00	1	8	1.00	jobber	1	1.00
+534	HNT/036/rose	HNT/036	rose	Great Catworth	AP	Great Catworth	1813-1820	117	0.00	1	8	1.00	glazier	2	2.00
+535	HNT/036/rose	HNT/036	rose	Great Catworth	AP	Great Catworth	1813-1820	117	0.00	1	8	1.00	schoolmaster	1	1.00
+536	HNT/036/rose	HNT/036	rose	Great Catworth	AP	Great Catworth	1813-1820	117	0.00	1	8	1.00	blacksmith	1	1.00
+537	HNT/037/rose	HNT/037	rose	Great Gransden	AP	Great Gransden	1813-1820	117	0.00	1	8	1.00	shepherd	1	1.00
+538	HNT/037/rose	HNT/037	rose	Great Gransden	AP	Great Gransden	1813-1820	117	0.00	1	8	1.00	labourer	74	74.00
+539	HNT/037/rose	HNT/037	rose	Great Gransden	AP	Great Gransden	1813-1820	117	0.00	1	8	1.00	coachman	1	1.00
+540	HNT/037/rose	HNT/037	rose	Great Gransden	AP	Great Gransden	1813-1820	117	0.00	1	8	1.00	shoemaker	2	2.00
+541	HNT/037/rose	HNT/037	rose	Great Gransden	AP	Great Gransden	1813-1820	117	0.00	1	8	1.00	blacksmith	2	2.00
+542	HNT/037/rose	HNT/037	rose	Great Gransden	AP	Great Gransden	1813-1820	117	0.00	1	8	1.00	wheelwright	3	3.00
+543	HNT/037/rose	HNT/037	rose	Great Gransden	AP	Great Gransden	1813-1820	117	0.00	1	8	1.00	carpenter	7	7.00
+544	HNT/037/rose	HNT/037	rose	Great Gransden	AP	Great Gransden	1813-1820	117	0.00	1	8	1.00	husbandman	1	1.00
+545	HNT/037/rose	HNT/037	rose	Great Gransden	AP	Great Gransden	1813-1820	117	0.00	1	8	1.00	illegitimate	5	5.00
+546	HNT/037/rose	HNT/037	rose	Great Gransden	AP	Great Gransden	1813-1820	117	0.00	1	8	1.00	gardener	3	3.00
+547	HNT/037/rose	HNT/037	rose	Great Gransden	AP	Great Gransden	1813-1820	117	0.00	1	8	1.00	grocer	5	5.00
+548	HNT/037/rose	HNT/037	rose	Great Gransden	AP	Great Gransden	1813-1820	117	0.00	1	8	1.00	farmer	6	6.00
+549	HNT/037/rose	HNT/037	rose	Great Gransden	AP	Great Gransden	1813-1820	117	0.00	1	8	1.00	tailor	2	2.00
+550	HNT/037/rose	HNT/037	rose	Great Gransden	AP	Great Gransden	1813-1820	117	0.00	1	8	1.00	horsedealer	1	1.00
+551	HNT/037/rose	HNT/037	rose	Great Gransden	AP	Great Gransden	1813-1820	117	0.00	1	8	1.00	esquire	2	2.00
+552	HNT/037/rose	HNT/037	rose	Great Gransden	AP	Great Gransden	1813-1820	117	0.00	1	8	1.00	bricklayer	1	1.00
+553	HNT/037/rose	HNT/037	rose	Great Gransden	AP	Great Gransden	1813-1820	117	0.00	1	8	1.00	schoolmaster and parish clerk	1	1.00
+554	HNT/038/rose	HNT/038	rose	Great Paxton	AP	Great Paxton	1813-1820	51	0.00	1	8	1.00	gardener	2	2.00
+555	HNT/038/rose	HNT/038	rose	Great Paxton	AP	Great Paxton	1813-1820	51	0.00	1	8	1.00	farmer	1	1.00
+556	HNT/038/rose	HNT/038	rose	Great Paxton	AP	Great Paxton	1813-1820	51	0.00	1	8	1.00	labourer	29	29.00
+557	HNT/038/rose	HNT/038	rose	Great Paxton	AP	Great Paxton	1813-1820	51	0.00	1	8	1.00	clerk	4	4.00
+558	HNT/038/rose	HNT/038	rose	Great Paxton	AP	Great Paxton	1813-1820	51	0.00	1	8	1.00	gentleman	1	1.00
+559	HNT/038/rose	HNT/038	rose	Great Paxton	AP	Great Paxton	1813-1820	51	0.00	1	8	1.00	shepherd	2	2.00
+560	HNT/038/rose	HNT/038	rose	Great Paxton	AP	Great Paxton	1813-1820	51	0.00	1	8	1.00	bricklayer	1	1.00
+561	HNT/038/rose	HNT/038	rose	Great Paxton	AP	Great Paxton	1813-1820	51	0.00	1	8	1.00	brickmaker	5	5.00
+562	HNT/038/rose	HNT/038	rose	Great Paxton	AP	Great Paxton	1813-1820	51	0.00	1	8	1.00	illegitimate	2	2.00
+563	HNT/038/rose	HNT/038	rose	Great Paxton	AP	Great Paxton	1813-1820	51	0.00	1	8	1.00	publican	1	1.00
+564	HNT/038/rose	HNT/038	rose	Great Paxton	AP	Great Paxton	1813-1820	51	0.00	1	8	1.00	carpenter	1	1.00
+565	HNT/038/rose	HNT/038	rose	Great Paxton	AP	Great Paxton	1813-1820	51	0.00	1	8	1.00	waterman	1	1.00
+566	HNT/038/rose	HNT/038	rose	Great Paxton	AP	Great Paxton	1813-1820	51	0.00	1	8	1.00	matmaker	1	1.00
+567	HNT/040/rose	HNT/040	rose	Great Staughton	AP	Great Staughton	1813-1820	209	0.00	1	8	1.00	labourer	122	122.00
+568	HNT/040/rose	HNT/040	rose	Great Staughton	AP	Great Staughton	1813-1820	209	0.00	1	8	1.00	illegitimate	11	11.00
+569	HNT/040/rose	HNT/040	rose	Great Staughton	AP	Great Staughton	1813-1820	209	0.00	1	8	1.00	collar maker	6	6.00
+570	HNT/040/rose	HNT/040	rose	Great Staughton	AP	Great Staughton	1813-1820	209	0.00	1	8	1.00	farmer	23	23.00
+571	HNT/040/rose	HNT/040	rose	Great Staughton	AP	Great Staughton	1813-1820	209	0.00	1	8	1.00	servant	8	8.00
+572	HNT/040/rose	HNT/040	rose	Great Staughton	AP	Great Staughton	1813-1820	209	0.00	1	8	1.00	butcher	4	4.00
+573	HNT/040/rose	HNT/040	rose	Great Staughton	AP	Great Staughton	1813-1820	209	0.00	1	8	1.00	vicar of great staughton	1	1.00
+574	HNT/040/rose	HNT/040	rose	Great Staughton	AP	Great Staughton	1813-1820	209	0.00	1	8	1.00	tailor	5	5.00
+575	HNT/040/rose	HNT/040	rose	Great Staughton	AP	Great Staughton	1813-1820	209	0.00	1	8	1.00	surveyor	2	2.00
+576	HNT/040/rose	HNT/040	rose	Great Staughton	AP	Great Staughton	1813-1820	209	0.00	1	8	1.00	carpenter	7	7.00
+577	HNT/040/rose	HNT/040	rose	Great Staughton	AP	Great Staughton	1813-1820	209	0.00	1	8	1.00	wheelwright	3	3.00
+578	HNT/040/rose	HNT/040	rose	Great Staughton	AP	Great Staughton	1813-1820	209	0.00	1	8	1.00	blacksmith	5	5.00
+579	HNT/040/rose	HNT/040	rose	Great Staughton	AP	Great Staughton	1813-1820	209	0.00	1	8	1.00	shoemaker	3	3.00
+580	HNT/040/rose	HNT/040	rose	Great Staughton	AP	Great Staughton	1813-1820	209	0.00	1	8	1.00	army lieutenant general	1	1.00
+581	HNT/040/rose	HNT/040	rose	Great Staughton	AP	Great Staughton	1813-1820	209	0.00	1	8	1.00	publican	3	3.00
+582	HNT/040/rose	HNT/040	rose	Great Staughton	AP	Great Staughton	1813-1820	209	0.00	1	8	1.00	curate of great staughton	1	1.00
+583	HNT/040/rose	HNT/040	rose	Great Staughton	AP	Great Staughton	1813-1820	209	0.00	1	8	1.00	lieutenant general	2	2.00
+584	HNT/040/rose	HNT/040	rose	Great Staughton	AP	Great Staughton	1813-1820	209	0.00	1	8	1.00	knight	1	1.00
+585	HNT/040/rose	HNT/040	rose	Great Staughton	AP	Great Staughton	1813-1820	209	0.00	1	8	1.00	curate	1	1.00
+586	HNT/041/rose	HNT/041	rose	Great Stukeley	AP	Great Stukeley	1813-1820	93	0.00	1	8	1.00	labourer	65	65.00
+587	HNT/041/rose	HNT/041	rose	Great Stukeley	AP	Great Stukeley	1813-1820	93	0.00	1	8	1.00	farmer	7	7.00
+588	HNT/041/rose	HNT/041	rose	Great Stukeley	AP	Great Stukeley	1813-1820	93	0.00	1	8	1.00	tailor	4	4.00
+589	HNT/041/rose	HNT/041	rose	Great Stukeley	AP	Great Stukeley	1813-1820	93	0.00	1	8	1.00	shepherd	7	7.00
+590	HNT/041/rose	HNT/041	rose	Great Stukeley	AP	Great Stukeley	1813-1820	93	0.00	1	8	1.00	publican	1	1.00
+591	HNT/041/rose	HNT/041	rose	Great Stukeley	AP	Great Stukeley	1813-1820	93	0.00	1	8	1.00	carpenter	2	2.00
+592	HNT/041/rose	HNT/041	rose	Great Stukeley	AP	Great Stukeley	1813-1820	93	0.00	1	8	1.00	esquire	3	3.00
+593	HNT/041/rose	HNT/041	rose	Great Stukeley	AP	Great Stukeley	1813-1820	93	0.00	1	8	1.00	blacksmith	2	2.00
+594	HNT/041/rose	HNT/041	rose	Great Stukeley	AP	Great Stukeley	1813-1820	93	0.00	1	8	1.00	illegitimate	1	1.00
+595	HNT/041/rose	HNT/041	rose	Great Stukeley	AP	Great Stukeley	1813-1820	93	0.00	1	8	1.00	gardener	1	1.00
+596	HNT/042/rose	HNT/042	rose	Haddon	AP	Haddon	1813-1820	30	0.00	1	8	1.00	shepherd	3	3.00
+597	HNT/042/rose	HNT/042	rose	Haddon	AP	Haddon	1813-1820	30	0.00	1	8	1.00	labourer	18	18.00
+598	HNT/042/rose	HNT/042	rose	Haddon	AP	Haddon	1813-1820	30	0.00	1	8	1.00	farmer	7	7.00
+599	HNT/042/rose	HNT/042	rose	Haddon	AP	Haddon	1813-1820	30	0.00	1	8	1.00	soldier	2	2.00
+600	HNT/043/rose	HNT/043	rose	Hail Weston	CH	Southoe	1813-1820	78	0.00	1	8	1.00	butcher	4	4.00
+601	HNT/043/rose	HNT/043	rose	Hail Weston	CH	Southoe	1813-1820	78	0.00	1	8	1.00	labourer	45	45.00
+602	HNT/043/rose	HNT/043	rose	Hail Weston	CH	Southoe	1813-1820	78	0.00	1	8	1.00	horse breaker	3	3.00
+603	HNT/043/rose	HNT/043	rose	Hail Weston	CH	Southoe	1813-1820	78	0.00	1	8	1.00	wheelwright	2	2.00
+604	HNT/043/rose	HNT/043	rose	Hail Weston	CH	Southoe	1813-1820	78	0.00	1	8	1.00	farmer	7	7.00
+605	HNT/043/rose	HNT/043	rose	Hail Weston	CH	Southoe	1813-1820	78	0.00	1	8	1.00	carpenter	5	5.00
+606	HNT/043/rose	HNT/043	rose	Hail Weston	CH	Southoe	1813-1820	78	0.00	1	8	1.00	illegitimate	3	3.00
+607	HNT/043/rose	HNT/043	rose	Hail Weston	CH	Southoe	1813-1820	78	0.00	1	8	1.00	gentleman	1	1.00
+608	HNT/043/rose	HNT/043	rose	Hail Weston	CH	Southoe	1813-1820	78	0.00	1	8	1.00	shoemaker	2	2.00
+609	HNT/043/rose	HNT/043	rose	Hail Weston	CH	Southoe	1813-1820	78	0.00	1	8	1.00	blacksmith	1	1.00
+610	HNT/043/rose	HNT/043	rose	Hail Weston	CH	Southoe	1813-1820	78	0.00	1	8	1.00	gamekeeper	2	2.00
+611	HNT/043/rose	HNT/043	rose	Hail Weston	CH	Southoe	1813-1820	78	0.00	1	8	1.00	brickmaker	1	1.00
+612	HNT/043/rose	HNT/043	rose	Hail Weston	CH	Southoe	1813-1820	78	0.00	1	8	1.00	swine dealer	1	1.00
+613	HNT/043/rose	HNT/043	rose	Hail Weston	CH	Southoe	1813-1820	78	0.00	1	8	1.00	wheeler	1	1.00
+614	HNT/044/rose	HNT/044	rose	Hamerton	AP	Hamerton	1813-1820	39	0.00	1	8	1.00	labourer	25	25.00
+615	HNT/044/rose	HNT/044	rose	Hamerton	AP	Hamerton	1813-1820	39	0.00	1	8	1.00	illegitimate	1	1.00
+616	HNT/044/rose	HNT/044	rose	Hamerton	AP	Hamerton	1813-1820	39	0.00	1	8	1.00	farmer	9	9.00
+617	HNT/044/rose	HNT/044	rose	Hamerton	AP	Hamerton	1813-1820	39	0.00	1	8	1.00	shoemaker	1	1.00
+618	HNT/044/rose	HNT/044	rose	Hamerton	AP	Hamerton	1813-1820	39	0.00	1	8	1.00	baptism without named parents	1	1.00
+619	HNT/044/rose	HNT/044	rose	Hamerton	AP	Hamerton	1813-1820	39	0.00	1	8	1.00	turnpike keeper	1	1.00
+620	HNT/044/rose	HNT/044	rose	Hamerton	AP	Hamerton	1813-1820	39	0.00	1	8	1.00	carpenter	1	1.00
+621	HNT/045/rose	HNT/045	rose	Hartford	AP	Hartford	1813-1820	95	0.00	1	8	1.00	butcher	2	2.00
+622	HNT/045/rose	HNT/045	rose	Hartford	AP	Hartford	1813-1820	95	0.00	1	8	1.00	labourer	49	49.00
+623	HNT/045/rose	HNT/045	rose	Hartford	AP	Hartford	1813-1820	95	0.00	1	8	1.00	gardener	8	8.00
+624	HNT/045/rose	HNT/045	rose	Hartford	AP	Hartford	1813-1820	95	0.00	1	8	1.00	miller	3	3.00
+625	HNT/045/rose	HNT/045	rose	Hartford	AP	Hartford	1813-1820	95	0.00	1	8	1.00	tailor	1	1.00
+626	HNT/045/rose	HNT/045	rose	Hartford	AP	Hartford	1813-1820	95	0.00	1	8	1.00	carpenter	6	6.00
+627	HNT/045/rose	HNT/045	rose	Hartford	AP	Hartford	1813-1820	95	0.00	1	8	1.00	shoemaker	1	1.00
+628	HNT/045/rose	HNT/045	rose	Hartford	AP	Hartford	1813-1820	95	0.00	1	8	1.00	soldier	1	1.00
+629	HNT/045/rose	HNT/045	rose	Hartford	AP	Hartford	1813-1820	95	0.00	1	8	1.00	soldier in the huntingdonshire militia	1	1.00
+630	HNT/045/rose	HNT/045	rose	Hartford	AP	Hartford	1813-1820	95	0.00	1	8	1.00	illegitimate	3	3.00
+631	HNT/045/rose	HNT/045	rose	Hartford	AP	Hartford	1813-1820	95	0.00	1	8	1.00	farmer	8	8.00
+632	HNT/045/rose	HNT/045	rose	Hartford	AP	Hartford	1813-1820	95	0.00	1	8	1.00	bricklayer	2	2.00
+633	HNT/045/rose	HNT/045	rose	Hartford	AP	Hartford	1813-1820	95	0.00	1	8	1.00	esquire	1	1.00
+634	HNT/045/rose	HNT/045	rose	Hartford	AP	Hartford	1813-1820	95	0.00	1	8	1.00	publican	3	3.00
+635	HNT/045/rose	HNT/045	rose	Hartford	AP	Hartford	1813-1820	95	0.00	1	8	1.00	cordwainer	1	1.00
+636	HNT/045/rose	HNT/045	rose	Hartford	AP	Hartford	1813-1820	95	0.00	1	8	1.00	baker	2	2.00
+637	HNT/045/rose	HNT/045	rose	Hartford	AP	Hartford	1813-1820	95	0.00	1	8	1.00	shopkeeper	1	1.00
+638	HNT/045/rose	HNT/045	rose	Hartford	AP	Hartford	1813-1820	95	0.00	1	8	1.00	maltster	2	2.00
+639	HNT/046/rose	HNT/046	rose	Hemingford Abbots	AP	Hemingford Abbots	1813-1820	99	1.10	1	8	1.00	labourer	58	58.00
+640	HNT/046/rose	HNT/046	rose	Hemingford Abbots	AP	Hemingford Abbots	1813-1820	99	1.10	1	8	1.00	labourer and carrier	1	1.00
+641	HNT/046/rose	HNT/046	rose	Hemingford Abbots	AP	Hemingford Abbots	1813-1820	99	1.10	1	8	1.00	farmer	5	5.00
+642	HNT/046/rose	HNT/046	rose	Hemingford Abbots	AP	Hemingford Abbots	1813-1820	99	1.10	1	8	1.00	illegitimate	7	7.00
+643	HNT/046/rose	HNT/046	rose	Hemingford Abbots	AP	Hemingford Abbots	1813-1820	99	1.10	1	8	1.00	butcher	1	1.00
+644	HNT/046/rose	HNT/046	rose	Hemingford Abbots	AP	Hemingford Abbots	1813-1820	99	1.10	1	8	1.00	thatcher	4	4.00
+645	HNT/046/rose	HNT/046	rose	Hemingford Abbots	AP	Hemingford Abbots	1813-1820	99	1.10	1	8	1.00	carpenter	5	5.00
+646	HNT/046/rose	HNT/046	rose	Hemingford Abbots	AP	Hemingford Abbots	1813-1820	99	1.10	1	8	1.00	brickmaker	1	1.00
+647	HNT/046/rose	HNT/046	rose	Hemingford Abbots	AP	Hemingford Abbots	1813-1820	99	1.10	1	8	1.00	gardener	4	4.00
+648	HNT/046/rose	HNT/046	rose	Hemingford Abbots	AP	Hemingford Abbots	1813-1820	99	1.10	1	8	1.00	shoemaker	4	4.00
+649	HNT/046/rose	HNT/046	rose	Hemingford Abbots	AP	Hemingford Abbots	1813-1820	99	1.10	1	8	1.00	labourer and rat catcher	1	1.00
+650	HNT/046/rose	HNT/046	rose	Hemingford Abbots	AP	Hemingford Abbots	1813-1820	99	1.10	1	8	1.00	servant	3	3.00
+651	HNT/046/rose	HNT/046	rose	Hemingford Abbots	AP	Hemingford Abbots	1813-1820	99	1.10	1	8	1.00	no occupation specified	1	1.00
+652	HNT/046/rose	HNT/046	rose	Hemingford Abbots	AP	Hemingford Abbots	1813-1820	99	1.10	1	8	1.00	blacksmith	1	1.00
+653	HNT/046/rose	HNT/046	rose	Hemingford Abbots	AP	Hemingford Abbots	1813-1820	99	1.10	1	8	1.00	baptism without named parents	1	1.00
+654	HNT/046/rose	HNT/046	rose	Hemingford Abbots	AP	Hemingford Abbots	1813-1820	99	1.10	1	8	1.00	shepherd	1	1.00
+655	HNT/046/rose	HNT/046	rose	Hemingford Abbots	AP	Hemingford Abbots	1813-1820	99	1.10	1	8	1.00	tailor	1	1.00
+656	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	butcher	2	2.00
+657	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	shepherd	7	7.00
+658	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	labourer	57	57.00
+659	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	illegitimate	10	10.00
+660	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	waterman	3	3.00
+661	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	miller	7	7.00
+662	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	serjeant	1	1.00
+663	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	esquire	6	6.00
+664	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	farmer	7	7.00
+665	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	butler	1	1.00
+666	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	millwright	4	4.00
+667	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	publican	3	3.00
+668	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	blacksmith	2	2.00
+669	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	gardener	8	8.00
+670	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	carpenter	4	4.00
+671	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	shoemaker	4	4.00
+672	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	journeyman miller	2	2.00
+673	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	servant	3	3.00
+674	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	clerk	2	2.00
+675	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	tailor	1	1.00
+676	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	merchant	1	1.00
+677	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	shopkeeper	2	2.00
+678	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	clerk of parish	2	2.00
+679	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	wheelwright	1	1.00
+680	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	cordwainer	1	1.00
+681	HNT/047/rose	HNT/047	rose	Hemingford Grey	AP	Hemingford Grey	1813-1820	142	0.00	1	8	1.00	groom	1	1.00
+682	HNT/048/rose	HNT/048	rose	Hilton	CH	Fenstanton	1813-1820	74	1.39	1	8	1.00	carpenter	5	5.00
+683	HNT/048/rose	HNT/048	rose	Hilton	CH	Fenstanton	1813-1820	74	1.39	1	8	1.00	labourer	46	46.00
+684	HNT/048/rose	HNT/048	rose	Hilton	CH	Fenstanton	1813-1820	74	1.39	1	8	1.00	farmer	7	7.00
+685	HNT/048/rose	HNT/048	rose	Hilton	CH	Fenstanton	1813-1820	74	1.39	1	8	1.00	blacksmith	4	4.00
+686	HNT/048/rose	HNT/048	rose	Hilton	CH	Fenstanton	1813-1820	74	1.39	1	8	1.00	soldier	2	2.00
+687	HNT/048/rose	HNT/048	rose	Hilton	CH	Fenstanton	1813-1820	74	1.39	1	8	1.00	shepherd	4	4.00
+688	HNT/048/rose	HNT/048	rose	Hilton	CH	Fenstanton	1813-1820	74	1.39	1	8	1.00	gentleman	1	1.00
+689	HNT/048/rose	HNT/048	rose	Hilton	CH	Fenstanton	1813-1820	74	1.39	1	8	1.00	farmer and labourer	1	1.00
+690	HNT/048/rose	HNT/048	rose	Hilton	CH	Fenstanton	1813-1820	74	1.39	1	8	1.00	no occupation specified	1	1.00
+691	HNT/048/rose	HNT/048	rose	Hilton	CH	Fenstanton	1813-1820	74	1.39	1	8	1.00	illegitimate	2	2.00
+692	HNT/048/rose	HNT/048	rose	Hilton	CH	Fenstanton	1813-1820	74	1.39	1	8	1.00	thatcher	1	1.00
+693	HNT/049/rose	HNT/049	rose	Holme	CH	Glatton	1813-1820	101	0.00	1	8	1.00	farmer	9	9.00
+694	HNT/049/rose	HNT/049	rose	Holme	CH	Glatton	1813-1820	101	0.00	1	8	1.00	labourer	63	63.00
+695	HNT/049/rose	HNT/049	rose	Holme	CH	Glatton	1813-1820	101	0.00	1	8	1.00	thatcher	6	6.00
+696	HNT/049/rose	HNT/049	rose	Holme	CH	Glatton	1813-1820	101	0.00	1	8	1.00	illegitimate	3	3.00
+697	HNT/049/rose	HNT/049	rose	Holme	CH	Glatton	1813-1820	101	0.00	1	8	1.00	gardener	2	2.00
+698	HNT/049/rose	HNT/049	rose	Holme	CH	Glatton	1813-1820	101	0.00	1	8	1.00	bricklayer	2	2.00
+699	HNT/049/rose	HNT/049	rose	Holme	CH	Glatton	1813-1820	101	0.00	1	8	1.00	dairyman	1	1.00
+700	HNT/049/rose	HNT/049	rose	Holme	CH	Glatton	1813-1820	101	0.00	1	8	1.00	coachman	4	4.00
+701	HNT/049/rose	HNT/049	rose	Holme	CH	Glatton	1813-1820	101	0.00	1	8	1.00	blacksmith	2	2.00
+702	HNT/049/rose	HNT/049	rose	Holme	CH	Glatton	1813-1820	101	0.00	1	8	1.00	fisherman	3	3.00
+703	HNT/049/rose	HNT/049	rose	Holme	CH	Glatton	1813-1820	101	0.00	1	8	1.00	cordwainer	2	2.00
+704	HNT/049/rose	HNT/049	rose	Holme	CH	Glatton	1813-1820	101	0.00	1	8	1.00	captain royal navy	3	3.00
+705	HNT/049/rose	HNT/049	rose	Holme	CH	Glatton	1813-1820	101	0.00	1	8	1.00	servant	1	1.00
+706	HNT/050/rose	HNT/050	rose	Holywell cum Needingworth	AP	Holywell cum Needingworth	1813-1820	129	0.00	1	8	1.00	labourer	92	92.00
+707	HNT/050/rose	HNT/050	rose	Holywell cum Needingworth	AP	Holywell cum Needingworth	1813-1820	129	0.00	1	8	1.00	farmer	18	18.00
+708	HNT/050/rose	HNT/050	rose	Holywell cum Needingworth	AP	Holywell cum Needingworth	1813-1820	129	0.00	1	8	1.00	publican	3	3.00
+709	HNT/050/rose	HNT/050	rose	Holywell cum Needingworth	AP	Holywell cum Needingworth	1813-1820	129	0.00	1	8	1.00	dairyman	1	1.00
+710	HNT/050/rose	HNT/050	rose	Holywell cum Needingworth	AP	Holywell cum Needingworth	1813-1820	129	0.00	1	8	1.00	fisherman	3	3.00
+711	HNT/050/rose	HNT/050	rose	Holywell cum Needingworth	AP	Holywell cum Needingworth	1813-1820	129	0.00	1	8	1.00	unreadable	1	1.00
+712	HNT/050/rose	HNT/050	rose	Holywell cum Needingworth	AP	Holywell cum Needingworth	1813-1820	129	0.00	1	8	1.00	shepherd	1	1.00
+713	HNT/050/rose	HNT/050	rose	Holywell cum Needingworth	AP	Holywell cum Needingworth	1813-1820	129	0.00	1	8	1.00	thatcher	5	5.00
+714	HNT/050/rose	HNT/050	rose	Holywell cum Needingworth	AP	Holywell cum Needingworth	1813-1820	129	0.00	1	8	1.00	illegitimate	1	1.00
+715	HNT/050/rose	HNT/050	rose	Holywell cum Needingworth	AP	Holywell cum Needingworth	1813-1820	129	0.00	1	8	1.00	carpenter	2	2.00
+716	HNT/050/rose	HNT/050	rose	Holywell cum Needingworth	AP	Holywell cum Needingworth	1813-1820	129	0.00	1	8	1.00	victualler	1	1.00
+717	HNT/050/rose	HNT/050	rose	Holywell cum Needingworth	AP	Holywell cum Needingworth	1813-1820	129	0.00	1	8	1.00	butcher	1	1.00
+718	HNT/051/rose	HNT/051	rose	Houghton	AP	Houghton	1813-1820	93	0.00	1	8	1.00	miller	2	2.00
+719	HNT/051/rose	HNT/051	rose	Houghton	AP	Houghton	1813-1820	93	0.00	1	8	1.00	parish clerk	8	8.00
+720	HNT/051/rose	HNT/051	rose	Houghton	AP	Houghton	1813-1820	93	0.00	1	8	1.00	bricklayer	1	1.00
+721	HNT/051/rose	HNT/051	rose	Houghton	AP	Houghton	1813-1820	93	0.00	1	8	1.00	farmer	3	3.00
+722	HNT/051/rose	HNT/051	rose	Houghton	AP	Houghton	1813-1820	93	0.00	1	8	1.00	labourer	47	47.00
+723	HNT/051/rose	HNT/051	rose	Houghton	AP	Houghton	1813-1820	93	0.00	1	8	1.00	carpenter	5	5.00
+724	HNT/051/rose	HNT/051	rose	Houghton	AP	Houghton	1813-1820	93	0.00	1	8	1.00	butcher	10	10.00
+725	HNT/051/rose	HNT/051	rose	Houghton	AP	Houghton	1813-1820	93	0.00	1	8	1.00	blacksmith	4	4.00
+726	HNT/051/rose	HNT/051	rose	Houghton	AP	Houghton	1813-1820	93	0.00	1	8	1.00	wheelwright	2	2.00
+727	HNT/051/rose	HNT/051	rose	Houghton	AP	Houghton	1813-1820	93	0.00	1	8	1.00	shepherd	1	1.00
+728	HNT/051/rose	HNT/051	rose	Houghton	AP	Houghton	1813-1820	93	0.00	1	8	1.00	veterinary surgeon	3	3.00
+729	HNT/051/rose	HNT/051	rose	Houghton	AP	Houghton	1813-1820	93	0.00	1	8	1.00	plaisterer	1	1.00
+730	HNT/051/rose	HNT/051	rose	Houghton	AP	Houghton	1813-1820	93	0.00	1	8	1.00	gardener	1	1.00
+731	HNT/051/rose	HNT/051	rose	Houghton	AP	Houghton	1813-1820	93	0.00	1	8	1.00	shoemaker	1	1.00
+732	HNT/051/rose	HNT/051	rose	Houghton	AP	Houghton	1813-1820	93	0.00	1	8	1.00	coachman	1	1.00
+733	HNT/051/rose	HNT/051	rose	Houghton	AP	Houghton	1813-1820	93	0.00	1	8	1.00	alderman of london	2	2.00
+734	HNT/051/rose	HNT/051	rose	Houghton	AP	Houghton	1813-1820	93	0.00	1	8	1.00	illegitimate	1	1.00
+735	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	breeches maker	3	3.00
+736	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	tapster	2	2.00
+737	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	excise officer	3	3.00
+738	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	tailor	10	10.00
+739	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	veterinarian	1	1.00
+740	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	labourer	42	42.00
+741	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	wheelwright	8	8.00
+742	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	publican	3	3.00
+743	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	butcher	4	4.00
+744	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	hatter	2	2.00
+745	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	carpenter	12	12.00
+746	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	mail guard	1	1.00
+747	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	esquire	2	2.00
+748	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	post boy	5	5.00
+749	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	ostler	3	3.00
+750	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	glazier	6	6.00
+751	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	gardener	1	1.00
+752	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	grocer	9	9.00
+753	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	surgeon	3	3.00
+754	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	miller	1	1.00
+755	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	servant	7	7.00
+756	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	illegitimate	9	9.00
+757	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	no occupation specified	2	2.00
+758	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	bricklayer	6	6.00
+759	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	baker	4	4.00
+760	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	postboy and publican	1	1.00
+761	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	coachman	9	9.00
+762	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	barrister	1	1.00
+763	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	cooper	6	6.00
+764	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	sergeant major	1	1.00
+765	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	serjeant	2	2.00
+766	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	innkeeper	3	3.00
+767	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	shoemaker	4	4.00
+768	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	glover	1	1.00
+769	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	draper	8	8.00
+770	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	captain	1	1.00
+771	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	waiter	3	3.00
+772	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	surveyor of taxes	3	3.00
+773	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	baptism without named parents	2	2.00
+774	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	watchmaker	2	2.00
+775	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	other parish - no occupation	1	1.00
+776	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	barber	4	4.00
+777	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	groom	2	2.00
+778	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	blacksmith	2	2.00
+779	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	plasterer	4	4.00
+780	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	tinman and brazier	1	1.00
+781	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	harness maker	2	2.00
+782	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	greenwich pensioner	1	1.00
+783	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	plumber and glazier	3	3.00
+784	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	horse keeper	3	3.00
+785	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	solicitor	3	3.00
+786	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	carrier	2	2.00
+787	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	coachmaker	1	1.00
+788	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	brewer	4	4.00
+789	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	coach guard	1	1.00
+790	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	farmer	2	2.00
+791	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	coachsmith	1	1.00
+792	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	cordwainer	4	4.00
+793	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	attorney at law	4	4.00
+794	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	private	1	1.00
+795	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	publican and shopkeeper	1	1.00
+796	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	attorney's clerk	1	1.00
+797	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	pensioner of marines	1	1.00
+798	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	east indiaman	1	1.00
+799	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	plumber	1	1.00
+800	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	carpenter or architect	2	2.00
+801	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	keeper of this house of correction	1	1.00
+802	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	pensioner of army	1	1.00
+803	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	basketmaker	2	2.00
+804	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	alderman and brewer	1	1.00
+805	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	keeper of the budewote	1	1.00
+806	HNT/052/rose	HNT/052	rose	Huntingdon All Saints and St John	AP	Huntingdon All Saints and St John	1813-1820	256	0.82	1	8	1.00	solicitor and attorney at law	1	1.00
+807	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	labourer	67	67.00
+808	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	marine	1	1.00
+809	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	cordwainer	7	7.00
+810	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	baker	8	8.00
+811	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	tailor	15	15.00
+812	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	sadler	9	9.00
+813	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	shoemaker	26	26.00
+814	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	soldier	1	1.00
+815	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	gardener	3	3.00
+816	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	chimney sweep	3	3.00
+817	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	bricklayer	7	7.00
+818	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	cabinet maker	8	8.00
+819	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	drummer	3	3.00
+820	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	coachman	11	11.00
+821	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	wool stapler	3	3.00
+822	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	blacksmith	10	10.00
+823	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	accomptant clerk of brewery	1	1.00
+824	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	printer and stationer	1	1.00
+825	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	husbandman	1	1.00
+826	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	victualler	3	3.00
+827	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	coachsmith	1	1.00
+828	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	fellmonger	1	1.00
+829	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	carpenter	16	16.00
+830	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	carrier	2	2.00
+831	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	surveyor	1	1.00
+832	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	illegitimate	13	13.00
+833	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	cork cutter	2	2.00
+834	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	cooper	8	8.00
+835	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	attorney at law	2	2.00
+836	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	publican	5	5.00
+837	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	servant	5	5.00
+838	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	ostler	3	3.00
+839	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	fishmonger	4	4.00
+840	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	brewer	3	3.00
+841	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	collar maker	1	1.00
+842	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	staymaker	1	1.00
+843	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	private	1	1.00
+844	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	prisioner	1	1.00
+845	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	weaver	1	1.00
+846	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	watchmaker	2	2.00
+847	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	merchant	7	7.00
+848	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	miller	4	4.00
+849	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	plasterer	1	1.00
+850	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	painter	2	2.00
+851	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	butcher	4	4.00
+852	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	sheriff's officer	1	1.00
+853	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	unreadable	1	1.00
+854	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	stationer	1	1.00
+855	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	coachmaker	3	3.00
+856	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	serjeant	2	2.00
+857	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	waggoner	5	5.00
+858	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	whitesmith	5	5.00
+859	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	clothier	1	1.00
+860	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	waiter	4	4.00
+861	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	hostler	1	1.00
+862	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	basket maker	1	1.00
+863	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	shepherd	2	2.00
+864	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	captain	1	1.00
+865	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	plumber and glazier	1	1.00
+866	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	sawyer	2	2.00
+867	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	innkeeper	2	2.00
+868	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	horsekeeper	1	1.00
+869	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	bookseller	1	1.00
+870	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	solicitor	1	1.00
+871	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	bookbinder	1	1.00
+872	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	glazier	1	1.00
+873	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	banker	1	1.00
+874	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	printer	1	1.00
+875	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	ironmonger	1	1.00
+876	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	upholsterer	1	1.00
+877	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	gunmaker	2	2.00
+878	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	wheelwright	1	1.00
+879	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	druggist	1	1.00
+880	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	mercer	1	1.00
+881	HNT/053/rose	HNT/053	rose	Huntingdon SS Mary and Benedict	AP	Huntingdon SS Mary and Benedict	1813-1820	327	0.00	1	8	1.00	ropemaker	1	1.00
+882	HNT/054/rose	HNT/054	rose	Keyston	AP	Keyston	1813-1820	40	0.00	1	8	1.00	labourer	34	34.00
+883	HNT/054/rose	HNT/054	rose	Keyston	AP	Keyston	1813-1820	40	0.00	1	8	1.00	farmer	2	2.00
+884	HNT/054/rose	HNT/054	rose	Keyston	AP	Keyston	1813-1820	40	0.00	1	8	1.00	illegitimate	3	3.00
+885	HNT/054/rose	HNT/054	rose	Keyston	AP	Keyston	1813-1820	40	0.00	1	8	1.00	keeper of the turnpike gate	1	1.00
+886	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	smith	2	2.00
+887	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	farming man	1	1.00
+888	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	glazier	2	2.00
+889	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	breeches maker	2	2.00
+890	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	labourer	155	155.00
+891	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	shepherd	3	3.00
+892	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	basketmaker	1	1.00
+893	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	watchmaker	3	3.00
+894	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	farmer	12	12.00
+895	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	hostler	1	1.00
+896	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	butcher	10	10.00
+897	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	draper	10	10.00
+898	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	carpenter	20	20.00
+899	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	servant	14	14.00
+900	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	glover	4	4.00
+901	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	mason	15	15.00
+902	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	publican	6	6.00
+903	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	shopkeeper	3	3.00
+904	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	chaise driver	2	2.00
+905	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	tailor	11	11.00
+906	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	soldier	4	4.00
+907	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	stationer	4	4.00
+908	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	gardener	11	11.00
+909	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	tanner	6	6.00
+910	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	waggoner	1	1.00
+911	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	shoemaker	16	16.00
+912	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	keeper	1	1.00
+913	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	illegitimate	9	9.00
+914	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	naval lieutenant	1	1.00
+915	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	bricklayer	1	1.00
+916	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	baptism without named parents	6	6.00
+917	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	blacksmith	1	1.00
+918	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	woolsorter	8	8.00
+919	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	cabinetmaker	4	4.00
+920	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	grocer	4	4.00
+921	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	innkeeper	1	1.00
+922	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	army captain	1	1.00
+923	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	baker	9	9.00
+924	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	ostler	1	1.00
+925	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	brickmaker	1	1.00
+926	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	woodman	2	2.00
+927	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	brazier	3	3.00
+928	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	cordwainer	3	3.00
+929	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	schoolmaster	2	2.00
+930	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	chandler	1	1.00
+931	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	bailliff	2	2.00
+932	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	maltster	1	1.00
+933	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	grazier	1	1.00
+934	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	excise officer	1	1.00
+935	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	esquire	1	1.00
+936	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	wheelwright	1	1.00
+937	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	clerk	2	2.00
+938	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	hawker	1	1.00
+939	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	thatcher	1	1.00
+940	HNT/055/rose	HNT/055	rose	Kimbolton	AP	Kimbolton	1813-1820	390	0.00	1	8	1.00	matmaker	1	1.00
+941	HNT/056/rose	HNT/056	rose	Kings Ripton	AP	Kings Ripton	1813-1820	74	2.82	1	8	1.00	labourer	62	62.00
+942	HNT/056/rose	HNT/056	rose	Kings Ripton	AP	Kings Ripton	1813-1820	74	2.82	1	8	1.00	farmer	4	4.00
+943	HNT/056/rose	HNT/056	rose	Kings Ripton	AP	Kings Ripton	1813-1820	74	2.82	1	8	1.00	illegitimate	3	3.00
+944	HNT/056/rose	HNT/056	rose	Kings Ripton	AP	Kings Ripton	1813-1820	74	2.82	1	8	1.00	schoolmaster	2	2.00
+945	HNT/056/rose	HNT/056	rose	Kings Ripton	AP	Kings Ripton	1813-1820	74	2.82	1	8	1.00	publican	1	1.00
+946	HNT/056/rose	HNT/056	rose	Kings Ripton	AP	Kings Ripton	1813-1820	74	2.82	1	8	1.00	no occupation specified	2	2.00
+947	HNT/057/rose	HNT/057	rose	Leighton Bromswold	AP	Leighton Bromswold	1813-1820	135	0.00	1	8	1.00	labourer	97	97.00
+948	HNT/057/rose	HNT/057	rose	Leighton Bromswold	AP	Leighton Bromswold	1813-1820	135	0.00	1	8	1.00	blacksmith	4	4.00
+949	HNT/057/rose	HNT/057	rose	Leighton Bromswold	AP	Leighton Bromswold	1813-1820	135	0.00	1	8	1.00	carpenter	5	5.00
+950	HNT/057/rose	HNT/057	rose	Leighton Bromswold	AP	Leighton Bromswold	1813-1820	135	0.00	1	8	1.00	farmer	12	12.00
+951	HNT/057/rose	HNT/057	rose	Leighton Bromswold	AP	Leighton Bromswold	1813-1820	135	0.00	1	8	1.00	illegitimate	1	1.00
+952	HNT/057/rose	HNT/057	rose	Leighton Bromswold	AP	Leighton Bromswold	1813-1820	135	0.00	1	8	1.00	shoemaker	7	7.00
+953	HNT/057/rose	HNT/057	rose	Leighton Bromswold	AP	Leighton Bromswold	1813-1820	135	0.00	1	8	1.00	shepherd	3	3.00
+954	HNT/057/rose	HNT/057	rose	Leighton Bromswold	AP	Leighton Bromswold	1813-1820	135	0.00	1	8	1.00	butcher	2	2.00
+955	HNT/057/rose	HNT/057	rose	Leighton Bromswold	AP	Leighton Bromswold	1813-1820	135	0.00	1	8	1.00	servant	4	4.00
+956	HNT/059/rose	HNT/059	rose	Little Gidding	AP	Little Gidding	1813-1820	10	0.00	1	8	1.00	illegitimate	1	1.00
+957	HNT/059/rose	HNT/059	rose	Little Gidding	AP	Little Gidding	1813-1820	10	0.00	1	8	1.00	labourer	9	9.00
+958	HNT/060/rose	HNT/060	rose	Little Paxton	CH	Great Paxton	1813-1820	81	1.28	1	8	1.00	farmer	2	2.00
+959	HNT/060/rose	HNT/060	rose	Little Paxton	CH	Great Paxton	1813-1820	81	1.28	1	8	1.00	millwright	1	1.00
+960	HNT/060/rose	HNT/060	rose	Little Paxton	CH	Great Paxton	1813-1820	81	1.28	1	8	1.00	baker	3	3.00
+961	HNT/060/rose	HNT/060	rose	Little Paxton	CH	Great Paxton	1813-1820	81	1.28	1	8	1.00	labourer	45	45.00
+962	HNT/060/rose	HNT/060	rose	Little Paxton	CH	Great Paxton	1813-1820	81	1.28	1	8	1.00	shepherd	1	1.00
+963	HNT/060/rose	HNT/060	rose	Little Paxton	CH	Great Paxton	1813-1820	81	1.28	1	8	1.00	carpenter	4	4.00
+964	HNT/060/rose	HNT/060	rose	Little Paxton	CH	Great Paxton	1813-1820	81	1.28	1	8	1.00	paper maker	2	2.00
+965	HNT/060/rose	HNT/060	rose	Little Paxton	CH	Great Paxton	1813-1820	81	1.28	1	8	1.00	esquire	5	5.00
+966	HNT/060/rose	HNT/060	rose	Little Paxton	CH	Great Paxton	1813-1820	81	1.28	1	8	1.00	blacksmith	4	4.00
+967	HNT/060/rose	HNT/060	rose	Little Paxton	CH	Great Paxton	1813-1820	81	1.28	1	8	1.00	publican	2	2.00
+968	HNT/060/rose	HNT/060	rose	Little Paxton	CH	Great Paxton	1813-1820	81	1.28	1	8	1.00	illegitimate	3	3.00
+969	HNT/060/rose	HNT/060	rose	Little Paxton	CH	Great Paxton	1813-1820	81	1.28	1	8	1.00	miller	3	3.00
+970	HNT/060/rose	HNT/060	rose	Little Paxton	CH	Great Paxton	1813-1820	81	1.28	1	8	1.00	soldier	1	1.00
+971	HNT/060/rose	HNT/060	rose	Little Paxton	CH	Great Paxton	1813-1820	81	1.28	1	8	1.00	servant	1	1.00
+972	HNT/060/rose	HNT/060	rose	Little Paxton	CH	Great Paxton	1813-1820	81	1.28	1	8	1.00	mat maker	1	1.00
+973	HNT/060/rose	HNT/060	rose	Little Paxton	CH	Great Paxton	1813-1820	81	1.28	1	8	1.00	no occupation specified	1	1.00
+974	HNT/060/rose	HNT/060	rose	Little Paxton	CH	Great Paxton	1813-1820	81	1.28	1	8	1.00	paper labourer	1	1.00
+975	HNT/060/rose	HNT/060	rose	Little Paxton	CH	Great Paxton	1813-1820	81	1.28	1	8	1.00	gardener	1	1.00
+976	HNT/061/rose	HNT/061	rose	Little Raveley	CH	Bury	1813-1820	8	0.00	1	8	1.00	labourer	7	7.00
+977	HNT/061/rose	HNT/061	rose	Little Raveley	CH	Bury	1813-1820	8	0.00	1	8	1.00	gentleman	1	1.00
+978	HNT/062/rose	HNT/062	rose	Little Stukeley	AP	Little Stukeley	1813-1820	92	1.15	1	8	1.00	butcher	1	1.00
+979	HNT/062/rose	HNT/062	rose	Little Stukeley	AP	Little Stukeley	1813-1820	92	1.15	1	8	1.00	labourer	55	55.00
+980	HNT/062/rose	HNT/062	rose	Little Stukeley	AP	Little Stukeley	1813-1820	92	1.15	1	8	1.00	farmer	3	3.00
+981	HNT/062/rose	HNT/062	rose	Little Stukeley	AP	Little Stukeley	1813-1820	92	1.15	1	8	1.00	shepherd	4	4.00
+982	HNT/062/rose	HNT/062	rose	Little Stukeley	AP	Little Stukeley	1813-1820	92	1.15	1	8	1.00	blacksmith	2	2.00
+983	HNT/062/rose	HNT/062	rose	Little Stukeley	AP	Little Stukeley	1813-1820	92	1.15	1	8	1.00	wheelwright	2	2.00
+984	HNT/062/rose	HNT/062	rose	Little Stukeley	AP	Little Stukeley	1813-1820	92	1.15	1	8	1.00	servant	2	2.00
+985	HNT/062/rose	HNT/062	rose	Little Stukeley	AP	Little Stukeley	1813-1820	92	1.15	1	8	1.00	weaver	3	3.00
+986	HNT/062/rose	HNT/062	rose	Little Stukeley	AP	Little Stukeley	1813-1820	92	1.15	1	8	1.00	cordwainer	3	3.00
+987	HNT/062/rose	HNT/062	rose	Little Stukeley	AP	Little Stukeley	1813-1820	92	1.15	1	8	1.00	illegitimate	5	5.00
+988	HNT/062/rose	HNT/062	rose	Little Stukeley	AP	Little Stukeley	1813-1820	92	1.15	1	8	1.00	carpenter	5	5.00
+989	HNT/062/rose	HNT/062	rose	Little Stukeley	AP	Little Stukeley	1813-1820	92	1.15	1	8	1.00	yeoman	1	1.00
+990	HNT/062/rose	HNT/062	rose	Little Stukeley	AP	Little Stukeley	1813-1820	92	1.15	1	8	1.00	horsekeeper	2	2.00
+991	HNT/062/rose	HNT/062	rose	Little Stukeley	AP	Little Stukeley	1813-1820	92	1.15	1	8	1.00	ostler	1	1.00
+992	HNT/062/rose	HNT/062	rose	Little Stukeley	AP	Little Stukeley	1813-1820	92	1.15	1	8	1.00	no occupation specified	1	1.00
+993	HNT/062/rose	HNT/062	rose	Little Stukeley	AP	Little Stukeley	1813-1820	92	1.15	1	8	1.00	wheeler	1	1.00
+994	HNT/062/rose	HNT/062	rose	Little Stukeley	AP	Little Stukeley	1813-1820	92	1.15	1	8	1.00	tailor	1	1.00
+995	HNT/064/rose	HNT/064	rose	Molesworth	AP	Molesworth	1813-1820	43	0.00	1	8	1.00	blacksmith	3	3.00
+996	HNT/064/rose	HNT/064	rose	Molesworth	AP	Molesworth	1813-1820	43	0.00	1	8	1.00	tailor	4	4.00
+997	HNT/064/rose	HNT/064	rose	Molesworth	AP	Molesworth	1813-1820	43	0.00	1	8	1.00	labourer	23	23.00
+998	HNT/064/rose	HNT/064	rose	Molesworth	AP	Molesworth	1813-1820	43	0.00	1	8	1.00	victualler	1	1.00
+999	HNT/064/rose	HNT/064	rose	Molesworth	AP	Molesworth	1813-1820	43	0.00	1	8	1.00	illegitimate	4	4.00
+1000	HNT/064/rose	HNT/064	rose	Molesworth	AP	Molesworth	1813-1820	43	0.00	1	8	1.00	farmer	3	3.00
+1001	HNT/064/rose	HNT/064	rose	Molesworth	AP	Molesworth	1813-1820	43	0.00	1	8	1.00	shoemaker	3	3.00
+1002	HNT/064/rose	HNT/064	rose	Molesworth	AP	Molesworth	1813-1820	43	0.00	1	8	1.00	shepherd	1	1.00
+1003	HNT/064/rose	HNT/064	rose	Molesworth	AP	Molesworth	1813-1820	43	0.00	1	8	1.00	thatcher	1	1.00
+1004	HNT/065/rose	HNT/065	rose	Morborne	AP	Morborne	1813-1820	21	0.00	1	8	1.00	servant	1	1.00
+1005	HNT/065/rose	HNT/065	rose	Morborne	AP	Morborne	1813-1820	21	0.00	1	8	1.00	labourer	20	20.00
+1006	HNT/066/rose	HNT/066	rose	Offord Cluney	AP	Offord Cluney	1813-1820	66	0.00	1	8	1.00	labourer	35	35.00
+1007	HNT/066/rose	HNT/066	rose	Offord Cluney	AP	Offord Cluney	1813-1820	66	0.00	1	8	1.00	butcher	5	5.00
+1008	HNT/066/rose	HNT/066	rose	Offord Cluney	AP	Offord Cluney	1813-1820	66	0.00	1	8	1.00	waterman	2	2.00
+1009	HNT/066/rose	HNT/066	rose	Offord Cluney	AP	Offord Cluney	1813-1820	66	0.00	1	8	1.00	farmer	10	10.00
+1010	HNT/066/rose	HNT/066	rose	Offord Cluney	AP	Offord Cluney	1813-1820	66	0.00	1	8	1.00	blacksmith	1	1.00
+1011	HNT/066/rose	HNT/066	rose	Offord Cluney	AP	Offord Cluney	1813-1820	66	0.00	1	8	1.00	carpenter	1	1.00
+1012	HNT/066/rose	HNT/066	rose	Offord Cluney	AP	Offord Cluney	1813-1820	66	0.00	1	8	1.00	esquire	3	3.00
+1013	HNT/066/rose	HNT/066	rose	Offord Cluney	AP	Offord Cluney	1813-1820	66	0.00	1	8	1.00	miller	1	1.00
+1014	HNT/066/rose	HNT/066	rose	Offord Cluney	AP	Offord Cluney	1813-1820	66	0.00	1	8	1.00	shoemaker	1	1.00
+1015	HNT/066/rose	HNT/066	rose	Offord Cluney	AP	Offord Cluney	1813-1820	66	0.00	1	8	1.00	gardener	3	3.00
+1016	HNT/066/rose	HNT/066	rose	Offord Cluney	AP	Offord Cluney	1813-1820	66	0.00	1	8	1.00	illegitimate	2	2.00
+1017	HNT/066/rose	HNT/066	rose	Offord Cluney	AP	Offord Cluney	1813-1820	66	0.00	1	8	1.00	shopkeeper	1	1.00
+1018	HNT/066/rose	HNT/066	rose	Offord Cluney	AP	Offord Cluney	1813-1820	66	0.00	1	8	1.00	keeper of a public house	1	1.00
+1019	HNT/067/rose	HNT/067	rose	Offord D'arcy	AP	Offord D'arcy	1813-1820	66	0.00	1	8	1.00	labourer	49	49.00
+1020	HNT/067/rose	HNT/067	rose	Offord D'arcy	AP	Offord D'arcy	1813-1820	66	0.00	1	8	1.00	farmer	6	6.00
+1021	HNT/067/rose	HNT/067	rose	Offord D'arcy	AP	Offord D'arcy	1813-1820	66	0.00	1	8	1.00	surgeon	1	1.00
+1022	HNT/067/rose	HNT/067	rose	Offord D'arcy	AP	Offord D'arcy	1813-1820	66	0.00	1	8	1.00	illegitimate	1	1.00
+1023	HNT/067/rose	HNT/067	rose	Offord D'arcy	AP	Offord D'arcy	1813-1820	66	0.00	1	8	1.00	shepherd	4	4.00
+1024	HNT/067/rose	HNT/067	rose	Offord D'arcy	AP	Offord D'arcy	1813-1820	66	0.00	1	8	1.00	keeper of a public house	2	2.00
+1025	HNT/067/rose	HNT/067	rose	Offord D'arcy	AP	Offord D'arcy	1813-1820	66	0.00	1	8	1.00	waterman	2	2.00
+1026	HNT/067/rose	HNT/067	rose	Offord D'arcy	AP	Offord D'arcy	1813-1820	66	0.00	1	8	1.00	captain infantry	1	1.00
+1027	HNT/068/rose	HNT/068	rose	Old Hurst	CH	St Ives	1813-1820	42	0.00	1	8	1.00	labourer	39	39.00
+1028	HNT/068/rose	HNT/068	rose	Old Hurst	CH	St Ives	1813-1820	42	0.00	1	8	1.00	illegitimate	1	1.00
+1029	HNT/068/rose	HNT/068	rose	Old Hurst	CH	St Ives	1813-1820	42	0.00	1	8	1.00	farmer	2	2.00
+1030	HNT/069/rose	HNT/069	rose	Old Weston	CH	Brington	1813-1820	93	0.00	1	8	1.00	labourer	62	62.00
+1031	HNT/069/rose	HNT/069	rose	Old Weston	CH	Brington	1813-1820	93	0.00	1	8	1.00	illegitimate	4	4.00
+1032	HNT/069/rose	HNT/069	rose	Old Weston	CH	Brington	1813-1820	93	0.00	1	8	1.00	farmer	7	7.00
+1033	HNT/069/rose	HNT/069	rose	Old Weston	CH	Brington	1813-1820	93	0.00	1	8	1.00	blacksmith	5	5.00
+1034	HNT/069/rose	HNT/069	rose	Old Weston	CH	Brington	1813-1820	93	0.00	1	8	1.00	shoemaker	1	1.00
+1035	HNT/069/rose	HNT/069	rose	Old Weston	CH	Brington	1813-1820	93	0.00	1	8	1.00	miller	5	5.00
+1036	HNT/069/rose	HNT/069	rose	Old Weston	CH	Brington	1813-1820	93	0.00	1	8	1.00	tailor	3	3.00
+1037	HNT/069/rose	HNT/069	rose	Old Weston	CH	Brington	1813-1820	93	0.00	1	8	1.00	baker	2	2.00
+1038	HNT/069/rose	HNT/069	rose	Old Weston	CH	Brington	1813-1820	93	0.00	1	8	1.00	corporal	1	1.00
+1039	HNT/069/rose	HNT/069	rose	Old Weston	CH	Brington	1813-1820	93	0.00	1	8	1.00	shepherd	2	2.00
+1040	HNT/069/rose	HNT/069	rose	Old Weston	CH	Brington	1813-1820	93	0.00	1	8	1.00	grocer	1	1.00
+1041	HNT/070/rose	HNT/070	rose	Orton Longville	AP	Orton Longville	1813-1820	47	0.00	1	8	1.00	servant	4	4.00
+1042	HNT/070/rose	HNT/070	rose	Orton Longville	AP	Orton Longville	1813-1820	47	0.00	1	8	1.00	gardener	2	2.00
+1043	HNT/070/rose	HNT/070	rose	Orton Longville	AP	Orton Longville	1813-1820	47	0.00	1	8	1.00	farmer	4	4.00
+1044	HNT/070/rose	HNT/070	rose	Orton Longville	AP	Orton Longville	1813-1820	47	0.00	1	8	1.00	labourer	27	27.00
+1045	HNT/070/rose	HNT/070	rose	Orton Longville	AP	Orton Longville	1813-1820	47	0.00	1	8	1.00	curate	2	2.00
+1046	HNT/070/rose	HNT/070	rose	Orton Longville	AP	Orton Longville	1813-1820	47	0.00	1	8	1.00	illegitimate	1	1.00
+1047	HNT/070/rose	HNT/070	rose	Orton Longville	AP	Orton Longville	1813-1820	47	0.00	1	8	1.00	shepherd	3	3.00
+1048	HNT/070/rose	HNT/070	rose	Orton Longville	AP	Orton Longville	1813-1820	47	0.00	1	8	1.00	butcher	2	2.00
+1049	HNT/070/rose	HNT/070	rose	Orton Longville	AP	Orton Longville	1813-1820	47	0.00	1	8	1.00	groom	1	1.00
+1050	HNT/070/rose	HNT/070	rose	Orton Longville	AP	Orton Longville	1813-1820	47	0.00	1	8	1.00	carpenter	1	1.00
+1051	HNT/071/rose	HNT/071	rose	Orton Waterville	AP	Orton Waterville	1813-1820	61	0.00	1	8	1.00	dealer in timber	2	2.00
+1052	HNT/071/rose	HNT/071	rose	Orton Waterville	AP	Orton Waterville	1813-1820	61	0.00	1	8	1.00	labourer	31	31.00
+1053	HNT/071/rose	HNT/071	rose	Orton Waterville	AP	Orton Waterville	1813-1820	61	0.00	1	8	1.00	farmer	8	8.00
+1054	HNT/071/rose	HNT/071	rose	Orton Waterville	AP	Orton Waterville	1813-1820	61	0.00	1	8	1.00	sawyer	1	1.00
+1055	HNT/071/rose	HNT/071	rose	Orton Waterville	AP	Orton Waterville	1813-1820	61	0.00	1	8	1.00	mason	1	1.00
+1056	HNT/071/rose	HNT/071	rose	Orton Waterville	AP	Orton Waterville	1813-1820	61	0.00	1	8	1.00	woodman	1	1.00
+1057	HNT/071/rose	HNT/071	rose	Orton Waterville	AP	Orton Waterville	1813-1820	61	0.00	1	8	1.00	illegitimate	3	3.00
+1058	HNT/071/rose	HNT/071	rose	Orton Waterville	AP	Orton Waterville	1813-1820	61	0.00	1	8	1.00	thatcher	4	4.00
+1059	HNT/071/rose	HNT/071	rose	Orton Waterville	AP	Orton Waterville	1813-1820	61	0.00	1	8	1.00	shoemaker	2	2.00
+1060	HNT/071/rose	HNT/071	rose	Orton Waterville	AP	Orton Waterville	1813-1820	61	0.00	1	8	1.00	publican	3	3.00
+1061	HNT/071/rose	HNT/071	rose	Orton Waterville	AP	Orton Waterville	1813-1820	61	0.00	1	8	1.00	carpenter	1	1.00
+1062	HNT/071/rose	HNT/071	rose	Orton Waterville	AP	Orton Waterville	1813-1820	61	0.00	1	8	1.00	labourer and boatman	2	2.00
+1063	HNT/071/rose	HNT/071	rose	Orton Waterville	AP	Orton Waterville	1813-1820	61	0.00	1	8	1.00	servant	1	1.00
+1064	HNT/071/rose	HNT/071	rose	Orton Waterville	AP	Orton Waterville	1813-1820	61	0.00	1	8	1.00	blacksmith	1	1.00
+1065	HNT/073/rose	HNT/073	rose	Pidley cum Fenton	CH	Somersham	1813-1820	68	0.00	1	8	1.00	labourer	49	49.00
+1066	HNT/073/rose	HNT/073	rose	Pidley cum Fenton	CH	Somersham	1813-1820	68	0.00	1	8	1.00	carter	3	3.00
+1067	HNT/073/rose	HNT/073	rose	Pidley cum Fenton	CH	Somersham	1813-1820	68	0.00	1	8	1.00	farmer	5	5.00
+1068	HNT/073/rose	HNT/073	rose	Pidley cum Fenton	CH	Somersham	1813-1820	68	0.00	1	8	1.00	shepherd	1	1.00
+1069	HNT/073/rose	HNT/073	rose	Pidley cum Fenton	CH	Somersham	1813-1820	68	0.00	1	8	1.00	illegitimate	2	2.00
+1070	HNT/073/rose	HNT/073	rose	Pidley cum Fenton	CH	Somersham	1813-1820	68	0.00	1	8	1.00	alehouse keeper	1	1.00
+1071	HNT/073/rose	HNT/073	rose	Pidley cum Fenton	CH	Somersham	1813-1820	68	0.00	1	8	1.00	shoemaker	1	1.00
+1072	HNT/073/rose	HNT/073	rose	Pidley cum Fenton	CH	Somersham	1813-1820	68	0.00	1	8	1.00	woodman	1	1.00
+1073	HNT/073/rose	HNT/073	rose	Pidley cum Fenton	CH	Somersham	1813-1820	68	0.00	1	8	1.00	carpenter	1	1.00
+1074	HNT/073/rose	HNT/073	rose	Pidley cum Fenton	CH	Somersham	1813-1820	68	0.00	1	8	1.00	timber merchant	3	3.00
+1075	HNT/073/rose	HNT/073	rose	Pidley cum Fenton	CH	Somersham	1813-1820	68	0.00	1	8	1.00	horsebreaker	1	1.00
+1076	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	land surveyor	3	3.00
+1077	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	tailor	22	22.00
+1078	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	carpenter	21	21.00
+1079	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	labourer	320	320.00
+1080	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	bricklayer	15	15.00
+1081	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	surgeon	6	6.00
+1082	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	wheelwright	3	3.00
+1083	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	butcher	10	10.00
+1084	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	cordwainer	17	17.00
+1085	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	militiaman	2	2.00
+1086	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	illegitimate	27	27.00
+1087	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	miller	3	3.00
+1088	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	victualler	8	8.00
+1089	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	farmer	44	44.00
+1090	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	auctioneer	3	3.00
+1091	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	thatcher	5	5.00
+1092	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	brewer	1	1.00
+1093	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	glazier	5	5.00
+1094	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	sawyer	1	1.00
+1095	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	esquire	1	1.00
+1096	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	gentleman	4	4.00
+1097	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	brickmaker	29	29.00
+1098	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	schoolmaster	1	1.00
+1099	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	clerk	2	2.00
+1100	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	boatwright	5	5.00
+1101	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	grocer	6	6.00
+1102	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	shepherd	6	6.00
+1103	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	waggoner	2	2.00
+1104	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	fisherman	2	2.00
+1105	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	waterman	4	4.00
+1106	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	breeches maker	1	1.00
+1107	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	baptism without named parents	1	1.00
+1108	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	soldier	2	2.00
+1109	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	dairyman	6	6.00
+1110	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	blacksmith	4	4.00
+1111	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	innkeeper	2	2.00
+1112	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	brazier	1	1.00
+1113	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	watchmaker	2	2.00
+1114	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	gardener	2	2.00
+1115	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	shopkeeper	1	1.00
+1116	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	basketmaker	3	3.00
+1117	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	collarmaker	2	2.00
+1118	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	staymaker	1	1.00
+1119	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	whip thong maker	1	1.00
+1120	HNT/074/rose	HNT/074	rose	Ramsey	AP	Ramsey	1813-1820	608	0.00	1	8	1.00	drover	1	1.00
+1121	HNT/075/rose	HNT/075	rose	Sawtry All Saints	AP	Sawtry All Saints	1813-1820	203	0.00	1	8	1.00	labourer	129	129.00
+1122	HNT/075/rose	HNT/075	rose	Sawtry All Saints	AP	Sawtry All Saints	1813-1820	203	0.00	1	8	1.00	miller	2	2.00
+1123	HNT/075/rose	HNT/075	rose	Sawtry All Saints	AP	Sawtry All Saints	1813-1820	203	0.00	1	8	1.00	farmer	13	13.00
+1124	HNT/075/rose	HNT/075	rose	Sawtry All Saints	AP	Sawtry All Saints	1813-1820	203	0.00	1	8	1.00	shepherd	3	3.00
+1125	HNT/075/rose	HNT/075	rose	Sawtry All Saints	AP	Sawtry All Saints	1813-1820	203	0.00	1	8	1.00	blacksmith	8	8.00
+1126	HNT/075/rose	HNT/075	rose	Sawtry All Saints	AP	Sawtry All Saints	1813-1820	203	0.00	1	8	1.00	illegitimate	7	7.00
+1127	HNT/075/rose	HNT/075	rose	Sawtry All Saints	AP	Sawtry All Saints	1813-1820	203	0.00	1	8	1.00	mason	1	1.00
+1128	HNT/075/rose	HNT/075	rose	Sawtry All Saints	AP	Sawtry All Saints	1813-1820	203	0.00	1	8	1.00	carpenter	17	17.00
+1129	HNT/075/rose	HNT/075	rose	Sawtry All Saints	AP	Sawtry All Saints	1813-1820	203	0.00	1	8	1.00	butcher	5	5.00
+1130	HNT/075/rose	HNT/075	rose	Sawtry All Saints	AP	Sawtry All Saints	1813-1820	203	0.00	1	8	1.00	surveyor on the north road	4	4.00
+1131	HNT/075/rose	HNT/075	rose	Sawtry All Saints	AP	Sawtry All Saints	1813-1820	203	0.00	1	8	1.00	tailor	4	4.00
+1132	HNT/075/rose	HNT/075	rose	Sawtry All Saints	AP	Sawtry All Saints	1813-1820	203	0.00	1	8	1.00	serjeant	1	1.00
+1133	HNT/075/rose	HNT/075	rose	Sawtry All Saints	AP	Sawtry All Saints	1813-1820	203	0.00	1	8	1.00	shoemaker	3	3.00
+1134	HNT/075/rose	HNT/075	rose	Sawtry All Saints	AP	Sawtry All Saints	1813-1820	203	0.00	1	8	1.00	servant	2	2.00
+1135	HNT/075/rose	HNT/075	rose	Sawtry All Saints	AP	Sawtry All Saints	1813-1820	203	0.00	1	8	1.00	parish clerk	2	2.00
+1136	HNT/075/rose	HNT/075	rose	Sawtry All Saints	AP	Sawtry All Saints	1813-1820	203	0.00	1	8	1.00	basketmaker	1	1.00
+1137	HNT/075/rose	HNT/075	rose	Sawtry All Saints	AP	Sawtry All Saints	1813-1820	203	0.00	1	8	1.00	publican	1	1.00
+1138	HNT/076/rose	HNT/076	rose	Sawtry St Andrew	AP	Sawtry St Andrew	1813-1820	78	0.00	1	8	1.00	labourer	54	54.00
+1139	HNT/076/rose	HNT/076	rose	Sawtry St Andrew	AP	Sawtry St Andrew	1813-1820	78	0.00	1	8	1.00	butcher	6	6.00
+1140	HNT/076/rose	HNT/076	rose	Sawtry St Andrew	AP	Sawtry St Andrew	1813-1820	78	0.00	1	8	1.00	servant	1	1.00
+1141	HNT/076/rose	HNT/076	rose	Sawtry St Andrew	AP	Sawtry St Andrew	1813-1820	78	0.00	1	8	1.00	shoemaker	2	2.00
+1142	HNT/076/rose	HNT/076	rose	Sawtry St Andrew	AP	Sawtry St Andrew	1813-1820	78	0.00	1	8	1.00	gentleman	4	4.00
+1143	HNT/076/rose	HNT/076	rose	Sawtry St Andrew	AP	Sawtry St Andrew	1813-1820	78	0.00	1	8	1.00	gardener	4	4.00
+1144	HNT/076/rose	HNT/076	rose	Sawtry St Andrew	AP	Sawtry St Andrew	1813-1820	78	0.00	1	8	1.00	carpenter	4	4.00
+1145	HNT/076/rose	HNT/076	rose	Sawtry St Andrew	AP	Sawtry St Andrew	1813-1820	78	0.00	1	8	1.00	collar maker	2	2.00
+1146	HNT/076/rose	HNT/076	rose	Sawtry St Andrew	AP	Sawtry St Andrew	1813-1820	78	0.00	1	8	1.00	blacksmith	1	1.00
+1147	HNT/078/rose	HNT/078	rose	Sibson cum Stibbington	AP	Sibson cum Stibbington	1813-1820	93	0.00	1	8	1.00	publican and shoemaker	3	3.00
+1148	HNT/078/rose	HNT/078	rose	Sibson cum Stibbington	AP	Sibson cum Stibbington	1813-1820	93	0.00	1	8	1.00	labourer	45	45.00
+1149	HNT/078/rose	HNT/078	rose	Sibson cum Stibbington	AP	Sibson cum Stibbington	1813-1820	93	0.00	1	8	1.00	groom	2	2.00
+1150	HNT/078/rose	HNT/078	rose	Sibson cum Stibbington	AP	Sibson cum Stibbington	1813-1820	93	0.00	1	8	1.00	farmer	3	3.00
+1151	HNT/078/rose	HNT/078	rose	Sibson cum Stibbington	AP	Sibson cum Stibbington	1813-1820	93	0.00	1	8	1.00	baker	4	4.00
+1152	HNT/078/rose	HNT/078	rose	Sibson cum Stibbington	AP	Sibson cum Stibbington	1813-1820	93	0.00	1	8	1.00	illegitimate	7	7.00
+1153	HNT/078/rose	HNT/078	rose	Sibson cum Stibbington	AP	Sibson cum Stibbington	1813-1820	93	0.00	1	8	1.00	postboy	9	9.00
+1154	HNT/078/rose	HNT/078	rose	Sibson cum Stibbington	AP	Sibson cum Stibbington	1813-1820	93	0.00	1	8	1.00	butcher	3	3.00
+1155	HNT/078/rose	HNT/078	rose	Sibson cum Stibbington	AP	Sibson cum Stibbington	1813-1820	93	0.00	1	8	1.00	victualler	1	1.00
+1156	HNT/078/rose	HNT/078	rose	Sibson cum Stibbington	AP	Sibson cum Stibbington	1813-1820	93	0.00	1	8	1.00	innkeeper	1	1.00
+1157	HNT/078/rose	HNT/078	rose	Sibson cum Stibbington	AP	Sibson cum Stibbington	1813-1820	93	0.00	1	8	1.00	lodger	1	1.00
+1158	HNT/078/rose	HNT/078	rose	Sibson cum Stibbington	AP	Sibson cum Stibbington	1813-1820	93	0.00	1	8	1.00	blind beggar	1	1.00
+1159	HNT/078/rose	HNT/078	rose	Sibson cum Stibbington	AP	Sibson cum Stibbington	1813-1820	93	0.00	1	8	1.00	servant	2	2.00
+1160	HNT/078/rose	HNT/078	rose	Sibson cum Stibbington	AP	Sibson cum Stibbington	1813-1820	93	0.00	1	8	1.00	carpenter	3	3.00
+1161	HNT/078/rose	HNT/078	rose	Sibson cum Stibbington	AP	Sibson cum Stibbington	1813-1820	93	0.00	1	8	1.00	waiter	2	2.00
+1162	HNT/078/rose	HNT/078	rose	Sibson cum Stibbington	AP	Sibson cum Stibbington	1813-1820	93	0.00	1	8	1.00	papermaker	3	3.00
+1163	HNT/078/rose	HNT/078	rose	Sibson cum Stibbington	AP	Sibson cum Stibbington	1813-1820	93	0.00	1	8	1.00	shepherd	1	1.00
+1164	HNT/078/rose	HNT/078	rose	Sibson cum Stibbington	AP	Sibson cum Stibbington	1813-1820	93	0.00	1	8	1.00	shoemaker	1	1.00
+1165	HNT/078/rose	HNT/078	rose	Sibson cum Stibbington	AP	Sibson cum Stibbington	1813-1820	93	0.00	1	8	1.00	clerk	1	1.00
+1166	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	labourer	108	108.00
+1167	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	miller	2	2.00
+1168	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	farmer	13	13.00
+1169	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	tailor	7	7.00
+1170	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	gardener	10	10.00
+1171	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	illegitimate	7	7.00
+1172	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	cordwainer	4	4.00
+1173	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	glazier	5	5.00
+1174	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	blacksmith	5	5.00
+1175	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	butcher	10	10.00
+1176	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	wheelwright	1	1.00
+1177	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	parish clerk	1	1.00
+1178	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	sexton	1	1.00
+1179	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	corn factor	1	1.00
+1180	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	thatcher	4	4.00
+1181	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	surgeon	3	3.00
+1182	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	basket maker	3	3.00
+1183	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	linen draper	1	1.00
+1184	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	carpenter	2	2.00
+1185	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	draper	1	1.00
+1186	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	baker	1	1.00
+1187	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	shepherd	2	2.00
+1188	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	draper and grocer	2	2.00
+1189	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	miller and baker	1	1.00
+1190	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	rushman	1	1.00
+1191	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	gentleman	1	1.00
+1192	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	joiner	4	4.00
+1193	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	innkeeper	3	3.00
+1194	HNT/079/rose	HNT/079	rose	Somersham	AP	Somersham	1813-1820	205	0.00	1	8	1.00	soldier	1	1.00
+1195	HNT/080/rose	HNT/080	rose	Southoe	AP	Southoe	1813-1820	76	0.00	1	8	1.00	labourer	51	51.00
+1196	HNT/080/rose	HNT/080	rose	Southoe	AP	Southoe	1813-1820	76	0.00	1	8	1.00	gardener	2	2.00
+1197	HNT/080/rose	HNT/080	rose	Southoe	AP	Southoe	1813-1820	76	0.00	1	8	1.00	farmer	9	9.00
+1198	HNT/080/rose	HNT/080	rose	Southoe	AP	Southoe	1813-1820	76	0.00	1	8	1.00	gentleman and farmer	1	1.00
+1199	HNT/080/rose	HNT/080	rose	Southoe	AP	Southoe	1813-1820	76	0.00	1	8	1.00	shepherd	3	3.00
+1200	HNT/080/rose	HNT/080	rose	Southoe	AP	Southoe	1813-1820	76	0.00	1	8	1.00	carpenter	1	1.00
+1201	HNT/080/rose	HNT/080	rose	Southoe	AP	Southoe	1813-1820	76	0.00	1	8	1.00	gardener's labourer	1	1.00
+1202	HNT/080/rose	HNT/080	rose	Southoe	AP	Southoe	1813-1820	76	0.00	1	8	1.00	millwright	2	2.00
+1203	HNT/080/rose	HNT/080	rose	Southoe	AP	Southoe	1813-1820	76	0.00	1	8	1.00	shepherd and labourer	1	1.00
+1204	HNT/080/rose	HNT/080	rose	Southoe	AP	Southoe	1813-1820	76	0.00	1	8	1.00	illegitimate	1	1.00
+1205	HNT/080/rose	HNT/080	rose	Southoe	AP	Southoe	1813-1820	76	0.00	1	8	1.00	blacksmith	3	3.00
+1206	HNT/080/rose	HNT/080	rose	Southoe	AP	Southoe	1813-1820	76	0.00	1	8	1.00	student queens college	1	1.00
+1207	HNT/081/rose	HNT/081	rose	Spaldwick	AP	Spaldwick	1813-1820	84	0.00	1	8	1.00	blacksmith	2	2.00
+1208	HNT/081/rose	HNT/081	rose	Spaldwick	AP	Spaldwick	1813-1820	84	0.00	1	8	1.00	labourer	41	41.00
+1209	HNT/081/rose	HNT/081	rose	Spaldwick	AP	Spaldwick	1813-1820	84	0.00	1	8	1.00	baker	4	4.00
+1210	HNT/081/rose	HNT/081	rose	Spaldwick	AP	Spaldwick	1813-1820	84	0.00	1	8	1.00	shepherd	2	2.00
+1211	HNT/081/rose	HNT/081	rose	Spaldwick	AP	Spaldwick	1813-1820	84	0.00	1	8	1.00	schoolmaster	6	6.00
+1212	HNT/081/rose	HNT/081	rose	Spaldwick	AP	Spaldwick	1813-1820	84	0.00	1	8	1.00	miller	4	4.00
+1213	HNT/081/rose	HNT/081	rose	Spaldwick	AP	Spaldwick	1813-1820	84	0.00	1	8	1.00	farmer	11	11.00
+1214	HNT/081/rose	HNT/081	rose	Spaldwick	AP	Spaldwick	1813-1820	84	0.00	1	8	1.00	carpenter	3	3.00
+1215	HNT/081/rose	HNT/081	rose	Spaldwick	AP	Spaldwick	1813-1820	84	0.00	1	8	1.00	butcher	5	5.00
+1216	HNT/081/rose	HNT/081	rose	Spaldwick	AP	Spaldwick	1813-1820	84	0.00	1	8	1.00	wheeler	2	2.00
+1217	HNT/081/rose	HNT/081	rose	Spaldwick	AP	Spaldwick	1813-1820	84	0.00	1	8	1.00	sadler	2	2.00
+1218	HNT/081/rose	HNT/081	rose	Spaldwick	AP	Spaldwick	1813-1820	84	0.00	1	8	1.00	housekeeper	1	1.00
+1219	HNT/081/rose	HNT/081	rose	Spaldwick	AP	Spaldwick	1813-1820	84	0.00	1	8	1.00	illegitimate	1	1.00
+1220	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	baker	10	10.00
+1221	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	innholder	1	1.00
+1222	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	farmer	15	15.00
+1223	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	druggist	5	5.00
+1224	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	shoemaker	1	1.00
+1225	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	hairdresser	2	2.00
+1226	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	labourer	77	77.00
+1227	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	waterman	66	66.00
+1228	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	waggoner	7	7.00
+1229	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	woolcomber	4	4.00
+1230	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	victualler	18	18.00
+1231	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	cordwainer	35	35.00
+1232	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	grocer	18	18.00
+1233	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	butcher	5	5.00
+1234	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	glazier	1	1.00
+1235	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	staymaker	3	3.00
+1236	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	basketmaker	1	1.00
+1237	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	soldier	1	1.00
+1238	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	brewer	5	5.00
+1239	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	blacksmith	14	14.00
+1240	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	confectioner	1	1.00
+1241	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	chimney sweep	2	2.00
+1242	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	gentleman	5	5.00
+1243	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	carpenter	19	19.00
+1244	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	horse dealer	2	2.00
+1245	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	tailor	15	15.00
+1246	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	drover	3	3.00
+1247	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	yeoman	5	5.00
+1248	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	carrier	3	3.00
+1249	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	printer	2	2.00
+1250	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	woolstapler	2	2.00
+1251	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	breeches maker	2	2.00
+1252	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	bricklayer	14	14.00
+1253	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	tallow chandler	1	1.00
+1254	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	boatwright	1	1.00
+1255	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	merchant	1	1.00
+1256	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	plumber and glazier	3	3.00
+1257	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	esquire	4	4.00
+1258	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	illegitimate	8	8.00
+1259	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	brickmaker	7	7.00
+1260	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	whitesmith	1	1.00
+1261	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	chinaman	1	1.00
+1262	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	gardener	3	3.00
+1263	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	sadler	7	7.00
+1264	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	schoolmaster	3	3.00
+1265	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	jobber	2	2.00
+1266	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	accountant	1	1.00
+1267	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	porter	1	1.00
+1268	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	wireworker	3	3.00
+1269	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	writing clerk	1	1.00
+1270	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	farmer and victualler	1	1.00
+1271	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	brazier	3	3.00
+1272	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	builder	1	1.00
+1273	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	draper	4	4.00
+1274	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	merchant clerk	2	2.00
+1275	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	gentleman's servant	1	1.00
+1276	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	letter sorter	3	3.00
+1277	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	banker's agent	2	2.00
+1278	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	bookseller	2	2.00
+1279	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	framework knitter	1	1.00
+1280	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	wheelwright	1	1.00
+1281	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	coachmaker	2	2.00
+1282	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	maltster	1	1.00
+1283	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	attorney at law	2	2.00
+1284	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	cabinet maker	5	5.00
+1285	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	lawyer's clerk	2	2.00
+1286	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	lieutenant	1	1.00
+1287	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	publican	1	1.00
+1288	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	chemist	1	1.00
+1289	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	veterinary	1	1.00
+1290	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	fellmonger	1	1.00
+1291	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	farmer and waggoner	1	1.00
+1292	HNT/082/rose	HNT/082	rose	St Ives	AP	St Ives	1813-1820	452	0.00	1	8	1.00	apothecary	1	1.00
+1293	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	tailor	4	4.00
+1294	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	labourer	224	224.00
+1295	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	bricklayer	20	20.00
+1296	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	butcher	8	8.00
+1297	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	cordwainer	26	26.00
+1298	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	combmaker	7	7.00
+1299	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	innkeeper	6	6.00
+1300	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	brewer	1	1.00
+1301	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	illegitimate	10	10.00
+1302	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	whitesmith	2	2.00
+1303	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	carpenter	15	15.00
+1304	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	victualler	5	5.00
+1305	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	brazier	4	4.00
+1306	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	blacksmith	16	16.00
+1307	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	papermaker	9	9.00
+1308	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	day labourer	10	10.00
+1309	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	solicitor	4	4.00
+1310	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	breeches maker	1	1.00
+1311	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	postboy	1	1.00
+1312	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	surgeon and apothecary	1	1.00
+1313	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	hempdresser	4	4.00
+1314	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	farmer	6	6.00
+1315	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	schoolmaster	2	2.00
+1316	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	ostler	2	2.00
+1317	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	gardener	5	5.00
+1318	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	shoemaker	5	5.00
+1319	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	sawyer	1	1.00
+1320	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	maltster	1	1.00
+1321	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	merchant's clerk	2	2.00
+1322	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	wheelwright	3	3.00
+1323	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	surgeon	2	2.00
+1324	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	cabinetmaker	4	4.00
+1325	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	cooper	7	7.00
+1326	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	draper	1	1.00
+1327	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	publican	6	6.00
+1328	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	attorney at law	9	9.00
+1329	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	basketmaker	7	7.00
+1330	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	baker	5	5.00
+1331	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	grocer	2	2.00
+1332	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	coachman	1	1.00
+1333	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	gentleman	1	1.00
+1334	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	dealer	1	1.00
+1335	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	millwright	6	6.00
+1336	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	servant	1	1.00
+1337	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	corn factor	1	1.00
+1338	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	fellmonger	1	1.00
+1339	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	vicar	1	1.00
+1340	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	stocking manufacturer	1	1.00
+1341	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	mealman	5	5.00
+1342	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	no occupation specified	1	1.00
+1343	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	plumber	1	1.00
+1344	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	shepherd	1	1.00
+1345	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	hairdresser	2	2.00
+1346	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	glover	2	2.00
+1347	HNT/083/rose	HNT/083	rose	St Neots	AP	St Neots	1813-1820	475	0.22	1	8	1.00	hostler	1	1.00
+1348	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	labourer	69	69.00
+1349	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	shoemaker	7	7.00
+1350	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	miller	3	3.00
+1351	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	waterman	17	17.00
+1352	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	tanner	1	1.00
+1353	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	esquire	2	2.00
+1354	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	carpenter	2	2.00
+1355	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	vicar	5	5.00
+1356	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	public house keeper	3	3.00
+1357	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	farmer	8	8.00
+1358	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	wheelwright	1	1.00
+1359	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	fisherman	1	1.00
+1360	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	boatbuilder	1	1.00
+1361	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	illegitimate	6	6.00
+1362	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	waggoner	1	1.00
+1363	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	weaver	1	1.00
+1364	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	sack weaver	1	1.00
+1365	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	groom	1	1.00
+1366	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	ropemaker	1	1.00
+1367	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	thatcher	3	3.00
+1368	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	naval officer	1	1.00
+1369	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	slater	1	1.00
+1370	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	blacksmith	1	1.00
+1371	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	sack manufacturer	3	3.00
+1372	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	yeoman	2	2.00
+1373	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	tailor	1	1.00
+1374	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	victualler	2	2.00
+1375	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	workhouse governor	1	1.00
+1376	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	shopkeeper	1	1.00
+1377	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	gardener	1	1.00
+1378	HNT/084/rose	HNT/084	rose	Stanground	AP	Stanground	1813-1820	149	0.00	1	8	1.00	baker	1	1.00
+1379	HNT/085/rose	HNT/085	rose	Steeple Gidding	AP	Steeple Gidding	1813-1820	18	0.00	1	8	1.00	labourer	13	13.00
+1380	HNT/085/rose	HNT/085	rose	Steeple Gidding	AP	Steeple Gidding	1813-1820	18	0.00	1	8	1.00	bailliff	1	1.00
+1381	HNT/085/rose	HNT/085	rose	Steeple Gidding	AP	Steeple Gidding	1813-1820	18	0.00	1	8	1.00	farmer	3	3.00
+1382	HNT/085/rose	HNT/085	rose	Steeple Gidding	AP	Steeple Gidding	1813-1820	18	0.00	1	8	1.00	clerk and labourer	1	1.00
+1383	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	shoemaker	10	10.00
+1384	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	labourer	66	66.00
+1385	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	tailor	11	11.00
+1386	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	ostler	13	13.00
+1387	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	baker	3	3.00
+1388	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	farmer	7	7.00
+1389	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	postboy	8	8.00
+1390	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	bricklayer	3	3.00
+1391	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	schoolmaster	2	2.00
+1392	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	clerk	2	2.00
+1393	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	shopkeeper	3	3.00
+1394	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	soldier militia	2	2.00
+1395	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	gentleman	2	2.00
+1396	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	butcher	7	7.00
+1397	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	army captain	2	2.00
+1398	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	militia	1	1.00
+1399	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	innkeeper	4	4.00
+1400	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	tapster	2	2.00
+1401	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	coachman	1	1.00
+1402	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	carpenter	7	7.00
+1403	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	glazier	4	4.00
+1404	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	military officer	2	2.00
+1405	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	whitesmith	1	1.00
+1406	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	horse keeper	1	1.00
+1407	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	illegitimate	9	9.00
+1408	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	cooper	1	1.00
+1409	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	surgeon	3	3.00
+1410	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	blacksmith	3	3.00
+1411	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	other parish - no occupation	1	1.00
+1412	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	soldier	2	2.00
+1413	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	rector	4	4.00
+1414	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	horse dealer	3	3.00
+1415	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	barber	1	1.00
+1416	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	servant	4	4.00
+1417	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	publican	4	4.00
+1418	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	parish clerk	1	1.00
+1419	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	smith	2	2.00
+1420	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	carrier	2	2.00
+1421	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	captain	1	1.00
+1422	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	groom	2	2.00
+1423	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	glover	1	1.00
+1424	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	painter	1	1.00
+1425	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	major	2	2.00
+1426	HNT/086/rose	HNT/086	rose	Stilton	AP	Stilton	1813-1820	212	0.00	1	8	1.00	yeoman	1	1.00
+1427	HNT/087/rose	HNT/087	rose	Stow cum Longa	AP	Stow	1813-1820	42	0.00	1	8	1.00	labourer	28	28.00
+1428	HNT/087/rose	HNT/087	rose	Stow cum Longa	AP	Stow	1813-1820	42	0.00	1	8	1.00	shepherd	2	2.00
+1429	HNT/087/rose	HNT/087	rose	Stow cum Longa	AP	Stow	1813-1820	42	0.00	1	8	1.00	baptism without named parents	1	1.00
+1430	HNT/087/rose	HNT/087	rose	Stow cum Longa	AP	Stow	1813-1820	42	0.00	1	8	1.00	illegitimate	1	1.00
+1431	HNT/087/rose	HNT/087	rose	Stow cum Longa	AP	Stow	1813-1820	42	0.00	1	8	1.00	farmer	3	3.00
+1432	HNT/087/rose	HNT/087	rose	Stow cum Longa	AP	Stow	1813-1820	42	0.00	1	8	1.00	weaver	4	4.00
+1433	HNT/087/rose	HNT/087	rose	Stow cum Longa	AP	Stow	1813-1820	42	0.00	1	8	1.00	carpenter	3	3.00
+1434	HNT/088/rose	HNT/088	rose	Swineshead	AP	Swineshead	1813-1820	61	0.00	1	8	1.00	shoemaker	8	8.00
+1435	HNT/088/rose	HNT/088	rose	Swineshead	AP	Swineshead	1813-1820	61	0.00	1	8	1.00	labourer	30	30.00
+1436	HNT/088/rose	HNT/088	rose	Swineshead	AP	Swineshead	1813-1820	61	0.00	1	8	1.00	carpenter and joiner	2	2.00
+1437	HNT/088/rose	HNT/088	rose	Swineshead	AP	Swineshead	1813-1820	61	0.00	1	8	1.00	illegitimate	2	2.00
+1438	HNT/088/rose	HNT/088	rose	Swineshead	AP	Swineshead	1813-1820	61	0.00	1	8	1.00	farmer	8	8.00
+1439	HNT/088/rose	HNT/088	rose	Swineshead	AP	Swineshead	1813-1820	61	0.00	1	8	1.00	innkeeper	1	1.00
+1440	HNT/088/rose	HNT/088	rose	Swineshead	AP	Swineshead	1813-1820	61	0.00	1	8	1.00	parish clerk	2	2.00
+1441	HNT/088/rose	HNT/088	rose	Swineshead	AP	Swineshead	1813-1820	61	0.00	1	8	1.00	butcher	1	1.00
+1442	HNT/088/rose	HNT/088	rose	Swineshead	AP	Swineshead	1813-1820	61	0.00	1	8	1.00	shepherd	4	4.00
+1443	HNT/088/rose	HNT/088	rose	Swineshead	AP	Swineshead	1813-1820	61	0.00	1	8	1.00	blacksmith	3	3.00
+1444	HNT/089/rose	HNT/089	rose	Toseland	CH	Great Paxton	1813-1820	40	0.00	1	8	1.00	labourer	35	35.00
+1445	HNT/089/rose	HNT/089	rose	Toseland	CH	Great Paxton	1813-1820	40	0.00	1	8	1.00	farmer	4	4.00
+1446	HNT/089/rose	HNT/089	rose	Toseland	CH	Great Paxton	1813-1820	40	0.00	1	8	1.00	publican	1	1.00
+1447	HNT/090/rose	HNT/090	rose	Upton	AP	Upton	1813-1820	66	0.00	1	8	1.00	farmer	7	7.00
+1448	HNT/090/rose	HNT/090	rose	Upton	AP	Upton	1813-1820	66	0.00	1	8	1.00	labourer	42	42.00
+1449	HNT/090/rose	HNT/090	rose	Upton	AP	Upton	1813-1820	66	0.00	1	8	1.00	poulterer	3	3.00
+1450	HNT/090/rose	HNT/090	rose	Upton	AP	Upton	1813-1820	66	0.00	1	8	1.00	illegitimate	5	5.00
+1451	HNT/090/rose	HNT/090	rose	Upton	AP	Upton	1813-1820	66	0.00	1	8	1.00	sadler	1	1.00
+1452	HNT/090/rose	HNT/090	rose	Upton	AP	Upton	1813-1820	66	0.00	1	8	1.00	servant	3	3.00
+1453	HNT/090/rose	HNT/090	rose	Upton	AP	Upton	1813-1820	66	0.00	1	8	1.00	carpenter	1	1.00
+1454	HNT/090/rose	HNT/090	rose	Upton	AP	Upton	1813-1820	66	0.00	1	8	1.00	shepherd	1	1.00
+1455	HNT/090/rose	HNT/090	rose	Upton	AP	Upton	1813-1820	66	0.00	1	8	1.00	tailor	2	2.00
+1456	HNT/090/rose	HNT/090	rose	Upton	AP	Upton	1813-1820	66	0.00	1	8	1.00	publican	1	1.00
+1457	HNT/091/rose	HNT/091	rose	Upwood	CH	Bury	1813-1820	163	0.00	1	8	1.00	labourer	133	133.00
+1458	HNT/091/rose	HNT/091	rose	Upwood	CH	Bury	1813-1820	163	0.00	1	8	1.00	shepherd	1	1.00
+1459	HNT/091/rose	HNT/091	rose	Upwood	CH	Bury	1813-1820	163	0.00	1	8	1.00	shoemaker	6	6.00
+1460	HNT/091/rose	HNT/091	rose	Upwood	CH	Bury	1813-1820	163	0.00	1	8	1.00	blacksmith	2	2.00
+1461	HNT/091/rose	HNT/091	rose	Upwood	CH	Bury	1813-1820	163	0.00	1	8	1.00	brickmaker	1	1.00
+1462	HNT/091/rose	HNT/091	rose	Upwood	CH	Bury	1813-1820	163	0.00	1	8	1.00	wheelwright	1	1.00
+1463	HNT/091/rose	HNT/091	rose	Upwood	CH	Bury	1813-1820	163	0.00	1	8	1.00	illegitimate	2	2.00
+1464	HNT/091/rose	HNT/091	rose	Upwood	CH	Bury	1813-1820	163	0.00	1	8	1.00	farmer	7	7.00
+1465	HNT/091/rose	HNT/091	rose	Upwood	CH	Bury	1813-1820	163	0.00	1	8	1.00	miller	5	5.00
+1466	HNT/091/rose	HNT/091	rose	Upwood	CH	Bury	1813-1820	163	0.00	1	8	1.00	carpenter	1	1.00
+1467	HNT/091/rose	HNT/091	rose	Upwood	CH	Bury	1813-1820	163	0.00	1	8	1.00	thatcher	2	2.00
+1468	HNT/091/rose	HNT/091	rose	Upwood	CH	Bury	1813-1820	163	0.00	1	8	1.00	yeoman	2	2.00
+1469	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	labourer	153	153.00
+1470	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	carpenter	8	8.00
+1471	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	militiaman	2	2.00
+1472	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	farmer	24	24.00
+1473	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	publican	7	7.00
+1474	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	gardener	7	7.00
+1475	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	carter	8	8.00
+1476	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	minister	2	2.00
+1477	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	knacker	2	2.00
+1478	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	wheelwright	3	3.00
+1479	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	illegitimate	3	3.00
+1480	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	blacksmith	4	4.00
+1481	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	farmer and butcher	1	1.00
+1482	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	gentleman	1	1.00
+1483	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	baker	1	1.00
+1484	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	alehouse keeper	1	1.00
+1485	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	no occupation specified	1	1.00
+1486	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	servant	4	4.00
+1487	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	butcher	1	1.00
+1488	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	collar maker	4	4.00
+1489	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	turf carter	2	2.00
+1490	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	cordwainer	1	1.00
+1491	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	miller and baker	2	2.00
+1492	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	clerk	2	2.00
+1493	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	plumber	1	1.00
+1494	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	yeoman	1	1.00
+1495	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	shepherd	2	2.00
+1496	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	shoemaker	3	3.00
+1497	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	smith	1	1.00
+1498	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	parish clerk	1	1.00
+1499	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	brickmaker	1	1.00
+1500	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	pig jobber	1	1.00
+1501	HNT/092/rose	HNT/092	rose	Warboys	AP	Warboys	1813-1820	256	0.40	1	8	1.00	miller	1	1.00
+1502	HNT/093/rose	HNT/093	rose	Waresley	AP	Waresley	1813-1820	52	0.00	1	8	1.00	pauper	1	1.00
+1503	HNT/093/rose	HNT/093	rose	Waresley	AP	Waresley	1813-1820	52	0.00	1	8	1.00	labourer	45	45.00
+1504	HNT/093/rose	HNT/093	rose	Waresley	AP	Waresley	1813-1820	52	0.00	1	8	1.00	illegitimate	1	1.00
+1505	HNT/093/rose	HNT/093	rose	Waresley	AP	Waresley	1813-1820	52	0.00	1	8	1.00	farmer	1	1.00
+1506	HNT/093/rose	HNT/093	rose	Waresley	AP	Waresley	1813-1820	52	0.00	1	8	1.00	carpenter	1	1.00
+1507	HNT/093/rose	HNT/093	rose	Waresley	AP	Waresley	1813-1820	52	0.00	1	8	1.00	blacksmith	1	1.00
+1508	HNT/093/rose	HNT/093	rose	Waresley	AP	Waresley	1813-1820	52	0.00	1	8	1.00	coachman	1	1.00
+1509	HNT/093/rose	HNT/093	rose	Waresley	AP	Waresley	1813-1820	52	0.00	1	8	1.00	labourer and parish clerk	1	1.00
+1510	HNT/095/rose	HNT/095	rose	Water Newton	AP	Water Newton	1813-1820	40	0.00	1	8	1.00	labourer	19	19.00
+1511	HNT/095/rose	HNT/095	rose	Water Newton	AP	Water Newton	1813-1820	40	0.00	1	8	1.00	rector	5	5.00
+1512	HNT/095/rose	HNT/095	rose	Water Newton	AP	Water Newton	1813-1820	40	0.00	1	8	1.00	farmer	3	3.00
+1513	HNT/095/rose	HNT/095	rose	Water Newton	AP	Water Newton	1813-1820	40	0.00	1	8	1.00	miller	7	7.00
+1514	HNT/095/rose	HNT/095	rose	Water Newton	AP	Water Newton	1813-1820	40	0.00	1	8	1.00	servant	2	2.00
+1515	HNT/095/rose	HNT/095	rose	Water Newton	AP	Water Newton	1813-1820	40	0.00	1	8	1.00	millwright	3	3.00
+1516	HNT/095/rose	HNT/095	rose	Water Newton	AP	Water Newton	1813-1820	40	0.00	1	8	1.00	illegitimate	1	1.00
+1517	HNT/096/rose	HNT/096	rose	Winwick	AP	Winwick	1813-1820	80	0.00	1	8	1.00	illegitimate	4	4.00
+1518	HNT/096/rose	HNT/096	rose	Winwick	AP	Winwick	1813-1820	80	0.00	1	8	1.00	labourer	41	41.00
+1519	HNT/096/rose	HNT/096	rose	Winwick	AP	Winwick	1813-1820	80	0.00	1	8	1.00	blacksmith	4	4.00
+1520	HNT/096/rose	HNT/096	rose	Winwick	AP	Winwick	1813-1820	80	0.00	1	8	1.00	soldier	1	1.00
+1521	HNT/096/rose	HNT/096	rose	Winwick	AP	Winwick	1813-1820	80	0.00	1	8	1.00	wheelwright	3	3.00
+1522	HNT/096/rose	HNT/096	rose	Winwick	AP	Winwick	1813-1820	80	0.00	1	8	1.00	glazier	1	1.00
+1523	HNT/096/rose	HNT/096	rose	Winwick	AP	Winwick	1813-1820	80	0.00	1	8	1.00	farmer	13	13.00
+1524	HNT/096/rose	HNT/096	rose	Winwick	AP	Winwick	1813-1820	80	0.00	1	8	1.00	bricklayer	1	1.00
+1525	HNT/096/rose	HNT/096	rose	Winwick	AP	Winwick	1813-1820	80	0.00	1	8	1.00	baker	2	2.00
+1526	HNT/096/rose	HNT/096	rose	Winwick	AP	Winwick	1813-1820	80	0.00	1	8	1.00	cottager	1	1.00
+1527	HNT/096/rose	HNT/096	rose	Winwick	AP	Winwick	1813-1820	80	0.00	1	8	1.00	carpenter	3	3.00
+1528	HNT/096/rose	HNT/096	rose	Winwick	AP	Winwick	1813-1820	80	0.00	1	8	1.00	publican	2	2.00
+1529	HNT/096/rose	HNT/096	rose	Winwick	AP	Winwick	1813-1820	80	0.00	1	8	1.00	mason	1	1.00
+1530	HNT/096/rose	HNT/096	rose	Winwick	AP	Winwick	1813-1820	80	0.00	1	8	1.00	miller	1	1.00
+1531	HNT/096/rose	HNT/096	rose	Winwick	AP	Winwick	1813-1820	80	0.00	1	8	1.00	parish clerk	1	1.00
+1532	HNT/096/rose	HNT/096	rose	Winwick	AP	Winwick	1813-1820	80	0.00	1	8	1.00	painter	1	1.00
+1533	HNT/097/rose	HNT/097	rose	Wistow	AP	Wistow	1813-1820	84	0.00	1	8	1.00	miller	2	2.00
+1534	HNT/097/rose	HNT/097	rose	Wistow	AP	Wistow	1813-1820	84	0.00	1	8	1.00	labourer	58	58.00
+1535	HNT/097/rose	HNT/097	rose	Wistow	AP	Wistow	1813-1820	84	0.00	1	8	1.00	shoemaker	2	2.00
+1536	HNT/097/rose	HNT/097	rose	Wistow	AP	Wistow	1813-1820	84	0.00	1	8	1.00	farmer	5	5.00
+1537	HNT/097/rose	HNT/097	rose	Wistow	AP	Wistow	1813-1820	84	0.00	1	8	1.00	smith	5	5.00
+1538	HNT/097/rose	HNT/097	rose	Wistow	AP	Wistow	1813-1820	84	0.00	1	8	1.00	bricklayer	1	1.00
+1539	HNT/097/rose	HNT/097	rose	Wistow	AP	Wistow	1813-1820	84	0.00	1	8	1.00	illegitimate	2	2.00
+1540	HNT/097/rose	HNT/097	rose	Wistow	AP	Wistow	1813-1820	84	0.00	1	8	1.00	tailor	2	2.00
+1541	HNT/097/rose	HNT/097	rose	Wistow	AP	Wistow	1813-1820	84	0.00	1	8	1.00	cottager	1	1.00
+1542	HNT/097/rose	HNT/097	rose	Wistow	AP	Wistow	1813-1820	84	0.00	1	8	1.00	wheelwright	2	2.00
+1543	HNT/097/rose	HNT/097	rose	Wistow	AP	Wistow	1813-1820	84	0.00	1	8	1.00	artificer	1	1.00
+1544	HNT/097/rose	HNT/097	rose	Wistow	AP	Wistow	1813-1820	84	0.00	1	8	1.00	shopkeeper	1	1.00
+1545	HNT/097/rose	HNT/097	rose	Wistow	AP	Wistow	1813-1820	84	0.00	1	8	1.00	mason	1	1.00
+1546	HNT/097/rose	HNT/097	rose	Wistow	AP	Wistow	1813-1820	84	0.00	1	8	1.00	wheeler	1	1.00
+1547	HNT/098/rose	HNT/098	rose	Wood Walton	AP	Wood Walton	1813-1820	62	0.00	1	8	1.00	labourer	51	51.00
+1548	HNT/098/rose	HNT/098	rose	Wood Walton	AP	Wood Walton	1813-1820	62	0.00	1	8	1.00	illegitimate	2	2.00
+1549	HNT/098/rose	HNT/098	rose	Wood Walton	AP	Wood Walton	1813-1820	62	0.00	1	8	1.00	woodman	1	1.00
+1550	HNT/098/rose	HNT/098	rose	Wood Walton	AP	Wood Walton	1813-1820	62	0.00	1	8	1.00	soldier in marines	1	1.00
+1551	HNT/098/rose	HNT/098	rose	Wood Walton	AP	Wood Walton	1813-1820	62	0.00	1	8	1.00	farmer	5	5.00
+1552	HNT/098/rose	HNT/098	rose	Wood Walton	AP	Wood Walton	1813-1820	62	0.00	1	8	1.00	cordwainer	1	1.00
+1553	HNT/098/rose	HNT/098	rose	Wood Walton	AP	Wood Walton	1813-1820	62	0.00	1	8	1.00	gentleman	1	1.00
+1554	HNT/099/rose	HNT/099	rose	Woodhurst	CH	St Ives	1813-1820	81	0.00	1	8	1.00	illegitimate	2	2.00
+1555	HNT/099/rose	HNT/099	rose	Woodhurst	CH	St Ives	1813-1820	81	0.00	1	8	1.00	labourer	61	61.00
+1556	HNT/099/rose	HNT/099	rose	Woodhurst	CH	St Ives	1813-1820	81	0.00	1	8	1.00	smith	3	3.00
+1557	HNT/099/rose	HNT/099	rose	Woodhurst	CH	St Ives	1813-1820	81	0.00	1	8	1.00	farmer	6	6.00
+1558	HNT/099/rose	HNT/099	rose	Woodhurst	CH	St Ives	1813-1820	81	0.00	1	8	1.00	cordwainer	3	3.00
+1559	HNT/099/rose	HNT/099	rose	Woodhurst	CH	St Ives	1813-1820	81	0.00	1	8	1.00	baker	1	1.00
+1560	HNT/099/rose	HNT/099	rose	Woodhurst	CH	St Ives	1813-1820	81	0.00	1	8	1.00	blacksmith	2	2.00
+1561	HNT/099/rose	HNT/099	rose	Woodhurst	CH	St Ives	1813-1820	81	0.00	1	8	1.00	shepherd	1	1.00
+1562	HNT/099/rose	HNT/099	rose	Woodhurst	CH	St Ives	1813-1820	81	0.00	1	8	1.00	butcher	1	1.00
+1563	HNT/099/rose	HNT/099	rose	Woodhurst	CH	St Ives	1813-1820	81	0.00	1	8	1.00	carpenter	1	1.00
+1564	HNT/100/rose	HNT/100	rose	Woodston	AP	Woodstone	1813-1820	34	0.00	1	8	1.00	shepherd	1	1.00
+1565	HNT/100/rose	HNT/100	rose	Woodston	AP	Woodstone	1813-1820	34	0.00	1	8	1.00	farmer	7	7.00
+1566	HNT/100/rose	HNT/100	rose	Woodston	AP	Woodstone	1813-1820	34	0.00	1	8	1.00	labourer	25	25.00
+1567	HNT/100/rose	HNT/100	rose	Woodston	AP	Woodstone	1813-1820	34	0.00	1	8	1.00	waterman	1	1.00
+1568	HNT/101/rose	HNT/101	rose	Woolley	AP	Woolley	1813-1820	17	0.00	1	8	1.00	labourer	12	12.00
+1569	HNT/101/rose	HNT/101	rose	Woolley	AP	Woolley	1813-1820	17	0.00	1	8	1.00	farmer	4	4.00
+1570	HNT/101/rose	HNT/101	rose	Woolley	AP	Woolley	1813-1820	17	0.00	1	8	1.00	illegitimate	1	1.00
+1571	HNT/102/rose	HNT/102	rose	Wyton	AP	Wyton	1813-1820	48	0.00	1	8	1.00	pauper	1	1.00
+1572	HNT/102/rose	HNT/102	rose	Wyton	AP	Wyton	1813-1820	48	0.00	1	8	1.00	shepherd	1	1.00
+1573	HNT/102/rose	HNT/102	rose	Wyton	AP	Wyton	1813-1820	48	0.00	1	8	1.00	gardener	3	3.00
+1574	HNT/102/rose	HNT/102	rose	Wyton	AP	Wyton	1813-1820	48	0.00	1	8	1.00	labourer	31	31.00
+1575	HNT/102/rose	HNT/102	rose	Wyton	AP	Wyton	1813-1820	48	0.00	1	8	1.00	blacksmith	3	3.00
+1576	HNT/102/rose	HNT/102	rose	Wyton	AP	Wyton	1813-1820	48	0.00	1	8	1.00	clerk	3	3.00
+1577	HNT/102/rose	HNT/102	rose	Wyton	AP	Wyton	1813-1820	48	0.00	1	8	1.00	carpenter	1	1.00
+1578	HNT/102/rose	HNT/102	rose	Wyton	AP	Wyton	1813-1820	48	0.00	1	8	1.00	butcher	1	1.00
+1579	HNT/102/rose	HNT/102	rose	Wyton	AP	Wyton	1813-1820	48	0.00	1	8	1.00	illegitimate	4	4.00
+1580	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	prison surgeon	1	1.00
+1581	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	labourer	107	107.00
+1582	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	private	11	11.00
+1583	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	illegitimate	6	6.00
+1584	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	traveller with a show	2	2.00
+1585	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	carpenter	13	13.00
+1586	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	corporal in militia	1	1.00
+1587	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	turnkey	2	2.00
+1588	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	innkeeper	2	2.00
+1589	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	military contractor	1	1.00
+1590	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	private in militia	1	1.00
+1591	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	drummer	1	1.00
+1592	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	butcher	9	9.00
+1593	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	miller	9	9.00
+1594	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	wheelwright	3	3.00
+1595	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	fisherman	4	4.00
+1596	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	glazier	2	2.00
+1597	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	brickmaker	1	1.00
+1598	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	soldier	5	5.00
+1599	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	wool comber	1	1.00
+1600	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	serjeant	1	1.00
+1601	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	gardener	6	6.00
+1602	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	farmer	20	20.00
+1603	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	militia	2	2.00
+1604	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	knacker	1	1.00
+1605	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	shoemaker	3	3.00
+1606	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	clerk	2	2.00
+1607	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	waterman	8	8.00
+1608	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	smith	1	1.00
+1609	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	barrack sergeant	3	3.00
+1610	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	thatcher	3	3.00
+1611	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	mason	6	6.00
+1612	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	slater	4	4.00
+1613	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	bricklayer	10	10.00
+1614	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	blacksmith	3	3.00
+1615	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	ostler	1	1.00
+1616	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	publican and thatcher	1	1.00
+1617	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	shepherd	4	4.00
+1618	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	slater and plasterer	1	1.00
+1619	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	carrier and labourer	1	1.00
+1620	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	drover	2	2.00
+1621	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	baker	6	6.00
+1622	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	carpenter and wheelwright	1	1.00
+1623	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	collar and harness maker	1	1.00
+1624	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	cordwainer	1	1.00
+1625	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	auctioneer	1	1.00
+1626	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	tailor	1	1.00
+1627	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	reed merchant	2	2.00
+1628	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	thresher	1	1.00
+1629	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	reed cutter	1	1.00
+1630	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	cabinet maker	1	1.00
+1631	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	travelling showman	2	2.00
+1632	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	publican	2	2.00
+1633	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	muffin seller	3	3.00
+1634	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	carrier	1	1.00
+1635	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	seedsman	1	1.00
+1636	HNT/103/rose	HNT/103	rose	Yaxley	AP	Yaxley	1813-1820	291	0.00	1	8	1.00	horse breaker	1	1.00
+1637	HNT/104/rose	HNT/104	rose	Yelling	AP	Yelling	1813-1820	77	0.00	1	8	1.00	soldier	2	2.00
+1638	HNT/104/rose	HNT/104	rose	Yelling	AP	Yelling	1813-1820	77	0.00	1	8	1.00	clergyman	3	3.00
+1639	HNT/104/rose	HNT/104	rose	Yelling	AP	Yelling	1813-1820	77	0.00	1	8	1.00	labourer	51	51.00
+1640	HNT/104/rose	HNT/104	rose	Yelling	AP	Yelling	1813-1820	77	0.00	1	8	1.00	rector	1	1.00
+1641	HNT/104/rose	HNT/104	rose	Yelling	AP	Yelling	1813-1820	77	0.00	1	8	1.00	farmer	10	10.00
+1642	HNT/104/rose	HNT/104	rose	Yelling	AP	Yelling	1813-1820	77	0.00	1	8	1.00	shoemaker	3	3.00
+1643	HNT/104/rose	HNT/104	rose	Yelling	AP	Yelling	1813-1820	77	0.00	1	8	1.00	publican	2	2.00
+1644	HNT/104/rose	HNT/104	rose	Yelling	AP	Yelling	1813-1820	77	0.00	1	8	1.00	illegitimate	3	3.00
+1645	HNT/104/rose	HNT/104	rose	Yelling	AP	Yelling	1813-1820	77	0.00	1	8	1.00	shepherd	1	1.00
+1646	HNT/104/rose	HNT/104	rose	Yelling	AP	Yelling	1813-1820	77	0.00	1	8	1.00	gentleman	1	1.00

@@ -1,0 +1,98 @@
+SC	ID	Title	Fname	Sname	Status	Occup	Place	Role	Year	Session	Comment
+QUA	44	 	Johes	Lawrence	 	Victualer		Victualer	1689		
+QUA	45	 	Christopher	Game	 	Victualer		Victualer	1698		
+QUA	46	 	John	Tomes	 	Victualer	New Thame	Victualer	1709		
+QUA	47	 	William	Maunder	 	Victualer	New Thame	Victualer	1713		
+QUA	48	 	Thos	Whitehead	 	Victualer	New Thame	Victualer	1717		
+QUA	49	 	Christopher	Petty	 	Innkeeper		Innkeeper	1720		
+QUA	50	Widow	..	Gold	 	Victualer unlicenced	New Thame	Victualer	1726		
+QUA	51	 	James	Gold	 	Victualer unlicenced	New Thame	Victualer	1726		
+QUA	52	 	Christopher	Petty	 	Victualer unlicenced	New Thame	Victualer	1726		
+QUA	53	 	Robert	Quartermain	 	Victualer unlicenced	New Thame	Victualer	1726		
+QUA	54	 	Thomas	Smith	 	Victualer unlicenced	New Thame	Victualer	1726		
+QUA	55	 	Johes	Stevens	 	Victualer unlicenced	New Thame	Victualer	1726		
+QUA	56	 	Leon	Walker	 	Victualer unlicenced	New Thame	Victualer	1726		
+QUA	57	 	William	West	 	Victualer unlicenced	New Thame	Victualer	1726		
+QUA	58	 	Radus	Bayly	 	Victualer		Victualer	1726		
+QUA	59	 	John	Stevens	 	Innkeeper		Innkeeper	1730		
+QUA	60	 	Jus	Wall	 	Victualer	New Thame	Victualer	1754		
+QUA	61	 	Robert	Howland	 	Victualer	New Thame	Victualer	1757		The Oxford Arms
+QUA	62	 	Jus	Bowdray	 	Victualer		Victualer	1781		
+QUA	63	 	Mathew	Crewes	 	Victualer		Victualer	1690		
+QUA	64	 	Thomas	Edwards	 	Victualer		Victualer	1690		
+QUA	65	 	Edward	Batt	 	Victualer		Victualer	1690		
+QUA	66	 	Alice	Horwood	 	Victualer		Victualer	1724		The Cage
+QUA	67	 	Mary	Gallant	 	Victualer		Victualer	1751		The Cage
+QUA	68	 	William	Gallant	 	Victualer		Victualer	1757		The Cage
+QUA	153	 	Matthew	Crewes	 	 		Chief Constable	1687	Easter	
+QUA	154	 	James	Cowden	 	 		Bailiff	1687	Easter	
+QUA	155	 	Thomas	Tomlinson	 	 	Thame	Grand Jury Panel Member	1687	Easter	
+QUA	156	 	William	Eldridge	 	 		Chief Constable	1687	Easter	
+QUA	157	 	Edgar	Leaver	 	 	N Weston	Grand Jury Panel Member	1687	Easter	
+QUA	158	 	Anthony	Price	 	 		Chief Constable	1687	Trinity	
+QUA	159	 	James	Cowden	 	 		Bailiff	1687	Trinity	
+QUA	160	 	Stephen	Kent	 	 	Old Thame	Grand Jury Panel Member	1687	Trinity	
+QUA	161	 	John	Wells	 	 		Chief Constable	1687	Trinity	
+QUA	162	 	Anthony	Smith	 	 	Little Milton	Grand Jury Panel Member	1687	Trinity	
+QUA	163	 	Anthony	Price	 	 		Chief Constable	1687	Michaelmas	
+QUA	164	 	James	Cowden	 	 		Bailiff	1687	Michaelmas	
+QUA	165	 	John	Jemmett	 	 	Thame	Grand Jury Panel Member	1687	Michaelmas	
+QUA	166	 	John	Wells	 	 		Chief Constable	1687	Michaelmas	
+QUA	167	 	Ralph	Willington	 	 	Milton Parva	Grand Jury Panel Member	1687	Michaelmas	
+QUA	168	 	Anthony	Price	 	 		Chief Constable	1687	Epiphany	
+QUA	169	 	James	Cowden	 	 		Bailiff	1687	Epiphany	
+QUA	170	 	Joseph	Darvall	 	 	Thame	Grand Jury Panel Member	1687	Epiphany	
+QUA	171	 	John	Wells	 	 		Chief Constable	1687	Epiphany	
+QUA	172	 	William	Way	 	 	Moreton	Grand Jury Panel Member	1687	Epiphany	
+QUA	173	 	Anthony	Price	 	 		Chief Constable	1688	Easter	
+QUA	174	 	Richard	Humfrys	 	 	Moreton	Grand Jury Panel Member	1688	Easter	
+QUA	175	 	John	Wells	 	 		Chief Constable	1688	Easter	
+QUA	176	 	Edward	Cooke	 	 		Chief Constable	1688	Trinity	
+QUA	177	 	James	Cowden	 	 		Bailiff	1688	Trinity	
+QUA	178	 	William	Cooke	 	 	Thame	Grand Jury Panel Member	1688	Trinity	
+QUA	179	 	William	Astray	 	 		Chief Constable	1688	Trinity	
+QUA	180	 	Edward	Wells	 	 	Thame	Grand Jury Panel Member	1688	Trinity	
+QUA	181	 	Edward	Cooke	 	 		Chief Constable	1688	Michaelmas	
+QUA	182	 	James	Cowden	 	 		Bailiff	1688	Michaelmas	
+QUA	183	 	Nicholas	Cooke	 	 	Thame	Grand Jury Panel Member	1688	Michaelmas	
+QUA	184	 	William	Astray	 	 		Chief Constable	1688	Michaelmas	
+QUA	185	 	Charles	Willington	 	 	Milton Parva	Grand Jury Panel Member	1688	Michaelmas	
+QUA	186	 	Edward	Cooke	 	 		Chief Constable	1689	Trinity	
+QUA	187	 	James	Cowden	 	 		Bailiff	1689	Trinity	
+QUA	188	 	Stephen	Kent	 	 	Thame	Grand Jury Panel Member	1689	Trinity	
+QUA	189	 	William	Astray	 	 		Chief Constable	1689	Trinity	
+QUA	190	 	Thomas	King	 	 	Moreton	Grand Jury Panel Member	1689	Trinity	
+QUA	191	 	Thomas	West	 	 	Moreton	Indicted	1687	Trinity	to repair Priest End Road from Weston to Henley on Thames being near a close of his called the Breach.
+QUA	192	 	Richard	Cotton	 	Butcher	Thame	Indicted	1687	Trinity	for assault on John West on 1st April the said Richard Cotton being then Constable of Thame. Fined 26s 8d 
+QUA	193	Widow	Alice	Cotton	 	 	New Thame	Petitioner	1687	Michaelmas	to ask for benevolence for the house and goods that were burnt down by the fire in New Thame Sept 6 1687: Valuation of the house was £18 and Goods œ6
+QUA	194	 	John	Burton	Jnr	 	New Thame	Petitioner	1687	Michaelmas	to ask for benevolence for the house and goods that were burnt down by the fire in New Thame Sept 6 1687: Valuation of the house was £22 and Goods œ21 10s
+QUA	195	 	Thomas	Burton	Sen	 	New Thame	Petitioner	1687	Michaelmas	to ask for benevolence for the house and goods that were burnt down by the fire in New Thame Sept 6 1687: Valuation of the house was £30 and Goods œ14 10s
+QUA	196	 	Geo	Burrows	 	 		Assessor	1687	Michaelmas	for the houses and goods that were burnt down by the fire in New Thame Sept 6 1687
+QUA	197	 	Robt	Barry	 	 		Assessor	1687	Michaelmas	for the houses and goods that were burnt down by the fire in New Thame Sept 6 1687
+QUA	198	 	John	Eustace	 	 		Assessor	1687	Michaelmas	for the houses and goods that were burnt down by the fire in New Thame Sept 6 1687
+QUA	199	 	Tho	Tomlinson	 	 		Assessor	1687	Michaelmas	for the houses and goods that were burnt down by the fire in New Thame Sept 6 1687
+QUA	200	 	William	Webb	 	 		Assessor	1687	Michaelmas	for the houses and goods that were burnt down by the fire in New Thame Sept 6 1687
+QUA	201	 	John	Young	 	 		Assessor	1687	Michaelmas	for the houses and goods that were burnt down by the fire in New Thame Sept 6 1687
+QUA	202	 	John	Cowley	 	 		Assessor	1687	Michaelmas	for the houses and goods that were burnt down by the fire in New Thame Sept 6 1687
+QUA	203	 	Andrew	Parslow	 	 		Assessor	1687	Michaelmas	for the houses and goods that were burnt down by the fire in New Thame Sept 6 1687
+QUA	204	 	William	Manders	 	 		Victim	1687	Michaelmas	lost goods valued at £6 in the houses burnt down by the fire in New Thame Sept 6 1687
+QUA	205	 	Tho	Heele	 	 		Victim	1687	Michaelmas	lost goods valued at £1 10s in the houses burnt down by the fire in New Thame Sept 6 1687
+QUA	206	 	Edward	Heele	 	 		Victim	1687	Michaelmas	lost goods valued at £5 in the houses burnt down by the fire in New Thame Sept 6 1687
+QUA	207	 	Eliz	Worly	 	 		Victim	1687	Michaelmas	with Judeth Stranger lost goods valued at £4 in the houses burnt down by the fire in New Thame Sept 6 1687
+QUA	208	 	Judeth	Stranger	 	 		Victim	1687	Michaelmas	with Eliz Worly lost goods valued at £4 in the houses burnt down by the fire in New Thame Sept 6 1687
+QUA	209	 	Edward	Cowden	 	 		Victim	1687	Michaelmas	lost goods valued at £5 in the houses burnt down by the fire in New Thame Sept 6 1687
+QUA	210	Widow	..	Bley	 	 		Victim	1687	Michaelmas	lost goods valued at 18s in the houses burnt down by the fire in New Thame Sept 6 1687
+QUA	211	 	Henry	Cooke	 	 		Victim	1687	Michaelmas	with his mother and sister lost all their household goods and cloths valued at £25 11s 10d in the houses burnt down by the fire in New Thame Sept 6 1687
+QUA	212	 	Thomas	Cannon	 	Innholder	Thame	Indicted	1687	Michaelmas	with John Turner before John Stone 9th Sept 1687 for deluding and enticing Robt Barber to marry with one Elizabeth Edwards
+QUA	213	 	John	Turner	 	Innholder	Stokenchurch	Indicted	1687	Michaelmas	with Thomas Cannon before John Stone 9th Sept 1687 for deluding and enticing Robt Barber to marry with one Elizabeth Edwards
+QUA	214	 	Robt	Barber	 	 		Victim	1687	Michaelmas	9th Sept 1687 Thomas Cannon and John Turner indicted for deluding and enticing Robt Barber to marry with one Elizabeth Edwards
+QUA	215	 	Elizabeth	Edwards	 	 		Victim	1687	Michaelmas	9th Sept 1687 Thomas Cannon and John Turner indicted for deluding and enticing Robt Barber to marry with one Elizabeth Edwards
+QUA	216	 	Richard	Leaver	 	Draper	Thame	Indicted	1689	Trinity	before Sir Timothy Tyrell 25th April  with Richard Cotton and Robert Hazlewood recognisance of £10 each to appear at Quarter Sessions and keep the peace towards John Burrasse of Thame  draper.
+QUA	217	 	Robert	Hazlewood	gentleman	 	Thame	Recognisance	1689	Trinity	before Sir Timothy Tyrell 25th April with Richard Cotton recognisance of £10 each for Richard Leaver to appear at Quarter Sessions and keep the peace towards John Burrasse of Thame  draper.
+QUA	218	 	Richard	Cotton	 	Butcher	Thame	Recognisance	1689	Trinity	before Sir Timothy Tyrell 25th April with Robert Hazlewood recognisance of £10 each for Richard Leaver to appear at Quarter Sessions and keep the peace towards John Burrasse of Thame  draper.
+QUA	219	 	John	Burrasse	 	Draper	Thame	Victim	1689	Trinity	25th April  for Richard Leaver to appear at Quarter Sessions and keep the peace towards John Burrasse of Thame  draper.
+QUA	220	 	George	Burroughs	 	 	Thame	Recognisance	1689	Trinity	with George Burroughs in £40 before Carleton Stone 4th May 1689  to appear at Quarter Sessions on a charge of maliciously vilifying Richard Leaver of Thame Mercer who is bound the same day in £20 to prosecute.
+QUA	221	 	John	Burroughs	 	 	Thame	Recognisance	1689	Trinity	with George Burroughs in £40 before Carleton Stone 4th May 1689  to appear at Quarter Sessions on a charge of maliciously vilifying Richard Leaver of Thame Mercer who is bound the same day in £20 to prosecute.
+QUA	222	 	Richard	Leaver	 	Mercer	Thame	Victim	1689	Trinity	John and George Burroughs in £40 before Carleton Stone 4th May 1689  to appear at Quarter Sessions on a charge of malitiously vilifying Richard Leaver of Thame Mercer who is bound the same day in £20 to prosecute.
+QUA	223	 	John	Lawrence	Sen	Victualer	Thame	Indicted	1689	Trinity	for assault at Thame on Michael Boram  22nd May 1689.   fined 6s 8d
+QUA	224	 	Michael	Boram	 	 		Victim	1689	Trinity	John Lawrence victualler of Thame fined 6s 8d for assault on him

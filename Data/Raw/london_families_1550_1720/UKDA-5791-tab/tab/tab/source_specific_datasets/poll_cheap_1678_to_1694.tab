@@ -1,0 +1,962 @@
+page	parish	sort	propgroup?	hhgroup?	assessmentgroup	title	first_name	surname	occupation	spouse	children	servants	relationship	notes	assessment
+5	stmlebow	1	1	1	1	esq	Willm	Witters 		y	y	n		"crossed out: ""fishmonger 30li rent assessor"""	£5 1s
+5	stmlebow	2	1	1	2		Sarah	Witters 		y	y	n			g4s
+5	stmlebow	3	1	1	2					n	n	n	3 children		g4s
+5	stmlebow	4	1	2	3		Mary	Morris		n	n	n			1s
+5	stmlebow	5	1	3	4		Mary	Gascoine	servt	n	n	n		"""3li p[er] ann~"""	g8s
+5	stmlebow	6	1	3	4		Mary	Beaver	servt	n	n	n		"""3li p[er] ann~"""	g8s
+5	stmlebow	7	1	4	5		Wm	Arnold	apprentice	n	n	n			1s
+5	stmlebow	8	2	5	6		John	Holnes		y	y	n		"""30li rent"""	g15s
+5	stmlebow	9	2	5	6					y	y	n	wife	"""30li rent"""	g15s
+5	stmlebow	10	2	5	6					n	n	n	3 children	"""30li rent"""	g15s
+5	stmlebow	11	2	6	7	gent	Thomas	Vyner		n	n	n			£1 1s
+5	stmlebow	12	2	7	8		Jone	Haydon		n	n	n		"""3li p[er] ann~"""	g8s
+5	stmlebow	13	2	8	8		Ann	Williams		n	n	n		"""3li p[er] ann~"""	g8s
+5	stmlebow	14	2	9	9		Charles	Fowler		n	n	n		"""12d each"""	g3s
+5	stmlebow	15	2	10	9		Henry	Wattson		n	n	n		"""12d each"""	g3s
+5	stmlebow	16	2	11	9		Hen	Foster		n	n	n		"""12d each"""	g3s
+5	stmlebow	17	2	12	10	docter		Gardner		n	n	n		"""dr divinity"""	£5 1s
+5	stmlebow	18	2	13	11	gent	Edward	Bonnely		n	n	n		"""practise"""	£1 11s
+5	stmlebow	19	3	14	12		Edwd	Greene		y	y	n		"""house 30li"""	g13s
+5	stmlebow	20	3	14	12					y	y	n	wife	"""house 30li"""	g13s
+5	stmlebow	21	3	14	12					n	n	n	1 child	"""house 30li"""	g13s
+5	stmlebow	22	3	15	13	major		Sanwick		n	n	n		"""12d each"""	g2s
+5	stmlebow	23	3	16	13		Samll	Roberts		n	n	n		"""12d each"""	g2s
+5	stmlebow	24	3	17	14		Alice	Thorp		n	n	n		"""3li p[er] ann~"""	g8s
+5	stmlebow	25	3	18	14		Mary	Gyles		n	n	n		"""3li p[er] ann~"""	g8s
+5	stmlebow	26	3	19	15		John	Smith	merchant unfree	n	n	y		"crossed out: ""Gent"""	g£10 2s
+5	stmlebow	27	3	19	15		George	Smith	servant	n	n	n	his servant	"crossed out: ""Gent"""	g£10 2s
+5	stmlebow	28	3	20	16		Thomas	Eady		n	n	n			1s
+5	stmlebow	29	4	21	17		Thomas	Pye		y	y	n		"""30li rent"""	g13s
+5	stmlebow	30	4	21	17					y	y	n	wife	"""30li rent"""	g13s
+5	stmlebow	31	4	21	17					n	n	n	one child	"""30li rent"""	g13s
+5	stmlebow	32	4	22	18		Mary	Folder		n	n	n		"""3li p[er] ann~"""	4s
+5	stmlebow	33	4	23	19		Ralph	Smith		n	n	n			1s
+5	stmlebow	34	5	24	20	Mr		Tull		n	y	n		"""30li rent"""	g15s
+5	stmlebow	35	5	24	20					n	n	n	4 children	"""30li rent"""	g15s
+5	stmlebow	36	5	25	21		Eliza	Loyd		n	y	 n		"""3li"""	g6s
+5	stmlebow	37	5	25	21					n	n	n	2 children	"""3li"""	g6s
+5	stmlebow	38	5	26	21		Mary	Bodwell		n	n	n		"""3li"""	g6s
+5	stmlebow	39	6	27	22		John	Smith		y	n	n		"""30li rent"""	g12s
+5	stmlebow	40	6	27	22					y	n	n	wife	"""30li rent"""	g12s
+5	stmlebow	41	6	28	23		Jeremy	Barr		n	n	n			g4s
+5	stmlebow	42	6	29	23		Paul	Sindry		n	n	n			g4s
+5	stmlebow	43	6	30	23		Jno	Harbert		n	n	n			g4s
+5	stmlebow	44	6	31	23		Hugh	Bushell		n	n	n			g4s
+5	stmlebow	45	6	32	24		Dorothy	Beamon		n	n	n		"""3li p[er] ann~"""	g8s
+5	stmlebow	46	6	33	24		Ann	Jackson		n	n	n		"""3li p[er] ann~"""	g8s
+5	stmlebow	47	6	34	25		Charles	Hinchman		n	n	n		"""12d each"""	g2s
+5	stmlebow	48	6	35	25		Mary	Welch		n	n	n		"""12d each"""	g2s
+5	stmlebow	49	7	36	26		Samll	Waldoe		y	y	n		"""30li rent"""	g13s
+5	stmlebow	50	7	36	26					y	y	n	wife	"""30li rent"""	g13s
+5	stmlebow	51	7	36	26					n	n	n	1 child	"""30li rent"""	g13s
+5	stmlebow	52	7	37	27		Esther	Stephenson		n	n	n		"""3li p[er] ann~"""	g8s
+5	stmlebow	53	7	38	27		Elizabeth	Walker		n	n	n		"""3li p[er] ann~"""	g8s
+5	stmlebow	54	7	39	28		Richd	Harmon		n	n	n		"""a warehouse"""	1s
+6	stmlebow	55	8	40	29		Wm	Piggott		y	y	n		"""30li rent"""	g13s
+6	stmlebow	56	8	40	29					y	y	n	wife		g13s
+6	stmlebow	57	8	40	29					n	n	n	1 child		g13s
+6	stmlebow	58	8	41	30		John	Wagstaffe		n	n	n		"""12d each"""	g2s
+6	stmlebow	59	8	42	31		Brian	Cole		n	n	n		"""12d each"""	g2s
+6	stmlebow	60	8	43	32		Hannah	Wild		n	n	n		"""3li p[er] ann~"""	g12s
+6	stmlebow	61	8	44	32		Hannah	[blank]		n	n	n		"""3li p[er] ann~"""	g12s
+6	stmlebow	62	8	45	32		Anne	Warner		n	n	n		"""3li p[er] ann~"""	g12s
+6	stmlebow	63	8	46	33		Richd	Guy		n	n	n			1s
+6	stmlebow	64	8	47	34		James	Barkehead		y	n	n			g2s
+6	stmlebow	65	8	47	34					y	n	n	wife		g2s
+6	stmlebow	66	9	48	35		Richd	Backdon		n	n	n		his three children or next person's?	g5s
+6	stmlebow	67	9	49	35	Mrs		Lane		n	n	n		his three children or previous person's?	g5s
+6	stmlebow	68	9	50	35					n	n	n	3 children	whose?	g5s
+6	stmlebow	69	9	51	36	Mrs		Browne		n	n	n			1s
+6	stmlebow	70	9	52	37		Mary	North		n	n	n		"""40s p[er] ann~"""	g6s
+6	stmlebow	71	9	53	37		Joane	Edwards		n	n	n		"""40s p[er] ann~"""	g6s
+6	stmlebow	72	9	54	38		John	Napper		y	n	n			g2s
+6	stmlebow	73	9	54	38					y	n	n	wife		g2s
+6	stmlebow	74	10	55	39		Peeter	Leckwith		y	n	n		"""30li rent"""	g12s
+6	stmlebow	75	10	55	39					y	n	n	wife	"""30li rent"""	g12s
+6	stmlebow	76	10	56	40		John	Naylor	journeyman	n	n	n		"""20li p[er] ann~"""	£1 1s
+6	stmlebow	77	10	57	41		John	Ash		n	n	n			1s
+6	stmlebow	78	10	58	42		John	Cuse		n	n	n			1s
+6	stmlebow	79	10	59	43		Sarah	Day		n	n	n		"""3li p[er] ann~"""	4s
+6	stmlebow	80	11	60	43		Edward	Nowell		y	y	n			g4s
+6	stmlebow	81	11	60	43					y	y	n	wife		g4s
+6	stmlebow	82	11	60	43					n	n	n	2 children		g4s
+6	stmlebow	83	11	61	44		Martha	Mallinscroft	servt	n	n	n		"""3li""; ""servt"" added later"	4s
+6	stmlebow	84	11	62	45		Hen	Cleere		n	n	n			g4s
+6	stmlebow	85	11	63	45		Wm	Elliott		n	n	n			g4s
+6	stmlebow	86	11	64	45		Hen	Horton		n	n	n			g4s
+6	stmlebow	87	11	65	45		Jos	Paine		n	n	n			g4s
+6	stmlebow	88	12	66	46	gent	Robt	Bewley	attorney	y	n	n		"""pract"""	g£1 12s
+6	stmlebow	89	12	66	46					y	n	n	wife	"""pract"""	g£1 12s
+6	stmlebow	90	12	67	47		James	Andrews		n	n	n		"""2li p[er] ann~"""	3s
+6	stmlebow	91	12	68	48		John	Fawlington		n	n	n		"""12d apeece"""	g2s
+6	stmlebow	92	12	69	48		Thomas	Willmott		n	n	n		"""12d apeece"""	g2s
+6	stmlebow	93	13	70	49		John	Barnard		y	y	n		"""30li rent"""	g13s
+6	stmlebow	94	13	70	49					y	y	n	wife	"""30li rent"""	g13s
+6	stmlebow	95	13	70	49					n	n	n	1 child	"""30li rent"""	g13s
+6	stmlebow	96	13	71	50		Esther	Chease		n	n	n		"""2li p[er] ann~"""	3s
+6	stmlebow	97	13	72	51		Thomas	Hudson		n	n	n			1s
+6	stmlebow	98	13	73	52	gentl	Richd	Antropos		n	n	n			£1 1s
+6	stmlebow	99	14	74	53		John	Right		y	n	n		"""30li rent"""	g12s
+6	stmlebow	100	14	74	53					y	n	n	wife	"""30li rent"""	g12s
+6	stmlebow	101	14	75	54		Matthew	Evans		n	n	n			g2s
+6	stmlebow	102	14	76	54		John	Brian		n	n	n			g2s
+6	stmlebow	103	14	77	55		Brigett	Bolton		n	n	n		"""2li p[er] ann~"""	3s
+6	stmlebow	104	14	78	56	gent	Robt	Culpepper		n	n	n			£1 1s
+6	stmlebow	105	14	79	57		John	Sedwick		n	n	n		"""30li rent"""	11s
+6	stmlebow	106	14	80	58		Phillipp	Langley		n	n	n			1s
+6	stmlebow	107	15	81	59		Joseph	Badge		y	y	n		"""30li rent"""	g14s
+6	stmlebow	108	15	81	59					y	y	n	wife	"""30li rent"""	g14s
+6	stmlebow	109	15	81	59					n	n	n	2 children	"""30li rent"""	g14s
+6	stmlebow	110	15	82	60		Ann	Hodges		n	n	n		"""3li p[er] ann~"""	g8s
+6	stmlebow	111	15	83	60		Eliz	Smith		n	n	n		"""3li p[er] ann~"""	g8s
+6	stmlebow	112	15	84	61		Wm	Moore		n	n	n			g2s
+6	stmlebow	113	15	85	61		Wm	Midwinter		n	n	n			g2s
+6	stmlebow	114	16	86	62	Mrs		Duncombe		n	y	y			g5s
+6	stmlebow	115	16	86	62					n	n	n	3 children		g5s
+6	stmlebow	116	16	86	62					n	n	n	"""one girle"""		g5s
+6	stmlebow	117	16	87	63		John	Singleton		n	n	n			g2s
+6	stmlebow	118	16	88	64		Henry	Inwood		n	n	n			g2s
+6	stmlebow	119	16	89	65		Walter	Acton		n	n	n			1s
+6	stmlebow	120	16	90	66		Wm	Watton		y	y	y		"""30li rent"""	g14s
+6	stmlebow	121	16	90	66					y	y	y	wife	"""30li rent"""	g14s
+6	stmlebow	122	16	90	66					n	n	n	child	"""30li rent"""	g14s
+6	stmlebow	123	16	90	66					n	n	n	apprentice	"""30li rent"""	g14s
+6	stmlebow	124	16	91	67					n	n	n	2 maid servts		g8s
+7	stmlebow	125	17	92	68		Wm	Trigg		y	n	n		"""30li rent"""	g12s
+7	stmlebow	126	17	92	68					y	n	n	wife	"""30li rent"""	g12s
+7	stmlebow	127	17	93	69		Eliz	Powell		n	n	n		"""3li p[er] ann~"" comes after this name, not at end of line"	g5s
+7	stmlebow	128	17	94	69		Hen	Trigg		n	n	n			g5s
+7	stmlebow	129	17	95	70		Richd	Bayly		n	n	n			1s
+7	stmlebow	130	17	96	71		John	Mason		y	n	n			g2s
+7	stmlebow	131	17	96	71					y	n	n	wife		g2s
+7	stmlebow	132	17	97	72		Elizabeth	Watson		n	n	n		"""2li p[er] ann~"""	3s
+7	stmlebow	133	17	98	73		Christopher	Metcalfe	app	n	n	n		"""app"" added later; ""Wagstaffe"" crossed out"	1s
+7	stmlebow	134	18	99	74		John	Sadler		n	y	n			g3s
+7	stmlebow	135	18	99	74					n	n	n	2 children		g3s
+7	stmlebow	136	18	100	75		Alice	Staples		n	n	n		"""2li p[er] ann~"""	3s
+7	stmlebow	137	19	101	76	esq	James	Coddingto		y	y	n		surname is sic	g5s
+7	stmlebow	138	19	101	76					y	y	n	wife		g5s
+7	stmlebow	139	19	101	76					n	n	n	3 children		g5s
+7	stmlebow	140	19	102	77		Rachell	Ockle		n	n	n		"""3li p[er] ann~"" comes after this name, not at end of line"	g5s
+7	stmlebow	141	19	103	77		Wm	Rome		n	n	n		"""12d"""	g5s
+7	stmlebow	142	20	104	78		Thomas	Crane		n	n	n		"""30li rent"""	g12s
+7	stmlebow	143	20	105	78		Tho	Lachard		n	n	n		"""30li rent"""	g12s
+7	stmlebow	144	20	106	79		Grace	Evans		n	n	n		"""3li p[er] ann~"""	4s
+7	stmlebow	145	20	107	80		Ambros	Fish		n	n	n			1s
+7	stmlebow	146	21	108	81		Hen	Geereing		n	y	n		"""30li rent"""	g15s
+7	stmlebow	147	21	108	81					n	n	n	4 children	"""30li rent"""	g15s
+7	stmlebow	148	21	109	82		Esther	Knight		n	n	n		"""3li p[er] ann~"""	4s
+7	stmlebow	149	22	110	83	Mrs		Pilkington		n	y	n		"""30li rent"""	g14s
+7	stmlebow	150	22	110	83					n	n	n	3 children	"""30li rent"""	g14s
+7	stmlebow	151	22	111	84		Elizabeth	Dixon		n	n	n		"""2li p[er] ann~"""	3s
+7	stmlebow	152	22	112	85		James	Norton		n	n	n			g2s
+7	stmlebow	153	22	113	85		Thomas	Woodgate		n	n	n			g2s
+7	stmlebow	154	23	114	86		Rich	Hodgkis		n	n	n		"""30li rent"""	11s
+7	stmlebow	155	23	115	87		Hannah	Parker		n	n	n		"""3li p[er] ann~"""	4s
+7	stmlebow	156	23	116	88		Richd	Tooke		n	n	n			g2s
+7	stmlebow	157	23	117	88		Simon	Thirlwell		n	n	n			g2s
+7	stmlebow	158	24	118	89		Wm	Greene		y	n	n		"""30li rent"""	g12s
+7	stmlebow	159	24	118	89					y	n	n	wife	"""30li rent"""	g12s
+7	stmlebow	160	24	119	90		Joseph	Peirrey		n	n	n			1s
+7	stmlebow	161	24	120	91		Sarah	[blank]		n	n	n		"""at Mr Greenes 2li p[er] ann~"""	3s
+7	stmlebow	162	25	121	92		Joseph	Cooke		y	n	n		"""30li rent"""	g12s
+7	stmlebow	163	25	121	92					y	n	n	wife	"""30li rent"""	g12s
+7	stmlebow	164	25	122	93		Hannah	Neale		n	n	n		"""2li p[er] ann~"""	3s
+7	stmlebow	165	25	123	94		Joseph	Everd		n	n	n		"""12d each"""	g2s
+7	stmlebow	166	25	124	94		John	Cooke		n	n	n			g2s
+7	AHHL	167	1	1	1		Robert	Winn		y	y	n		"""& house 30li"""	g12s
+7	AHHL	168	1	1	1					y	y	n	wife	"""& house 30li"""	g12s
+7	AHHL	169	1	1	1		Robert	Winn		n	n	n	his children		g5s
+7	AHHL	170	1	1	1		Sarah	Winn		n	n	n	his children		g5s
+7	AHHL	171	1	1	1		Daniell	Winn		n	n	n	his children		g5s
+7	AHHL	172	1	1	1		Edwd	Winn		n	n	n	his children		g5s
+7	AHHL	173	1	1	1		Peeter	Winn		n	n	n	his children		g5s
+7	AHHL	174	1	2	2		Ann	Jackson	maid servt	n	n	n		"""3li p[er] ann~"""	4s
+8	AHHL	175	2	3	3		William	Barkham		y	n	y		"""& house 30li"""	g12s
+8	AHHL	176	2	3	3					y	n	y	his wife	"""& house 30li"""	g12s
+8	AHHL	177	2	3	4		Sarah	Armitt	servt	n	n	n		"""3li p[er] ann~""; probably servt of William Barkham?"	g8s
+8	AHHL	178	2	3	4		Elizabeth	Francklin	servt	n	n	n		"""3li p[er] ann~""; probably servt of William Barkham?"	g8s
+8	AHHL	179	2	3	5		Edmund	Wright	apprentice	n	n	n	his apprentice		1s
+8	AHHL	180	2	4	6		Geo	Munke		n	n	y		"""at Mr Barkhous"""	g2s
+8	AHHL	181	2	5	6		Wm	Munke	apprentice	n	n	n	his apprentice		g2s
+8	AHHL	182	3	6	7		John	Ward		y	y	y		"""& house 30li"""	g12s
+8	AHHL	183	3	6	7					y	y	y	his wife	"""& house 30li"""	g12s
+8	AHHL	184	3	6	8		Ann	Ward		n	n	n	their daughter		1s
+8	AHHL	185	3	6	9		John	Jackson	apprentice	n	n	n	his apprentice		1s
+8	AHHL	186	3	6	10		Elizabeth		maid servt	n	n	n	maid servt to Mr Ward	"""3li p[er] ann~"""	4s
+8	AHHL	187	3	7	11		Dorothy	Kidly		n	n	y		"""at Mr Wards"""	1s
+8	AHHL	188	3	8	12		Elizabeth	Huggar	servt	n	n	n		"""att 3li p[er] ann~"""	4s
+8	AHHL	189	3	8	13		Mary	Levon	apprentice	n	n	n	her apprentice	ie presumably Dorothy Kidly's apprentice?	1s
+8	AHHL	190	3	9	14		Thomas	Dalley		y	y	y		"""at Mr Wards"""	g2s
+8	AHHL	191	3	9	14					y	y	y	his wife	"""at Mr Wards"""	g2s
+8	AHHL	192	3	9	15		Katherine			n	n	n	Mr Dalley's daughter		1s
+8	AHHL	193	3	9	16		Leda	Nickins	apprentice	n	n	n	his apprentices		g2s
+8	AHHL	194	3	9	16		Mary	Ayllett	apprentice	n	n	n	his apprentices		g2s
+8	AHHL	195	4	10	17		Edwd	Tickeridge		y	y	n			g2s
+8	AHHL	196	4	10	17					y	y	n	his wife		g2s
+8	AHHL	197	4	10	18		Jonas	Tickeridge		n	n	n	their children		g2s
+8	AHHL	198	4	10	18		Mary	Tickeridge		n	n	n	their children		g2s
+8	AHHL	199	4	11	19		Katherin	Hillary	maid servt	n	n	n		"""3li p[er] ann~"""	4s
+8	AHHL	200	4	12	20		Wm	Bletsoe		y	n	y		"""& house 30li"""	g12s
+8	AHHL	201	4	12	20					y	n	y	his wife	"""& house 30li"""	g12s
+8	AHHL	202	4	12	21		Thomas	Heardson	apprentice	n	n	n	his apprentice		1s
+8	AHHL	203	4	13	22		Ann	Archer	maid servt	n	n	n		"""3li p[er] ann~"""	4s
+8	AHHL	204	4	14	23		John	Cooper		y	n	n		"""att Mr Bletsoes"""	g2s
+8	AHHL	205	4	14	23					y	n	n	his wife	"""att Mr Bletsoes"""	g2s
+8	AHHL	206	5	15	24		Tho	Needham		y	n	n		"""& house 30li"""	g12s
+8	AHHL	207	5	15	24					y	n	n	his wife	"""& house 30li"""	g12s
+8	AHHL	208	5	16	25		William	Killpin	apprentice	n	n	n			g2s
+8	AHHL	209	5	16	25		Jos	Whithorne	apprentice	n	n	n			g2s
+8	AHHL	210	5	17	26		John	Fentrell		y	y	y		"""& house 30li"""	g12s
+8	AHHL	211	5	17	26					y	y	y	his wife	"""& house 30li"""	g12s
+8	AHHL	212	5	17	27		John	Hayles	apprentice	n	n	n	his apprentices		g2s
+8	AHHL	213	5	17	27		Susan	Hayles	apprentice	n	n	n	his apprentices		g2s
+8	AHHL	214	5	17	28		Elizabeth			n	n	n	their children		g2s
+8	AHHL	215	5	17	28		Susan			n	n	n	their children		g2s
+8	AHHL	216	5	18	29		Ann	Lanckford	servt	n	n	n		"""3li p[er] ann~"""	g8s
+8	AHHL	217	5	18	29		Susan	Richford	servt	n	n	n		"""3li p[er] ann~"""	g8s
+8	AHHL	218	6	19	30		Nathanll	Budd		y	y	y		"""& house 30li"""	g12s
+8	AHHL	219	6	19	30					y	y	y	his wife	"""& house 30li"""	g12s
+8	AHHL	220	6	19	31		Obadiah	Brants	apprentice	n	n	n	his apprentices		g2s
+8	AHHL	221	6	19	31		Robert	Steele	apprentice	n	n	n	his apprentices		g2s
+8	AHHL	222	6	20	32		Royall	Haberland	servt	n	n	n		"""3li p[er] ann~"""	g8s
+8	AHHL	223	6	20	32		Mary	Bayly	servt	n	n	n		"""3li p[er] ann~"""	g8s
+8	AHHL	224	6	19	33		Issablla			n	n	n	Mr Budds child		1s
+8	AHHL	225	7	21	34	sir	Edward	Waldoe	knt	y	y	y		"""commissioner"" crossed out"	£10 1s
+8	AHHL	226	7	21	34					y	y	y	his lady		1s
+8	AHHL	227	7	21	34		Elizabeth			n	n	n	his daughters		g2s
+8	AHHL	228	7	21	34		Johannah			n	n	n	his daughters		g2s
+8	AHHL	229	7	22	35		Richd	Bunning	servt	n	n	n		"""20li p[er] ann~""; probably servt of Sir Edward Waldoe knight"	£1 1s
+8	AHHL	230	7	21	36		Wm	Chancey	apprentice	n	n	n	his apprentice	ie presumably sir Edward Waldoe's apprentice?	1s
+8	AHHL	231	7	21	37		Richd	Carpinter	foote boy	n	n	n	his foote boy	ie presumably sir Edward Waldoe's foote boy?	1s
+8	AHHL	232	7	21	38		Elizabeth	Cox	servt	n	n	n	his maid servts	"""3li p[er] ann~"""	g12s
+8	AHHL	233	7	21	38		Olive	Morrill	servt	n	n	n	his maid servts	"""3li p[er] ann~"""	g12s
+8	AHHL	234	7	21	38		Alice	Pirkinson	servt	n	n	n	his maid servts	"""3li p[er] ann~"""	g12s
+9	AHHL	235	8	23	39	sir	Thomas	Halton	knt & barronett	y	y	y			£15 1s
+9	AHHL	236	8	23	39					y	y	y	his lady		1s
+9	AHHL	237	8	23	39		Thomas			n	n	n	his son		1s
+9	AHHL	238	8	24	40		Alice	Gutrey	servt	n	n	n		"""3li p[er] ann~""; prpbably servt of sir Thomas Halton kt + bar"	4s
+9	AHHL	239	8	23	41		John	Fox	foote boy	n	n	n	his foote boy		1s
+9	AHHL	240	8	25	42	Mrs	Elizabeth	White		n	n	n		"""att Sir Thomas Haltons"""	1s
+9	AHHL	241	9	26	43		Christopher	Taylor		n	n	n		"""30li""; ""assessor"" crossed out"	11s
+9	AHHL	242	9	27	44	Mr	Thomas	Taylor		y	y	y		"a 'X' appears in margin next to this name; ""Thomas Taylor his wife"" not ""THOMAS TAYLOR AND HIS WIFE"", although this is what is meant"	g2s
+9	AHHL	243	9	27	44					y	y	y	his wife	"a 'X' appears in margin next to this name; ""Thomas Taylor his wife"" not ""THOMAS TAYLOR AND HIS WIFE"", although this is what is meant"	g2s
+9	AHHL	244	9	28	45	Mr	Geo	Taylor		n	n	n		"""att Mr Taylors"""	1s
+9	AHHL	245	9	27	46		Thomas			n	n	n	Mr Tho Taylors children		g2s
+9	AHHL	246	9	27	46		Susan			n	n	n	Mr Tho Taylors children		g2s
+9	AHHL	247	9	27	47		Tho	Love	apprentice	n	n	n	his apprentice	presumably apprentice of Mr Thomas Taylor	1s
+9	AHHL	248	9	29	48		Elizabeth	Maddock	servt	n	n	n		"""3li p[er] ann~"""	g8s
+9	AHHL	249	9	29	48		Margarett	Palmer	servt	n	n	n		"""3li p[er] ann~"""	g8s
+9	AHHL	250	10	30	49		Robert	Rosongon		n	n	n		"""& house 30li"""	11s
+9	AHHL	251	10	31	50	wd		Rosogon		n	n	n	his mother		1s
+9	AHHL	252	10	32	51		Samll	Garbrand	app	n	n	n			1s
+9	AHHL	253	10	33	52		Fra	Orchard	maid servt	n	n	n		"""3li p[er] ann~"""	4s
+9	AHHL	254	10	34	53	Dr		Duglas		n	n	y		"""att Mr Rosogons & his head"""	g£5 1s
+9	AHHL	255	10	34	54		Wm		foote boy	n	n	n	his foote boy		1s
+9	AHHL	256	10	34	55		Susan	Jones	servt	n	n	n	his servant		4s
+9	AHHL	257	11	35	56		Peeter	Peirson		y	y	n		"""& house 30li"""	g12s
+9	AHHL	258	11	35	56					y	y	n	his wife	"""& house 30li"""	g12s
+9	AHHL	259	11	35	57		Samll	Peirson		n	n	n	his son		1s
+9	AHHL	260	11	35	58		Ellin		maid servt	n	n	n	his maid servt	"""3li p[er] ann~"""	4s
+9	AHHL	261	11	36	59	Mrs	Anne	Clementes		n	n	n		"""att Mr Peirsons"""	1s
+9	AHHL	262	12	37	60		Job	Vere		y	y	n		"""& house 30li"""	g12s
+9	AHHL	263	12	37	60					y	y	n	his wife	"""& house 30li"""	g12s
+9	AHHL	264	12	37	61		Elizabeth			n	n	n	their daughter		1s
+9	AHHL	265	12	38	62		Paul	Eless	servt	n	n	n		"""3li p[er] ann~"""	4s
+9	AHHL	266	12	39	63		Richd	Harding	app	n	n	n			g2s
+9	AHHL	267	12	39	63		Robert	Heyton	app	n	n	n			g2s
+9	AHHL	268	12	40	64		Ann	Goodhart	maid servt	n	n	n		"""3li p[er] ann~"""	4s
+9	AHHL	269	13	41	65		Richd	Browne		y	y	y		"""& house 30li"""	g12s
+9	AHHL	270	13	41	65					y	y	y	his wife	"""& house 30li"""	g12s
+9	AHHL	271	13	41	66		Charles	Younge	apprentice	n	n	n	his apprentice		1s
+9	AHHL	272	13	41	67		Mary			n	n	n	his children		g2s
+9	AHHL	273	13	41	67		Anne			n	n	n	his children		g2s
+9	AHHL	274	13	42	68		Jacob	Griffin	servt	n	n	n		"""3li p[er] ann~"""	4s
+9	AHHL	275	13	43	69		Elizabeth	Tribe	servt	n	n	n		"""3li p[er] ann~"""	g8s
+9	AHHL	276	13	43	69		Mary	Gosse	servt	n	n	n		"""3li p[er] ann~"""	g8s
+9	AHHL	277	14	44	70		Ralph	Frewen		y	n	y		"""& house 30li"""	g12s
+9	AHHL	278	14	44	70					y	n	y	his wife	"""& house 30li"""	g12s
+9	AHHL	279	14	45	71	Mrs	Sarah	Pelling		n	n	n		"""att Mr Frewens"""	1s
+9	AHHL	280	14	44	72		Foster	Batch	apprentice	n	n	n	his apprentice	presumably apprentice of Ralph Frewen	1s
+9	AHHL	281	14	46	73		Elizabeth	Button	servt	n	n	n		"""3li p[er] ann~"""	4s
+9	AHHL	282	15	47	74	The Widdow		Sharpe		n	y	y		"""& house 30li"""	11s
+9	AHHL	283	15	47	75		Elizabeth			n	n	n	her children		g2s
+9	AHHL	284	15	47	75		John			n	n	n	her children		g2s
+10	AHHL	285	15	47	76		John	Merrell	apprentice	n	n	n	her apprentice		1s
+10	AHHL	286	15	47	77		Eliz	Pursley	servt	n	n	n	her servt	"""3li p[er] ann~"""	4s
+10	AHHL	287	16	48	78	The Widdow		Sambach		n	n	y		"""& house 30li"""	11s
+10	AHHL	288	16	48	79		Susan	Wooden	maid servt	n	n	n	her maid servt	"""3li p[er] ann~"""	4s
+10	AHHL	289	16	49	80	Mrs	Prudence	Cooper		n	n	n		"""att Mrs Sambachs"""	1s
+10	AHHL	290	17	50	81	The Widdow		Webb		n	n	n		"""& house 30li"""	11s
+10	AHHL	291	17	51	82		Mary	Pilkinson	maid servt	n	n	n		"""3li p[er] ann~"""	4s
+10	AHHL	292	18	52	83		Danll	Botley		y	n	y			g2s
+10	AHHL	293	18	52	83					y	n	y	his wife		g2s
+10	AHHL	294	18	52	84		Joseph	Hatt	apprentice	n	n	n	his apprentice		1s
+10	AHHL	295	19	53	85	Mr	Robert	Luffe		y	y	y			g2s
+10	AHHL	296	19	53	85					y	y	y	his wife		g2s
+10	AHHL	297	19	53	86		Daniell			n	n	n	his son		1s
+10	AHHL	298	19	53	87		Samuell	Smith	apprentice	n	n	n	his apprentice		1s
+10	AHHL	299	20	54	88		John	Billers		y	n	y			g2s
+10	AHHL	300	20	54	88					y	n	y	his wife		g2s
+10	AHHL	301	20	54	89		Elizabeth		maid 	n	n	n	his maid	"""3li p[er] ann~"""	4s
+17	StMartinIronmonger	302	1	1	1		Simon	Miller	beadle of the court of Rig…urls	n	n	n		"""for his sd place""; added later to beginning of list"	£1
+17	StMartinIronmonger	303	2	2	2		Thomas	Symonds		y	y	n		"""30li rent"""	g17s
+17	StMartinIronmonger	304	2	2	2					y	y	n	his wife		g17s
+17	StMartinIronmonger	305	2	2	2					n	n	n	5 children		g17s
+17	StMartinIronmonger	306	2	3	3		John	Morris	apprentice	n	n	n		"""an apprentice"""	1s
+17	StMartinIronmonger	307	2	4	4		Sarah	Nalor	maid servt	n	n	n			g8s
+17	StMartinIronmonger	308	2	4	4		Sarah	Beale	maid servt	n	n	n			g8s
+17	StMartinIronmonger	309	2	5	5	esq	Richd	Wynne		n	n	n		"""5li & for 1000li""; added later"	£15
+17	StMartinIronmonger	310	3	6	6		James	Holt	mercth unfree 	y	y	n			g10 3s
+17	StMartinIronmonger	311	3	6	6					y	y	n	wife		g10 3s
+17	StMartinIronmonger	312	3	6	6					n	n	n	child		g10 3s
+17	StMartinIronmonger	313	3	7	7		Robert	Harwood	journeyman	n	n	n			7s
+17	StMartinIronmonger	314	3	8	8		Prely	Story	maid servt	n	n	n			g8s
+17	StMartinIronmonger	315	3	8	8		Eliz	Newton	maid servt	n	n	n			g8s
+18	StMartinIronmonger	316	4	9	9		Wm	Skinner		y	y	n		"""30li rent""; ""an assessor"" crossed out"	11s
+18	StMartinIronmonger	317	4	9	10					y	y	n	his wife		g3s
+18	StMartinIronmonger	318	4	9	10					n	n	n	2 children		g3s
+18	StMartinIronmonger	319	4	10	11		Joseph	Niccoll	apprentice	n	n	n	n		1s
+18	StMartinIronmonger	320	4	11	12		Eliz	Ashley	maid servt	n	n	n			4s
+18	StMartinIronmonger	321	5	12	13		John	Davenport		y	y	n		"""30li"""	g19s
+18	StMartinIronmonger	322	5	12	13					y	y	n	his wife		g19s
+18	StMartinIronmonger	323	5	12	13					n	n	n	7 children		g19s
+18	StMartinIronmonger	324	5	13	14		Mary	Davenport		n	n	n		inserted later	1s
+18	StMartinIronmonger	325	5	14	15		Henry	Oughton	apprentice	n	n	n			1s
+18	StMartinIronmonger	326	5	15	16		Samll	Lobridge	journeyman	n	n	n			11s
+18	StMartinIronmonger	327	5	16	17		Mary		maid servt	n	n	n			g8s
+18	StMartinIronmonger	328	5	16	17		Ann		maid servt	n	n	n			g8s
+18	StMartinIronmonger	329	6	17	18		Wm	Wentworth		y	y	n		"""30li rent"""	g14s
+18	StMartinIronmonger	330	6	17	18					y	y	n	wife		g14s
+18	StMartinIronmonger	331	6	17	18					n	n	n	2 children		g14s
+18	StMartinIronmonger	332	6	18	19		John	Webb	appnt	n	n	n			g2s
+18	StMartinIronmonger	333	6	18	19		Wm	Stoter	appnt	n	n	n			g2s
+18	StMartinIronmonger	334	6	19	20		Mary	Rose	maid servt	n	n	n			g8s
+18	StMartinIronmonger	335	6	19	20		Sara	Pearse	maid servt	n	n	n			g8s
+18	StMartinIronmonger	336	7	20	21		Robt	Clowse		n	n	n	ptners		g2s
+18	StMartinIronmonger	337	7	21	21		Robt	White		n	n	n	ptners		g2s
+18	StMartinIronmonger	338	7	22	22		Anthony	Luborne	apprentice	n	n	n			1s
+18	StMartinIronmonger	339	7	23	23		Sarah	Hawkins	maid servt	n	n	n			4s
+18	StMartinIronmonger	340	8	24	24		Samuell	Stone		y	y	n			g4s
+18	StMartinIronmonger	341	8	24	24					y	y	n	his wife		g4s
+18	StMartinIronmonger	342	8	24	24					n	n	n	2 children		g4s
+18	StMartinIronmonger	343	8	25	25		Jane	Luband	apprentice	n	n	n			1s
+18	StMartinIronmonger	344	8	26	26		James	Blackerby		n	n	n	lodger		1s
+18	StMartinIronmonger	345	8	27	27		Ellinor	Case	servt maid	n	n	n		assessment is sic	3s
+18	StMartinIronmonger	346	9	28	28		Roger	Jervis		n	n	y			1s
+18	StMartinIronmonger	347	9	29	29		Thomas	Denham	apprentice	n	n	n	his apprentice		1s
+18	StMartinIronmonger	348	10	30	30		Ralph	Russell		y	y	n		"""30li rent"""	g14s
+18	StMartinIronmonger	349	10	30	30					y	y	n	his wife		g14s
+18	StMartinIronmonger	350	10	30	30					n	n	n	2 children		g14s
+18	StMartinIronmonger	351	10	31	31		Nathaniell		apprentice	n	n	n			g4s
+18	StMartinIronmonger	352	10	31	31		James		apprentice	n	n	n			g4s
+18	StMartinIronmonger	353	10	31	31		John		apprentice	n	n	n			g4s
+18	StMartinIronmonger	354	10	31	31		Samuell		apprentice	n	n	n			g4s
+18	StMartinIronmonger	355	10	32	32		John	Dew	tapster	n	n	n			1s
+18	StMartinIronmonger	356	10	33	33					n	n	n	4 maid servts		g16s
+18	StMartinIronmonger	357	11	34	34		John	Clark		n	n	n			1s
+18	StMartinIronmonger	358	11	35	35		Tho	Mead	apprentice	n	n	n			1s
+18	StMartinIronmonger	359	11	36	36		Eliz	Philpott	servt maid	n	n	n		assessment is sic	3s
+18	StMartinIronmonger	360	11	37	37		Wm	Parsons	mercht unfree	n	n	n		"""at Mr Clarks"""	£10 1s
+18	StMartinIronmonger	361	11	38	38		Isaac	Pinchback	mercht unfree	n	n	n		"""at Mr Clarks"""	£10 1s
+18	StMartinIronmonger	362	12	39	39		Robt	Westerne		y	y	n		"""30li rent"""	g14s
+18	StMartinIronmonger	363	12	39	39					y	y	n	his wife		g14s
+18	StMartinIronmonger	364	12	39	39					n	n	n	2 children		g14s
+18	StMartinIronmonger	365	12	40	40		Mary		maid servt	n	n	n			g8s
+18	StMartinIronmonger	366	12	40	40		Margarett		maid servt	n	n	n			g8s
+18	StMartinIronmonger	367	13	41	41		Roger 	Lillington		y	n	n		"""30li rent"""	g12s
+18	StMartinIronmonger	368	13	41	41					y	n	n	his wife		g12s
+18	StMartinIronmonger	369	13	42	42		Nathll		apprentice	n	n	n			1s
+18	StMartinIronmonger	370	13	43	43		Eliz	Powell	maid servt	n	n	n			4s
+19	StMartinIronmonger	371	14	44	44		John	Godfrey	clarke of mercers compa 32 p ann~ sallary	n	y	n			£3 5s
+19	StMartinIronmonger	372	14	44	44					n	n	n	2 children		g2s
+19	StMartinIronmonger	373	14	44	44					n	n	n	a kinsman 11 years of age		1s
+19	StMartinIronmonger	374	14	45	45		Eliza		maid servt	n	n	n			g8s
+19	StMartinIronmonger	375	14	45	45		Jane		maid servt	n	n	n			g8s
+19	StMartinIronmonger	376	14	46	46	Mrs		Browne		n	n	n	lodger		1s
+19	StMartinIronmonger	377	14	47	47		Mary	Mapletoft	apprentice	n	n	n			1s
+19	StMartinIronmonger	378	15	48	48		Wm	Faroe		y	n	n			g2s
+19	StMartinIronmonger	379	15	48	48					y	n	n	his wife		g2s
+19	StMartinIronmonger	380	16	49	49		Robert	Heburne		n	n	n			1s
+19	StMartinIronmonger	381	16	50	50	Mr		Sharpe		y	n	n	lodger		g2s
+19	StMartinIronmonger	382	16	50	50					y	n	n	his wife; lodger		g2s
+19	StMartinIronmonger	383	16	51	51		James	Rooke	apprentice	n	n	n			1s
+19	StMartinIronmonger	384	16	52	52		Mary	Watkins	maid servt	n	n	n		assessment is sic	3s
+19	StMartinIronmonger	385	17	53	53		John	Chesterman		n	n	n			1s
+19	StMartinIronmonger	386	17	54	54		Wm		apprentice	n	n	n			g2s
+19	StMartinIronmonger	387	17	54	54		Tho		apprentice	n	n	n			g2s
+19	StMartinIronmonger	388	17	55	55		Luke	Collins	journeyman day labourer	n	n	n			1s
+19	StMartinIronmonger	389	17	56	56		Joane	Curtis	servt maid	n	n	n		assessment is sic	3s
+19	StMartinIronmonger	390	18	57	57		John	Warner		y	n	n		"""30li rent"""	g12s
+19	StMartinIronmonger	391	18	57	57					y	n	n	his wife		g12s
+19	StMartinIronmonger	392	18	58	58		Thomas		apprentice	n	n	n			g3s
+19	StMartinIronmonger	393	18	58	58		Richard		apprentice	n	n	n			g3s
+19	StMartinIronmonger	394	18	58	58		Anthony		apprentice	n	n	n			g3s
+19	StMartinIronmonger	395	18	59	59		Mary	Bonill	servt maid	n	n	n			4s
+19	StMartinIronmonger	396	19	60	60		Sam	Buker		y	y	n		"""30li rent"""	g15s
+19	StMartinIronmonger	397	19	60	60					y	y	n	his wife		g15s
+19	StMartinIronmonger	398	19	60	60					n	n	n	3 children		g15s
+19	StMartinIronmonger	399	19	61	61					n	n	n		"""masters @ place"" inserted"	£1
+19	StMartinIronmonger	400	19	62	62		Wm	Selby	apprentice	n	n	n			1s
+19	StMartinIronmonger	401	19	63	63		Mary		maid servt	n	n	n			g8s
+19	StMartinIronmonger	402	19	63	63		Judith		maid servt	n	n	n			g8s
+19	StMartinIronmonger	403	20	64	64	Lt Coll	Edward	Beaker		n	n	n		"""30li rent"""	11s
+19	StMartinIronmonger	404	20	65	65		Christopher	Simpson	apprentice	n	n	n			1s
+19	StMartinIronmonger	405	20	66	66		Alice	Fryer	maid servt	n	n	n			3s
+19	StMartinIronmonger	406	21	67	67		Wm	Christopher		n	n	n			1s
+19	StMartinIronmonger	407	21	68	68	Mrs		Ward		n	n	n		"""at Mr Christophers"""	1s
+19	StMartinIronmonger	408	21	69	69		Eliz	Cloter	apprentice	n	n	n			g2s
+19	StMartinIronmonger	409	21	69	69		Eliz	Boucer	apprentice	n	n	n			g2s
+19	StMartinIronmonger	410	21	70	70		Ellinor	Proby	maid servt	n	n	n			3s
+19	StMartinIronmonger	411	21	71	71		Mary	Clayton		n	n	n	boarder		g2s
+19	StMartinIronmonger	412	21	71	71		Martha	Clayton		n	n	n	boarder		g2s
+19	StMartinIronmonger	413	22	72	72		John	Upshall		y	y	n		"""30li rent"""	g15s
+19	StMartinIronmonger	414	22	72	72					y	y	n	his wife		g15s
+19	StMartinIronmonger	415	22	72	72					n	n	n	3 children		g15s
+19	StMartinIronmonger	416	22	73	73		Samll	Berrey		n	n	n	lodger		1s
+19	StMartinIronmonger	417	22	74	74		Sarah	Roper	maid servt	n	n	n			g8s
+19	StMartinIronmonger	418	22	74	74		Ann	Moss	maid servt	n	n	n			g8s
+19	StMartinIronmonger	419	23	75	75		Daniell	Niccoll		n	n	n		"""200li & house"""	£2 11s
+19	StMartinIronmonger	420	23	76	76	Mrs		Niccoll		n	y	n			g6s
+19	StMartinIronmonger	421	23	76	76					n	n	n	5 children		g6s
+19	StMartinIronmonger	422	23	77	77					n	n	n	2 maid servts		g8s
+20	StMartinIronmonger	423	24	78	78	gent	Peter	King		n	n	n		"""1li 1s and for office 20s all"""	£2 1s
+20	StMartinIronmonger	424	24	79	79	Mrs		King		n	y	n			g2s
+20	StMartinIronmonger	425	24	79	79					n	n	n	1 child		g2s
+20	StMartinIronmonger	426	24	80	80		Robt	Barker	clark 	n	n	n			g2s
+20	StMartinIronmonger	427	24	80	80		John	Minchard	clark 	n	n	n			g2s
+20	StMartinIronmonger	428	24	81	81					n	n	n	2 servant maids		g8s
+20	StMartinIronmonger	429	24	82	82	Mrs		Claton		n	n	n	lodger	"""at Mr Kings"""	1s
+20	StMartinIronmonger	430	25	83	83		Thomas	Griffin		y	y	n			g4s
+20	StMartinIronmonger	431	25	83	83					y	y	n	his wife		g4s
+20	StMartinIronmonger	432	25	83	83					n	n	n	2 children		g4s
+20	StMartinIronmonger	433	26	84	84		George	Dix		y	y	n			g3s
+20	StMartinIronmonger	434	26	84	84					y	y	n	wife		g3s
+20	StMartinIronmonger	435	26	84	84					n	n	n	1 child		g3s
+20	StMartinIronmonger	436	26	85	85		[blank]	Denny		n	n	n	lodger	there	1s
+20	StMartinIronmonger	437	27	86	86		John	Snow		y	y	n			g3s
+20	StMartinIronmonger	438	27	86	86					y	y	n	wife		g3s
+20	StMartinIronmonger	439	27	86	86					n	n	n	1 child		g3s
+20	StMartinIronmonger	440	27	87	87					n	n	n	2 men servts day labourers		g2s
+20	StMartinIronmonger	441	27	88	88		Alice	Edgate	servt maid	n	n	n			3s
+20	StMartinIronmonger	442	28	89	89		Mathew	Browne		y	n	n			g3s
+20	StMartinIronmonger	443	28	89	89					y	n	n	his wife		g3s
+20	StMartinIronmonger	444	28	89	89					n	n	n	her sister		g3s
+20	StMartinIronmonger	445	29	90	90		John	Reynolds		y	n	n		"""30li rent"""	g12s
+20	StMartinIronmonger	446	29	90	90					y	n	n	his wife		g12s
+20	StMartinIronmonger	447	29	91	91		Giles	Dolliffe	apprentice	n	n	n			1s
+20	StMartinIronmonger	448	29	92	92		Eliza	Blackall	maid servt	n	n	n			4s
+20	StMartinIronmonger	449	29	93	93		Henry	Linbry	mercht unfree	n	n	n		"""a warehouse mercht there unfree"""	£10 1s
+20	StMartinIronmonger	450	30	94	94	gent	Robt	Barrington		y	y	n			g£1 3s
+20	StMartinIronmonger	451	30	94	94					y	y	n	his wife		g£1 3s
+20	StMartinIronmonger	452	30	94	94					n	n	n	1 child		g£1 3s
+20	StMartinIronmonger	453	30	95	95		Eliz	Lawrence	maid servt	n	n	n			4s
+20	StMartinIronmonger	454	30	96	96	Mr	Christopher	Hodges		y	n	n		"""a warehouse there"""	g2s
+20	StMartinIronmonger	455	30	96	96					y	n	n	his wife		g2s
+20	StMartinIronmonger	456	30	97	97		Joane	Shorey	maid	n	n	n			3s
+20	StMartinIronmonger	457	30	98	98		Mary	Talkett		n	n	n	a kinswoman	no wages	1s
+20	StMartinIronmonger	458	31	99	99		Wm	Thornton		y	n	n			g2s
+20	StMartinIronmonger	459	31	99	99					y	n	n	his wife		g2s
+20	StMartinIronmonger	460	31	100	100	widd		Chew	almeswoman to ye p~ish	n	n	n		assessment is sic	0
+20	StMartinIronmonger	461	32	101	101		Thomas	Blackmore		y	n	n		"""30li rent"""	g12s
+20	StMartinIronmonger	462	32	101	101					y	n	n	his wife		g12s
+20	StMartinIronmonger	463	32	102	102		Tho	Perkerton	apprentice	n	n	n			1s
+20	StMartinIronmonger	464	32	103	103		Tho	Corney	journeyman	n	n	n			11s
+20	StMartinIronmonger	465	32	104	104		Ann	Latham	maid servt	n	n	n			4s
+20	StMartinIronmonger	466	33	105	105	Mrs	Eliz	Thurlby		n	n	n		"""30li rent"""	11s
+20	StMartinIronmonger	467	33	106	106	gent	John	Hastings		y	y	n			g£1 13s
+20	StMartinIronmonger	468	33	106	106					y	y	n	his wife		g£1 13s
+20	StMartinIronmonger	469	33	106	106					n	n	n	child		g£1 13s
+20	StMartinIronmonger	470	33	107	107		Edward	Kiniston		n	n	n			1s
+20	StMartinIronmonger	471	33	108	108		Sarah	Kiniston		n	n	n			1s
+20	StMartinIronmonger	472	33	109	109		Richard	Tilliyard	apprentice	n	n	n			1s
+20	StMartinIronmonger	473	33	110	110		Joane		maid servt	n	n	n			g8s
+20	StMartinIronmonger	474	33	110	110		Eliz		maid servt	n	n	n			g8s
+20	StMartinIronmonger	475	34	111	111		Wm	Yapp		y	n	n		"""30li rent"""	g12s
+20	StMartinIronmonger	476	34	111	111					y	n	n	wife		g12s
+20	StMartinIronmonger	477	34	112	112		Sara	Paradine		n	n	n	lodger		g3s
+20	StMartinIronmonger	478	34	112	112		Eliz	Smith		n	n	n	lodger		g3s
+20	StMartinIronmonger	479	34	112	112		Eliz	Simonds		n	n	n	lodger		g3s
+20	StMartinIronmonger	480	34	113	113		Eliz	Scott	maid servt	n	n	n			4s
+21	StMartinIronmonger	481	35	114	114		John	Bellamy	scribe	y	n	n		"""30li rent"""	g12s
+21	StMartinIronmonger	482	35	114	114					y	n	n	wife		g12s
+21	StMartinIronmonger	483	35	115	115		John	Niccoll		n	n	n	ptners		g2s
+21	StMartinIronmonger	484	35	115	115		[blank]	Faringdon		n	n	n	ptners		g2s
+21	StMartinIronmonger	485	35	116	116		Marga		maid servt	n	n	n			4s
+21	StMartinIronmonger	486	35	117	117		Benja	Smith		n	n	n	lodger		1s
+21	StMartinIronmonger	487	36	118	118		Robt	Pascall		y	n	n		"""30li rent"""	g12s
+21	StMartinIronmonger	488	36	118	118					y	n	n	his wife		g12s
+21	StMartinIronmonger	489	36	119	119	Mrs		Mills		n	n	n	lodger		1s
+21	StMartinIronmonger	490	36	120	120		Richd	Kirby	apprentice	n	n	n			1s
+21	StMartinIronmonger	491	36	121	121		Mary	[blank]	maid servt	n	n	n			4s
+21	StMartinIronmonger	492	36	122	122	gent	John	Langley		n	n	n	lodger	"whole entry crossed out and replaced with ""assessed in ye Countrie"""	£1 1s
+21	StMartinIronmonger	493	37	123	123	esq	James	Chadwick		n	y	n			£5 1s
+21	StMartinIronmonger	494	37	124	124		James			n	n	n	his son		1s
+21	StMartinIronmonger	495	37	125	125		Butler	Earle	apprentice	n	n	n			1s
+21	StMartinIronmonger	496	37	126	126		Hannah		maid servt	n	n	n			4s
+21	StMartinIronmonger	497	38	127	127		Thomas	Barnesly		n	n	n			1s
+21	StMartinIronmonger	498	38	128	128		Ed 	Ratclife	apprentice	n	n	n			g2s
+21	StMartinIronmonger	499	38	128	128		John	Kinns	apprentice	n	n	n			g2s
+21	StMartinIronmonger	500	38	129	129		Eliz	Kinns	maid servt	n	n	n			4s
+21	StMartinIronmonger	501	39	130	130		Robt	Turner		y	y	n		"""30li rent"""	g13s
+21	StMartinIronmonger	502	39	130	130					y	y	n	his wife		g13s
+21	StMartinIronmonger	503	39	130	130					n	n	n	child		g13s
+21	StMartinIronmonger	504	39	131	131		Alex	Pope	works by the week	n	n	n			1s
+21	StMartinIronmonger	505	39	132	132		Eliz	Price	maid servt	n	n	n			4s
+21	StMartinIronmonger	506	39	133	133		[blank]	Meriall		n	n	n	lodger		g2s
+21	StMartinIronmonger	507	39	133	133		[blank]	Meriall		n	n	n	lodger		g2s
+21	StMartinIronmonger	508	40	134	134		Wm	Power		y	y	n		"""30li rent"""	g17s
+21	StMartinIronmonger	509	40	134	134					y	y	n	wife		g17s
+21	StMartinIronmonger	510	40	134	134					n	n	n	5 children		g17s
+21	StMartinIronmonger	511	40	135	135		Robt	Smithson	apprentice	n	n	n			g2s
+21	StMartinIronmonger	512	40	135	135		James	Leake	apprentice	n	n	n			g2s
+21	StMartinIronmonger	513	40	136	136		Dina	Bromer	maid servt	n	n	n			g8s
+21	StMartinIronmonger	514	40	136	136		Jane	Wilson	maid servt	n	n	n			g8s
+21	StMartinIronmonger	515	40	137	137	Mrs	Ann	Wentfeild		n	n	n	lodger		1s
+
+
+	Collectors for these parishes:					Lawrence King and Wm Romsby									
+
+
+22	StMColechurch	516	1	1	1		John	Stow		y	n	n		"""30li rent"""	g12s
+22	StMColechurch	517	1	1	1					y	n	n	his wife		g12s
+22	StMColechurch	518	1	2	2		Ann	Mathews	servt maid	n	n	n			4s
+22	StMColechurch	519	1	3	3		John	Markham	mcht unfree	n	n	n		"""att Mr Stows"""	£10 1s
+22	StMColechurch	520	1	4	4		Adam	Snelling		n	n	n		"""att Mr Stows"""	1s
+22	StMColechurch	521	2	5	5		Thos	Rogers		y	y	n		"""30li rent"""	g13s
+22	StMColechurch	522	2	5	5					y	y	n	his wife		g13s
+22	StMColechurch	523	2	5	5					n	n	n	his son		g13s
+22	StMColechurch	524	2	6	6		James	Craftes	apprentice	n	n	n			1s
+22	StMColechurch	525	2	7	7		Eliz	Cooper	maid servt	n	n	n			4s
+22	StMColechurch	526	2	8	8		[blank]	Allard	mercht unfree	n	n	n		"""stranger"" crossed out"	£10 1s
+22	StMColechurch	527	2	9	9		Jasper	Longman	servt	n	n	n			1s
+22	StMColechurch	528	2	10	10	gent	[blank]	Breadwin		n	n	n			£1 1s
+22	StMColechurch	529	3	11	11		Edward	Baker		y	y	n		"""30li rent"""	g13s
+22	StMColechurch	530	3	11	11					y	y	n	wife		g13s
+22	StMColechurch	531	3	11	11					n	n	n	daughter		g13s
+22	StMColechurch	532	3	12	12		Robert	Porter	apprentice	n	n	n			g2s
+22	StMColechurch	533	3	12	12		Samll	Clark	apprentice	n	n	n			g2s
+22	StMColechurch	534	3	13	13		Susan	Chanwill	servt	n	n	n		"""4s a peece"""	g8s
+22	StMColechurch	535	3	13	13		Jane	Munday	servt	n	n	n		"""4s a peece"""	g8s
+22	StMColechurch	536	4	14	14		Ben	Antrobus		y	y	n		"""30li rent"""	g12s
+22	StMColechurch	537	4	14	14					y	y	n	wife		g12s
+22	StMColechurch	538	4	15	15		Sam	Bolton		n	n	n	ptner		1s
+22	StMColechurch	539	4	14	16		Ben	Antrobus		n	n	n	sons	presumably of Ben Antrobus	g2s
+22	StMColechurch	540	4	14	16		Jos	Antrobus		n	n	n	sons	presumably of Ben Antrobus	g2s
+22	StMColechurch	541	4	16	17		Edwd	Doyln	apprentice	n	n	n			g2s
+22	StMColechurch	542	4	16	17		Abell	Wilkinson	apprentice	n	n	n			g2s
+22	StMColechurch	543	4	17	18		Mary	Cooper	servt maid	n	n	n			4s
+22	StMColechurch	544	5	18	19		Sam	Baron		y	y	n		"""30li rent"""	g14s
+22	StMColechurch	545	5	18	19					y	y	n	wife		g14s
+22	StMColechurch	546	5	18	19					n	n	n	2 children		g14s
+22	StMColechurch	547	5	19	20		Jane		servt maid	n	n	n		"""4s apeece"""	g8s
+22	StMColechurch	548	5	19	20		[blank]		servt maid	n	n	n		"""4s apeece"""	g8s
+22	StMColechurch	549	5	20	21		Edward	Boy		n	n	n			1s
+22	StMColechurch	550	6	21	22		Ambros	Nicholas		y	y	n		"""30li rent"""	g16s
+22	StMColechurch	551	6	21	22					y	y	n	wife		g16s
+22	StMColechurch	552	6	21	22					n	n	n	4 children		g16s
+22	StMColechurch	553	6	22	23		Edward	West	apprentice	n	n	n			1s
+22	StMColechurch	554	6	23	24		Susan		servt maid	n	n	n		"""3s apece"""	g6s
+22	StMColechurch	555	6	23	24		Ann		servt maid	n	n	n		"""3s apece"""	g6s
+22	StMColechurch	556	7	24	25		Wm	Empson		y	y	n		"""30li rent"""	g16s
+22	StMColechurch	557	7	24	25					y	y	n	wife		g16s
+22	StMColechurch	558	7	24	25					n	n	n	4 children		g16s
+22	StMColechurch	559	7	25	26		Margarett		servt maid	n	n	n		"""4s apece"""	g8s
+22	StMColechurch	560	7	25	26		Mary		servt maid	n	n	n		"""4s apece"""	g8s
+22	StMColechurch	561	8	26	27		Tho	Parkhurst		y	n	n		"""30li rent"""	g12s
+22	StMColechurch	562	8	26	27					y	n	n	his wife		g12s
+22	StMColechurch	563	8	27	28		John	Dunton	app	n	n	n			g2s
+22	StMColechurch	564	8	27	28		Lawrence	Brinkley	app	n	n	n			g2s
+22	StMColechurch	565	8	28	29		Ann	Cooper	maid servt	n	n	n			4s
+22	StMColechurch	566	8	29	30		Joseph	Collier	journeyman	n	n	n			5s
+22	StMColechurch	567	8	30	31		Ann	Parkhurst		n	n	n	lodger		g2s
+22	StMColechurch	568	8	30	31		Wm	Horton		n	n	n	lodger		g2s
+22	StMColechurch	569	9	31	32		Spencer	Johnson		y	y	n		"""30li rent""; whole line and assessment crossed out"	g15s
+22	StMColechurch	570	9	31	32					y	y	n	wife	whole line and assessment crossed out	g15s
+22	StMColechurch	571	9	31	32					n	n	n	3 children	whole line and assessment crossed out	g15s
+22	StMColechurch	572	9	32	33		Susan	Oliver		n	y	n			g3s
+22	StMColechurch	573	9	32	33					n	n	n	2 daughters		g3s
+22	StMColechurch	574	9	33	34		John	Rumble		n	n	n	sons	Susan Oliver's sons?	g2s
+22	StMColechurch	575	9	33	34		Rich	Rumble		n	n	n	sons	Susan Oliver's sons?	g2s
+22	StMColechurch	576	10	34	35		John	Newton		y	y	n		"""30li rent"""	g15s
+22	StMColechurch	577	10	34	35					y	y	n	wife		g15s
+22	StMColechurch	578	10	34	35					n	n	n	3 children		g15s
+22	StMColechurch	579	10	35	36		Wm	Woodgate		n	n	n	lodger		g2s
+22	StMColechurch	580	10	36	36		Judith	Whitton		n	n	n	lodger		g2s
+23	StMColechurch	581	11	37	37		Spencer 	Johnson		y	y	n		"""30li rent"""	g15s
+23	StMColechurch	582	11	37	37					y	y	n	wife		g15s
+23	StMColechurch	583	11	37	37					n	n	n	3 children		g15s
+23	StMColechurch	584	11	38	38		Tho	Johnson	app	n	n	n			1s
+23	StMColechurch	585	11	39	39		Mary	Hodges	servt maid	n	n	n		"""4s apeece"""	g8s
+23	StMColechurch	586	11	39	39		Mary	Atherly	servt maid	n	n	n		"""4s apeece"""	g8s
+23	StMColechurch	587	12	40	40	wid	Jane	Robert		n	n	n		"""30li rent"""	11s
+23	StMColechurch	588	12	41	41		Sarah	[blank]	servt maid	n	n	n			3s
+23	StMColechurch	589	12	42	42		Richd	Browne		y	n	n		"""att Mrs Roberts"""	g2s
+23	StMColechurch	590	12	42	42					y	n	n	his wife		g2s
+23	StMColechurch	591	13	43	43		Daniell	Peacock		y	y	n		"""30li rent"""	g15s
+23	StMColechurch	592	13	43	43					y	y	n	wife		g15s
+23	StMColechurch	593	13	43	43					n	n	n	3 children		g15s
+23	StMColechurch	594	13	44	44		John	[blank]	app	n	n	n			1s
+23	StMColechurch	595	13	45	45		Eliz	[blank]	maid servt	n	n	n			3s
+23	StMColechurch	596	13	46	46		Wm	Birch		y	n	n		"""att Mr Peacocks"""	g2s
+23	StMColechurch	597	13	46	46					y	n	n	his wife		g2s
+23	StMColechurch	598	14	47	47		John	Low		y	n	n		"""30li rent"""	g12s
+23	StMColechurch	599	14	47	47					y	n	n	his wife		g12s
+23	StMColechurch	600	14	48	48		Ann	Harris	app	n	n	n			1s
+23	StMColechurch	601	15	49	49		Thomas	Lawrence		y	y	n			g3s
+23	StMColechurch	602	15	49	49					y	y	n	wife		g3s
+23	StMColechurch	603	15	49	49					n	n	n	daughter		g3s
+23	StMColechurch	604	15	50	50		Richd	Landy	app	n	n	n			1s
+23	StMColechurch	605	15	51	51		Alice	Harwood	maid servt	n	n	n			3s
+23	StMColechurch	606	16	52	52		Icabos	Copp		y	y	n		"""30li rent""; forename is Jacob?"	g13s
+23	StMColechurch	607	16	52	52					y	y	n	wife		g13s
+23	StMColechurch	608	16	52	52					n	n	n	son		g13s
+23	StMColechurch	609	16	53	53		John	Welsh	app	n	n	n			1s
+23	StMColechurch	610	16	54	54		Joane		servt maid	n	n	n			3s
+23	StMColechurch	611	16	55	55		Tho	Clark		n	n	n			1s
+23	StMColechurch	612	16	56	56		Samll	Collin	app	n	n	n			1s
+23	StMColechurch	613	17	57	57		John	Buncle		y	y	n			g4s
+23	StMColechurch	614	17	57	57					y	y	n	wife		g4s
+23	StMColechurch	615	17	57	57					n	n	n	son		g4s
+23	StMColechurch	616	17	57	57					n	n	n	daughter		g4s
+23	StMColechurch	617	17	58	58		Ann	Astley		n	n	n			g3s
+23	StMColechurch	618	17	59	58		Levisa	Astley		n	n	n			g3s
+23	StMColechurch	619	17	60	58		Wm	Francklin		n	n	n			g3s
+23	StMColechurch	620	17	61	59		Alice	Letherington	servt maid	n	n	n			4s
+23	StMColechurch	621	17	62	60		Willm	Renold		n	n	n			g2s
+23	StMColechurch	622	17	62	60		Virgill			n	n	n		"""& Virgill brothers"" - so is this person Virgill Brothers, or is he Virgill, brother of Renold?"	g2s
+23	StMColechurch	623	17	63	61		John	Reynolds		n	n	n			g2s
+23	StMColechurch	624	17	63	61		Mary			n	n	n	sister		g2s
+23	StMColechurch	625	17	64	62		Thomas	Reynolds	app	n	n	n			g2s
+23	StMColechurch	626	17	65	62		Charles			n	n	n		"""& Charles"" - ie Charles Reynolds?"	g2s
+23	StMColechurch	627	17	66	63		Dorothy		maid servt	n	n	n			3s
+23	StMColechurch	628	17	67	64		James	Rand		y	y	n		"""30li rent""; no property indicator here, but perhaps there should be? Is this a hoh record?"	g14s
+23	StMColechurch	629	17	67	64					y	y	n	wife		g14s
+23	StMColechurch	630	17	67	64					n	n	n	2 children		g14s
+23	StMColechurch	631	17	68	65		John	Pagitt	app	n	n	n			g2s
+23	StMColechurch	632	17	68	65		John	Lapdell	app	n	n	n			g2s
+23	StMColechurch	633	17	69	66		Elizab	Cox	maid servant	n	n	n			4s
+23	StMColechurch	634	18	70	67		Samll	Jackson		y	n	n		"""30li rent"""	g12s
+23	StMColechurch	635	18	70	67					y	n	n	wife		g12s
+23	StMColechurch	636	18	71	68		Henry	Wiggen	app	n	n	n			g2s
+23	StMColechurch	637	18	71	68		Peter	Scarlett	app	n	n	n			g2s
+23	StMColechurch	638	18	72	69		Dorothy	Hubbard	maid servt	n	n	n			4s
+23	StMColechurch	639	19	73	70	widow		Hampton		n	n	n			1s
+23	StMColechurch	640	19	74	71		John	Royston		y	n	n		"""att Mrs Hamptons"""	g2s
+23	StMColechurch	641	19	74	71					y	n	n	his wife	"""att Mrs Hamptons"""	g2s
+23	StMColechurch	642	19	75	72		Henry	Radly		y	n	n			g2s
+23	StMColechurch	643	19	75	72					y	n	n	his wife		g2s
+23	StMColechurch	644	19	76	73		Edward	Wells		y	n	n			g2s
+23	StMColechurch	645	19	76	73					y	n	n	his wife		g2s
+23	StMColechurch	646	19	77	74		Edward	Goodwin		y	n	n			g2s
+23	StMColechurch	647	19	77	74					y	n	n	his wife		g2s
+23	StMColechurch	648	19	78	75		Wm	Waylett		y	n	n			g2s
+23	StMColechurch	649	19	78	75					y	n	n	his wife		g2s
+23	StMColechurch	650	20	79	76		Jeremy	Bonele		y	y	n		"""30li rent"""	g15s
+23	StMColechurch	651	20	79	76					y	y	n	his wife	"""30li rent"""	g15s
+23	StMColechurch	652	20	79	76					n	n	n	3 children	"""30li rent"""	g15s
+24	StMColechurch	653	20	80	77		John	Prade	app	n	n	n			g2s
+24	StMColechurch	654	20	80	77		Abra	Ansell	app	n	n	n			g2s
+24	StMColechurch	655	20	81	78		Nathall	Bonele		n	n	n			1s
+24	StMColechurch	656	20	82	79		Jane		maid servt	n	n	n		"""4s a peece"""	g8s
+24	StMColechurch	657	20	82	79		Ann		maid servt	n	n	n		"""4s a peece"""	g8s
+24	StMColechurch	658	21	83	80		Edward	Winch		n	n	n			1s
+24	StMColechurch	659	21	84	81		George	Westfeild	app	n	n	n			1s
+24	StMColechurch	660	21	85	82	widd	Ann	Winch		n	n	n		"""& Sibill his sister"" - so is Ann Winch also the sister of Edward Winch?"	g2s
+24	StMColechurch	661	21	85	82		Sibill			n	n	n		"""& Sibill his sister"" - so is Ann Winch also the sister of Edward Winch?"	g2s
+24	StMColechurch	662	21	86	83		Mary	Greeneway	maid servt	n	n	n			3s
+24	StMColechurch	663	22	87	84		Robt	Guttering		y	y	n			g4s
+24	StMColechurch	664	22	87	84					y	y	n	his wife		g4s
+24	StMColechurch	665	22	87	84					n	n	n	2 children		g4s
+24	StMColechurch	666	22	88	85		John	Rumble		y	n	n		"""att Gutteringes"""	g2s
+24	StMColechurch	667	22	88	85					y	n	n	his wife	"""att Gutteringes"""	g2s
+24	StMColechurch	668	22	89	86		Edward	Young		n	n	n		"""att Rumbles"" sic"	1s
+24	StMColechurch	669	23	90	87		Samll	Bexhill		n	n	n			1s
+24	StMColechurch	670	23	91	88		Jane	Wild	maid servt	n	n	n			3s
+24	StMColechurch	671	23	92	89		Henry	Ubanck		y	n	n		"""att Bexhill"""	g2s
+24	StMColechurch	672	23	92	89					y	n	n	his wife	"""att Bexhill"""	g2s
+24	StMColechurch	673	23	93	90		Jacob	Gilholme		y	n	n		"""att Bexhill"""	g2s
+24	StMColechurch	674	23	93	90					y	n	n	his wife	"""att Bexhill"""	g2s
+24	StMColechurch	675	23	94	91		Willm	Bayly		n	n	n			1s
+24	StMColechurch	676	23	95	92		Robert	Thomas		n	n	n			1s
+24	StMColechurch	677	23	96	93		Hester	Wilkinson		n	n	n	kinswoman	whose?	1s
+24	StMColechurch	678	24	97	94	wid	Mary	Hill		n	y	n		"""30li rent"""	g12s
+24	StMColechurch	679	24	98	94		Ben	Hill		n	n	n		"""30li rent"""	g12s
+24	StMColechurch	680	24	99	95		Mary	Hill		n	n	n	her daughters	presumably of wid Mary Hill	g2s
+24	StMColechurch	681	24	99	95		Ann	Hill		n	n	n	her daughters	presumably of wid Mary Hill	g2s
+24	StMColechurch	682	24	100	96		Jane	Cutter	app	n	n	n			g2s
+24	StMColechurch	683	24	100	96		Susan	Beane	app	n	n	n			g2s
+24	StMColechurch	684	24	101	97		Rebecca	Smallpeece	maid servt	n	n	n			4s
+24	StMColechurch	685	25	102	98		Nathall	Troughton		y	y	n		"""30li rent""; this entire 'house' has been inserted later"	g14s
+24	StMColechurch	686	25	102	98					y	y	n	his wife	this entire 'house' has been inserted later	g14s
+24	StMColechurch	687	25	102	98					n	n	n	2 children	this entire 'house' has been inserted later	g14s
+24	StMColechurch	688	25	103	99		Edward	Fanshaw	app	n	n	n		this entire 'house' has been inserted later	g2s
+24	StMColechurch	689	25	103	99		Samll	Pitt	app	n	n	n		this entire 'house' has been inserted later	g2s
+24	StMColechurch	690	25	104	100		An		servt maid	n	n	n		this entire 'house' has been inserted later	4s
+24	StMColechurch	691	26	105	101	gent	Samuell	Micchell	unfree march	n	n	n		"""unfree march"" added later"	£10 1s
+24	StMColechurch	692	26	106	102		Charles	Michel		n	n	n			1s
+24	StMColechurch	693	26	107	103		Henry	Michel		n	n	n			1s
+24	StMColechurch	694	26	108	104		Wm	Salt	journeyman	n	n	n		"""10li p~ ann~ wages"""	11s
+24	StMColechurch	695	26	109	105		Samll	Lee	journeyman	n	n	n		"""the like"""	11s
+24	StMColechurch	696	26	110	106		Elizab	White	maid servt	n	n	n			4s
+24	StMColechurch	697	27	111	107		Joseph	Wilmlott		y	y	n		this entire 'house' has been inserted later; there is a cross next to this line	g15s
+24	StMColechurch	698	27	111	107					y	y	n	his wife	this entire 'house' has been inserted later; there is a cross next to this line	g15s
+24	StMColechurch	699	27	111	107					n	n	n	3 children	this entire 'house' has been inserted later; there is a cross next to this line	g15s
+24	StMColechurch	700	27	112	108		Friar	Allston	app	n	n	n		this entire 'house' has been inserted later	1s
+24	StMColechurch	701	27	113	109		Mary	Stock	maid servt	n	n	n		this entire 'house' has been inserted later	4s
+24	StMColechurch	702	28	114	110		John	Watson		n	n	n			1s
+24	StMColechurch	703	28	115	111		Wm	Craft 	journeyman	n	n	n		"""4li p~ ann~ wages"""	5s
+24	StMColechurch	704	28	116	112		Benjamin	Freeman		y	n	n			g2s
+24	StMColechurch	705	28	116	112					y	n	n	his wife		g2s
+24	StMColechurch	706	28	117	113		John	Wiseham		y	n	n		"""30li rent""; no property indicator here, but perhaps there should be? Is this a hoh record?"	g12s
+24	StMColechurch	707	28	117	113					y	n	n	his wife		g12s
+24	StMColechurch	708	28	118	114		John	Wiseham	app	n	n	n			g4s
+24	StMColechurch	709	28	118	114		Rich	Holmes	app	n	n	n			g4s
+24	StMColechurch	710	28	118	114		Steph	Sells	app	n	n	n			g4s
+24	StMColechurch	711	28	118	114		Henry	Holmes	app	n	n	n			g4s
+24	StMColechurch	712	28	119	115		John	Pory		n	n	n			g2s
+24	StMColechurch	713	28	120	115		Thomas	Rockey		n	n	n			g2s
+24	StMColechurch	714	28	121	116		Jane	Wiseham	maid servt	n	n	n			4s
+24	StMColechurch	715	29	122	117	widow		Gardner		n	y	n		"""30li rent"""	g12s
+24	StMColechurch	716	29	122	117					n	n	n	daughter		g12s
+24	StMColechurch	717	29	123	118		Mary		maid servt	n	n	n			3s
+24	StMColechurch	718	29	124	119		John	Haynes		y	n	n		"""att Mrs Gardners"""	g2s
+24	StMColechurch	719	29	124	119					y	n	n	his wife	"""att Mrs Gardners"""	g2s
+24	StMColechurch	720	29	125	120		John	Davis	app	n	n	n			g2s
+24	StMColechurch	721	29	125	120		John	Parker	app	n	n	n			g2s
+24	StMColechurch	722	29	126	121	widd		Thral		n	y	n			1s
+25	StMColechurch	723	29	127	122		Dorothy			n	n	n	her daughters		g2s
+25	StMColechurch	724	29	127	122		Mary			n	n	n	her daughters		g2s
+25	StMColechurch	725	29	128	123		Mary		maid servant	n	n	n			3s
+25	StMColechurch	726	29	129	124		James	Reymer		n	n	n			1s
+25	StMColechurch	727	30	130	125		Thomas	Goldsmith		y	n	n			g2s
+25	StMColechurch	728	30	130	125					y	n	n	his wife		g2s
+25	StMColechurch	729	30	131	126		Ann	Apleton	app	n	n	n			1s
+25	StMColechurch	730	31	132	127		Richd	Hardmett		y	y	n		"""30li rent"""	g15s
+25	StMColechurch	731	31	132	127					y	y	n	wife		g15s
+25	StMColechurch	732	31	132	127					n	n	n	3 children		g15s
+25	StMColechurch	733	31	133	128		Richd	Copson	app	n	n	n		surname might be Coxson	1s
+25	StMColechurch	734	31	134	129		Frances	Cox	maid servt	n	n	n		"""4s a peece"""	g8s
+25	StMColechurch	735	31	134	129		Ann	Bennett	maid servt	n	n	n		"""4s a peece"""	g8s
+25	StMColechurch	736	32	135	130		Charles	Halsted		y	y	n		"""30li rent"""	g16s
+25	StMColechurch	737	32	135	130					y	y	n	wife		g16s
+25	StMColechurch	738	32	135	130					n	n	n	4 children		g16s
+25	StMColechurch	739	32	136	131					n	n	n	2 maid servants		g8s
+25	StMColechurch	740	33	137	132		Thomas	Mills		y	y	n		"""30li rent"""	g15s
+25	StMColechurch	741	33	137	132					y	y	n	his wife		g15s
+25	StMColechurch	742	33	137	132					n	n	n	3 children		g15s
+25	StMColechurch	743	33	138	133		Charles	Smithson	app	n	n	n			1s
+25	StMColechurch	744	33	139	134		Jane	Crackle	maid servt	n	n	n		"""4s a peece"""	g8s
+25	StMColechurch	745	33	139	134		Rebecca	Walker	maid servt	n	n	n		"""4s a peece"""	g8s
+25	StMColechurch	746	34	140	135		Thomas	Hanwell		y	y	n		"""30li rent"""	g14s
+25	StMColechurch	747	34	140	135					y	y	y	his wife	servts below are described as her maid servts	g14s
+25	StMColechurch	748	34	140	135					n	n	n	2 children		g14s
+25	StMColechurch	749	34	141	136		Katherin	Clare	maid servt	n	n	n	her maid servts	"""4s apeece"""	g8s
+25	StMColechurch	750	34	141	136		Mary		maid servt	n	n	n	her maid servts	"""4s apeece"""	g8s
+25	StMColechurch	751	35	142	137		Joseph	Richardson		y	n	n		"""30li rent""; ""assessor"" crossed out"	11s
+25	StMColechurch	752	35	142	138					y	n	n	his wife		1s
+25	StMColechurch	753	35	143	139		Edward	Wilson	app	n	n	n			g2s
+25	StMColechurch	754	35	143	139		John	Williams	app	n	n	n			g2s
+25	StMColechurch	755	35	144	140		Dorothy	Howard	maid servt	n	n	n			4s
+25	StMColechurch	756	36	145	141		Robt	Pond		y	y	n			g3s
+25	StMColechurch	757	36	145	141					y	y	n	wife		g3s
+25	StMColechurch	758	36	145	141					n	n	n	child		g3s
+25	StMColechurch	759	36	146	142		Richd	Tilly	app	n	n	n			1s
+25	StMColechurch	760	36	147	143		Hannah		maid servt	n	n	n			3s
+25	StMColechurch	761	36	148	144		Thomas	Aldwin		n	n	n		"""att Mr Ponds"""	1s
+25	StMColechurch	762	37	149	145		Francis	Swetnam		n	y	n			g2s
+25	StMColechurch	763	37	149	145					n	n	n	her daughter		g2s
+25	StMColechurch	764	37	150	146		Sarah		maid servt 	n	n	n			4s
+25	StMColechurch	765	37	151	147		Susan	Curn		n	n	n		"""att Swetnams"""	1s
+25	StMColechurch	766	38	152	148		Mary	Fletcher		n	y	n			g2s
+25	StMColechurch	767	38	152	148					n	n	n	her daughter		g2s
+25	StMColechurch	768	38	153	149		Anna	Ward	app	n	n	n			g2s
+25	StMColechurch	769	38	153	149		Francis	Rowell	app	n	n	n			g2s
+25	StMColechurch	770	39	154	150		Wm	Richardson		y	n	n		"""30li rent"""	g12s
+25	StMColechurch	771	39	154	150					y	n	n	his wife		g12s
+25	StMColechurch	772	39	155	151		Wm	Stuffin		n	n	n	ptner		1s
+25	StMColechurch	773	39	156	152		Robert	Frey	apprentice	n	n	n			1s
+25	StMColechurch	774	39	157	153					n	n	n	maid servt		4s
+25	StMColechurch	775	40	158	154		James	Ball		y	n	n			g2s
+25	StMColechurch	776	40	158	154					y	n	n	his wife		g2s
+25	StMColechurch	777	40	159	155		Isaac	Sawbridg	app	n	n	n			1s
+25	StMColechurch	778	40	160	156		Margarett		mayd servt	n	n	n			4s
+25	StMColechurch	779	41	161	157	esq	Ralph	Box		n	n	n		"""30li assessor"" crossed out"	£5 1s
+25	StMColechurch	780	41	162	158		Thomas		app	n	n	n			g3s
+25	StMColechurch	781	41	162	158		John		app	n	n	n			g3s
+25	StMColechurch	782	41	162	158		Isaac		app	n	n	n			g3s
+25	StMColechurch	783	41	163	159					n	n	n	3 maids & 1 servant		g16s
+26	StMColechurch	784	41	164	160	widow; gent	Mary	Box		n	n	y		"poss a new 'house' - no indicator, but a new page…"	£1 13s
+26	StMColechurch	785	41	165	161					n	n	n	her 2 mayd servants	"""4s apeece"""	g8s
+32	StPancras	786	1	1	1		Simon	Deacon	mercht unfree	n	n	n		unclear which assessment applies to which of next three names	£10 1s
+32	StPancras	787	1	2	2		Thomas	Deacon	mercht unfree	n	n	n		unclear which assessment applies to which of next three names	g£10 2s
+32	StPancras	788	1	3	2	esq	Simon	Deacon		n	n	n		inserted later; unclear which assessment applies to which of next three names	g£10 2s
+32	StPancras	789	1	4	3		Robt 	Hall		n	n	n			g2s
+32	StPancras	790	1	5	3		Henry	Portere		n	n	n			g2s
+32	StPancras	791	1	6	4		Jane	Cripps	maid servt	n	n	n			4s
+32	StPancras	792	1	7	5		Tho	May		n	n	n		"""att Mr Deacons"""	1s
+33	StPancras	793	2	8	6		Edward	Gawdron		y	y	n		"""30li rent"""	g14s
+33	StPancras	794	2	8	6					y	y	n	his wife		g14s
+33	StPancras	795	2	8	6					n	n	n	2 children		g14s
+33	StPancras	796	2	9	7		Richard	Heyborne		n	n	n			g2s
+33	StPancras	797	2	10	7		Henry	Bradshaw		n	n	n			g2s
+33	StPancras	798	2	11	8		Tho			n	n	n		"""Tho & Wm Vincent"" - so is Tho's surname Vincent?"	g2s
+33	StPancras	799	2	12	8		Wm	Vincent		n	n	n		"""Tho & Wm Vincent"" - so is Tho's surname Vincent?"	g2s
+33	StPancras	800	2	13	9		Alice	Dawson	maid servant	n	n	n			g8s
+33	StPancras	801	2	13	9		Ann	Foster	maid servant	n	n	n			g8s
+33	StPancras	802	3	14	10		Jacob	Preston		y	n	n		"""30li rent"""	g12s
+33	StPancras	803	3	14	10					y	n	n	his wife		g12s
+33	StPancras	804	3	15	11		John	Rawlinson		n	n	n			g3s
+33	StPancras	805	3	16	11		John	Farewell		n	n	n			g3s
+33	StPancras	806	3	17	11		Wm	Post		n	n	n			g3s
+33	StPancras	807	3	18	12		Mary	Deacon	maid servt	n	n	n			g8s
+33	StPancras	808	3	18	12		Mary	Salmon	maid servt	n	n	n			g8s
+33	StPancras	809	3	19	13		Thomas	Aldred		n	n	n			g2s
+33	StPancras	810	3	20	13		Samll	Douce		n	n	n			g2s
+33	StPancras	811	4	21	14		George	Broome		y	n	n		"""30li rent"""	g12s
+33	StPancras	812	4	21	14					y	n	n	his wife		g12s
+33	StPancras	813	4	22	15		Peeter	Newlye		n	n	n			1s
+33	StPancras	814	4	23	16		Susan	Heyward	servt	n	n	n			4s
+33	StPancras	815	5	24	17		Andrew	Kendrick		y	y	n		"""30li rent"""	g14s
+33	StPancras	816	5	24	17					y	y	n	his wife		g14s
+33	StPancras	817	5	24	17					n	n	n	2 children		g14s
+33	StPancras	818	5	25	18		John	Noys	app	n	n	n			g2s
+33	StPancras	819	5	25	18		Charles	Yates	app	n	n	n			g2s
+33	StPancras	820	5	26	19		Susan		maid servant	n	n	n			g8s
+33	StPancras	821	5	26	19		Eliza		maid servant	n	n	n			g8s
+33	StPancras	822	6	27	20		Thomas	Trotman		y	y	n		"""30li rent"""	g13s
+33	StPancras	823	6	27	20					y	y	n	his wife		g13s
+33	StPancras	824	6	27	20					n	n	n	child		g13s
+33	StPancras	825	6	28	21		Wm	Foster		n	n	n		"""wag 6li p~ ann~"""	7s
+33	StPancras	826	6	29	22		George	Savage	app	n	n	n			1s
+33	StPancras	827	6	30	23		Isabell	Egley	maide servt	n	n	n			4s
+33	StPancras	828	7	31	24		Wm	Yard		y	n	y			g2s
+33	StPancras	829	7	31	24					y	n	y	his wife		g2s
+33	StPancras	830	7	31	25		Ann			n	n	n	their maid		3s
+33	StPancras	831	8	32	26		Richard	Beavers		y	n	n			g2s
+33	StPancras	832	8	32	26					y	n	n	his wife		g2s
+33	StPancras	833	8	33	27		Sarah	Beavers		n	n	n			g2s
+33	StPancras	834	8	34	27		Richd	Crowley		n	n	n			g2s
+33	StPancras	835	9	35	28		Wm	Elbridge		y	n	n			g2s
+33	StPancras	836	9	35	28					y	n	n	his wife		g2s
+33	StPancras	837	9	36	29		Thomas	Thorpe		y	n	n			g2s
+33	StPancras	838	9	36	29					y	n	n	his wife		g2s
+33	StPancras	839	9	37	30		Mary	Steevens	maid servt	n	n	n			3s
+33	StPancras	840	10	38	31		George	Copping		y	y	n			g5s
+33	StPancras	841	10	38	31					y	y	n	his wife		g5s
+33	StPancras	842	10	38	31					n	n	n	3 children		g5s
+33	StPancras	843	10	39	32		Daniell	Evins	app	n	n	n			g2s
+33	StPancras	844	10	39	32		Tho	Atkins	app	n	n	n			g2s
+33	StPancras	845	10	40	33		Elizabeth	Gamball		n	n	n			1s
+33	StPancras	846	11	41	34		Richard	Franck		n	n	n			g2s
+33	StPancras	847	11	42	34		Christo	Shackcloft		n	n	n			g2s
+33	StPancras	848	11	43	35		Tho	Watkins		n	n	n		"""30li rent"""	11s
+33	StPancras	849	11	44	36		Wm	Smith		y	n	n			g2s
+33	StPancras	850	11	44	36					y	n	n	his wife		g2s
+33	StPancras	851	11	45	37		James	Cart		n	n	n			g2s
+33	StPancras	852	11	46	37		Wm	Browne		n	n	n			g2s
+33	StPancras	853	11	47	38		Judith	Bradwell	maid servt	n	n	n			4s
+33	StPancras	854	12	48	39		David	Budden		y	y	n			g3s
+33	StPancras	855	12	48	39					y	y	n	his wife		g3s
+33	StPancras	856	12	48	39					n	n	n	his son		g3s
+33	StPancras	857	12	49	40		Alice	Hilliard		n	n	n			g2s
+33	StPancras	858	12	50	40		Samll	Antrim		n	n	n			g2s
+33	StPancras	859	12	51	41		Thomas	Shroone		n	n	n	lodger		1s
+33	StPancras	860	12	52	42		Thomas	Hayward		y	n	n			g2s
+33	StPancras	861	12	52	42					y	n	n	his wife		g2s
+33	StPancras	862	12	53	43	Dr	Henry	Sampson		y	n	n			g£5 2s
+33	StPancras	863	12	53	43					y	n	n	his wife		g£5 2s
+33	StPancras	864	12	54	44		John	Bridg		y	y	n		"""30li rent"""	g14s
+33	StPancras	865	12	54	44					y	y	n	his wife		g14s
+33	StPancras	866	12	54	44					n	n	n	child		g14s
+33	StPancras	867	12	55	44		Robt	[blank]		n	n	n			g14s
+33	StPancras	868	12	56	45		Tho	Kemp	prentice	n	n	n			g6s
+33	StPancras	869	12	56	45		Henry	Glover	prentice	n	n	n			g6s
+33	StPancras	870	12	57	45		Jane	Browne	maid servt	n	n	n			g6s
+34	StPancras	871	12	58	46		Nathaniell	Sampson		n	n	n		"""att Dr Sampsons"""	g2s
+34	StPancras	872	12	59	46		Samuell	Ryley		n	n	n		"""att Dr Sampsons"""	g2s
+34	StPancras	873	12	60	47		Sara		maid servt	n	n	n		"""att Dr Sampsons"""	4s
+34	StPancras	874	12	61	48		Michaell	Veskeene	mercht unfree	n	n	n		"""gent"" crossed out"	£10 1s
+34	StPancras	875	12	62	49		Dobias	Bridge		n	n	n			g2s
+34	StPancras	876	12	63	49		Ben	Wilson		n	n	n			g2s
+34	StPancras	877	13	64	50		Maurice	Williams	mercht unfree	y	n	n			£10 2s
+34	StPancras	878	13	64	50					y	n	n	his wife		£10 2s
+34	StPancras	879	13	65	51		Christo	Cary		n	n	n			g3s
+34	StPancras	880	13	66	51		Austin	Benson		n	n	n			g3s
+34	StPancras	881	13	67	51		Chr	Ham		n	n	n			g3s
+34	StPancras	882	13	68	52		Katherine	Hudson	maid servant	n	n	n			4s
+34	StPancras	883	13	69	53		Francis	Ambler		n	n	n		"""3li wages p~ ann~"""	4s
+34	StPancras	884	14	70	54		Thomas	Deane		n	n	n		"""30li rent"""	g13s
+34	StPancras	885	14	71	54		Joseph	Shamatt		n	n	n			g13s
+34	StPancras	886	14	72	54		Ed 	Tempest		n	n	n			g13s
+34	StPancras	887	14	73	55		Alexander	Londen		n	n	n		"""40s p~ ann~"""	3s
+34	StPancras	888	14	74	56		John	Putt		n	n	n		"""10li p~ ann~ wages"""	11s
+34	StPancras	889	14	75	57		Jeane	Steward	maid servt	n	n	n			4s
+34	StPancras	890	15	76	58		Thomas	Cooper		y	y	n			g6s
+34	StPancras	891	15	76	58					y	y	n	his wife		g6s
+34	StPancras	892	15	76	58					n	n	n	4 children		g6s
+34	StPancras	893	15	77	59		Mary	Twig	maid servt	n	n	n			g6s
+34	StPancras	894	15	77	59		Mary	Duckworth	maid servt	n	n	n			g6s
+34	StPancras	895	15	78	60		John	Reynolds		n	n	n		"""4li p~ ann~ wages"""	5s
+34	StPancras	896	16	79	61		Edward	Boldnest		y	n	n			g2s
+34	StPancras	897	16	79	61					y	n	n	his wife		g2s
+34	StPancras	898	16	80	62					n	n	n	2 children	presumably of Edward Boldnest?	g2s
+34	StPancras	899	16	81	63		Andrew	Holdworth		n	n	n			1s
+34	StPancras	900	16	82	64		Joane		maid servt	n	n	n			g6s
+34	StPancras	901	16	82	64		Hannah		maid servt	n	n	n			g6s
+34	StPancras	902	16	83	65		Henry	Nye		n	n	n			g2s
+34	StPancras	903	16	84	65		Lawrence	Hatsell		n	n	n			g2s
+34	StPancras	904	17	85	66		Isaac	Browne		y	y	n		"""30li rent"""	g13s
+34	StPancras	905	17	85	66					y	y	n	his wife		g13s
+34	StPancras	906	17	85	66					n	n	n	child		g13s
+34	StPancras	907	17	86	67		Katherine		maid servt	n	n	n			3s
+34	StPancras	908	18	87	68		Thomas	Walton	scrivener	y	y	n		"""30li rent""; ""& practise"" inserted"	g£1 7s
+34	StPancras	909	18	87	68					y	y	n	his wife		g£1 7s
+34	StPancras	910	18	87	68					n	n	n	4 children		g£1 7s
+34	StPancras	911	18	88	68		Ann	Berry		n	n	n			g£1 7s
+34	StPancras	912	18	89	69		George	Street	app	n	n	n			g2s
+34	StPancras	913	18	89	69		Robt	Underwood	app	n	n	n			g2s
+34	StPancras	914	18	90	70		Sarah	Brooks	maid servt	n	n	n			4s
+34	StPancras	915	19	91	71		Tho	Wright		n	y	n		"""30li rent""; ""assessor"" crossed out"	11s
+34	StPancras	916	19	91	72					n	n	n	his daughter		1s
+34	StPancras	917	19	92	73		Robt	Nelurd	prentice	n	n	n			g2s
+34	StPancras	918	19	92	73		August	Holt	prentice	n	n	n			g2s
+34	StPancras	919	19	93	74		Mary	Griniway	maid servt	n	n	n			4s
+34	StPancras	920	20	94	75	gent	John	Crow 		n	n	n			£1 1s
+34	StPancras	921	20	95	76		John	Lawrence		n	y	n			g4s
+34	StPancras	922	20	95	76					n	y	n	his mother		g4s
+34	StPancras	923	20	95	76					n	n	n	2 children		g4s
+34	StPancras	924	20	96	77		Elias	Lawrence		n	n	n			1s
+34	StPancras	925	20	97	78		Elizabeth		maid servt	n	n	n			3s
+34	StPancras	926	21	98	79		Robert	Tooley		y	y	n			g4s
+34	StPancras	927	21	98	79					y	y	n	his wife		g4s
+34	StPancras	928	21	98	79					n	n	n	2 children		g4s
+34	StPancras	929	22	99	80		Henry	Bengough		y	y	n			g4s
+34	StPancras	930	22	99	80					y	y	n	his wife		g4s
+34	StPancras	931	22	99	80					n	n	n	2 children		g4s
+34	StPancras	932	22	100	81		George	Billers		y	n	n		"""30li rent"""	g12s
+34	StPancras	933	22	100	81					y	n	n	his wife		g12s
+34	StPancras	934	22	101	82		Henry	Egleton	prentice	n	n	n			1s
+34	StPancras	935	22	102	83		Hannah	Cooper	maid servt	n	n	n			4s
+34	StPancras	936	23	103	84		Martin	Sampson		y	n	n		"""30li rent"""	g12s
+34	StPancras	937	23	103	84					y	n	n	his wife		g12s
+34	StPancras	938	23	104	85		Hannah	Craddocck	app	n	n	n			g2s
+34	StPancras	939	23	104	85		Hanna	Attwood	app	n	n	n			g2s
+34	StPancras	940	23	105	86		James	Maddison		n	n	n			1s
+35	StPancras	941	24	106	87		John	Cane		y	n	n		"""30li rent"""	g12s
+35	StPancras	942	24	106	87					y	n	n	his wife	"""30li rent"""	g12s
+35	StPancras	943	24	107	88		Wm	Broughton		n	n	n			1s
+35	StPancras	944	24	108	89		Thomas	Edmunds		n	n	n			1s
+35	StPancras	945	24	109	90		Jane			n	n	n		"""one att 3li the other noe wages"""	g5s
+35	StPancras	946	24	109	90		Margarett			n	n	n		"""one att 3li the other noe wages"""	g5s
+35	StPancras	947	25	110	91		Robert	Abell		y	n	n		"""30li rent"""	g12s
+35	StPancras	948	25	110	91		Elizabeth			y	n	n	his wife		g12s
+35	StPancras	949	25	111	92		John 	Abell	prentice	n	n	n			g2s
+35	StPancras	950	25	111	92		Joseph	Clayton	prentice	n	n	n			g2s
+35	StPancras	951	25	112	93		Charles	Hilliard	prentice	n	n	n			g2s
+35	StPancras	952	25	112	93		James	Lashly	prentice	n	n	n			g2s
+35	StPancras	953	25	113	94		Joane	Wale	servt	n	n	n			4s
+
+
+		Collectors for these parishes: Richard Hardmeate in Colechurch

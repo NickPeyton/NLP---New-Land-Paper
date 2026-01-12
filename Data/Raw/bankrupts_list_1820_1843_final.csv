@@ -1,0 +1,391 @@
+text,surname,surname_id,recipient_match,control_match,recipient_surname,control_surname,metaphone,soundex,surname_mp_se,mp_se_id,u_id,found_control_group,recipient_control_group,found_treatment_group,recipient_treatment_group,id,s_m,recipient_treatment_group_43,recipient_control_group_43,recipient_treatment_group_post_43,recipient_control_group_post_43,rando_group,recipient_grant_value
+"Adams, Henry, Totnes, Devon, merchant Sep 20, 1842",Adams,15.0,0.0,0.0,0.0,0.0,ATMS,A3052,ATMS A3052,15.0,15.0,0,0,0,0,35.0,A3052 ATMS,0,0,0,0,0,0.0
+"Angelly, Anthony. Devonport, victualler, March 11, 1824",Angelly,12952.0,0.0,0.0,0.0,0.0,ANJL,A52040,ANJL A52040,12952.0,12952.0,0,0,0,0,177.0,A52040 ANJL,0,0,0,0,0,0.0
+"Angelly, Anthony, Devonport, victualler, March 11, 1826",Angelly,12952.0,0.0,0.0,0.0,0.0,ANJL,A52040,ANJL A52040,12952.0,12952.0,0,0,0,0,177.0,A52040 ANJL,0,0,0,0,0,0.0
+"Anthony, Charles and John, Devonport, grocers, April 24, 1827",Anthony,107.0,0.0,0.0,0.0,0.0,AN0N,A53050,AN0N A53050,107.0,107.0,0,0,0,0,203.0,A53050 AN0N,0,0,0,0,0,0.0
+"Arnold, Charles, Axminster, Devon, surgeon and apothecary, Feb 11, 1823",Arnold,127.0,0.0,0.0,0.0,0.0,ARNLT,A65043,ARNLT A65043,127.0,127.0,0,0,0,0,10723.0,A65043 ARNLT,0,0,0,0,0,0.0
+"Arscott, Samuel, Buckfastleigh, Devon, wool dealer, March 13, 1826",Arscott,,0.0,0.0,0.0,0.0,ARSKT,A6203,ARSKT A6203,129.0,129.0,0,0,0,0,5060.0,A6203 ARSKT,0,0,0,0,0,0.0
+"Arthur, John, Colyton, Devon, paper manufacturer, April 14, 1837",Arthur,131.0,0.0,0.0,0.0,0.0,AR0R,A6306,AR0R A6306,131.0,131.0,0,0,0,0,7464.0,A6306 AR0R,0,0,0,0,0,0.0
+"Austin, John, Devonport, linen draper, Apr 20, 1824",Austin,161.0,0.0,0.0,0.0,0.0,ASTN,A02305,ASTN A02305,161.0,161.0,0,0,0,0,7488.0,A02305 ASTN,0,0,0,0,0,0.0
+"Avery, John, Barnstaple, Devonshire, shopkeeper, Apr 24, 1821",Avery,168.0,0.0,0.0,0.0,0.0,AFR,A1060,AFR A1060,168.0,168.0,0,0,0,0,348.0,A1060 AFR,0,0,0,0,0,0.0
+"Baker, John, Sidmouth, Devonshire, brewer, March 30, 1841",Baker,473.0,0.0,0.0,0.0,0.0,PKR,B0206,PKR B0206,473.0,473.0,0,0,0,0,410.0,B0206 PKR,0,0,0,0,0,0.0
+"Baker, William, Rew, Devonshire, farmer, March 20, 1822",Baker,473.0,0.0,0.0,0.0,0.0,PKR,B0206,PKR B0206,473.0,473.0,0,0,0,0,410.0,B0206 PKR,0,0,0,0,0,0.0
+"Baldwyn, Jonathon Flower, Tiverton, Devonshire,, linen draper, June 3, 1826",Baldwyn,,0.0,0.0,0.0,0.0,PLTN,B04305,PLTN B04305,9369.0,9369.0,0,0,0,0,7895.0,B04305 PLTN,0,0,0,0,0,0.0
+"Balkwill, Francis, Plymouth, corn factor, April 5, 1833",Balkwill,192.0,0.0,0.0,0.0,0.0,PLKL,B04204,PLKL B04204,192.0,192.0,0,0,0,0,418.0,B04204 PLKL,0,0,0,0,0,0.0
+"Ball, John, Salcombe, Devonshire, shipbuilder, July 31, 1838",Ball,698.0,0.0,0.0,0.0,0.0,PL,B040,PL B040,698.0,698.0,0,0,0,0,6129.0,B040 PL,0,0,0,0,0,0.0
+"Barber, James, Biddeford, Devonshire, grover, June 19, 1832",Barber,236.0,0.0,0.0,0.0,0.0,PRPR,B06106,PRPR B06106,236.0,236.0,0,0,0,0,465.0,B06106 PRPR,0,0,0,1,0,0.0
+"Bartlett, Christopher, Plymouth, ship owner, March 30, 1827",Bartlett,357.0,0.0,0.0,0.0,0.0,PRTLT,B063403,PRTLT B063403,357.0,357.0,0,0,0,0,539.0,B063403 PRTLT,0,0,0,0,0,0.0
+"Bartlett, William Edwards and John, Devonport, carpenters, June 13, 1837",Bartlett,357.0,0.0,0.0,0.0,0.0,PRTLT,B063403,PRTLT B063403,357.0,357.0,0,0,0,0,539.0,B063403 PRTLT,0,0,0,0,0,0.0
+"Batt, James, Torquay, Devonshire, hotel keeper, March 5, 1839",Batt,,0.0,0.0,0.0,0.0,PT,B030,PT B030,734.0,734.0,0,0,0,0,378.0,B030 PT,0,0,0,0,0,0.0
+"Bawden, John, Devonport, painter, June 5, 1832",Bawden,,0.0,0.0,0.0,0.0,PTN,B0305,PTN B0305,551.0,551.0,0,0,0,0,390.0,B0305 PTN,0,0,0,0,0,0.0
+"Bell, Jacob, Exmouth, Devonshire, coal factor, Sept 10, 1833",Bell,,0.0,0.0,0.0,0.0,PL,B040,PL B040,698.0,698.0,0,0,0,0,6158.0,B040 PL,0,0,0,0,0,0.0
+"Bennett, John Johns, Plymouth, linen draper, June 16, 1829",Bennett,340.0,0.0,0.0,0.0,0.0,PNT,B0503,PNT B0503,340.0,340.0,0,0,0,0,734.0,B0503 PNT,0,0,0,0,0,0.0
+"Bickley, Daniel, Devonport, cabinet maker, Oct 22, 1839",Bickley,,0.0,0.0,0.0,0.0,PKL,B0240,PKL B0240,390.0,390.0,0,0,0,0,901.0,B0240 PKL,0,0,0,0,0,0.0
+"Blake, Edward, Devonport, draper, Aug 21, 1840",Blake,433.0,0.0,0.0,0.0,0.0,PLK,B4020,PLK B4020,433.0,433.0,0,0,0,0,936.0,B4020 PLK,0,0,0,0,0,0.0
+"Blake, Samuel Atkins, Plymouth, ironmonger, Dec 27, 1831",Blake,433.0,0.0,0.0,0.0,0.0,PLK,B4020,PLK B4020,433.0,433.0,0,0,0,0,936.0,B4020 PLK,0,0,0,0,0,0.0
+"Blamy, George, Kingsbridge, Devonshire, baker, Feb 9, 1841",Blamy,,0.0,0.0,0.0,0.0,PLM,B4050,PLM B4050,11873.0,11873.0,0,0,0,0,943.0,B4050 PLM,0,0,0,0,0,0.0
+"Blatchford, Peter, Plymouth, miller, Dec 6, 1842",Blatchford,10892.0,0.0,0.0,0.0,0.0,PLXFRT,B403201063,PLXFRT B403201063,10892.0,10892.0,0,0,0,0,906.0,B403201063 PLXFRT,0,0,0,0,0,0.0
+"Bond, Samuel, jun, Honiton, Devonshire, coach maker, May 14, 1830",Bond,503.0,0.0,0.0,0.0,0.0,PNT,B053,PNT B053,503.0,503.0,0,0,0,0,1071.0,B053 PNT,0,0,0,0,0,0.0
+"Bowditch, William, Exeter, grocer, Feb 12, 1833",Bowditch,10924.0,0.0,0.0,0.0,0.0,PTX,B030320,PTX B030320,10924.0,10924.0,0,0,0,0,1176.0,B030320 PTX,0,0,0,0,0,0.0
+"Bowen, William, Barnstaple and Tiverton, mercer and draper, May 30, 1826",Bowen,570.0,0.0,0.0,0.0,0.0,PN,B050,PN B050,570.0,570.0,0,0,0,0,1180.0,B050 PN,0,0,0,0,0,0.0
+"Boyce, George, Tiverton, Devonshire, bookseller, Dec 30, 1834",Boyce,,0.0,0.0,0.0,0.0,PS,B020,PS B020,729.0,729.0,0,0,0,0,1641.0,B020 PS,0,0,0,0,0,0.0
+"Bray, Daniel, Plymouth Dock, victualler, Dec 1, 1821",Bray,593.0,0.0,0.0,0.0,0.0,PR,B600,PR B600,593.0,593.0,0,0,0,0,1288.0,B600 PR,0,0,0,0,0,0.0
+"Bright, Thomas Rundle, Devonport, ironmonger, Oct 28, 1831",Bright,635.0,0.0,0.0,0.0,0.0,PRT,B60203,PRT B60203,635.0,635.0,0,0,0,0,1586.0,B60203 PRT,0,0,0,0,0,0.0
+"Brimacombe, William, Totness, Devonshire, plumber, Feb 4, 1831",Brimacombe,,0.0,0.0,0.0,0.0,PRMKMP,B605020510,PRMKMP B605020510,4867.0,4867.0,0,0,0,0,1357.0,B605020510 PRMKMP,0,0,0,0,0,0.0
+"Broderick, James, Plymouth, merchant, Oct 1, 1833",Broderick,13049.0,0.0,0.0,0.0,0.0,PRTRK,B6030602,PRTRK B6030602,13049.0,13049.0,0,0,0,0,1417.0,B6030602 PRTRK,0,0,0,0,0,0.0
+"Brown, Alexander, Plymouth, Devonshire, ship builder, Nov 11, 1823",Brown,673.0,0.0,0.0,0.0,0.0,PRN,B605,PRN B605,673.0,673.0,0,0,0,0,1447.0,B605 PRN,0,0,0,0,0,0.0
+"Brown, Edward; Joseph Davey and Thomas Davey, Collumpton, Devonshire, woollen manufacturers Jan 20, 1835",Brown,673.0,0.0,0.0,0.0,0.0,PRN,B605,PRN B605,673.0,673.0,0,0,0,0,1447.0,B605 PRN,0,0,0,0,0,0.0
+"Brown, Evander, Chudleigh, Devonshire, draper, Sep 25, 1840",Brown,673.0,0.0,0.0,0.0,0.0,PRN,B605,PRN B605,673.0,673.0,0,0,0,0,1447.0,B605 PRN,0,0,0,0,0,0.0
+"Burch, Charles, Barnstaple, auctioneer and innkeeper, Oct 29, 1839",Burch,,0.0,0.0,0.0,0.0,PRX,B0620,PRX B0620,414.0,414.0,0,0,0,0,869.0,B0620 PRX,0,0,0,0,0,0.0
+"Burgoyne, William, Plymouth, builder, Feb 18, 1842",Burgoyne,,0.0,0.0,0.0,0.0,PRKN,B062050,PRKN B062050,10699.0,10699.0,0,0,0,0,1534.0,B062050 PRKN,0,0,0,0,0,0.0
+"Burnard, Thomas, Bideford, D'shire, merchant, April 20, 1841",Burnard,527.0,0.0,0.0,0.0,0.0,PRNRT,B065063,PRNRT B065063,527.0,527.0,0,0,0,0,1613.0,B065063 PRNRT,0,0,0,0,0,0.0
+"Bynon, Richard, Devonport, clothers dealer, April 19, 1839",Bynon,12279.0,0.0,0.0,0.0,0.0,PNN,B0505,PNN B0505,12279.0,12279.0,0,0,0,0,863.0,B0505 PNN,0,0,0,0,0,0.0
+"Clarke, Gustavus, Newton, Devonshire, ship owner,, Dec 18, 1838",Clarke,926.0,0.0,0.0,0.0,0.0,KLRK,C40620,KLRK C40620,926.0,926.0,0,0,0,0,2132.0,C40620 KLRK,0,0,0,0,0,0.0
+"Clay, Gustavus, Totness, Devonshire, builder, Jul 13, 1822",Clay,,0.0,0.0,0.0,0.0,KL,C400,KL C400,955.0,955.0,0,0,0,0,2146.0,C400 KL,0,0,0,0,0,0.0
+"Cork, Edward, Plymouth, linen draper, Feb 14, 1840",Cork,11862.0,0.0,0.0,0.0,0.0,KRK,C062,KRK C062,11862.0,11862.0,0,0,0,0,2394.0,C062 KRK,0,0,0,0,0,0.0
+"Cogan, William, Plymouth, Devonshire, builder, March 19, 1839",Cogan,979.0,0.0,0.0,0.0,0.0,KKN,C0205,KKN C0205,979.0,979.0,0,0,0,0,2262.0,C0205 KKN,0,0,0,0,0,0.0
+"Cole, Thomas, East Stonehouse, Plymouth, plumber and glazier, June 12, 1827",Cole,1217.0,0.0,0.0,0.0,0.0,KL,C040,KL C040,1217.0,1217.0,0,0,0,0,2293.0,C040 KL,0,0,0,0,0,0.0
+"Coles, Samuel, Exeter, innkeeper, July 5, 1823",Coles,,0.0,0.0,0.0,0.0,KLS,C0402,KLS C0402,1010.0,1010.0,0,0,0,0,2293.0,C0402 KLS,0,0,0,0,0,0.0
+"Collecott, William, Plymouth, grocer, Oct 25, 1833",Collecott,,0.0,0.0,0.0,0.0,KLKT,C040203,KLKT C040203,991.0,991.0,0,0,0,0,2278.0,C040203 KLKT,0,0,0,0,0,0.0
+"Collins, William, Devonport, Devonshire, baker, Nov 18, 1842",Collins,,0.0,0.0,0.0,0.0,KLNS,C04052,KLNS C04052,8400.0,8400.0,0,0,0,0,2293.0,C04052 KLNS,0,0,0,0,0,0.0
+"Colson, William, Plymouth, Devonshire, grocer, May 21, 1822",Colson,12152.0,0.0,0.0,0.0,0.0,KLSN,C04205,KLSN C04205,12152.0,12152.0,0,0,0,0,1885.0,C04205 KLSN,0,0,0,0,0,0.0
+"Colston, Nicholas, Brixham, Devonshire, draper, June 25, 1839",Colston,,0.0,0.0,0.0,0.0,KLSTN,C042305,KLSTN C042305,12631.0,12631.0,0,0,0,0,1885.0,C042305 KLSTN,0,0,0,0,0,0.0
+"Congdon, Thomas, Torquay, Devonshire, merchant, Feb 26, 1822",Congdon,10816.0,0.0,0.0,0.0,0.0,KNKTN,C052305,KNKTN C052305,10816.0,10816.0,0,0,0,0,2340.0,C052305 KNKTN,0,0,0,0,0,0.0
+"Cooke, John, Barnstaple, Devonshire, linen and woollen draper, Sep 21, 1824",Cooke,1212.0,0.0,0.0,0.0,0.0,KK,C020,KK C020,1212.0,1212.0,0,0,0,0,2213.0,C020 KK,0,0,0,0,0,0.0
+"Cooke, William, Exeter, saddler and coach maker, May 25, 1827",Cooke,1212.0,0.0,0.0,0.0,0.0,KK,C020,KK C020,1212.0,1212.0,0,0,0,0,2213.0,C020 KK,0,0,0,0,0,0.0
+"Coombe, John, Exeter, ironmonger, July 11, 1837",Coombe,,0.0,0.0,0.0,0.0,KMP,C0510,KMP C0510,1032.0,1032.0,0,0,0,0,2369.0,C0510 KMP,0,0,0,0,0,0.0
+"Coombe, William, Great Torrington, Devonshire, builder, Aug 28, 1838",Coombe,,0.0,0.0,0.0,0.0,KMP,C0510,KMP C0510,1032.0,1032.0,0,0,0,0,2369.0,C0510 KMP,0,0,0,0,0,0.0
+"Coplestone, Joseph, Exeter, grocer, Aug 18, 1837",Coplestone,1053.0,0.0,0.0,0.0,0.0,KPLSTN,C014023050,KPLSTN C014023050,1053.0,1053.0,0,0,0,0,2384.0,C014023050 KPLSTN,0,0,0,1,0,0.0
+"Copplestone, Jacob, Plymouth, Devonshire, grocer, July 16, 1841",Copplestone,11767.0,0.0,0.0,0.0,0.0,KPSTN,C014023050,KPSTN C014023050,11767.0,11767.0,0,0,0,0,2384.0,C014023050 KPSTN,0,0,0,1,0,0.0
+"Cowell, John, jun, Torquay, wine merchant, Aug 6, 1822",Cowell,1217.0,0.0,0.0,0.0,0.0,KL,C040,KL C040,1217.0,1217.0,0,0,0,0,2293.0,C040 KL,0,0,0,0,0,0.0
+"Cox, Samuel Molland, Exeter, money scrivener, June 18, 1844",Cox,,0.0,0.0,0.0,0.0,KKS,C020,KKS C020,8442.0,8442.0,0,0,0,0,2213.0,C020 KKS,0,0,0,0,0,0.0
+"Cox, Thomas, Credition, Devonshire, innkeeper, Jul 21, 1821",Cox,,0.0,0.0,0.0,0.0,KKS,C020,KKS C020,8442.0,8442.0,0,0,0,0,2213.0,C020 KKS,0,0,0,0,0,0.0
+"Cree, John, Devonport, Devonshire, linen draper, May 3, 1842",Cree,,0.0,0.0,0.0,0.0,KR,C600,KR C600,1204.0,1204.0,0,0,0,0,2215.0,C600 KR,0,0,0,0,0,0.0
+"Crees, William, East Stonehouse, Devonshire, merchant, Nov 6, 1829",Crees,,0.0,0.0,0.0,0.0,KRS,C602,KRS C602,1210.0,1210.0,0,0,0,0,2557.0,C602 KRS,0,0,0,0,0,0.0
+"Cridland, Henry, Totnes, Devonshire, saddler and harness maker, Dec 15, 1842",Cridland,6956.0,0.0,0.0,0.0,0.0,KRTLNT,C6034053,KRTLNT C6034053,6956.0,6956.0,0,0,0,0,2550.0,C6034053 KRTLNT,0,0,0,0,0,0.0
+"Crockwell, Samuel, Torquay, Devonshire, builder, Sep 13, 1831",Crockwell,,0.0,0.0,0.0,0.0,KRKL,C60204,KRKL C60204,1180.0,1180.0,0,0,0,0,2507.0,C60204 KRKL,0,0,0,0,0,0.0
+"Crockwell, Samuel, Torquay, Devonshire, wine and spirit merchant, April 19, 1836",Crockwell,,0.0,0.0,0.0,0.0,KRKL,C60204,KRKL C60204,1180.0,1180.0,0,0,0,0,2514.0,C60204 KRKL,0,0,0,0,0,0.0
+"Cuming, Richard, Plymouth, ship owner, Jan 24, 1837",Cuming,,0.0,0.0,0.0,0.0,KMNK,C05052,KMNK C05052,1029.0,1029.0,0,0,0,0,5858.0,C05052 KMNK,0,0,0,0,0,0.0
+"Dare Thomas, New town, Exeter, builder, May 14, 1841.",Dare,1465.0,0.0,0.0,0.0,0.0,TR,D060,TR D060,1465.0,1465.0,0,0,0,0,2797.0,D060 TR,0,0,0,0,0,0.0
+"Davies John; & Frederick Dickerson; Plymouth, merchants, Sept. 14, 1841.",Davies,10815.0,0.0,0.0,0.0,0.0,TFS,D0102,TFS D0102,10815.0,10815.0,0,0,0,0,2833.0,D0102 TFS,0,0,0,0,0,0.0
+"Davis George, East Stonehouse, Devonshire, ship builder, April 30, 1822.",Davis,,0.0,0.0,0.0,0.0,TFS,D0102,TFS D0102,10815.0,10815.0,0,0,0,0,2833.0,D0102 TFS,0,0,0,0,0,0.0
+"Davy Joseph, Devonport, brewer, March 29, 1831.",Davy,1408.0,0.0,0.0,1.0,0.0,TF,D010,TF D010,1408.0,1408.0,0,0,0,0,2831.0,D010 TF,0,0,0,0,0,0.0
+"Dawe Francis ; & Thos. Guppy; Axminster, Devonshire, millers, Nov. 5, 1830.",Dawe,1464.0,0.0,0.0,0.0,0.0,T,D000,T D000,1464.0,1464.0,0,0,0,0,2836.0,D000 T,0,0,0,0,0,0.0
+"Dawe Joseph, Hellingtown mills, Devonshire, miller, May 15, 1824.",Dawe,1464.0,0.0,0.0,0.0,0.0,T,D000,T D000,1464.0,1464.0,0,0,0,0,2836.0,D000 T,0,0,0,0,0,0.0
+"Dawe Thomas, East Stonehouse, Devonshire, painter & glazier, Feb. 24, 1835.",Dawe,1464.0,0.0,0.0,0.0,0.0,T,D000,T D000,1464.0,1464.0,0,0,0,0,2836.0,D000 T,0,0,0,0,0,0.0
+"Dennis John, Devonport, Devonshire, baker, Oct. 1, 1839.",Dennis,,1.0,0.0,0.0,0.0,TNS,D0502,TNS D0502,1456.0,1456.0,0,0,0,1,2912.0,D0502 TNS,1,0,0,0,0,2236.0
+"Dicker George, Dawlish, Devonshire, builder, Feb. 2, 1822.",Dicker,,0.0,0.0,0.0,0.0,TKR,D0206,TKR D0206,1352.0,1352.0,0,0,0,0,2868.0,D0206 TKR,0,0,0,0,0,0.0
+"Dicker John, Crockernwell, Devonshire, innkeeper, July 2, 1822.",Dicker,,0.0,0.0,0.0,0.0,TKR,D0206,TKR D0206,1352.0,1352.0,0,0,0,0,2868.0,D0206 TKR,0,0,0,0,0,0.0
+"Dinham John, Exeter, grocer and jeweller, May 20, 1826.",Dinham,1358.0,0.0,0.0,0.0,0.0,TNM,D0505,TNM D0505,1358.0,1358.0,0,0,0,0,3001.0,D0505 TNM,0,0,0,0,0,0.0
+"Down Nicholas, Lifton, Devonshire, linen draper, Nov. 10, 1840.",Down,,0.0,0.0,0.0,0.0,TN,D050,TN D050,1448.0,1448.0,0,0,0,0,3112.0,D050 TN,0,0,0,0,0,0.0
+"Drake Francis Horatio Nelson, Colyton, Devonshire, tile dealer, April 13, 1832.",Drake,1423.0,0.0,0.0,1.0,0.0,TRK,D6020,TRK D6020,1423.0,1423.0,0,0,1,1,3126.0,D6020 TRK,0,0,1,0,0,681.3095238000001
+"Drew Thomas, Exeter, and Hills court, Devon, linen draper, June 15, 1824.",Drew,,0.0,0.0,0.0,0.0,TR,D600,TR D600,1431.0,1431.0,0,1,0,0,3162.0,D600 TR,0,1,0,0,0,0.0
+"Drew Thomas, Exeter, draper and haberdasher, April 8, 1826.",Drew,,0.0,0.0,0.0,0.0,TR,D600,TR D600,1431.0,1431.0,0,1,0,0,3162.0,D600 TR,0,1,0,0,0,0.0
+"Drew Thomas, High street, Exeter, linen draper & silk mercer, Feb. 13,1829.",Drew,,0.0,0.0,0.0,0.0,TR,D600,TR D600,1431.0,1431.0,0,1,0,0,3162.0,D600 TR,0,1,0,0,0,0.0
+"Dunn William, Barnstaple, Devonshire, currier, Feb. 17, 1843.",Dunn,,0.0,0.0,0.0,0.0,TN,D050,TN D050,1448.0,1448.0,0,0,0,0,3072.0,D050 TN,0,0,0,0,0,0.0
+"Dyer Robert, Exeter, druggist, May 1, 1827.",Dyer,1465.0,0.0,0.0,1.0,0.0,TR,D060,TR D060,1465.0,1465.0,0,0,0,0,2840.0,D060 TR,0,0,0,0,0,0.0
+"Eads John, Stonehouse, Devonport, linen draper, Dec. 2, 1834.",Eads,13050.0,0.0,0.0,0.0,0.0,ATS,E032,ATS E032,13050.0,13050.0,0,0,0,0,3350.0,E032 ATS,0,0,0,0,0,0.0
+"Edwards John Wakeham, Kingsbridge, Devonshire, druggist, Aug. 13, 1839.",Edwards,1479.0,0.0,0.0,0.0,0.0,ATRTS,E30632,ATRTS E30632,1479.0,1479.0,0,0,0,0,3374.0,E30632 ATRTS,0,0,0,0,0,0.0
+"Elliott Joseph, Devonport, Devon, grocer and tea dealer, Aug. 30, 1833.",Elliott,,0.0,0.0,1.0,0.0,ALT,E403,ALT E403,1496.0,1496.0,0,0,0,0,3432.0,E403 ALT,0,0,0,0,0,0.0
+"Evans John, Torquay, Devonshire, ironmonger, Feb. 21, 1843",Evans,1536.0,0.0,0.0,0.0,0.0,AFNS,E1052,AFNS E1052,1536.0,1536.0,0,0,0,0,3517.0,E1052 AFNS,0,0,0,0,0,0.0
+"Ezekiel Benjamin, Tiverton, Devonshire, pawnhroker and draper, Dec. 26, 1834.",Ezekiel,7723.0,0.0,0.0,0.0,0.0,ASKL,E20204,ASKL E20204,7723.0,7723.0,0,0,0,0,3553.0,E20204 ASKL,0,0,0,0,0,0.0
+"Featherstone William Charleton, Exeter, toyman. May 22, 1829.",Featherstone,,0.0,0.0,0.0,0.0,F0RSTN,F030623050,F0RSTN F030623050,11309.0,11309.0,0,0,0,0,3704.0,F030623050 F0RSTN,0,0,0,0,0,0.0
+"Fisher Jabez Henry, Exeter, carver and gilder, Dec. 9, 1828.",Fisher,1612.0,0.0,0.0,0.0,0.0,FXR,F0206,FXR F0206,1612.0,1612.0,0,0,0,0,3757.0,F0206 FXR,0,0,0,0,0,0.0
+"Fittock George, Devonport, Devonshire, grocer and tea dealer, Aug. 18, 1840.",Fittock,7796.0,0.0,0.0,0.0,0.0,FTK,F0302,FTK F0302,7796.0,7796.0,0,0,0,0,10588.0,F0302 FTK,0,0,0,0,0,0.0
+"Fitze George, Totnes, Devonshire, grocer and tea dealer, Nov. 2, 1822.",Fitze,12136.0,0.0,0.0,0.0,0.0,FTS,F0320,FTS F0320,12136.0,12136.0,0,0,0,0,10518.0,F0320 FTS,0,0,0,0,0,0.0
+"Foot Henry, Horrabridge, Devonshire, tailor, Dec. 15, 1840.",Foot,,0.0,0.0,0.0,0.0,FT,F030,FT F030,1656.0,1656.0,0,0,0,0,3852.0,F030 FT,0,0,0,0,0,0.0
+"Force Edward Balle, Exeter, grocer and tea dealer, June 13, 1837.",Force,,0.0,0.0,0.0,0.0,FRS,F0620,FRS F0620,1665.0,1665.0,0,0,0,0,3992.0,F0620 FRS,0,0,0,0,0,0.0
+"Force Henry, Exeter, cabinet maker and upholsterer, Oct. 12, 1830.",Force,,0.0,0.0,0.0,0.0,FRS,F0620,FRS F0620,1665.0,1665.0,0,0,0,0,3992.0,F0620 FRS,0,0,0,0,0,0.0
+"Force John, Exeter, broker, Sept. 6, 1831",Force,,0.0,0.0,0.0,0.0,FRS,F0620,FRS F0620,1665.0,1665.0,0,0,0,0,3992.0,F0620 FRS,0,0,0,0,0,0.0
+"Ford John, Little Dartmouth, Devonshire, lime merchant, Dec. 20, 1823.",Ford,1657.0,0.0,0.0,0.0,0.0,FRT,F063,FRT F063,1657.0,1657.0,0,0,0,0,3831.0,F063 FRT,0,0,0,0,0,0.0
+"Ford William, Exeter, nurseryman, Nov. 29, 1825.",Ford,1657.0,0.0,0.0,0.0,0.0,FRT,F063,FRT F063,1657.0,1657.0,0,0,0,0,3831.0,F063 FRT,0,0,0,0,0,0.0
+"Fowler George, Cullumpton, Devonshire, hosier, May 8, 1821.",Fowler,1682.0,0.0,0.0,0.0,0.0,FLR,F0406,FLR F0406,1682.0,1682.0,0,0,0,0,3789.0,F0406 FLR,0,0,0,0,0,0.0
+"Fox James, Dartmouth, Devonshire, ship owner, June 19, 1821.",Fox,1684.0,0.0,0.0,0.0,0.0,FKS,F020,FKS F020,1684.0,1684.0,0,0,0,0,3891.0,F020 FKS,0,0,0,0,0,0.0
+"Frood Thomas, Plymouth, Devonshire, ironmonger, Aug. 7, 1835.",Frood,,0.0,0.0,0.0,0.0,FRT,F603,FRT F603,10609.0,10609.0,0,0,0,0,3957.0,F603 FRT,0,0,0,0,0,0.0
+"Frost Frederick Spencer, Cowick st., Devon, surgeon & druggist, Mar. 9, 1838.",Frost,1717.0,0.0,0.0,0.0,0.0,FRST,F6023,FRST F6023,1717.0,1717.0,0,0,0,0,3992.0,F6023 FRST,0,0,0,0,0,0.0
+"Gansdin William ; and Judah Jacobs; Barbican, clothes salesmen, Dec. 1, 1829",Gansdin,,0.0,0.0,0.0,0.0,KNSTN,G052305,KNSTN G052305,2001.0,2001.0,0,0,0,0,2347.0,G052305 KNSTN,0,0,0,0,0,0.0
+"Gardner William; & Elizabeth Coombe; Devonport, milliners, Aug. 18, 1829.",Gardner,8751.0,0.0,0.0,0.0,0.0,KRTNR,G063506,KRTNR G063506,8751.0,8751.0,0,0,0,0,4507.0,G063506 KRTNR,0,0,0,0,0,0.0
+"Georges William Payne, Devonport, wine merchant, March 21, 1837.",Georges,7797.0,0.0,0.0,0.0,0.0,JRJS,G06202,JRJS G06202,7797.0,7797.0,0,0,0,0,4160.0,G06202 JRJS,0,0,0,0,0,0.0
+"Germein John, Plymstock, Devonshire, blockmaker, June 9, 1829.",Germein,,0.0,0.0,0.0,0.0,KRMN,G06505,KRMN G06505,1817.0,1817.0,0,0,0,0,2597.0,G06505 KRMN,0,0,0,0,0,0.0
+"Gibbs Thomas, Devonport, tallow chandler and soap maker, Feb. 11, 1826.",Gibbs,1789.0,1.0,0.0,0.0,0.0,KPS,G012,KPS G012,1789.0,1789.0,0,0,1,0,4175.0,G012 KPS,0,0,0,0,0,0.0
+"Gill Hugh, South Molton, Devonshire, lime burner, May 31, 1831.",Gill,1933.0,0.0,0.0,0.0,0.0,KL,G040,KL G040,1933.0,1933.0,0,0,0,0,5616.0,G040 KL,0,0,0,0,0,0.0
+"Gill Jonathan Mudge, Plymouth Dock, linen draper, Feb. 3, 1821.",Gill,1933.0,0.0,0.0,0.0,0.0,KL,G040,KL G040,1933.0,1933.0,0,0,0,0,5616.0,G040 KL,0,0,0,0,0,0.0
+"Gillard George, Plymouth, tea dealer and grocer, Jan. 4, 1842.",Gillard,1838.0,0.0,0.0,0.0,0.0,KLRT,G04063,KLRT G04063,1838.0,1838.0,0,0,0,0,5616.0,G04063 KLRT,0,0,0,0,0,0.0
+"Goodenough Robert, Newton Abbott, Devonsh., woollen draper, Jan. 10, 1843",Goodenough,11905.0,0.0,0.0,0.0,0.0,KTNK,G0305020,KTNK G0305020,11905.0,11905.0,0,0,0,0,4368.0,G0305020 KTNK,0,0,0,0,0,0.0
+"Goodeve James, sen., Devonport, grocer and tea dealer, April 1, 1826.",Goodeve,7798.0,0.0,0.0,0.0,0.0,KTF,G03010,KTF G03010,7798.0,7798.0,0,0,0,0,4352.0,G03010 KTF,0,0,0,0,0,0.0
+"Goss Thomas, Newton Abbott, Devonshire, mercer and draper, Jan. 9, 1829.",Goss,,0.0,0.0,0.0,0.0,KS,G020,KS G020,1919.0,1919.0,0,0,0,0,2079.0,G020 KS,0,0,0,0,0,0.0
+"Grant Donald, Kensington, late Torquay, Devonshire, builder, Feb. 10, 1832.",Grant,1986.0,0.0,0.0,0.0,0.0,KRNT,G6053,KRNT G6053,1986.0,1986.0,0,0,0,0,6185.0,G6053 KRNT,0,0,0,0,0,0.0
+"Green John Wilson, Dartmouth, Devonshire, ship builder, Jan. 3, 1840.",Green,,0.0,0.0,0.0,0.0,KRN,G605,KRN G605,9921.0,9921.0,0,0,0,0,4514.0,G605 KRN,0,0,0,0,0,0.0
+"Greenway James, Plymouth, Devonshire, merchant, June 23, 1838.",Greenway,,0.0,0.0,0.0,0.0,KRN,G6050,KRN G6050,1973.0,1973.0,0,0,0,0,4485.0,G6050 KRN,0,0,0,0,0,0.0
+"Gregory Ann, Torquay, Devonshire, milliner and shopkeeper, Nov. 7, 1828.",Gregory,1968.0,0.0,1.0,0.0,0.0,KRKR,G602060,KRKR G602060,1968.0,1968.0,0,0,0,0,4512.0,G602060 KRKR,0,0,0,0,0,0.0
+"Gresley Philip, Golden lane, Barbican, victualler, Oct. 23, 1838",Gresley,13051.0,0.0,0.0,0.0,0.0,KRSL,G60240,KRSL G60240,13051.0,13051.0,0,0,0,0,4473.0,G60240 KRSL,0,0,0,0,0,0.0
+"Gribble Joseph, Ashhurton, Devonshire, scrivener, Nov. 17, 1835.",Gribble,10526.0,0.0,0.0,0.0,0.0,KRPL,G60140,KRPL G60140,10526.0,10526.0,0,0,0,0,4525.0,G60140 KRPL,0,0,0,0,0,0.0
+"Gribble Richard, Barnstaple, Devonshire, linen draper, May 12, 1821",Gribble,10526.0,0.0,0.0,0.0,0.0,KRPL,G60140,KRPL G60140,10526.0,10526.0,0,0,0,0,4525.0,G60140 KRPL,0,0,0,0,0,0.0
+"Hall William, Plymouth, silversmith and jeweller, Dec. 31, 1833.",Hall,2336.0,0.0,0.0,0.0,0.0,HL,H040,HL H040,2336.0,2336.0,0,0,0,0,4979.0,H040 HL,0,0,0,0,0,0.0
+"Hallett Mary, spinster, Devonport, earthenware dealer, Aug. 4, 1826.",Hallett,,0.0,0.0,0.0,0.0,HLT,H0403,HLT H0403,2138.0,2138.0,0,0,0,0,3432.0,H0403 HLT,0,0,0,0,0,0.0
+"Halse Henry, Musbury, Devonshire, sheep salesman, Dec. 18, 1829.",Halse,2033.0,0.0,0.0,0.0,0.0,HLS,H0420,HLS H0420,2033.0,2033.0,0,0,0,0,4694.0,H0420 HLS,0,0,0,0,0,0.0
+"Hambly William, jun., Tavistock, Devonshire, draper, March 11, 1828.",Hambly,6030.0,0.0,0.0,0.0,0.0,HMPL,H05140,HMPL H05140,6030.0,6030.0,0,0,0,0,4701.0,H05140 HMPL,0,0,0,0,0,0.0
+"Handcock John, Exeter, Devonshire, victualler, May 6, 1828.",Handcock,11976.0,0.0,0.0,0.0,0.0,HNTKK,H053202,HNTKK H053202,11976.0,11976.0,0,0,0,0,167.0,H053202 HNTKK,0,0,0,0,0,0.0
+"Handford William, Tavistock, Devonshire, linen draper, March 19, 1822.",Handford,4903.0,0.0,0.0,0.0,0.0,HNTFRT,H0531063,HNTFRT H0531063,4903.0,4903.0,0,0,0,0,4728.0,H0531063 HNTFRT,0,0,0,0,0,0.0
+"Harbin Thos. Hen., Mainhead, Devonshire, dealer & chapman, Feb. 23, 1 822.",Harbin,,0.0,0.0,0.0,0.0,HRPN,H06105,HRPN H06105,5754.0,5754.0,0,0,0,0,4753.0,H06105 HRPN,0,0,0,0,0,0.0
+"Harris James, Plymouth, Devonshire, joiner and carver, Oct 3, 1826.",Harris,2083.0,0.0,0.0,0.0,0.0,HRS,H0602,HRS H0602,2083.0,2083.0,0,0,0,0,4814.0,H0602 HRS,0,0,0,0,0,0.0
+"Harris James, Plymouth, Devonshire, painter, Oct. 21, 1831.",Harris,2083.0,0.0,0.0,0.0,0.0,HRS,H0602,HRS H0602,2083.0,2083.0,0,0,0,0,4814.0,H0602 HRS,0,0,0,0,0,0.0
+"Harris John, Modbury, Devonshire, linen draper, March 20, 1827.",Harris,2083.0,0.0,0.0,0.0,0.0,HRS,H0602,HRS H0602,2083.0,2083.0,0,0,0,0,4814.0,H0602 HRS,0,0,0,0,0,0.0
+"Harris Thomas and Frederick, Egg Buckland and Devonport, butchers, May 11, 1824.",Harris,2083.0,0.0,0.0,0.0,0.0,HRS,H0602,HRS H0602,2083.0,2083.0,0,0,0,0,4814.0,H0602 HRS,0,0,0,0,0,0.0
+"Hart Abraham, Exeter, Devonshire, clothes salesman, Aug. 19, 1834.",Hart,2344.0,0.0,0.0,0.0,0.0,HRT,H063,HRT H063,2344.0,2344.0,0,0,0,0,4902.0,H063 HRT,0,0,0,0,0,0.0
+"Harvey Eliza, Exeter, baby-linen manufacturer, Nov. 7, 1834.",Harvey,,0.0,0.0,1.0,0.0,HRF,H0610,HRF H0610,2180.0,2180.0,0,0,0,0,5058.0,H0610 HRF,0,0,0,0,0,0.0
+"Haviland Wm., Plymouth, Devonshire, printer and bookseller, March 1, 1823.",Haviland,6146.0,0.0,0.0,0.0,0.0,HFLNT,H0104053,HFLNT H0104053,6146.0,6146.0,0,0,0,0,2846.0,H0104053 HFLNT,0,0,0,0,0,0.0
+"Hayes William and Thomas, Torquay, Devonshire, drapers, Sept. 7, 1827.",Hayes,2358.0,0.0,0.0,0.0,0.0,HS,H020,HS H020,2358.0,2358.0,0,0,0,0,4953.0,H020 HS,0,0,0,0,0,0.0
+"Heale John, Plymouth, Devonshire, sail maker, June 24, 1826.",Heale,,1.0,0.0,0.0,0.0,HL,H040,HL H040,2336.0,2336.0,0,0,0,0,4979.0,H040 HL,0,0,0,0,0,0.0
+"Hearle George Wills, Devonport, printer and stationer, Feh. 14, 1837.",Hearle,,0.0,0.0,0.0,0.0,HRL,H0640,HRL H0640,2348.0,2348.0,0,0,0,0,4948.0,H0640 HRL,0,0,0,0,0,0.0
+"Heath Edwin and John, Totness, Devonshire, linen drapers, Nov. 27, 1838.",Heath,,0.0,0.0,0.0,0.0,H0,H030,H0 H030,2182.0,2182.0,0,0,0,0,4954.0,H030 H0,0,0,0,0,0,0.0
+"Hellyer Richard, Devonport, Devonshire, cork cutter, May 24, 1831.",Hellyer,,0.0,0.0,0.0,0.0,HLR,H0406,HLR H0406,2260.0,2260.0,0,0,0,0,3432.0,H0406 HLR,0,0,0,0,0,0.0
+"Hellyer William, Plymouth, Devonshire, painter and glazier, Mar. 1, 1839.",Hellyer,,0.0,0.0,0.0,0.0,HLR,H0406,HLR H0406,2260.0,2260.0,0,0,0,0,3432.0,H0406 HLR,0,0,0,0,0,0.0
+"Hewett Charles, Sidmouth, Devonshire, gardener and seedsman, May 12, 1829",Hewett,,0.0,0.0,0.0,0.0,HT,H030,HT H030,2240.0,2240.0,0,0,0,0,5071.0,H030 HT,0,0,0,0,0,0.0
+"Heyward Thomas Nosworthy, Totness, Devonsh., grocer & baker, Mar. 2, 1827.",Heyward,,0.0,0.0,0.0,0.0,HRT,H063,HRT H063,2344.0,2344.0,0,0,0,0,4902.0,H063 HRT,0,0,0,0,0,0.0
+"Hicks John, Holsworthy, Devonshire, draper and grocer, May 6, 1826.",Hicks,,0.0,0.0,0.0,0.0,HKS,H020,HKS H020,9910.0,9910.0,0,0,0,0,5162.0,H020 HKS,0,0,0,0,0,0.0
+"Hiffernan John Nagle, Alphington, Devonsh., starch manufact., June 15, 1824.",Hiffernan,7799.0,0.0,0.0,0.0,0.0,HFRNN,H0106505,HFRNN H0106505,7799.0,7799.0,0,0,0,0,4897.0,H0106505 HFRNN,0,0,0,0,0,0.0
+"Hitt Thomas, Clist St. Lawrence, Devonshire, butcher, Oct. 30, 1821.",Hitt,,0.0,0.0,0.0,0.0,HT,H030,HT H030,2240.0,2240.0,0,0,0,0,4883.0,H030 HT,0,0,0,0,0,0.0
+"Hodge Elias, Plymouth, Devonshire, grocer, July 8, 1828.",Hodge,8840.0,0.0,0.0,0.0,0.0,HJ,H0320,HJ H0320,8840.0,8840.0,0,0,0,0,5206.0,H0320 HJ,0,0,0,0,0,0.0
+"Hodge James, Tiverton, Devonshire, coach maker, Feb. 25, 1840.",Hodge,8840.0,0.0,0.0,0.0,0.0,HJ,H0320,HJ H0320,8840.0,8840.0,0,0,0,0,5206.0,H0320 HJ,0,0,0,0,0,0.0
+"Hodges Archelaus, Bristol and Barnstaple, stationer, Dec. 1, 1837.",Hodges,2241.0,0.0,0.0,0.0,0.0,HJS,H03202,HJS H03202,2241.0,2241.0,0,0,0,0,5206.0,H03202 HJS,0,0,0,0,0,0.0
+"Hole Thomas, Woodhury, Devonshire, tanner, Sept. 29, 1829.",Hole,2336.0,0.0,0.0,0.0,0.0,HL,H040,HL H040,2336.0,2336.0,1,1,0,0,5386.0,H040 HL,0,0,0,0,0,0.0
+"Hole William Margary, Kingskerswell, Devonshire, tanner, Oct. 13, 1821.",Hole,2336.0,0.0,0.0,0.0,0.0,HL,H040,HL H040,2336.0,2336.0,1,1,0,0,5386.0,H040 HL,0,0,0,0,0,0.0
+"Holman William; and John Holman; Devonport, drapers, Oct. 30, 1835. Holmden",Holman,2263.0,0.0,0.0,0.0,0.0,HLMN,H04505,HLMN H04505,2263.0,2263.0,0,0,0,0,5240.0,H04505 HLMN,0,0,0,0,0,0.0
+"Honychurch John and Thomas, Bovey Tracy, Devonsh., potters, June 2, 1835.",Honychurch,2279.0,0.0,0.0,0.0,0.0,HNXRX,H05020620,HNXRX H05020620,2279.0,2279.0,0,0,0,0,5280.0,H05020620 HNXRX,0,0,0,0,0,0.0
+"Hook William, Devonport, Devonshire, linen draper, June 6, 1837.",Hook,,0.0,0.0,0.0,0.0,HK,H020,HK H020,2249.0,2249.0,0,0,0,0,5286.0,H020 HK,0,0,0,0,0,0.0
+"Houlder William, Paignton and Brixham, Devonshire, tea dealer. May 12, 1835.",Houlder,,0.0,0.0,0.0,0.0,HLTR,H04306,HLTR H04306,6481.0,6481.0,0,0,0,0,4688.0,H04306 HLTR,0,0,0,0,0,0.0
+"Howe Samuel, Devonport, Devonshire, currier, July 24, 1827.",Howe,,0.0,0.0,0.0,0.0,H,H000,H H000,2323.0,2323.0,0,0,0,0,4915.0,H000 H,0,0,0,0,0,0.0
+"Hubbard John Peters, Teignmouth, Devonshire, cabinet maker, May 26, 1840.",Hubbard,,0.0,0.0,0.0,0.0,HPRT,H01063,HPRT H01063,10769.0,10769.0,0,0,0,0,7338.0,H01063 HPRT,0,0,0,0,0,0.0
+"Huntington Leonard, South Molton street, tailor, Dec. 2, 1831.",Huntington,,0.0,0.0,0.0,0.0,HNTNKTN,H053052305,HNTNKTN H053052305,6676.0,6676.0,0,0,0,0,5451.0,H053052305 HNTNKTN,0,0,0,0,0,0.0
+"Husband Robert, Plymouth, Devonshire, mercer and tailor, Jan. 11, 1822.",Husband,2356.0,0.0,0.0,0.0,0.0,HSPNT,H021053,HSPNT H021053,2356.0,2356.0,0,0,0,0,5473.0,H021053 HSPNT,0,0,0,0,0,0.0
+"Hutchings James, Stoke Damarel, Devonshire, builder, Dec. 4, 1821.",Hutchings,10674.0,0.0,0.0,0.0,0.0,HXNKS,H032052,HXNKS H032052,10674.0,10674.0,0,0,0,0,5483.0,H032052 HXNKS,0,0,0,0,0,0.0
+"Huxtable Wm.; and Richard Genge; llfracomhe, ship builders, June 3, 1834.",Huxtable,,0.0,0.0,0.0,0.0,HKSTPL,H0230140,HKSTPL H0230140,9675.0,9675.0,0,0,0,0,5492.0,H0230140 HKSTPL,0,0,0,0,0,0.0
+"Jackson Thomas, Devonport, Devonshire, innkeeper, June 20, 1826.",Jackson,2390.0,0.0,0.0,0.0,0.0,JKSN,J0205,JKSN J0205,2390.0,2390.0,0,0,0,0,5609.0,J0205 JKSN,0,0,0,0,0,0.0
+"Jagger Joshua, East Stonehouse, Devonshire, stone mason, July 24, 1821.",Jagger,7800.0,0.0,0.0,0.0,0.0,JKR,J0206,JKR J0206,7800.0,7800.0,0,0,0,0,5587.0,J0206 JKR,0,0,0,0,0,0.0
+"James Frederick, Bideford, Devonshire, grocer and tea dealer. March 8, 1839.",James,2396.0,0.0,0.0,0.0,0.0,JMS,J0502,JMS J0502,2396.0,2396.0,0,0,0,0,5593.0,J0502 JMS,0,0,0,0,0,0.0
+"Jarman Elias, Holcombe Regis, Devonshire, tanner, Aug. 11, 1826.",Jarman,,0.0,0.0,0.0,0.0,JRMN,J06505,JRMN J06505,2438.0,2438.0,0,0,0,0,4164.0,J06505 JRMN,0,0,0,0,0,0.0
+"Jarman John, Paris street, Exeter, Devonshire, chandler, Oct. 20, 1837.",Jarman,,0.0,0.0,0.0,0.0,JRMN,J06505,JRMN J06505,2438.0,2438.0,0,0,0,0,4164.0,J06505 JRMN,0,0,0,0,0,0.0
+"Jarvis Edward, Stoke Damerel, Devonshire, sail maker, Feb. 28, 1832.",Jarvis,,0.0,0.0,0.0,0.0,JRFS,J06102,JRFS J06102,2400.0,2400.0,0,0,0,0,5604.0,J06102 JRFS,0,0,0,0,0,0.0
+"Jeunes Edwin, High street, Exeter, bookseller, April 13, 1841.",Jeunes,,0.0,0.0,0.0,0.0,JNS,J0502,JNS J0502,2426.0,2426.0,0,0,0,0,5611.0,J0502 JNS,0,0,0,0,0,0.0
+"Jeffery Edward, High street, Exeter, builder, Aug. 27, 1841.",Jeffery,,0.0,0.0,0.0,0.0,JFR,J01060,JFR J01060,9049.0,9049.0,0,0,0,0,5621.0,J01060 JFR,0,0,0,0,0,0.0
+"Jenkins James Gideon, Sidmouth, Devonshire, scrivener, Dec. 3, 1839.",Jenkins,,0.0,0.0,0.0,0.0,JNKNS,J052052,JNKNS J052052,9856.0,9856.0,0,0,0,0,5631.0,J052052 JNKNS,0,0,0,0,0,0.0
+"Johns Henry, jun., Exeter, Devonshire, builder, Jan. 10, 1840.",Johns,,0.0,0.0,0.0,0.0,JNS,J052,JNS J052,8415.0,8415.0,1,0,0,0,5665.0,J052 JNS,0,0,0,0,0,0.0
+"Johns Henry Incledon, Devonport, Devonshire, banker, Oct. 18, 1825.",Johns,,0.0,0.0,0.0,0.0,JNS,J052,JNS J052,8415.0,8415.0,1,0,0,0,5665.0,J052 JNS,0,0,0,0,0,0.0
+"Johns James, Devonport, Devonshire, printer and stationer, Jan. 29, 1833.",Johns,,0.0,0.0,0.0,0.0,JNS,J052,JNS J052,8415.0,8415.0,1,0,0,0,5665.0,J052 JNS,0,0,0,0,0,0.0
+"Jones William, Newport, Devonshire, lime burner, March 7, 1843.",Jones,2426.0,0.0,0.0,0.0,0.0,JNS,J0502,JNS J0502,2426.0,2426.0,1,0,0,0,5665.0,J0502 JNS,0,0,0,0,0,0.0
+"Keech William, Axminster, Devonshire, grocer, Aug. 7, 1821.",Keech,,0.0,0.0,0.0,0.0,KX,K020,KX K020,10453.0,10453.0,0,0,0,0,1863.0,K020 KX,0,0,0,0,0,0.0
+"Kent William, Plymouth, Devonshire, brewer, Feb. 18, 1834.",Kent,2494.0,0.0,0.0,0.0,0.0,KNT,K053,KNT K053,2494.0,2494.0,0,0,0,0,1762.0,K053 KNT,0,0,0,0,0,0.0
+"Knapman John, South Tawton, Devonshire, farmer & cattle dealer, Feb. 5, 1839.",Knapman,2542.0,0.0,0.0,0.0,0.0,NPMN,K501505,NPMN K501505,2542.0,2542.0,0,0,0,0,5922.0,K501505 NPMN,0,0,0,0,0,0.0
+"Knight Samuel, Exeter, Devonshire, stone mason, Dec. 8, 1840.",Knight,2545.0,0.0,0.0,0.0,0.0,NT,K50203,NT K50203,2545.0,2545.0,0,0,0,0,5930.0,K50203 NT,0,0,0,0,0,0.0
+"Lakeman James, Kingshridge, Devonshire, maltster, Oct. 8, 1833.",Lakeman,2571.0,0.0,0.0,0.0,0.0,LKMN,L020505,LKMN L020505,2571.0,2571.0,0,0,0,0,5985.0,L020505 LKMN,0,0,0,0,0,0.0
+"Lakeman Stephen, jun., Dartmouth, Devonshire, maltster and corn merchant, June 17, 1826.",Lakeman,2571.0,0.0,0.0,0.0,0.0,LKMN,L020505,LKMN L020505,2571.0,2571.0,0,0,0,0,5985.0,L020505 LKMN,0,0,0,0,0,0.0
+"Lamport William Henry, Plymouth, Devonshire, silversmith, Aug. 17, 1841.",Lamport,,0.0,0.0,0.0,0.0,LMPRT,L051063,LMPRT L051063,2741.0,2741.0,0,0,0,0,6270.0,L051063 LMPRT,0,0,0,0,0,0.0
+"Lang Nathaniel, Teignmouth, Devonshire, grocer and tea dealer, Jan. 8, 1830.",Lang,2749.0,0.0,0.0,0.0,0.0,LNK,L052,LNK L052,2749.0,2749.0,0,0,0,0,6288.0,L052 LNK,0,0,0,0,0,0.0
+"Lang William, jun., High Bickington, and Exeter, glover, July 15, 1834.",Lang,2749.0,0.0,0.0,0.0,0.0,LNK,L052,LNK L052,2749.0,2749.0,0,0,0,0,6288.0,L052 LNK,0,0,0,0,0,0.0
+"Langdon Richard, East Stonehouse, Devonshire, rope maker, Jan. 31, 1832.",Langdon,2606.0,0.0,0.0,0.0,0.0,LNKTN,L052305,LNKTN L052305,2606.0,2606.0,0,0,0,0,6033.0,L052305 LNKTN,0,0,0,0,0,0.0
+"Langmead William, Teignmonth, Devonshire, banker, July 7, 1840.",Langmead,2613.0,0.0,0.0,0.0,0.0,LNKMT,L052503,LNKMT L052503,2613.0,2613.0,0,0,0,0,6039.0,L052503 LNKMT,0,0,0,0,0,0.0
+"Laskey Rohert, Exeter, Devonshire, haberdasher, Jan. 28, 1831.",Laskey,2764.0,0.0,0.0,0.0,0.0,LSK,L020,LSK L020,2764.0,2764.0,0,0,0,0,6089.0,L020 LSK,0,0,0,0,0,0.0
+"Lavers John, Buckfastleigh, Devonshire, worsted & yarn spinner, Nov. 28, 1828.",Lavers,2638.0,0.0,0.0,0.0,0.0,LFRS,L01062,LFRS L01062,2638.0,2638.0,0,0,0,0,6109.0,L01062 LFRS,0,0,0,0,0,0.0
+"Lear Charles, Exeter, Devonshire, innkeeper, Feb. 16, 1838.",Lear,,0.0,0.0,0.0,0.0,LR,L060,LR L060,2815.0,2815.0,0,0,0,0,4665.0,L060 LR,0,0,0,0,0,0.0
+"Lindegren John, Portsmouth, Devonshire, merchant, Sept. 17, 1833.",Lindegren,7801.0,0.0,0.0,0.0,0.0,LNTKRN,L05302605,LNTKRN L05302605,7801.0,7801.0,0,0,0,0,6304.0,L05302605 LNTKRN,0,0,0,0,0,0.0
+"Lindon Joseph, Plymouth, Devonshire, merchant, Nov. 8, 1842.",Lindon,2747.0,0.0,0.0,0.0,0.0,LNTN,L05305,LNTN L05305,2747.0,2747.0,0,0,0,0,6196.0,L05305 LNTN,0,0,0,0,0,0.0
+"Long Richard, Tavistock, Devonshire, miller and corn mercht. , Sept. 10, 1839.",Long,2749.0,0.0,0.0,0.0,0.0,LNK,L052,LNK L052,2749.0,2749.0,0,0,0,0,6288.0,L052 LNK,0,0,0,0,0,0.0
+"Loosemore John, Tiverton, Devonshire, scrivener, May 2, 1837.",Loosemore,,0.0,0.0,0.0,0.0,LSMR,L0205060,LSMR L0205060,2763.0,2763.0,0,0,0,0,6398.0,L0205060 LSMR,0,0,0,0,0,0.0
+"Loosemore Robert, Tiverton, Devonshire, scrivener, Nov. 25, 1842.",Loosemore,,0.0,0.0,0.0,0.0,LSMR,L0205060,LSMR L0205060,2763.0,2763.0,0,0,0,0,6398.0,L0205060 LSMR,0,0,0,0,0,0.0
+"Lott Samuel Frederick, Exeter, Devonshire, hatter, March 2, 1832",Lott,,0.0,0.0,0.0,0.0,LT,L030,LT L030,2818.0,2818.0,0,0,0,0,6350.0,L030 LT,0,0,0,0,0,0.0
+"Lovecraft Joseph, Beckington, Devonshire, worsted spinner, Sept. 2o, 1831.",Lovecraft,,0.0,0.0,0.0,0.0,LFKRFT,L01026013,LFKRFT L01026013,2771.0,2771.0,0,0,0,0,6424.0,L01026013 LFKRFT,0,0,0,0,0,0.0
+"Lowthian George, Exeter, Devonshire, draper, Aug. 23, 1831.",Lowthian,13052.0,0.0,0.0,0.0,0.0,L0N,L0305,L0N L0305,13052.0,13052.0,0,0,0,0,6372.0,L0305 L0N,0,0,0,0,0,0.0
+"Lucas Sam.; & John Shore; Beer Ferris, Devonshire, refiners, May 13, 1831.",Lucas,2800.0,0.0,0.0,0.0,0.0,LKS,L0202,LKS L0202,2800.0,2800.0,0,0,0,0,6458.0,L0202 LKS,0,0,0,0,0,0.0
+"Luscombe John, Plymouth and Stonehouse, maltster, Jan. 4, 1842.",Luscombe,2804.0,0.0,0.0,0.0,0.0,LSKMP,L020510,LSKMP L020510,2804.0,2804.0,0,0,0,0,6410.0,L020510 LSKMP,0,0,0,0,0,0.0
+"Luscombe Samuel, jun., Broadhempston, Devonshire, butcher, March 1, 1836.",Luscombe,2804.0,0.0,0.0,0.0,0.0,LSKMP,L020510,LSKMP L020510,2804.0,2804.0,0,0,0,0,6410.0,L020510 LSKMP,0,0,0,0,0,0.0
+"Luxton William, Exeter, Devonshire, coal merchant, Jan. 27, 1829.",Luxton,2810.0,0.0,0.0,0.0,0.0,LKSTN,L02305,LKSTN L02305,2810.0,2810.0,0,0,0,0,6512.0,L02305 LKSTN,0,0,0,0,0,0.0
+"Lyle Samuel, Redruth and Beerferris, Devonshire, smelter, Jan. 16, 1838.",Lyle,,0.0,0.0,0.0,0.0,LL,L040,LL L040,2813.0,2813.0,0,0,0,0,6262.0,L040 LL,0,0,0,0,0,0.0
+"Lyon Solomon, Plymouth, silversmith, April 29, 1831.",Lyon,,0.0,0.0,0.0,0.0,LN,L050,LN L050,2816.0,2816.0,0,0,0,0,6306.0,L050 LN,0,0,0,0,0,0.0
+"Manley Thomas, Dawlish, Devonshire, builder, Sept. 26, 1826.",Manley,2854.0,0.0,0.0,0.0,0.0,MNL,M0540,MNL M0540,2854.0,2854.0,0,0,0,0,6611.0,M0540 MNL,0,0,0,0,0,0.0
+"Manley William, Topsham, Devonshire, rope maker, Dec. 4, 1835.",Manley,2854.0,0.0,0.0,0.0,0.0,MNL,M0540,MNL M0540,2854.0,2854.0,0,0,0,0,6611.0,M0540 MNL,0,0,0,0,0,0.0
+"Mardon Edward, Honiton, Devonshire, hatter, Dec. 18, 1829.",Mardon,3040.0,0.0,0.0,0.0,0.0,MRTN,M06305,MRTN M06305,3040.0,3040.0,0,0,0,0,6648.0,M06305 MRTN,0,0,0,0,0,0.0
+"Mare Thomas Tuckfield; John Edmund Mare; and William Mare; Plymouth, smiths and ironfounders, July 12, 1825",Mare,,0.0,0.0,0.0,0.0,MR,M060,MR M060,2949.0,2949.0,0,0,0,0,6791.0,M060 MR,0,0,0,0,0,0.0
+"Marks Samuel; and Joseph Marks; Exeter, glass merchants, Oct. 21, 1834.",Marks,11304.0,0.0,0.0,0.0,0.0,MRKS,M062,MRKS M062,11304.0,11304.0,0,0,0,0,6663.0,M062 MRKS,0,0,0,0,0,0.0
+"Marsh Henry, Plymouth, Devonshire, coal merchant, July 3, 1840.",Marsh,3068.0,0.0,0.0,0.0,0.0,MRX,M0620,MRX M0620,3068.0,3068.0,0,0,0,0,6848.0,M0620 MRX,0,0,0,0,0,0.0
+"Marshall Rohert Holmes, Plymouth, Devonshire, draper, Feb. 15, 1828.",Marshall,2883.0,0.0,0.0,0.0,0.0,MRXL,M06204,MRXL M06204,2883.0,2883.0,0,0,0,0,6686.0,M06204 MRXL,0,0,0,0,0,0.0
+"Martin Henry, West Teignmouth, Devon, linen draper, Feb. 28, 1840.",Martin,3040.0,0.0,0.0,0.0,1.0,MRTN,M06305,MRTN M06305,3040.0,3040.0,0,0,0,0,6695.0,M06305 MRTN,0,0,0,0,0,0.0
+"Mason William, OldTown street, Plymouth, victualler, July 20. 1838.",Mason,3062.0,0.0,0.0,0.0,0.0,MSN,M0205,MSN M0205,3062.0,3062.0,0,0,0,0,6811.0,M0205 MSN,0,0,0,0,0,0.0
+"Mathews William, Staverton, Devonshire, miller, Sept. 1, 1835.",Mathews,10833.0,0.0,0.0,0.0,0.0,M0S,M0302,M0S M0302,10833.0,10833.0,0,0,0,0,6725.0,M0302 M0S,0,0,0,0,0,0.0
+"Matthews John, jun., Brixham, Devonshire, coal merchant, Sept. 20, 1823.",Matthews,,0.0,0.0,0.0,0.0,M0S,M0302,M0S M0302,10833.0,10833.0,0,0,0,0,6725.0,M0302 M0S,0,0,0,0,0,0.0
+"May Mary. Devonport, Devonshire, earthenware dealer, Feb. 19, 1841.",May,2913.0,0.0,0.0,0.0,0.0,M,M000,M M000,2913.0,2913.0,0,0,0,0,6805.0,M000 M,0,0,0,0,0,0.0
+"May Richard, Devonport, Devonshire, tobacconist, Jan. 12, 1830.",May,2913.0,0.0,0.0,0.0,0.0,M,M000,M M000,2913.0,2913.0,0,0,0,0,6805.0,M000 M,0,0,0,0,0,0.0
+"Mayell William, Exeter, Devonshire, jeweller, Aug. 28, 1824.",Mayell,,0.0,0.0,0.0,0.0,ML,M040,ML M040,3066.0,3066.0,0,0,0,0,6749.0,M040 ML,0,0,0,0,0,0.0
+"Mayell William, Exeter, Devonshire, jeweller, Nov. 25, 1831.",Mayell,,0.0,0.0,0.0,0.0,ML,M040,ML M040,3066.0,3066.0,0,0,0,0,6749.0,M040 ML,0,0,0,0,0,0.0
+"Melhuish George, Crediton, Devon, tanner, Jan. 9, 1821.",Melhuish,2931.0,0.0,0.0,0.0,0.0,MLX,M04020,MLX M04020,2931.0,2931.0,0,0,0,0,6824.0,M04020 MLX,0,0,0,0,0,0.0
+"Menham Jacoh, Stonehouse, Devonshire, ship owner, Sept. 16, 1836.",Menham,13053.0,0.0,0.0,0.0,0.0,MNM,M0505,MNM M0505,13053.0,13053.0,0,0,0,0,6919.0,M0505 MNM,0,0,0,0,0,0.0
+"Mogridge Edward, Tipton mills, Devonshire, miller, Sept. 30, 1834.",Mogridge,,0.0,0.0,0.0,0.0,MKRJ,M0260320,MKRJ M0260320,9360.0,9360.0,0,0,0,0,6955.0,M0260320 MKRJ,0,0,0,0,0,0.0
+"Molyneux Henry, Exeter, Devonshire, draper, Aug. 29, 1837.",Molyneux,13054.0,0.0,0.0,0.0,0.0,MLNKS,M040502,MLNKS M040502,13054.0,13054.0,0,0,0,0,7059.0,M040502 MLNKS,0,0,0,0,0,0.0
+"Moon William, East Stonehouse, Devonshire, clothier, Sept. 13, 1833.",Moon,,0.0,0.0,0.0,0.0,MN,M050,MN M050,3060.0,3060.0,0,0,0,0,7034.0,M050 MN,0,0,0,0,0,0.0
+"Moore William, South Tawton, Devonshire, cattle salesman, April 24, 1827.",Moore,,0.0,0.0,0.0,0.0,MR,M060,MR M060,2949.0,2949.0,0,0,0,0,7010.0,M060 MR,0,0,0,0,0,0.0
+"Morris John Simmons, Devon port, Devonshire, ironfounder, Oct. 3, 1837.",Morris,3036.0,0.0,0.0,0.0,0.0,MRS,M0602,MRS M0602,3036.0,3036.0,0,0,0,0,7010.0,M0602 MRS,0,0,0,0,0,0.0
+"Moyes William Wyatt, Plymouth, Devonshire, coal merchant, April 5, 1836.",Moyes,,0.0,0.0,0.0,0.0,MS,M020,MS M020,3061.0,3061.0,0,0,0,0,7043.0,M020 MS,0,0,0,0,0,0.0
+"Mudge John, Devonport, Devonshire, printer and stationer, Feb. 27, 1828.",Mudge,5072.0,0.0,0.0,0.0,0.0,MJ,M0320,MJ M0320,5072.0,5072.0,0,0,0,0,7051.0,M0320 MJ,0,0,0,0,0,0.0
+"Murch James, Honiton, Devonshire, grocer, May 1, 1829.",Murch,,0.0,0.0,0.0,0.0,MRX,M0620,MRX M0620,3068.0,3068.0,0,0,0,0,7076.0,M0620 MRX,0,0,0,0,0,0.0
+"Neales John Rentham, Plymouth, Devonshire, hatter, May 9, 1837.",Neales,,0.0,0.0,1.0,0.0,NLS,N0402,NLS N0402,11530.0,11530.0,0,0,0,0,7228.0,N0402 NLS,0,0,0,0,1,0.0
+"Nightingale Robert, Exeter, Devonshire, draper, Sept. 8, 1840.",Nightingale,3101.0,0.0,0.0,0.0,0.0,NTNKL,N0203052040,NTNKL N0203052040,3101.0,3101.0,0,0,0,0,7227.0,N0203052040 NTNKL,0,0,0,0,0,0.0
+"Nosworthy John, Moretonhampstead, Devonshire, tanner, May 13, 1826.",Nosworthy,3130.0,0.0,0.0,0.0,0.0,NSR0,N020630,NSR0 N020630,3130.0,3130.0,0,0,0,0,7286.0,N020630 NSR0,0,0,0,0,0,0.0
+"Otton John, Moretonhampstead, Devonshire, yeoman, June 30, 1826.",Otton,10122.0,0.0,0.0,0.0,0.0,ATN,O305,ATN O305,10122.0,10122.0,0,0,0,0,7337.0,O305 ATN,0,0,0,0,0,0.0
+"Owen William Purchase, Exeter, wine and spirit merchant, March 27, 1840.",Owen,9447.0,0.0,0.0,0.0,0.0,AN,O050,AN O050,9447.0,9447.0,0,0,0,0,7468.0,O050 AN,0,0,0,0,0,0.0
+"Paddon Francis William, Plymouth, commission agent, March 21, 1837.",Paddon,3414.0,0.0,0.0,0.0,0.0,PTN,P0305,PTN P0305,3414.0,3414.0,0,0,0,0,7498.0,P0305 PTN,0,0,0,0,0,0.0
+"Paddon Francis William, Plymouth, printer and stationer, Feh. 1, 1831.",Paddon,3414.0,0.0,0.0,0.0,0.0,PTN,P0305,PTN P0305,3414.0,3414.0,0,0,0,0,7498.0,P0305 PTN,0,0,0,0,0,0.0
+"Page William Henry, Plymouth, Devonshire, linen draper, Sept. 12, 1837.",Page,3175.0,0.0,0.0,0.0,0.0,PJ,P020,PJ P020,3175.0,3175.0,0,0,0,0,7508.0,P020 PJ,0,0,0,0,0,0.0
+"Paramore David, Devonport, Devonshire, merchant, Aug. 9, 1839.",Paramore,5443.0,0.0,0.0,0.0,0.0,PRMR,P0605060,PRMR P0605060,5443.0,5443.0,0,0,0,0,7548.0,P0605060 PRMR,0,0,0,0,0,0.0
+"Parkhouse William Dicker, Tiverton, Devonshire, ironmonger, July 11, 1834.",Parkhouse,3194.0,0.0,0.0,0.0,0.0,PRKS,P062020,PRKS P062020,3194.0,3194.0,0,0,0,0,8173.0,P062020 PRKS,0,0,0,0,0,0.0
+"Parkyn James, Devonport, Devonshire, linen draper, May 12, 1837.",Parkyn,,0.0,0.0,0.0,0.0,PRKN,P06205,PRKN P06205,3277.0,3277.0,0,0,0,0,7742.0,P06205 PRKN,0,0,0,0,0,0.0
+"Parnell Thomas, Plymouth, Devonshire, draper, Nov. 13, 1835.",Parnell,3282.0,0.0,0.0,0.0,0.0,PRNL,P06504,PRNL P06504,3282.0,3282.0,0,0,0,0,8165.0,P06504 PRNL,0,0,0,0,0,0.0
+"Passmore Christopher, Teignmouth, Devonshire, linen draper, Sept. 30, 1828.",Passmore,,0.0,0.0,0.0,0.0,PSMR,P025060,PSMR P025060,8517.0,8517.0,0,0,0,0,7595.0,P025060 PSMR,0,0,0,0,0,0.0
+"Patch John, Exeter, Devonshire, hop merchant, Aug. 27, 1833.",Patch,11174.0,0.0,0.0,0.0,0.0,PX,P0320,PX P0320,11174.0,11174.0,0,0,0,0,7587.0,P0320 PX,0,0,0,0,0,0.0
+"Payne Joshua, Sidmouth, Devonshire, linen draper, May 14, 1825.",Payne,3421.0,0.0,0.0,0.0,0.0,PN,P050,PN P050,3421.0,3421.0,0,0,0,0,7507.0,P050 PN,0,0,0,0,0,0.0
+"Pearce William, Oreston, Plymstock, Devonshire, flour mercht., July 3, 1824.",Pearce,,0.0,0.0,0.0,0.0,PRS,P0620,PRS P0620,3487.0,3487.0,0,0,0,0,7740.0,P0620 PRS,0,0,0,0,0,0.0
+"Pearse James, Chulmleigh, Devonshire, linen draper, April 5. 1831.",Pearse,,1.0,0.0,0.0,1.0,PRS,P0620,PRS P0620,3487.0,3487.0,0,0,0,0,7816.0,P0620 PRS,0,0,0,0,0,0.0
+"Pearse John, Sidbury, Devonshire, victualler, Feb. 1, 1831.",Pearse,,1.0,0.0,0.0,1.0,PRS,P0620,PRS P0620,3487.0,3487.0,0,0,0,0,7816.0,P0620 PRS,0,0,0,0,0,0.0
+"Pearse Silas, Oreston, Plymstock, Devonshire, quarryman, Nov. 15, 1836.",Pearse,,1.0,0.0,0.0,1.0,PRS,P0620,PRS P0620,3487.0,3487.0,0,0,0,0,7816.0,P0620 PRS,0,0,0,0,0,0.0
+"Pennell James Daniel, St. Sidwell's, Exeter, picture dealer, May 13, 1828.",Pennell,,0.0,0.0,0.0,0.0,PNL,P0504,PNL P0504,3348.0,3348.0,0,0,0,0,7526.0,P0504 PNL,0,0,0,0,0,0.0
+"Perring Richard, Modhury, Devonshire, banker, March 4, 1826.",Perring,,0.0,0.0,0.0,0.0,PRNK,P06052,PRNK P06052,11173.0,11173.0,0,0,0,0,8093.0,P06052 PRNK,0,0,0,0,0,0.0
+"Perry John, South Molton, Devonshire, ironmonger & plumber, Nov. 22, 1836.",Perry,,0.0,0.0,0.0,0.0,PR,P060,PR P060,3476.0,3476.0,0,0,0,0,7745.0,P060 PR,0,0,0,0,0,0.0
+"Petherhridge Ehenezer & Wm., Newton Abbot, Devon, drapers, Dec. 8, 1829.",Petherhridge,7802.0,0.0,0.0,0.0,0.0,P0RRJ,P0306060320,P0RRJ P0306060320,7802.0,7802.0,0,0,0,0,7759.0,P0306060320 P0RRJ,0,0,0,0,0,0.0
+"Phillips Margaret, Plymouth, Devonshire, saddler, Feb. 15, 1833.",Phillips,,0.0,0.0,0.0,0.0,FLPS,P04012,FLPS P04012,3319.0,3319.0,0,0,0,0,7785.0,P04012 FLPS,0,0,0,0,0,0.0
+"Phillips Nicholas, Exeter, Devonshire, dealer and chapman, June 23, 1829.",Phillips,,0.0,0.0,0.0,0.0,FLPS,P04012,FLPS P04012,3319.0,3319.0,0,0,0,0,7785.0,P04012 FLPS,0,0,0,0,0,0.0
+"Pillhrow Tycho, Exeter, musical instrument seller, July 27, 1827.",Pillhrow,13055.0,0.0,0.0,0.0,0.0,PLR,P04060,PLR P04060,13055.0,13055.0,0,0,0,0,7897.0,P04060 PLR,0,0,0,0,0,0.0
+"Pile Michael, jun., Sidmouth, Devonshire, cabinetmaker, Dec. 17, 1822.",Pile,3479.0,0.0,0.0,0.0,0.0,PL,P040,PL P040,3479.0,3479.0,0,0,0,0,7829.0,P040 PL,0,0,0,0,0,0.0
+"Pim Thomas Bedford, Exwick, Devonshire, paper maker, Jan. 24, 1824.",Pim,,0.0,0.0,0.0,0.0,PM,P050,PM P050,8357.0,8357.0,0,0,0,0,8194.0,P050 PM,0,0,0,0,0,0.0
+"Pincas Davis, Devonport, Devonshire, silversmith, April 8, 1834.",Pincas,13056.0,0.0,0.0,0.0,0.0,PNKS,P05202,PNKS P05202,13056.0,13056.0,0,0,0,0,7529.0,P05202 PNKS,0,0,0,0,0,0.0
+"Plank Frederick, Plymouth, Devonshire, perfumer, Aug. 6, 1839.",Plank,13057.0,0.0,0.0,0.0,0.0,PLNK,P4052,PLNK P4052,13057.0,13057.0,0,0,0,0,7888.0,P4052 PLNK,0,0,0,0,0,0.0
+"Pocock George Admiral, Dartmouth, Kent, printer, March 9, 1830.",Pocock,3375.0,0.0,0.0,0.0,0.0,PKK,P0202,PKK P0202,3375.0,3375.0,0,0,0,0,7637.0,P0202 PKK,0,0,0,0,0,0.0
+"Pollard Wm., East Stonehouse, Devonshire, printer & stationer, Dec. 20, 1836.",Pollard,3387.0,0.0,0.0,0.0,0.0,PLRT,P04063,PLRT P04063,3387.0,3387.0,0,0,0,1,7952.0,P04063 PLRT,1,0,0,0,0,760.0
+"Pomeroy Roger, jun., Brixhain, Devonshire, banker, June 12, 1824.",Pomeroy,3394.0,0.0,0.0,0.0,0.0,PMR,P05060,PMR P05060,3394.0,3394.0,0,0,0,0,8153.0,P05060 PMR,0,0,0,0,0,0.0
+"Pomeroy Roger, jun., Brixham, Devonshire, banker, Oct. 3, 1826.",Pomeroy,3394.0,0.0,0.0,0.0,0.0,PMR,P05060,PMR P05060,3394.0,3394.0,0,0,0,0,8153.0,P05060 PMR,0,0,0,0,0,0.0
+"Pomeroy Thomas, St. Sidwell, Exeter, brewer, June 26, 1832.",Pomeroy,3394.0,0.0,0.0,0.0,0.0,PMR,P05060,PMR P05060,3394.0,3394.0,0,0,0,0,8153.0,P05060 PMR,0,0,0,0,0,0.0
+"Poole Samuel Alford, Exeter, Devonshire, dyer, Nov. 14, 1828.",Poole,3479.0,0.0,0.0,0.0,0.0,PL,P040,PL P040,3479.0,3479.0,0,0,0,0,7682.0,P040 PL,0,0,0,0,0,0.0
+"Poore Edward, Bampton, Devonshire, druggist and stationer, July 5, 1842.",Poore,,0.0,0.0,0.0,0.0,PR,P060,PR P060,3476.0,3476.0,0,0,0,0,7966.0,P060 PR,0,0,0,0,0,0.0
+"Pope James, Tor, Tormoham, Devonshire, builder, June 7, 1839.",Pope,3401.0,0.0,0.0,1.0,0.0,PP,P010,PP P010,3401.0,3401.0,0,0,0,0,7968.0,P010 PP,0,0,0,0,0,0.0
+"Popham Humphrey, Exeter, Devonshire, baker, July 28, 1840.",Popham,3402.0,0.0,0.0,0.0,0.0,PFM,P0105,PFM P0105,3402.0,3402.0,0,0,0,0,7970.0,P0105 PFM,0,0,0,0,0,0.0
+"Porter James, Honiton, Devonshire, victualler, May 25, 1841.",Porter,3407.0,0.0,0.0,0.0,0.0,PRTR,P06306,PRTR P06306,3407.0,3407.0,0,0,0,0,7988.0,P06306 PRTR,0,0,0,0,0,0.0
+"Porter Samuel Sparke, Exeter, cahinet maker and upholsterer, April 15, 1828.",Porter,3407.0,0.0,0.0,0.0,0.0,PRTR,P06306,PRTR P06306,3407.0,3407.0,0,0,0,0,7988.0,P06306 PRTR,0,0,0,0,0,0.0
+"Potbury Gregory, Sidmouth, Devonshire, cahinet maker, Jan. 8, 1822.",Potbury,,0.0,0.0,0.0,0.0,PTPR,P031060,PTPR P031060,10553.0,10553.0,0,0,0,0,7933.0,P031060 PTPR,0,0,0,0,0,0.0
+"Potter Richard, East Teignmonth, Devonshire, ship builder, March 2, 1 827.",Potter,3413.0,0.0,0.0,0.0,0.0,PTR,P0306,PTR P0306,3413.0,3413.0,0,0,0,0,8009.0,P0306 PTR,0,0,0,0,0,0.0
+"Potter William, Plymouth, Devonshire, draper, Sept. 25, 1840.",Potter,3413.0,0.0,0.0,0.0,0.0,PTR,P0306,PTR P0306,3413.0,3413.0,0,0,0,0,8009.0,P0306 PTR,0,0,0,0,0,0.0
+"Poulton Henry, Torquay, Devonshire, cahinet maker, April 18, 1837.",Poulton,,0.0,0.0,0.0,0.0,PLTN,P04305,PLTN P04305,12422.0,12422.0,0,0,0,0,8017.0,P04305 PLTN,0,0,0,0,0,0.0
+"Power Joseph, Colyton, Devonshire, builder, April 22, 1826.",Power,3476.0,0.0,0.0,0.0,0.0,PR,P060,PR P060,3476.0,3476.0,0,0,0,0,7966.0,P060 PR,0,0,0,0,0,0.0
+"Pratt Thomas, Exeter, Devonshire, druggist, Nov. 1, 1831.",Pratt,3467.0,0.0,0.0,0.0,0.0,PRT,P603,PRT P603,3467.0,3467.0,0,0,0,0,8050.0,P603 PRT,0,0,0,0,0,0.0
+"Prideaux Joseph, Plymouth, Devonshire, timber merchant, Nov. 12, 1830.",Prideaux,3436.0,0.0,0.0,1.0,0.0,PRT,P60302,PRT P60302,3436.0,3436.0,0,0,0,0,8083.0,P60302 PRT,0,0,0,0,0,0.0
+"Prideaux Walter ; and Walter Prideaux, jun.; Kingsbridge, Devonshire, bankers, Nov 1, 1825.",Prideaux,3436.0,0.0,0.0,1.0,0.0,PRT,P60302,PRT P60302,3436.0,3436.0,0,0,0,0,8083.0,P60302 PRT,0,0,0,0,0,0.0
+"Pridham Richard, Great Torrington, Devonshire, draper, Sept. 1, 1829.",Pridham,,0.0,0.0,0.0,0.0,PRTM,P60305,PRTM P60305,3468.0,3468.0,0,0,0,0,8123.0,P60305 PRTM,0,0,0,0,0,0.0
+"Provo Leonard Yeo, Newton Ahhott, Devonshire, ironmonger, Oct 28, 1831.",Provo,13058.0,0.0,0.0,0.0,0.0,PRF,P6010,PRF P6010,13058.0,13058.0,0,0,0,0,8163.0,P6010 PRF,0,0,0,0,0,0.0
+"Puddicombe Elias Dunsterville, Silverton, Devonshire, surgeon, May 22, 1838.",Puddicombe,,0.0,0.0,0.0,0.0,PTKMP,P03020510,PTKMP P03020510,3378.0,3378.0,0,0,0,0,8135.0,P03020510 PTKMP,0,0,0,0,0,0.0
+"Puddicombe John, Dartmouth, Devonsh., surgeon & apothecary, Dec. 22, 1835",Puddicombe,,0.0,0.0,0.0,0.0,PTKMP,P03020510,PTKMP P03020510,3378.0,3378.0,0,0,0,0,8135.0,P03020510 PTKMP,0,0,0,0,0,0.0
+"Ramsey Henry Peake, Devonport, Devonshire, druggist, Sept. 13, 1839.",Ramsey,12640.0,0.0,0.0,0.0,0.0,RMS,R0520,RMS R0520,12640.0,12640.0,0,0,0,0,8259.0,R0520 RMS,0,0,0,0,0,0.0
+"Ratcliffe Alex., East Stonehouse, Devonshire, spirit merchant, Dec. 20, 1826.",Ratcliffe,3536.0,0.0,0.0,0.0,0.0,RTKLF,R0324010,RTKLF R0324010,3536.0,3536.0,0,0,0,0,8310.0,R0324010 RTKLF,0,0,0,0,0,0.0
+"Reed Richard, Dawlish, Devonshire, miller and baker, April 10, 1838.",Reed,,0.0,0.0,0.0,0.0,RT,R030,RT R030,3663.0,3663.0,0,0,0,0,8345.0,R030 RT,0,0,0,0,0,0.0
+"Rendell Robert, Newton Abbott, Devonshire, draper, Dec. 10, 1841.",Rendell,,0.0,0.0,0.0,0.0,RNTL,R05304,RNTL R05304,3670.0,3670.0,1,0,0,0,8515.0,R05304 RNTL,0,0,0,0,0,0.0
+"Reveil Richard, Plymouth, Devonshire, linen draper, April 6, 1841.",Reveil,,0.0,0.0,0.0,0.0,RFL,R0104,RFL R0104,3577.0,3577.0,0,0,0,0,8593.0,R0104 RFL,0,0,0,0,0,0.0
+"Reynolds Richard, Shobrooke, Devonshire, tanner, Jan. 2, 1821.",Reynolds,5277.0,0.0,0.0,0.0,0.0,RNLTS,R050432,RNLTS R050432,5277.0,5277.0,0,0,0,0,8437.0,R050432 RNLTS,0,0,0,0,0,0.0
+"Rice John, Great Torrington, Devonshire, grocer and tea dealer, June 13,1826.",Rice,,0.0,0.0,0.0,0.0,RS,R020,RS R020,3663.0,3663.0,0,0,0,0,8368.0,R020 RS,0,0,0,0,0,0.0
+"Richards Jonathan, Exeter, Devonshire, cabinetmaker, Jan. 19, 1822.",Richards,4826.0,0.0,0.0,0.0,0.0,RXRTS,R020632,RXRTS R020632,4826.0,4826.0,0,0,0,0,8404.0,R020632 RXRTS,0,0,0,0,0,0.0
+"Richards William, jun., Tiverton, Devonshire, maltster, Nov. 24, 1829.",Richards,4826.0,0.0,0.0,0.0,0.0,RXRTS,R020632,RXRTS R020632,4826.0,4826.0,0,0,0,0,8404.0,R020632 RXRTS,0,0,0,0,0,0.0
+"Roberts Phylbert. Exeter, Devonshire, broker, Nov. 29, 1839.",Roberts,,0.0,0.0,0.0,0.0,RPRTS,R010632,RPRTS R010632,10194.0,10194.0,0,0,0,0,8477.0,R010632 RPRTS,0,0,0,0,0,0.0
+"Roberts Phylbert Hamlyn, Exeter, Devonshire, broker, Nov. 21, 1837.",Roberts,,0.0,0.0,0.0,0.0,RPRTS,R010632,RPRTS R010632,10194.0,10194.0,0,0,0,0,8477.0,R010632 RPRTS,0,0,0,0,0,0.0
+"Rogers Henry, Dartmouth, Devonshire, wine merchant, Aug. 2, 1842.",Rogers,3620.0,0.0,0.0,0.0,0.0,RKRS,R02062,RKRS R02062,3620.0,3620.0,0,0,0,0,8504.0,R02062 RKRS,0,0,0,0,0,0.0
+"Rowe James, jun., Devonport, Devonshire, tailor, Aug. 20, 1833.",Rowe,3660.0,0.0,0.0,0.0,0.0,R,R000,R R000,3660.0,3660.0,0,0,0,0,8518.0,R000 R,0,0,0,0,0,0.0
+"Rowe William, Devonport, cabinet maker and upholsterer, May 27. 1831.",Rowe,3660.0,0.0,0.0,0.0,0.0,R,R000,R R000,3660.0,3660.0,0,0,0,0,8518.0,R000 R,0,0,0,0,0,0.0
+"Rowland George, Plymouth. Devonshire, innkeeper, Sept. 9, 1834.",Rowland,3654.0,0.0,0.0,0.0,0.0,RLNT,R04053,RLNT R04053,3654.0,3654.0,0,0,0,0,8271.0,R04053 RLNT,0,0,0,0,0,0.0
+"Salter James, Tiverton, Devonshire, stationer, July 19, 1831.",Salter,3694.0,0.0,0.0,0.0,0.0,SLTR,S04306,SLTR S04306,3694.0,3694.0,0,0,0,0,8734.0,S04306 SLTR,0,0,0,0,0,0.0
+"Sanders Samuel, Totnes, Devonshire, coach builder, Feb. 26, 1833.",Sanders,5552.0,0.0,0.0,0.0,0.0,SNTRS,S053062,SNTRS S053062,5552.0,5552.0,0,0,0,0,8732.0,S053062 SNTRS,0,0,0,0,0,0.0
+"Sansom John, Exeter, Devonshire, china dealer, May 4, 1 822.",Sansom,11799.0,0.0,0.0,0.0,0.0,SNSM,S05205,SNSM S05205,11799.0,11799.0,0,0,0,0,8707.0,S05205 SNSM,0,0,0,0,0,0.0
+"Saunders John, Plymouth, Devonshire, porter merchant, Oct. 12, 1841.",Saunders,,0.0,0.0,0.0,0.0,SNTRS,S053062,SNTRS S053062,5552.0,5552.0,0,0,0,0,8732.0,S053062 SNTRS,0,0,0,0,0,0.0
+"Saunders Samuel, Devonport, Devonshire, carver and gilder, Dec. 4, 1838.",Saunders,,0.0,0.0,0.0,0.0,SNTRS,S053062,SNTRS S053062,5552.0,5552.0,0,0,0,0,8732.0,S053062 SNTRS,0,0,0,0,0,0.0
+"Searle John, Lombard street, City, late Exeter, hill broker, May 28,"" 1830.",Searle,,0.0,0.0,0.0,1.0,SRL,S0640,SRL S0640,3771.0,3771.0,0,0,0,0,8856.0,S0640 SRL,0,0,0,0,0,0.0
+"Seccomhe Gregory ; and Samuel Seccomhe ; Tavistock, Devonshire, and Bude,",Seccomhe,,0.0,0.0,0.0,0.0,SKM,S02050,SKM S02050,10914.0,10914.0,0,0,0,0,8843.0,S02050 SKM,0,0,0,0,0,0.0
+"Cornwall, tailors and drapers, May 15, 1838.",Cornwall,1079.0,0.0,0.0,0.0,0.0,KRNL,C06504,KRNL C06504,1079.0,1079.0,0,0,0,0,4484.0,C06504 KRNL,0,0,0,0,0,0.0
+"Sharland George, Exeter, wine and spirit merchant, Feb. 27, 1838.",Sharland,,0.0,0.0,0.0,0.0,XRLNT,S064053,XRLNT S064053,3807.0,3807.0,0,0,0,0,9031.0,S064053 XRLNT,0,1,0,0,0,0.0
+"Short Robert, Dartmouth, Devonshire, sail maker, July 17, 1832.",Short,3837.0,0.0,0.0,0.0,0.0,XRT,S063,XRT S063,3837.0,3837.0,0,0,0,0,9046.0,S063 XRT,0,0,0,0,0,0.0
+"Shute Fras. ; & Steph. J. Shute; Crediton, Devonsh., woollen manufs , Mar. 4, 1826.",Shute,3850.0,0.0,0.0,0.0,0.0,XT,S030,XT S030,3850.0,3850.0,0,0,0,0,9070.0,S030 XT,0,0,0,0,0,0.0
+"Simmons John, Plymouth, Devonshire, grocer, Nov. 17, 1829.",Simmons,,0.0,0.0,0.0,0.0,SMNS,S05052,SMNS S05052,4916.0,4916.0,0,0,0,0,9125.0,S05052 SMNS,0,0,0,0,0,0.0
+"Simons Thomas, Exeter, Devonshire, builder, Dec. 10, 1839.",Simons,,0.0,0.0,0.0,0.0,SMNS,S05052,SMNS S05052,4916.0,4916.0,0,0,0,0,9125.0,S05052 SMNS,0,0,0,0,0,0.0
+"Skinner Robert, Exmouth, Devonshire, baker and pastry cook, Oct. 28, 1834.",Skinner,3881.0,0.0,0.0,0.0,0.0,SKNR,S20506,SKNR S20506,3881.0,3881.0,0,0,0,0,9174.0,S20506 SKNR,0,0,0,0,0,0.0
+"Skinner Robert, Thorverton, Devonshire, farmer, Nov. 29, 1831.",Skinner,3881.0,0.0,0.0,0.0,0.0,SKNR,S20506,SKNR S20506,3881.0,3881.0,0,0,0,0,9174.0,S20506 SKNR,0,0,0,0,0,0.0
+"Skinner William, Bradninch, Devonshire, serge maker, April 26, 1823.",Skinner,3881.0,0.0,0.0,0.0,0.0,SKNR,S20506,SKNR S20506,3881.0,3881.0,0,0,0,0,9174.0,S20506 SKNR,0,0,0,0,0,0.0
+"Smark Benjamin Barker, Honiton, Devonshire, scrivener, June 26, 1840.",Smark,13059.0,0.0,0.0,0.0,0.0,SMRK,S5062,SMRK S5062,13059.0,13059.0,0,0,0,0,9242.0,S5062 SMRK,0,0,0,0,0,0.0
+"Smark William, Honiton, Devonshire, cheese and butter factor, Sept. 4, 1840.",Smark,13059.0,0.0,0.0,0.0,0.0,SMRK,S5062,SMRK S5062,13059.0,13059.0,0,0,0,0,9242.0,S5062 SMRK,0,0,0,0,0,0.0
+"Smith John, Bradninch, Devonshire, miller, Aug. 2, 1823.",Smith,3911.0,0.0,0.0,1.0,0.0,SM0,S5030,SM0 S5030,3911.0,3911.0,0,0,1,1,9246.0,S5030 SM0,1,0,0,0,0,521.0
+"Smith William, Plymouth Dock, Devonshire, cabinet maker, Nov. 6, 1821.",Smith,3911.0,0.0,0.0,1.0,0.0,SM0,S5030,SM0 S5030,3911.0,3911.0,0,0,1,1,9246.0,S5030 SM0,1,0,0,0,0,521.0
+"Snell William, East Stonehouse, Devonshire, coal merchant, Oct. 7, 1831.",Snell,3916.0,0.0,0.0,0.0,0.0,SNL,S504,SNL S504,3916.0,3916.0,0,0,0,0,9273.0,S504 SNL,0,0,0,0,0,0.0
+"Snell William, Totness, Devonshire, linen draper, Dec. 16, 1831.",Snell,3916.0,0.0,0.0,0.0,0.0,SNL,S504,SNL S504,3916.0,3916.0,0,0,0,0,9273.0,S504 SNL,0,0,0,0,0,0.0
+"Soper Walter, Bnckfastleigh, Devonshire, serge maker, March 14, 1826.",Soper,3939.0,0.0,0.0,0.0,0.0,SPR,S0106,SPR S0106,3939.0,3939.0,0,0,0,0,8711.0,S0106 SPR,0,0,0,0,0,0.0
+"Spark William, Cathedral yard, Exeter, printer and stationer, July 28, 1840.",Spark,3961.0,0.0,0.0,0.0,0.0,SPRK,S1062,SPRK S1062,3961.0,3961.0,0,0,0,0,9399.0,S1062 SPRK,0,0,0,0,0,0.0
+"Splatt Francis Townsend, Exeter, Devonshire, cabinet maker, Feb. 28, 1826.",Splatt,3979.0,0.0,0.0,0.0,0.0,SPLT,S1403,SPLT S1403,3979.0,3979.0,0,0,0,0,9391.0,S1403 SPLT,0,0,0,0,0,0.0
+"Squier Tristram Thomas, Exeter, Devonshire, brush manufacturer, April 4,1837.",Squier,8473.0,0.0,0.0,0.0,0.0,SK,S206,SK S206,8473.0,8473.0,0,0,0,0,9795.0,S206 SK,0,0,0,0,0,0.0
+"Stabb Thomas, Torquay, Devonshire, merchant, June 5. 1821.",Stabb,,0.0,0.0,0.0,0.0,STP,S301,STP S301,9968.0,9968.0,0,0,0,0,9429.0,S301 STP,0,0,0,0,0,0.0
+"Stabb Thomas; John Preston; and John Sparke Prowse ; Torquay, Devonshire,",Stabb,,0.0,0.0,0.0,0.0,STP,S301,STP S301,9968.0,9968.0,0,0,0,0,9429.0,S301 STP,0,0,0,0,0,0.0
+"and Botolph lane, City, merchants, Aug. 4, 1821.",and,,0.0,0.0,0.0,0.0,ANT,A530,ANT A530,95.0,95.0,0,0,0,0,11127.0,A530 ANT,0,0,0,0,0,0.0
+"Stabb Thomas, Torquay, Devonshire, wine and spirit merchant, April 20, 1827.",Stabb,,0.0,0.0,0.0,0.0,STP,S301,STP S301,9968.0,9968.0,0,0,0,0,9429.0,S301 STP,0,0,0,0,0,0.0
+"Start John, Plymouth, Devonshire, builder & money scrivener, Marcho, 1832.",Start,,0.0,0.0,0.0,0.0,STRT,S3063,STRT S3063,4059.0,4059.0,0,0,0,0,9500.0,S3063 STRT,0,0,0,0,0,0.0
+"Stevens James, Plymouth, culm merchant and ship agent, June 9, 1829.",Stevens,4965.0,0.0,0.0,0.0,0.0,STFNS,S301052,STFNS S301052,4965.0,4965.0,0,0,0,0,9442.0,S301052 STFNS,0,0,0,0,0,0.0
+"Stevens John, Plymouth, Devonshire, ship owner, June 9, 1829.",Stevens,4965.0,0.0,0.0,0.0,0.0,STFNS,S301052,STFNS S301052,4965.0,4965.0,0,0,0,0,9442.0,S301052 STFNS,0,0,0,0,0,0.0
+"Stevens John Lee, Plymouth, Devonshire, coal merchant. June 9, 1829.",Stevens,4965.0,0.0,0.0,0.0,0.0,STFNS,S301052,STFNS S301052,4965.0,4965.0,0,0,0,0,9442.0,S301052 STFNS,0,0,0,0,0,0.0
+"Stevens William, Alphington, & Heavitree, Devonshire, builder, Dec. 11, 1824.",Stevens,4965.0,0.0,0.0,0.0,0.0,STFNS,S301052,STFNS S301052,4965.0,4965.0,0,0,0,0,9442.0,S301052 STFNS,0,0,0,0,0,0.0
+"Syms Philip, Witheridge, Devonshire, shopkeeper, Nov. 7, 1826.",Syms,,0.0,0.0,0.0,0.0,SMS,S052,SMS S052,3864.0,3864.0,0,0,0,0,9804.0,S052 SMS,0,0,0,0,0,0.0
+"Tapley John, jun., Torr, Devonshire, woollen draper, March 7, 1834.",Tapley,9136.0,0.0,0.0,0.0,0.0,TPL,T0140,TPL T0140,9136.0,9136.0,0,0,0,0,9852.0,T0140 TPL,0,0,0,0,0,0.0
+"Tapscott George, Ottery St Mary, Devonshire, currier, June 19, 1835.",Tapscott,11186.0,0.0,0.0,0.0,0.0,TPSKT,T01203,TPSKT T01203,11186.0,11186.0,0,0,0,0,9856.0,T01203 TPSKT,0,0,0,0,0,0.0
+"Tessier Peter, Ringmore, Teisnmouth. Devonshire, merchant, Feb 19, 1830.",Tessier,13060.0,0.0,0.0,0.0,0.0,TS,T0206,TS T0206,13060.0,13060.0,0,0,0,0,10117.0,T0206 TS,0,0,0,0,0,0.0
+"Thomas William Cook, Plymouth, hatter and glover, Jan. 31, 1832.",Thomas,4166.0,0.0,0.0,0.0,0.0,TMS,T0502,TMS T0502,4166.0,4166.0,0,0,0,0,9969.0,T0502 TMS,0,0,0,0,0,0.0
+"Thompson Nicholas, Dartmouth, Devonshire, master mariner, Dec. 25, 1829.",Thompson,,0.0,0.0,0.0,0.0,TMPSN,T051205,TMPSN T051205,4227.0,4227.0,0,0,0,0,10146.0,T051205 TMPSN,0,0,0,0,0,0.0
+"Thorn John Thorn, Plymouth, Devonshire, currier, Aug. 25, 1821.",Thorn,4957.0,0.0,0.0,0.0,0.0,0RN,T065,0RN T065,4957.0,4957.0,0,0,0,0,9986.0,T065 0RN,0,0,0,0,0,0.0
+"Thorne English, Bideford, Devonshire, draper, Aug. 15, 1834.",Thorne,8432.0,0.0,0.0,0.0,0.0,0RN,T0650,0RN T0650,8432.0,8432.0,0,0,0,0,9986.0,T0650 0RN,0,0,0,0,0,0.0
+"Tillman Josias, Exmouth, Devonshire, glazier, Dec. 21, 1830.",Tillman,,0.0,0.0,0.0,0.0,TLMN,T04505,TLMN T04505,4190.0,4190.0,0,0,0,0,10051.0,T04505 TLMN,0,0,0,0,0,0.0
+"Tory George Pelly, Exeter, Devonshire, linen draper, July 22, 1836.",Tory,,0.0,0.0,0.0,0.0,TR,T060,TR T060,4244.0,4244.0,0,0,0,0,10169.0,T060 TR,0,0,0,0,0,0.0
+"Townsend Robert, Exeter, Devonshire, grocer, Jan. 27, 1821.",Townsend,4258.0,0.0,0.0,0.0,0.0,TNSNT,T052053,TNSNT T052053,4258.0,4258.0,0,0,0,0,10194.0,T052053 TNSNT,0,0,0,0,0,0.0
+"Trix Francis. South Molton, Devonshire, tanner, April 7, 1821.",Trix,4280.0,0.0,0.0,0.0,0.0,TRKS,T602,TRKS T602,4280.0,4280.0,0,0,0,0,10298.0,T602 TRKS,0,0,0,0,0,0.0
+"Trobridge John, Exeter, Devonshire, victualler, Feh. 9, 1827.",Trobridge,5996.0,0.0,0.0,0.0,0.0,TRPRJ,T60160320,TRPRJ T60160320,5996.0,5996.0,0,0,0,0,10333.0,T60160320 TRPRJ,0,0,0,0,0,0.0
+"Tucker Samuel, Exeter, Pevonshire, builder, June 26, 1840.",Tucker,,0.0,0.0,0.0,0.0,TKR,T0206,TKR T0206,4215.0,4215.0,0,0,0,0,10121.0,T0206 TKR,0,0,0,0,0,0.0
+"Tucker Samuel, Exeter, Devonshire, carrier, March 24, 1 843.",Tucker,,0.0,0.0,0.0,0.0,TKR,T0206,TKR T0206,4215.0,4215.0,0,0,0,0,10121.0,T0206 TKR,0,0,0,0,0,0.0
+"Tucker Thomas, Shaldon, Devonshire, ship builder, Dec. 9, 1828.",Tucker,,0.0,0.0,0.0,0.0,TKR,T0206,TKR T0206,4215.0,4215.0,0,0,0,0,10121.0,T0206 TKR,0,0,0,0,0,0.0
+"Tucker William Goldsworthy, Exeter, watchmaker & jeweller, July 17, 1829.",Tucker,,0.0,0.0,0.0,0.0,TKR,T0206,TKR T0206,4215.0,4215.0,0,0,0,0,10121.0,T0206 TKR,0,0,0,0,0,0.0
+"Tucker William Wallace, Exeter, Devonshire, carver & gilder, Nov. 23, 1827.",Tucker,,0.0,0.0,0.0,0.0,TKR,T0206,TKR T0206,4215.0,4215.0,0,0,0,0,10121.0,T0206 TKR,0,0,0,0,0,0.0
+"Turner John, Hatherleigh, Devonshire, spirit merchant, Nov. 18, 1828.",Turner,4241.0,0.0,0.0,0.0,1.0,TRNR,T06506,TRNR T06506,4241.0,4241.0,0,0,0,0,10399.0,T06506 TRNR,0,0,0,0,0,0.0
+"Underhill Richard; & John Underhill; Plymouth, linen drapers, Dec. 31,1839.",Underhill,4367.0,0.0,0.0,0.0,0.0,ANTRL,U530604,ANTRL U530604,4367.0,4367.0,0,0,0,0,10462.0,U530604 ANTRL,0,0,0,0,0,0.0
+"Viney William, Tiverton, Devonshire, currier, May 12, 1837.",Viney,4433.0,0.0,0.0,0.0,0.0,FN,V050,FN V050,4433.0,4433.0,0,0,0,0,3664.0,V050 FN,0,0,0,0,0,0.0
+"Vinson Thomas, Bideford, Devonshire, tailor and draper, July 16, 1839.",Vinson,,0.0,0.0,0.0,0.0,FNSN,V05205,FNSN V05205,5952.0,5952.0,0,0,0,0,10565.0,V05205 FNSN,0,0,0,0,0,0.0
+"Vivian John R,, East Stonehouse, Devonsh., dealer & chapman, Mar. 27, 1840.",Vivian,,0.0,0.0,0.0,0.0,FFN,V0105,FFN V0105,4441.0,4441.0,0,0,0,0,10582.0,V0105 FFN,0,0,0,0,0,0.0
+"Wade John, Plymouth, grocer and tea dealer, May I9, 1838.",Wade,4753.0,0.0,0.0,0.0,1.0,AT,W030,AT W030,4753.0,4753.0,0,0,0,0,10610.0,W030 AT,0,0,0,0,0,0.0
+"Wakeham William, Plymouth, Roman cement manufacturer, Sept. 1, 1835.",Wakeham,4468.0,0.0,0.0,0.0,0.0,AKHM,W0205,AKHM W0205,4468.0,4468.0,0,0,0,0,10639.0,W0205 AKHM,0,0,0,0,0,0.0
+"Wall Richard, St. Thomas the Apostle, Devon, innkeeper, Jan. 13, 1821.",Wall,4665.0,0.0,0.0,0.0,1.0,AL,W040,AL W040,4665.0,4665.0,0,0,0,0,10498.0,W040 AL,0,0,0,0,0,0.0
+"Ware John, Tiverton, Devonshire, tanner, March 26, 1841.",Ware,4627.0,0.0,0.0,0.0,0.0,AR,W060,AR W060,4627.0,4627.0,0,0,0,0,11270.0,W060 AR,0,0,0,0,0,0.0
+"Ware William, Exeter, timber merchant, Feb. 12, 1830.",Ware,4627.0,0.0,0.0,0.0,0.0,AR,W060,AR W060,4627.0,4627.0,0,0,0,0,11270.0,W060 AR,0,0,0,0,0,0.0
+"Watts John, Totnes, Devonshire, linen draper, Nov. 9. 1822.",Watts,4513.0,0.0,0.0,1.0,0.0,ATS,W032,ATS W032,4513.0,4513.0,0,0,0,0,10766.0,W032 ATS,0,0,0,0,0,0.0
+"Watts Thos.Combe Martin, & South Tawton, Devonsh., dealer, Feb. 17, 1821.",Watts,4513.0,0.0,0.0,1.0,0.0,ATS,W032,ATS W032,4513.0,4513.0,0,0,0,0,10766.0,W032 ATS,0,0,0,0,0,0.0
+"Weakley Rohert, Devonport, hotel and tavern keeper, Dec. 10, 1839.",Weakley,,0.0,0.0,0.0,0.0,AKL,W0240,AKL W0240,5126.0,5126.0,0,0,0,0,10776.0,W0240 AKL,0,0,0,0,0,0.0
+"Weaver Richard, Plymouth, Devonshire, linen draper, Nov. 21, 1826.",Weaver,,0.0,0.0,0.0,0.0,AFR,W0106,AFR W0106,4590.0,4590.0,0,0,0,0,10620.0,W0106 AFR,0,0,0,0,0,0.0
+"Weeks John, Exeter, Devonshire, currier, March 12, 1822.",Weeks,,0.0,0.0,0.0,0.0,AKS,W020,AKS W020,10032.0,10032.0,0,0,0,0,10907.0,W020 AKS,0,0,0,0,0,0.0
+"Wescott Thomas, Trews Weir- Mills, Devonshire, paper maker, Feb. 7, 1837.",Wescott,,0.0,0.0,0.0,0.0,ASKT,W0203,ASKT W0203,8626.0,8626.0,0,0,0,0,10834.0,W0203 ASKT,0,0,0,0,0,0.0
+"Weston John, Chudleigh, Devonshire, mail contractor, March 25, 1828.",Weston,4738.0,0.0,0.0,0.0,0.0,ASTN,W02305,ASTN W02305,4738.0,4738.0,0,0,0,0,10858.0,W02305 ASTN,0,0,0,0,0,0.0
+"Whiddon John, Exeter, Devonshire, grocer, April 1, 1823.",Whiddon,4739.0,0.0,0.0,0.0,0.0,ATN,W0305,ATN W0305,4739.0,4739.0,0,0,0,0,10868.0,W0305 ATN,0,0,0,0,0,0.0
+"White Hugh, Popsham. Devonshire, builder, Jan. 6, 1843.",White,4753.0,0.0,0.0,0.0,0.0,AT,W030,AT W030,4753.0,4753.0,0,0,0,0,11167.0,W030 AT,0,0,0,0,0,0.0
+"Whitty Samuel Ramson, Axminster, Devonshire, carpet manufact., Dec. 25. 1835.",Whitty,,0.0,0.0,0.0,0.0,AT,W030,AT W030,4753.0,4753.0,0,0,0,0,11174.0,W030 AT,0,0,0,0,0,0.0
+"Wilcocks Edward. Exeter. Devonshire, linen draper, Nov. 12, 1830.",Wilcocks,,0.0,0.0,0.0,0.0,ALKKS,W04202,ALKKS W04202,9831.0,9831.0,0,0,0,0,11019.0,W04202 ALKKS,0,0,0,0,0,0.0
+"Williams John Pownall, East Stonehouse, Devonshire, draper, May 16, 1837.",Williams,4647.0,0.0,0.0,1.0,0.0,ALMS,W04052,ALMS W04052,4647.0,4647.0,0,0,0,0,11045.0,W04052 ALMS,0,0,0,0,0,0.0
+"Williams William Patrick. Newton Abbott, Devonshire, draper, Dec. 8, 1835.",Williams,4647.0,0.0,0.0,1.0,0.0,ALMS,W04052,ALMS W04052,4647.0,4647.0,0,0,0,0,11045.0,W04052 ALMS,0,0,0,0,0,0.0
+"Wills William, North street, Exeter, builder, June 24, 1834.",Wills,,0.0,0.0,0.0,0.0,ALS,W042,ALS W042,4551.0,4551.0,0,0,0,0,11046.0,W042 ALS,0,0,0,0,0,0.0
+"Wills Richard Wadland, Barnstaple, Devonshire, linen draper, Aug. 21,1829.",Wills,,0.0,0.0,0.0,0.0,ALS,W042,ALS W042,4551.0,4551.0,0,0,0,0,11046.0,W042 ALS,0,0,0,0,0,0.0
+"Wills William, North street, Exeter, builder, June 24, 1834.",Wills,,0.0,0.0,0.0,0.0,ALS,W042,ALS W042,4551.0,4551.0,0,0,0,0,11046.0,W042 ALS,0,0,0,0,0,0.0
+"Windeatt Thos.; and Wm. Windeatt ; Tavistock, fellmongers, March 10, 1821.",Windeatt,,0.0,0.0,0.0,0.0,ANTT,W05303,ANTT W05303,8985.0,8985.0,0,0,0,0,11099.0,W05303 ANTT,0,0,0,0,0,0.0
+"Windeatt William Browne, South Brent, Devonshire, corn factor, July 9, 1841.",Windeatt,,0.0,0.0,0.0,0.0,ANTT,W05303,ANTT W05303,8985.0,8985.0,0,0,0,0,11099.0,W05303 ANTT,0,0,0,0,0,0.0
+"Wingate Francis Philip, East Stonehouse, Devonshire, scrivener, Feb. 12, 1839.",Wingate,12637.0,0.0,0.0,0.0,0.0,ANKT,W052030,ANKT W052030,12637.0,12637.0,0,0,0,0,11099.0,W052030 ANKT,0,0,0,0,0,0.0
+"Winsor William, Dodbroke, Devonshire, beer and porter seller, Oct. 28, 1836.",Winsor,,0.0,0.0,0.0,0.0,ANSR,W05206,ANSR W05206,9155.0,9155.0,0,0,0,0,11090.0,W05206 ANSR,0,0,0,0,0,0.0
+"Winsor William, Ivybridge, Devonshire, victualler, March 14, 1826.",Winsor,,0.0,0.0,0.0,0.0,ANSR,W05206,ANSR W05206,9155.0,9155.0,0,0,0,0,11090.0,W05206 ANSR,0,0,0,0,0,0.0
+"Wise Ashford; Nicholas Baker ; and William Searle Bentall ; Newton Abbott, Devon, bankers, July 30, 1841.",Wise,4688.0,0.0,0.0,0.0,0.0,AS,W020,AS W020,4688.0,4688.0,0,0,0,0,11351.0,W020 AS,0,0,0,0,0,0.0
+"Wise Ashford; William Searle Bentall ; and Robert Farwell ; Totnes, Devonshire, bankers. Aug. 6, 1841.",Wise,4688.0,0.0,0.0,0.0,0.0,AS,W020,AS W020,4688.0,4688.0,0,0,0,0,11351.0,W020 AS,0,0,0,0,0,0.0
+"Worth Wm & Hen- Worth Totnes, Devonshire, linen drapers, June 12, 1838.",Worth,4736.0,0.0,0.0,0.0,0.0,AR0,W0630,AR0 W0630,4736.0,4736.0,0,0,0,0,11296.0,W0630 AR0,0,0,0,0,0,0.0
+"Worthy James George, Alphington, Devonshire, corn factor, May 11, 1832.",Worthy,4736.0,0.0,0.0,0.0,0.0,AR0,W0630,AR0 W0630,4736.0,4736.0,0,0,0,0,11302.0,W0630 AR0,0,0,0,0,0,0.0
+"Worthy Jonathan Melhuish; and John Dewdney Worthy; Exeter, Devonshire, merchants, May 25, 1832.",Worthy,4736.0,0.0,0.0,0.0,0.0,AR0,W0630,AR0 W0630,4736.0,4736.0,0,0,0,0,11302.0,W0630 AR0,0,0,0,0,0,0.0
+"Wyatt Francis. Plymouth, Devonshire, grocer, Sept. 4, 1829.",Wyatt,,0.0,0.0,0.0,1.0,AT,W030,AT W030,4753.0,4753.0,0,0,0,0,11335.0,W030 AT,0,0,0,0,0,0.0
+"Wyatt James. Plymouth, Devonshire, upholsterer, Nov. 25, 1842.",Wyatt,,0.0,0.0,0.0,1.0,AT,W030,AT W030,4753.0,4753.0,0,0,0,0,11335.0,W030 AT,0,0,0,0,0,0.0
+"Wyatt John, Plymouth, Devonshire, rope maker, July 10, 1829.",Wyatt,,0.0,0.0,0.0,1.0,AT,W030,AT W030,4753.0,4753.0,0,0,0,0,11335.0,W030 AT,0,0,0,0,0,0.0
+"Yole James Cloke, East Stonehouse, Devonshire, coal merchant, Aug. 20, 1839.",Yole,10311.0,0.0,0.0,0.0,0.0,AL,Y040,AL Y040,10311.0,10311.0,0,0,0,0,3406.0,Y040 AL,0,0,0,0,0,0.0
+"Youlton William Webster, Devonport, Devonshire, tailor, Sept. 6, 1833.",Youlton,,0.0,0.0,0.0,0.0,ALTN,Y04305,ALTN Y04305,4776.0,4776.0,0,0,0,0,11397.0,Y04305 ALTN,0,0,0,0,0,0.0

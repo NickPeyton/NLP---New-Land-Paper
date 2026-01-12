@@ -1,0 +1,995 @@
+prop_id	pid	role	role_desc
+1	1942	lateoccup	
+1	1943	occupier	
+1	1944	grantee	
+2	1945	grantee	
+2	1945	seller	
+2	1946	buyer	
+3	1947	grantee	
+4	1948	rebuilder	
+5	1949	grantee	granted 1st tenancy
+5	1949	leasetaker	granted 1st tenancy
+5	1949	tenant	granted 1st tenancy
+6	1950	occupier	
+7	1951	rentpayer	
+8	1952	rentpayer	
+9	1953	granter	
+9	1953	leasegiver	
+9	1954	grantee	
+9	1954	leasetaker	
+10	1955	assess	pid1955 + 1956 assessed for subsidy in ahhl on goods valued at £150 and £20: not clear if pid1955 or 1956 occupying
+10	1956	assess	
+11	1957	rentpayer	
+11	1958	rentpayer	
+11	1959	rentpayer	
+12	1960	leasetaker	
+13	1961	granter	
+13	1961	leasegiver	
+13	1962	grantee	
+13	1962	leasetaker	
+14	1963	rentpayer	paid rent between 1554 and 1584
+15	1964	leasetaker	lease granted in reversion
+15	1964	occupier	
+16	1966	grantee	
+16	1966	rentpayer	
+17	1967	rentpayer	
+17	1968	rentpayer	
+18	1969	leasetaker	
+18	1970	leasetaker	
+18	1971	grantee	receives the entry fine for the new lease for his service to the city
+19	1973	leasegiver	paid rent under lease of pid1973
+19	1973	rentpayer	paid rent under lease of pid1973
+19	1974	leasetaker	paid rent under lease of pid1973
+19	1974	rentpayer	paid rent under lease of pid1973
+19	1975	rentpayer	
+20	1976	leasegiver	
+20	1976	leasetaker	
+20	1977	leasegiver	
+20	1978	tenant	
+20	1979	tenant	
+21	1980	leasegiver	pid1980 ordered to make a lease to pid1981
+21	1981	leasetaker	pid1980 ordered to make a lease to pid1981
+22	1982	leasegiver	
+22	1982	leasetaker	
+22	1983	leasetaker	
+23	1955	assess	pid1955 paying tithe on property in ahhl valued at £90pa (this prop presumably)
+24	1985	grantee	
+24	1985	leasegiver	
+24	1986	leasetaker	
+25	1987	grantee	
+25	1987	leasegiver	
+25	1988	leasetaker	
+26	1989	rentpayer	
+27	1990	grantee	
+27	1990	leasegiver	
+27	1991	leasetaker	
+28	1992	rentpayer	
+29	1993	grantee	
+29	1993	leasegiver	
+29	1994	leasetaker	
+30	1995	grantee	
+30	1995	leasegiver	
+30	1996	leasetaker	
+31	1997	rentpayer	pid1997 paying rent between 1646 and 1653
+32	1998	grantee	
+32	1998	leasegiver	
+32	1999	leasetaker	
+33	2000	grantee	
+33	2000	leasegiver	
+33	2001	leasetaker	
+34	2002	leasegiver	
+34	2002	leasetaker
+35	204	rentpayer
+35	2003	rentpayer
+36	2005	leasegiver
+36	2006	leasetaker
+36	2007	leaseholder
+37	2008	occupier
+38	2009	occupier
+39	2010	leasetaker
+40	2011	leasetaker
+40	2012	leasegiver
+42	2013	grantee
+43	2014	alienate
+43	2014	grantee
+43	2015	leasetaker
+44	2016	assess
+45	2016	assess	
+46	2017	buyer	presumably sale of lease?
+46	2018	seller	presumably sale of lease?
+46	2019	lateoccup	
+47	2020	granter	
+47	2021	grantee	
+48	2022	leasegiver	
+48	2025	leasegiver	
+48	2026	leasetaker	
+48	2026	occupier	possibly in occup - or else his undertenant is
+49	2028	grantee	
+49	2030	granter	
+50	2031	surveryor	
+51	2031	surveryor	
+52	2032	assess	
+53	2033	occupier	
+53	2034	buyer	bought 16 yrs purchase - ie bought lease?
+54	2035	granter	
+54	2036	grantee	
+55	2037	quitclaimer	
+55	2038	quitclaimer	
+56	2041	granter	
+56	2042	grantee	
+57	2043	recoverer	
+57	2044	recoverer	
+57	2045	recovervs	
+58	2046	granter	
+58	2047	grantee	
+58	2048	grantee	
+58	2049	grantee	
+59	2050	occupier	
+59	2051	occupier	
+60	2055	occupier
+60	2056	occupier
+60	2057	occupier
+61	2058	surveryor
+62	2058	surveryor
+63	2059	surveryor
+64	2060	leasetaker
+64	2060	rebuilder
+64	2061	leasegiver
+64	2062	leasegiver
+64	2064	leasegiver
+64	2065	leasegiver
+65	2066	occupier
+65	2066	rentpayer
+66	2067	leaseholder
+67	2068	assess
+68	2069	buyer
+68	2070	buyer
+69	2071	rentpayer
+71	2072	rentpayer
+72	2073	leasetaker
+73	2074	rentpayer
+74	2075	rentpayer
+77	2076	leasetaker
+78	2077	grantee
+80	5634	tenant
+81	5635	assess
+82	5636	owner
+83	5637	rebuilder
+83	5638	neighbour
+84	5639	buyer
+84	5640	seller
+84	5641	lateowner	
+85	5642	owner	
+86	5643	occupier	
+87	5644	rebuilder	
+87	5645	rebuilder	
+88	5646	owner	
+88	5647	owner	
+89	5648	rentpayer	
+90	5649	rentpayer	
+91	5650	rentpayer	
+92	5651	rentpayer	
+93	5652	rentpayer	
+94	5653	occupier	probably
+94	5654	occupier	probably
+95	5655	rentpayer	
+96	5656	rentpayer	
+97	5657	rentpayer
+98	5658	rentpayer
+99	5659	owner
+100	5660	tenant
+101	5661	tenant
+102	5662	tenant
+103	5664	tenant
+104	5665	tenant
+105	5666	rentpayer
+105	5667	rentpayer
+106	5668	rentpayer
+107	5669	tenant
+107	5670	rentpayer
+107	5671	grantee
+107	5672	granter
+107	5672	owner
+108	5673	rentpayer
+108	5674	tenant
+108	5675	grantee
+109	5676	rentpayer
+109	5677	grantee
+110	5678	rentpayer
+110	5681	grantee
+111	5682	rentpayer
+112	5683	leasetaker
+113	5684	leasetaker
+113	5684	occupier
+113	5684	petition
+113	5684	rebuilder
+113	5685	leasegiver
+114	5687	assess
+114	5687	occupier
+114	5688	assess
+114	5688	occupier
+115	5689	rentpayer
+117	5690	leasetaker
+117	5690	occupier
+117	5691	lateoccup
+117	5692	lateoccup
+118	5693	leasetaker
+118	5694	leasegiver
+119	5695	rentpayer
+120	5696	assess
+120	5696	occupier
+120	5697	assess
+120	5697	occupier
+121	5698	assess
+121	5698	occupier
+121	5699	assess
+121	5699	occupier
+121	5700	assess
+121	5700	occupier
+123	5701	lateowner
+123	5702	seller
+123	5703	seller
+123	5704	lateoccup
+123	5705	lateoccup
+123	5706	lateoccup
+123	5707	buyer
+124	5708	owner
+125	5709	lateowner
+125	5710	owner
+125	5711	leasegiver
+125	5711	owner
+125	5712	lateoccup
+125	5713	leasetaker
+126	5714	leasegiver
+126	5715	leasegiver
+126	5716	leasetaker
+127	5717	assess
+128	5718	recoverer
+128	5719	recoverer
+128	5720	recoverer
+128	5721	recovervs
+128	5722	recovervs
+129	5723	quitclaimer
+129	5724	quitclaimer
+130	5725	quitowner
+131	5726	quitpayer
+131	5727	quitowner
+132	5728	quitowner
+132	5729	quitpayer
+133	5730	tenant
+135	5731	leasegiver
+135	5732	leasetaker
+136	5733	assess
+137	5734	leasetaker
+137	5735	leasetaker
+138	5736	occupier
+139	5737	occupier
+140	5738	leasetaker
+141	5739	occupier
+142	7028	leasetaker
+142	7028	occupier
+143	7029	assess
+144	7030	leasegiver
+144	7031	leasetaker	
+145	7032	leasegiver	
+145	7033	leasetaker	
+146	7035	occupier	occupant or tenant
+146	7035	tenant	occupant or tenant
+147	7037	occupier	
+147	7039	leasetaker	
+148	7040	occupier	
+149	7041	grantee	
+150	7042	rentpayer	
+151	7043	rentpayer	
+152	7044	rentpayer	
+153	7045	rentpayer	
+154	7046	rentpayer	
+155	7047	leasetaker	
+156	7048	rentpayer	
+157	7049	petition	request for new lease
+158	7050	leasegiver	
+158	7051	leasegiver	
+158	7051	leasetaker	
+158	7052	leasetaker	
+159	7053	rentpayer	
+160	7054	assess	
+161	7055	assess	
+162	7056	assess	
+163	7057	assess	
+164	7058	rentpayer	
+164	7059	lateowner	
+165	7060	rentpayer	
+165	7061	rentpayer	
+166	7062	petition	
+166	7062	tenant	
+166	7063	petition
+166	7063	tenant
+167	7064	leasegiver
+167	7065	leasetaker
+167	7066	leasetaker
+169	7067	rentpayer
+170	7068	assess
+170	7068	occupier
+171	7069	assess
+171	7069	occupier
+172	7070	leasegiver
+172	7071	leasetaker
+173	7070	leasegiver
+173	7071	leasetaker
+174	7072	assess
+174	7072	occupier
+175	7073	assess
+175	7073	occupier
+176	7074	assess
+176	7074	occupier
+177	7075	rentpayer
+177	7076	rentpayer
+178	7075	rentpayer
+178	7076	rentpayer
+179	7077	leasegiver
+179	7078	leasetaker
+180	7079	leasegiver
+180	7079	rebuilder
+180	7080	lateoccup
+180	7081	leasetaker
+181	7083	leasegiver
+181	7084	leasetaker
+182	7085	leasegiver	
+182	7086	occupier	
+182	7087	leasetaker	
+183	7088	granter	
+183	7089	leasegiver	
+183	7090	grantee	
+184	7091	granter	
+184	7092	grantee	
+184	7093	leaseholder	
+185	7094	tenant	late tenant
+185	7095	owner	
+185	7095	tenant	
+186	7077	assess	
+186	7077	occupier	
+187	7098	assess	
+187	7098	occupier	
+188	7099	granter	
+188	7100	grantee	
+189	7101	assess	
+189	7101	occupier	
+190	7102	assess	
+190	7102	occupier	
+191	7103	leasetaker	agreements made including extension of terms
+191	7103	seller	release of term to City
+191	7104	leasetaker	agreements made including extension of terms
+191	7105	leasegiver	agreements made including extension of terms
+192	7106	lateoccup	
+192	7107	grantee	
+192	7107	tenant	
+192	7108	granter	
+193	7109	leasetaker	
+193	7110	neighbour	
+193	7111	neighbour
+194	7112	owner
+195	7113	leaseholder
+195	7114	leaseholder
+196	7115	leasegiver
+196	7116	leasetaker
+196	7117	tenant
+197	7119	rentpayer
+197	7120	rentpayer
+199	7121	grantee
+201	7122	assess
+201	7122	occupier
+202	7123	subtenant
+203	7124	quitpayer
+203	7125	quitpayer
+203	7126	freeholder
+204	7127	occupier	
+205	7128	occupier	
+206	7129	occupier	
+207	7130	buyer	
+207	7130	petition	
+208	7131	seller	
+208	7132	seller	
+208	7133	buyer	
+208	7134	occupier	now or late occupied
+208	7135	occupier	
+208	7136	lateoccup	formerly occupied by
+208	7137	lateoccup	formerly occupied by
+209	7138	granter	inheritance
+209	7139	grantee	inheritance
+210	7141	seller	
+210	7142	buyer	
+211	7143	assess	
+211	7143	occupier	
+211	7144	assess	
+211	7144	occupier	
+212	7145	granter	inheritance
+212	7146	grantee	inheritance
+212	7147	grantee	inheritance
+212	7148	grantee	inheritance
+212	7149	grantee	inheritance
+214	7150	assess	
+214	7150	occupier	
+214	7151	assess	
+214	7151	occupier	
+215	7152	assess	
+215	7152	occupier	
+215	7153	assess	
+215	7153	occupier	
+216	7154	granter	presumably a bequest of the tenancy to pid7155?
+216	7154	tenant	
+216	7155	grantee	presumably a bequest of the tenancy to pid7155?
+216	7155	tenant	
+217	7156	occupier	
+217	7157	occupier	
+217	7158	occupier	
+218	7159	occupier	
+218	7160	occupier	
+219	7161	occupier	
+220	7162	seller	
+220	7163	seller	
+220	7164	lateowner	probably late owner - possibly late occupier
+220	7165	buyer	
+220	7166	grantee	conveyed to as part of assurance
+220	7167	grantee	conveyed to as part of assurance
+220	7168	grantee	conveyed to as part of assurance
+221	7169	recoverer	
+221	7170	recoverer	
+221	7171	recovervs	
+221	7172	recovervs	
+221	7173	recovervs	called to warrant by the recovervs party
+222	7174	grantee	
+222	7174	granter	
+222	7175	grantee	
+222	7175	granter	
+222	7176	lateowner	had held the tenements by previous grant
+222	7177	grantee	
+222	7177	lateowner	had made the initial grant
+222	7178	grantee	
+223	7179	granter	test bequest
+223	7180	grantee	test recip
+223	7181	grantee	test recip
+224	7182	lateoccup	
+225	7183	buyer	
+225	7183	rentpayer	
+225	7183	seller	
+225	7184	owner	owner of a rent due on 11/8a
+225	7185	buyer	
+227	7188	occupier	possibly an occupier
+227	7189	occupier	
+227	7190	occupier	
+228	7191	owner	
+228	7192	occupier	
+229	7193	leasetaker	
+229	7194	occupier	
+230	7195	leasetaker	extension to lease
+231	7196	owner	disputed owner
+231	7197	owner	disputed owner
+231	7198	tenant	
+232	13908	leasegiver	
+232	13909	leasetaker	
+232	13910	occupier	occupier of 11/8A2
+232	13911	lateoccup	late occupier of 11/8A3
+233	13912	leaseholder	
+233	13912	petition	
+233	13913	owner	
+234	13914	occupier	
+234	13914	rentpayer	
+235	7106	lateoccup	
+235	7107	grantee	
+235	7107	tenant	
+235	7108	granter	
+236	7109	leasetaker	
+236	7110	neighbour	
+236	7111	neighbour	
+237	7162	seller	
+237	7163	seller	
+237	7164	lateowner	probably late owner - possibly late occupier
+237	7165	buyer	
+237	7166	grantee	conveyed to as part of assurance
+237	7167	grantee	conveyed to as part of assurance
+237	7168	grantee	conveyed to as part of assurance
+238	7162	seller	
+238	7163	seller	
+238	7164	lateowner	probably late owner - possibly late occupier
+238	7165	buyer	
+238	7166	grantee	conveyed to as part of assurance
+238	7167	grantee	conveyed to as part of assurance
+238	7168	grantee	conveyed to as part of assurance
+239	7162	seller	
+239	7163	seller	
+239	7164	lateowner	probably late owner - possibly late occupier
+239	7165	buyer	
+239	7166	grantee	conveyed to as part of assurance
+239	7167	grantee	conveyed to as part of assurance
+239	7168	grantee	conveyed to as part of assurance
+240	7169	recoverer	
+240	7170	recoverer	
+240	7171	recovervs	
+240	7172	recovervs	
+240	7173	recovervs	called to warrant by the recovervs party
+241	7169	recoverer	
+241	7170	recoverer	
+241	7171	recovervs	
+241	7172	recovervs	
+241	7173	recovervs	called to warrant by the recovervs party
+242	7169	recoverer	
+242	7170	recoverer	
+242	7171	recovervs	
+242	7172	recovervs	
+242	7173	recovervs	called to warrant by the recovervs party
+243	7174	grantee	
+243	7174	granter	
+243	7175	grantee	
+243	7175	granter	
+243	7176	lateowner	had held the tenements by previous grant
+243	7177	grantee	
+243	7177	lateowner	had made the initial grant
+243	7178	grantee	
+244	7174	grantee	
+244	7174	granter	
+244	7175	grantee	
+244	7175	granter	
+244	7176	lateowner	had held the tenements by previous grant
+244	7177	grantee	
+244	7177	lateowner	had made the initial grant
+244	7178	grantee	
+245	7174	grantee	
+245	7174	granter	
+245	7175	grantee	
+245	7175	granter	
+245	7176	lateowner	had held the tenements by previous grant
+245	7177	grantee	
+245	7177	lateowner	had made the initial grant
+245	7178	grantee	
+246	7179	granter	test bequest
+246	7180	grantee	test recip
+246	7181	grantee	test recip
+247	7179	granter	test bequest
+247	7180	grantee	test recip
+247	7181	grantee	test recip
+248	7179	granter	test bequest
+248	7180	grantee	test recip
+248	7181	grantee	test recip
+249	7182	lateoccup	
+250	7182	lateoccup	
+251	7182	lateoccup	
+252	7193	leasetaker	
+252	7194	occupier	
+253	7193	leasetaker	
+253	7194	occupier	
+254	7195	leasetaker	extension to lease
+255	7195	leasetaker	extension to lease
+256	13908	leasegiver	
+256	13909	leasetaker	
+256	13910	occupier	occupier of 11/8A2
+256	13911	lateoccup	late occupier of 11/8A3
+257	13908	leasegiver	
+257	13909	leasetaker	
+257	13910	occupier	occupier of 11/8A2
+257	13911	lateoccup	late occupier of 11/8A3
+258	13912	leaseholder	
+258	13912	petition	
+258	13913	owner	
+259	13912	leaseholder	
+259	13912	petition	
+259	13913	owner	
+260	13914	occupier	
+260	13914	rentpayer	
+261	13914	occupier	
+261	13914	rentpayer	
+262	13914	occupier	
+262	13914	rentpayer	
+263	13915	leasegiver	
+263	13916	occupier	
+263	13917	leasetaker	
+263	13918	occupier	later occupier
+264	13915	leasegiver	
+264	13916	occupier	
+264	13917	leasetaker	
+264	13918	occupier	later occupier
+265	13919	granter	
+265	13920	grantee	
+265	13920	rentpayer	
+266	13921	leasegiver	
+266	13922	leasetaker	
+266	13922	occupier	
+266	13922	rentpayer	
+267	13923	lateoccup	
+267	13924	leasetaker	
+267	13925	leasegiver	
+268	13926	leasetaker	
+268	13926	petition	asked for new lease - got it 1630
+268	13927	leasegiver	
+268	13927	surveyor	conducted a view/valuation
+268	13928	neighbour	
+268	13929	neighbour	
+269	13926	leasetaker	
+269	13926	petition	asked for new lease - got it 1630
+269	13927	leasegiver	
+269	13927	surveyor	conducted a view/valuation
+269	13928	neighbour	
+269	13929	neighbour	
+270	13926	leasetaker	
+270	13926	petition	asked for new lease - got it 1630
+270	13927	leasegiver	
+270	13927	surveyor	conducted a view/valuation
+270	13928	neighbour	
+270	13929	neighbour	
+271	13926	leasetaker	
+271	13926	petition	asked for new lease - got it 1630
+271	13927	leasegiver	
+271	13927	surveyor	conducted a view/valuation
+271	13928	neighbour	
+271	13929	neighbour	
+272	13926	leasetaker	
+272	13926	petition	asked for new lease - got it 1630
+272	13927	leasegiver	
+272	13927	surveyor	conducted a view/valuation
+272	13928	neighbour	
+272	13929	neighbour	
+273	13930	rentpayer	
+274	13931	rentpayer	
+274	13932	rentpayer	
+275	13933	occupier	
+276	13934	leasetaker	
+276	13934	occupier	
+276	13935	lateoccup	dead leaseholder
+277	13936	granter	bequest of lease
+277	13937	grantee	test recipient of lease
+277	13938	grantee	test recipient of lease in reversion
+278	13939	occupier	
+279	13940	occupier
+280	13941	leaseholder
+281	13942	owner
+281	13943	occupier
+282	13944	buyer
+282	13944	leasetaker
+282	13944	petition
+282	13946	seller
+282	13947	leasegiver
+283	13944	buyer
+283	13944	leasetaker
+283	13944	petition
+283	13946	seller
+283	13947	leasegiver
+284	13944	buyer
+284	13944	leasetaker
+284	13944	petition	
+284	13946	seller	
+284	13947	leasegiver	
+285	13948	occupier	
+286	13949	occupier	
+287	13950	occupier	
+288	13951	leasetaker	
+289	13951	leasetaker	
+290	13952	occupier	
+290	13953	subtenant	
+291	13952	occupier	
+291	13953	subtenant	
+292	13954	leaseholder	lease expired 1605
+292	13955	rentpayer	
+293	13954	leaseholder	lease expired 1605
+293	13955	rentpayer	
+294	13956	leasetaker	
+295	13957	lateoccup	
+295	13958	granter	
+295	13959	grantee	
+295	13959	leasetaker	
+296	13960	petition	
+296	13961	petition	
+296	13962	petition	
+296	13963	owner	
+299	13964	petition	"petitioned for new lease, offered one, refused"
+299	13965	leasetaker	took the new lease
+299	13966	leasegiver	
+300	13967	rentpayer	
+301	13968	occupier	
+302	13969	dispute	
+302	13969	leasetaker	
+302	13970	dispute
+302	13970	leasegiver
+304	13973	rentpayer
+305	13975	occupier
+306	13976	leasetaker
+307	13977	rentpayer
+308	13978	occupier
+309	13979	occupier
+310	13980	granter
+310	13980	leasetaker
+310	13981	grantee
+310	13981	leasetaker
+311	13980	granter
+311	13980	leasetaker
+311	13981	grantee
+311	13981	leasetaker
+312	13982	occupier
+313	13985	occupier
+314	13986	leasetaker
+314	13987	occupier
+315	13988	lateoccup
+316	13989	lateoccup
+316	13990	rentpayer
+317	13991	granter
+317	13992	leasegiver
+317	13993	leasetaker
+317	13994	occupier
+318	13995	rentpayer
+319	13996	leasetaker
+319	13996	petition
+319	13998	leasegiver
+319	13999	leasetaker
+320	13996	leasetaker
+320	13996	petition
+320	13998	leasegiver
+320	13999	leasetaker
+321	13996	leasetaker
+321	13996	petition
+321	13998	leasegiver
+321	13999	leasetaker
+322	14000	lateoccup
+322	14001	leasetaker
+322	14001	rentpayer
+322	14002	leasetaker
+322	14002	rentpayer
+323	14003	rentpayer
+324	14004	occupier
+325	14005	leasetaker
+325	14005	petition	
+326	14006	petition	
+327	14008	leasetaker	extension to existing lease
+327	14008	petition	
+328	14009	rentpayer	
+329	14010	rentpayer	
+330	14011	occupier	
+331	14012	occupier	
+332	14013	leasetaker	extension to existing lease
+332	14013	petition	
+332	14014	leasetaker	extension to existing lease
+333	14015	alienate	
+333	14016	grantee	
+335	14017	occupier	of propid335
+336	14017	occupier	of propid335
+337	14018	dispute	
+337	14018	tenant	
+337	14019	dispute	
+337	14019	leaseholder	
+337	14020	dispute	
+337	14021	dispute	
+337	14022	lateoccup	late tenant
+338	14023	occupier	
+339	14024	dispute	
+339	14024	occupier	
+339	14025	dispute	
+339	14025	neighbour	
+340	14026	occupier	
+341	14024	dispute	
+341	14024	occupier	
+341	14025	dispute	
+341	14025	neighbour	
+342	14027	rentpayer
+343	14028	leasetaker
+343	14028	petition
+343	14029	petition
+343	14030	lateoccup
+344	14031	rentpayer
+345	14032	rentpayer
+346	14033	granter
+346	14034	grantee
+347	14035	subletter
+347	14036	subtenant
+348	14037	granter
+348	14038	grantee
+348	14038	granter
+348	14038	rentpayer
+348	14039	grantee
+349	14040	leasetaker
+349	14040	occupier
+350	14041	grantee
+350	14041	subletter
+351	14042	petition
+351	14043	petition
+351	14044	petition
+352	14045	rentpayer
+352	14046	rentpayer
+353	14047	owner
+355	14048	occupier
+356	14049	leasegiver
+356	14050	leasetaker
+357	14051	rentpayer
+358	14053	granter
+358	14054	grantee
+358	14055	grantee
+358	14056	owner
+359	14057	lateoccup
+359	14058	granter
+359	14059	grantee
+360	14060	rentpayer
+361	14062	rentpayer
+362	14063	leasegiver
+362	14064	leasetaker
+362	14065	leasetaker
+363	14066	rentpayer
+364	14067	leasetaker
+364	14067	petition
+364	14068	leasegiver
+365	14069	rentpayer
+366	14070	occupier
+367	14072	leasetaker	
+367	14072	petition	
+367	14073	leasegiver	
+367	14073	surveyor	
+368	14072	leasetaker	
+368	14072	petition	
+368	14073	leasegiver	
+368	14073	surveyor	
+369	14075	rentpayer	
+370	14077	granter	will bequest
+370	14078	grantee	
+371	14079	granter	
+371	14080	grantee	
+371	14081	petition	
+372	14082	occupier	
+373	14083	occupier	
+374	14084	leaseholder
+374	14084	occupier
+375	14085	dispute
+375	14085	leasetaker
+375	14086	dispute
+375	14087	dispute
+375	14087	leasegiver
+375	14088	dispute
+376	14090	occupier
+377	14090	occupier
+378	14090	occupier
+379	14090	occupier
+380	14095	rebuilder
+380	14096	occupier
+381	14095	rebuilder
+381	14096	occupier
+383	14097	leasetaker
+383	14097	occupier
+383	14098	lateoccup
+383	14099	occupier
+384	14097	leasetaker
+384	14097	occupier
+384	14098	lateoccup
+384	14099	occupier
+385	14100	leasetaker
+385	14101	leasegiver
+386	14102	rentpayer
+387	14103	granter
+387	14104	grantee
+387	14104	petition
+387	14105	grantee
+388	14106	rentpayer
+389	14107	leasetaker
+389	14108	lateoccup
+389	14109	leasegiver
+390	14110	granter
+390	14111	grantee
+391	14112	rentpayer
+392	14113	occupier
+392	14114	occupier
+393	14115	leasegiver
+393	14115	surveyor
+393	14116	leasegiver
+393	14116	occupier
+394	14115	leasegiver
+394	14115	surveyor
+394	14116	leasetaker
+394	14116	occupier
+395	14115	leasegiver
+395	14115	surveyor
+395	14116	leasetaker
+395	14116	occupier
+396	14115	leasegiver
+396	14115	surveyor
+396	14116	leasetaker
+396	14116	occupier
+397	14120	rentpayer
+398	14121	leasegiver
+398	14121	surveyor
+398	14122	leasetaker
+398	14122	occupier
+398	14123	leasetaker
+398	14123	occupier
+399	14124	rentpayer
+400	14125	rentpayer
+401	14126	granter
+401	14126	leasegiver
+401	14126	surveyor
+401	14127	leasetaker
+401	14128	occupier
+401	14129	grantee
+402	14131	owner
+402	14132	occupier
+407	14133	rentpayer
+408	14134	occupier
+408	14135	occupier
+409	14136	leasetaker
+409	14136	petition
+409	14137	leaseholder
+409	14138	lateoccup
+409	14139	petition
+409	14140	petition
+409	14141	petition
+409	14142	petition
+409	14143	leasegiver
+410	14145	rentpayer
+410	14146	rentpayer
+410	14147	lateoccup
+411	14148	leasetaker
+411	14148	petition
+411	14149	leasegiver
+411	14149	surveyor
+412	14150	rentpayer
+414	14152	occupier
+414	14153	occupier
+415	14154	occupier
+416	14155	granter	
+416	14156	grantee	
+416	14156	petition	
+417	14158	tenant	
+417	14159	lateoccup	
+418	14158	tenant	
+418	14159	lateoccup	
+419	14160	tenant	
+420	14161	tenant	
+421	14162	rebuilder	repairs
+422	14163	granter	
+422	14165	granter	
+423	14166	granter	
+423	14167	grantee	
+423	14170	grantee	
+423	14171	grantee	
+423	14172	grantee
+423	14172	granter
+424	14173	rentpayer
+424	14174	rentpayer
+425	14173	rentpayer
+425	14174	rentpayer
+426	14175	occupier
+426	14176	lateoccup
+427	14177	petition
+427	14179	lateoccup
+429	14180	rentpayer
+429	14181	rentpayer
+430	14182	rentpayer
+431	14183	rentpayer
+432	14184	rentpayer
+433	14185	rentpayer
+434	14186	rebuilder	repairs
+435	14186	rebuilder	repairs
+436	14188	grantee	received licence to let
+436	14188	leasetaker	
+436	14188	petition	
+436	14188	subletter	
+436	14189	occupier	
+436	14189	subtenant	
+437	14190	rentpayer	
+438	14191	grantee	licence to let
+438	14191	subletter	
+438	14192	subtenant	
+439	14193	rentpayer	
+440	14194	petition	
+440	14195	petition	
+440	14196	petition	
+440	14197	leasetaker
+440	14197	petition
+440	14197	tenant
+441	14198	rentpayer
+442	14200	rentpayer
+443	14201	grantee
+443	14201	petition
+443	14201	subletter
+443	14202	grantee
+443	14202	petition
+443	14202	subletter
+443	14203	grantee
+443	14203	subtenant
+443	14204	grantee
+443	14204	subtenant
+444	14205	rentpayer
+444	14206	rentpayer
+445	14208	rentpayer
+446	14210	rentpayer

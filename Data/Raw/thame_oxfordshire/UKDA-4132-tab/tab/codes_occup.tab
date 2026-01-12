@@ -1,0 +1,226 @@
+Occup	OccupCode
+*	*
+Alehouse Keeper	42
+Almesman	55
+Almsman	55
+Almswoman	55
+Apothecary	13
+Apprentice	30
+Apprentice Master	18
+Attorney	12
+Bailiff	18
+Baker	41
+Baker~	41
+Barber	43
+Barber Surgeon	43
+Barber~	43
+Beerbrewer	42
+Blacksmith	33
+Blacksmith~	33
+Bodice Maker	45
+Bookbinder	32
+Bookseller	44
+Bookseller~	44
+Brasier	33
+Brasier~	33
+Brazier	33
+Brewer	42
+Bricklayer	34
+Bridewell Keeper	18
+Butcher	41
+Butcher~	41
+Cabinet Maker	35
+Candelarium	30
+Carpenter	35
+Carpenter~	35
+Carrier	40
+Chandler	44
+Chandler~	44
+Clark	15
+Cleric	15
+Clerk	15
+Clerk~	15
+Clerke	15
+Cloth Merchant	45
+Clothier	45
+Clothworker	31
+Cobler	45
+Collermaker	32
+Collermaker~	32
+Common Beerbrewer	42
+Cooper	35
+Cooper~	35
+Cordwainer	32
+Cordwainer~	32
+Currier	32
+Currier~	32
+Cutler	33
+Cuttler	33
+Dairyman	26
+Day Labourer	30
+Distiller	42
+Distiller~	42
+Draper	45
+Draper~	45
+Drover	26
+Dyer	31
+Dyer~	31
+Farmer	21
+Fellmonger	31
+Fellow of College	12
+Fidler	12
+Fletcher	35
+Footboy	51
+Fuller	31
+Gardener	24
+Gardener~	24
+Gardiner	24
+Ginger Bread Maker	41
+Glazier	34
+Glazier~	34
+Glover	32
+Glover~	32
+Grasier	24
+Grazier	24
+Grocer	41
+Grooser	41
+Gunsmith	33
+Gunsmith~	33
+Hatter	45
+Hatter~	45
+Hawker & Peddlar	40
+Hellyer	34
+Hempdresser	31
+Hempdresser~	31
+Hog Poker	26
+Husbandman	22
+Husbandman~	22
+Innholder	42
+Innholder~	42
+Innkeeper	42
+Innkeeper~	42
+Ironmonger	33
+Jobber	30
+Joiner	35
+Joiner~	35
+Justice of Pleas	10
+Kings Man	10
+Labourer	30
+Labourer~	30
+Landowner	11
+Lawyer~	12
+Lecturer	12
+Linen Draper	45
+Linnen Draper	45
+Locksmith	33
+Maid	51
+Maltster	42
+Marchant	40
+Mason	34
+Mason Tiler Hellier	34
+Mason~	34
+Matman	30
+Maulster	42
+Mealman	44
+Mercer	45
+Mercer~	45
+Merchant	40
+Merchant Farmer	40
+Merchant~	40
+Millener	45
+Miller	41
+Miller~	41
+Milliner	45
+Milliner~	45
+Minister	15
+Minister of God	15
+Minister of Gods word	15
+Nayleman	33
+Nurseryman	24
+Painter	34
+Pedler	40
+Pewterer	33
+Pharmacopolam	13
+Plener?	55
+Ploughwright	35
+Plowman	24
+Plumber	33
+Raggman	45
+Rector	15
+Rope Supplier	45
+Salter	41
+Salter~	41
+Sawyer	35
+Scholar	12
+Scholar of	12
+Schoolmaster	12
+Scriptor	12
+Scrivenor	12
+Scrivenor~	12
+Servant	51
+Shearman	26
+Shepherd	26
+Shepherd~	26
+Shoemaker	32
+Shoemaker~	32
+Shopkeeper	44
+Shopkeeper~	44
+Siveyer	14
+Smith	33
+Smyth	33
+Soldier	55
+Stiller	42
+Surveyor~	14
+Tailor	31
+Tailor~	31
+Tallow Chandler	44
+Tanner	32
+Taylor	31
+Tile Maker	34
+Tile Merchant and Tyler	34
+Tiler	34
+Tiler and Mason	34
+Tobacconist	44
+Trooper	55
+Usher	12
+Vicar	15
+Vicar~	15
+Victualer	42
+Victualer unlicenced	42
+Victualer~	42
+Victualer/Cooper	42
+Victualer/Glover	42
+Victualer/Labourer	42
+Victualer/Mason	42
+Victualer/Shoemaker	42
+Victualer/Tailor	42
+Victualer/Weaver	42
+Victualler	42
+Vintner	42
+Warden	18
+Weaver	31
+Weaver~	31
+Wheeler	35
+Wheelwright	35
+Woodman	24
+Woolman	31
+Woolstapler	31
+Worshipful	10
+Writer	12
+Yeoman	21
+Yeoman~	21
+..	90
+Agr..	55
+Day Laborer	30
+Gardner	24
+Gingerbread Maker	41
+Maultster	42
+Vicker	15
+Wheel-wright	35
+Soldier~	55
+ 	90
+Fellow	12
+Innholder/Gardener	42
+Innholder/Baker	42
+Victualer~/Baker	42
+Cleric~	15

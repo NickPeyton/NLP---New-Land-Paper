@@ -1,0 +1,371 @@
+SC	ID	Title	Fname	Sname	Status	Occup	Place	Role	Year	Htax	Comment
+HTX	1	Lord	 	Wainmann	 	 	Thame Park	Tax paid	1665.00	29.00	The Lord Wainmann
+HTX	2	Sir	John	Clarke	 	 	North Weston	Tax paid	1665.00	16.00	
+HTX	3	 	Edward	Smith	 	 	New Thame	Tax paid	1662.00	11.00	+John Turner
+HTX	4	 	John	Turner	 	 	New Thame	Tax paid	1662.00	11.00	+Ed Smith
+HTX	5	 	Nicholas	Widdmore	Sen	 	Old Thame	Tax paid	1665.00	11.00	
+HTX	6	 	John	Harris	 	 	New Thame	Tax paid	1662.00	10.00	
+HTX	7	 	Vincent	Barry 	Esquire	 	Old Thame	Tax paid	1665.00	9.00	
+HTX	8	Widow	Elizabeth	Brooke 	 	 	New Thame	Tax paid	1665.00	9.00	
+HTX	9	Widow	 	Brookes	 	 	New Thame	Tax paid	1662.00	9.00	
+HTX	10	 	Tolee	Huson	 	 	New Thame	Tax paid	1662.00	9.00	
+HTX	11	 	Walter	Brooke	 	 	New Thame	Tax paid	1665.00	8.00	
+HTX	12	 	John	Cruse	 	 	New Thame	Tax paid	1662.00	8.00	
+HTX	13	 	John	Harris	 	 	New Thame	Tax paid	1665.00	8.00	
+HTX	14	 	Nicolas	Wilson	 	 	New Thame	Tax paid	1662.00	8.00	
+HTX	15	 	Simon	Burgis	 	 	New Thame	Tax paid	1662.00	7.00	
+HTX	16	 	John	Calcott	 	 	New Thame	Tax paid	1665.00	7.00	
+HTX	17	 	John	Calcut	 	 	New Thame	Tax paid	1662.00	7.00	
+HTX	18	 	Thomas	Carter	 	 	North Weston	Tax paid	1665.00	7.00	
+HTX	19	Widow	 	Cooke	 	 	New Thame	Tax paid	1662.00	7.00	
+HTX	20	 	John	Cruse	 	 	New Thame	Tax paid	1665.00	7.00	
+HTX	21	 	William	Somer	 	 	New Thame	Tax paid	1665.00	7.00	
+HTX	22	 	William	Somner	 	 	New Thame	Tax paid	1662.00	7.00	
+HTX	23	 	Richard	Cotton	 	 	New Thame	Tax paid	1662.00	6.00	
+HTX	24	 	Rogger	Eaustace	 	 	New Thame	Tax paid	1662.00	6.00	
+HTX	25	 	Henry	Jemett	 	 	New Thame	Tax paid	1662.00	6.00	
+HTX	26	 	Henry	Page	 	 	New Thame	Tax paid	1665.00	6.00	
+HTX	27	 	Henery	Payge	 	 	New Thame	Tax paid	1662.00	6.00	
+HTX	28	 	Edward	Phillips	 	 	New Thame	Tax paid	1662.00	6.00	
+HTX	29	 	Thomas	Striblehill	Sen	 	Old Thame	Tax paid	1665.00	6.00	
+HTX	30	 	John	Striblehill	 	 	Priestend	Tax paid	1665.00	6.00	
+HTX	31	 	John	Turnor	 	 	New Thame	Tax paid	1665.00	6.00	
+HTX	32	 	Rich	Adkins	 	 	New Thame	Tax paid	1662.00	5.00	
+HTX	33	 	Will	Adkins	 	 	New Thame	Tax paid	1662.00	5.00	
+HTX	34	 	William	Adkins	 	 	New Thame	Tax paid	1665.00	5.00	
+HTX	35	 	John	Carpenter	 	 	New Thame	Tax paid	1662.00	5.00	
+HTX	36	 	John	Carpenter	 	 	New Thame	Tax paid	1665.00	5.00	
+HTX	37	 	Richard	Cotton	 	 	New Thame	Tax paid	1665.00	5.00	
+HTX	38	 	Henry	Edwards	 	 	Priestend	Tax paid	1665.00	5.00	
+HTX	39	 	Roger	Ewstace	 	 	New Thame	Tax paid	1665.00	5.00	
+HTX	40	 	Tho	Fletcher	 	 	New Thame	Tax paid	1662.00	5.00	
+HTX	41	 	Tho	Gurney	 	 	New Thame	Tax paid	1662.00	5.00	
+HTX	42	 	Thomas	Gurney	 	 	New Thame	Tax paid	1665.00	5.00	
+HTX	43	 	Henry	Jemott	 	 	New Thame	Tax paid	1665.00	5.00	
+HTX	44	 	William	Lambourne	 	 	Old Thame	Tax paid	1665.00	5.00	
+HTX	45	 	Tho	Sellery	 	 	New Thame	Tax paid	1662.00	5.00	
+HTX	46	 	Richard	Sumers	 	 	Priestend	Tax paid	1665.00	5.00	
+HTX	47	 	Peter	Tomlinson	 	 	New Thame	Tax paid	1665.00	5.00	
+HTX	48	 	Peeter	Tomlinson	 	 	New Thame	Tax paid	1662.00	5.00	
+HTX	49	 	Thomas	Wellery	 	 	New Thame	Tax paid	1665.00	5.00	
+HTX	50	 	Hugh	Willis	 	 	Old Thame	Tax paid	1665.00	5.00	
+HTX	51	 	Thomas	Baker	 	 	New Thame	Tax paid	1665.00	4.00	
+HTX	52	 	Tho	Beaker	 	 	New Thame	Tax paid	1662.00	4.00	
+HTX	53	Widow	 	Cotton	 	 	New Thame	Tax paid	1662.00	4.00	
+HTX	54	 	Will	Eeles	 	 	New Thame	Tax paid	1662.00	4.00	
+HTX	55	 	Will	Elary	 	 	New Thame	Tax paid	1662.00	4.00	
+HTX	56	 	William	Eles	 	 	New Thame	Tax paid	1665.00	4.00	
+HTX	57	 	William	Evans	 	 	New Thame	Tax paid	1665.00	4.00	
+HTX	58	 	Richard	Ewstace	 	 	New Thame	Tax paid	1665.00	4.00	
+HTX	59	Widow	Alice	Fletcher	 	 	New Thame	Tax paid	1665.00	4.00	
+HTX	60	Widow	 	Fletcher	 	 	New Thame	Tax paid	1662.00	4.00	
+HTX	61	 	Thomas	Hennatt	 	 	Old Thame	Tax paid	1665.00	4.00	
+HTX	62	Widow	 	Hester	 	 	New Thame	Tax paid	1665.00	4.00	
+HTX	63	Widow	 	Hester	 	 	New Thame	Tax paid	1662.00	4.00	
+HTX	64	 	George	Ingram	 	 	New Thame	Tax paid	1665.00	4.00	
+HTX	65	 	George	Ingram	 	 	New Thame	Tax paid	1662.00	4.00	
+HTX	66	 	Edward	Jordan	 	 	New Thame	Tax paid	1665.00	4.00	
+HTX	67	 	Edward	Leaver	 	 	New Thame	Tax paid	1662.00	4.00	
+HTX	68	 	Jane	Maine	 	 	New Thame	Tax paid	1665.00	4.00	
+HTX	69	 	Jeane	Mayne	 	 	New Thame	Tax paid	1662.00	4.00	
+HTX	70	 	Thomas	Messenger	 	 	Old Thame	Tax paid	1665.00	4.00	
+HTX	71	 	Edward	Phillipps	 	 	New Thame	Tax paid	1665.00	4.00	
+HTX	72	 	Tho	Reeve	 	 	New Thame	Tax paid	1662.00	4.00	
+HTX	73	 	John	Roberts	 	 	New Thame	Tax paid	1665.00	4.00	
+HTX	74	 	John	Roberts	 	 	New Thame	Tax paid	1662.00	4.00	
+HTX	75	 	Tho	Roulard	 	 	New Thame	Tax paid	1662.00	4.00	
+HTX	76	 	Thomas	Rowland	 	 	New Thame	Tax paid	1665.00	4.00	
+HTX	77	 	Richard	Smith	 	 	New Thame	Tax paid	1662.00	4.00	
+HTX	78	 	Will	Starlinge	 	 	New Thame	Tax paid	1662.00	4.00	
+HTX	79	 	Rich	Ustis	 	 	New Thame	Tax paid	1662.00	4.00	
+HTX	80	 	Henery	Wooley	Sen	 	New Thame	Tax paid	1662.00	4.00	
+HTX	81	 	Henry	Worley 	Sen	 	New Thame	Tax paid	1665.00	4.00	
+HTX	82	 	John	Yeonge	 	 	New Thame	Tax paid	1662.00	4.00	
+HTX	83	 	John	Younge	 	 	New Thame	Tax paid	1665.00	4.00	
+HTX	84	 	William	Ayres	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	85	 	Nicholas	Barrett	 	 	New Thame	Tax paid	1665.00	3.00	
+HTX	86	 	Rich	Barrett	 	 	New Thame	Tax paid	1662.00	3.00	+John Powell
+HTX	87	Widow	 	Beath	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	88	 	William	Bigg	 	 	Priestend	Tax paid	1665.00	3.00	
+HTX	89	 	Edward	Brewer	 	 	Old Thame	Tax paid	1665.00	3.00	
+HTX	90	 	Richard	Brooke	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	91	 	Richard	Brooke	 	 	New Thame	Tax paid	1665.00	3.00	
+HTX	92	 	Will	Calcut	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	93	 	Samuell	Carter	 	 	North Weston	Tax paid	1665.00	3.00	
+HTX	94	 	Stephen	Cooke	 	 	Old Thame	Tax paid	1665.00	3.00	
+HTX	95	 	William	Cotton	 	 	Priestend	Tax paid	1665.00	3.00	
+HTX	96	 	 	Couden	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	97	 	James	Cowden	 	 	New Thame	Tax paid	1665.00	3.00	
+HTX	98	Widow	Elinor	Cruse	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	99	 	Will	Floyd	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	100	 	Gabriell	Goddard	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	101	 	Gabriell	Goddard	 	 	New Thame	Tax paid	1665.00	3.00	
+HTX	102	 	Phileman	Greene	 	 	Priestend	Tax paid	1665.00	3.00	
+HTX	103	 	William	Haslegrove	 	 	New Thame	Tax paid	1665.00	3.00	
+HTX	104	 	Will	Haslegrove	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	105	 	Elizabeth	Heiborne	 	 	Old Thame	Tax paid	1665.00	3.00	
+HTX	106	 	Rich	Herne	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	107	 	Tho	Hester	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	108	 	Thomas	Hester	 	 	New Thame	Tax paid	1665.00	3.00	
+HTX	109	 	William	Holliman	 	 	New Thame	Tax paid	1665.00	3.00	
+HTX	110	 	William 	Holliman	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	111	 	Henry	Huborne	 	 	Thame Park	Tax paid	1665.00	3.00	
+HTX	112	 	Henery	Isackman	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	113	 	Henry	Jakeman	 	 	New Thame	Tax paid	1665.00	3.00	
+HTX	114	 	Edward	Jorden	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	115	 	Thomas	Kinge	 	 	Morton	Tax paid	1665.00	3.00	
+HTX	116	 	Nic	Larcum	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	117	 	Nicholas	Larkham	 	 	New Thame	Tax paid	1665.00	3.00	
+HTX	118	 	Edward	Leavor	 	 	New Thame	Tax paid	1665.00	3.00	
+HTX	119	 	Will	Parker	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	120	Widow	 	Parker	 	 	Old Thame	Tax paid	1665.00	3.00	
+HTX	121	 	William	Parslow	 	 	New Thame	Tax paid	1665.00	3.00	
+HTX	122	 	Will	Parslow	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	123	 	John	Partridge	 	 	New Thame	Tax paid	1665.00	3.00	
+HTX	124	 	John	Partridge	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	125	 	William	Peck	 	 	New Thame	Tax paid	1665.00	3.00	
+HTX	126	 	Will	Pecke	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	127	Widow	 	Pime	 	 	New Thame	Tax unpaid	1662.00	3.00	
+HTX	128	 	John	Powell	 	 	New Thame	Tax paid	1662.00	3.00	+Rich Barrett
+HTX	129	 	Samuell	Pratt	 	 	Priestend	Tax paid	1665.00	3.00	
+HTX	130	 	Rich	Rastall	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	131	 	Richard	Rastall	 	 	New Thame	Tax paid	1665.00	3.00	
+HTX	132	 	Thomas	Reeve	 	 	New Thame	Tax paid	1665.00	3.00	
+HTX	133	Widow	 	Simonds	 	 	New Thame	Tax unpaid	1662.00	3.00	
+HTX	134	 	Emanuell	Slatter	 	 	New Thame	Tax paid	1665.00	3.00	
+HTX	135	 	Emanuall	Slauter	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	136	 	Thomas	Smyth	 	 	North Weston	Tax paid	1665.00	3.00	
+HTX	137	 	Edward	Smyth	 	 	New Thame	Tax paid	1665.00	3.00	
+HTX	138	 	Richard	Smyth	 	 	New Thame	Tax paid	1665.00	3.00	
+HTX	139	Widow	Martha	Smyth	 	 	North Weston	Tax paid	1665.00	3.00	
+HTX	140	 	Richard	Somers	 	 	New Thame	Tax paid	1665.00	3.00	
+HTX	141	 	Richard	Sommers	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	142	 	Thomas	Striblehill	 	 	Old Thame	Tax paid	1665.00	3.00	
+HTX	143	 	Gerrard	Towne	 	 	New Thame	Tax paid	1665.00	3.00	
+HTX	144	 	William	Towne	 	 	Priestend	Tax paid	1665.00	3.00	
+HTX	145	 	William	Towne	 	 	Priestend	Tax paid	1665.00	3.00	
+HTX	146	Widow	 	Waters	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	147	Widow	Jane	Waters	 	 	New Thame	Tax paid	1665.00	3.00	
+HTX	148	 	Josiah	Wicks	 	 	Old Thame	Tax paid	1665.00	3.00	
+HTX	149	 	Thomas	Williams	 	 	New Thame	Tax paid	1662.00	3.00	
+HTX	150	 	Geoffry	Abunt	 	 	New Thame	Tax paid	1665.00	2.50	
+HTX	151	 	Jeffry	Alnet	 	 	New Thame	Tax paid	1662.00	2.50	
+HTX	152	 	William	Ayres	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	153	 	Ruth	Ayres	 	 	New Thame	Discharged tax payer	1665.00	2.00	
+HTX	154	 	William	Barker	 	 	New Thame	Discharged tax payer	1665.00	2.00	
+HTX	155	 	John	Barnard	 	 	New Thame	Tax unpaid	1662.00	2.00	
+HTX	156	 	Robert	Barnes	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	157	 	Robert	Belson	 	 	Morton	Tax paid	1665.00	2.00	
+HTX	158	 	John	Bennett	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	159	 	Thomas	Burges	 	 	New Thame	Discharged tax payer	1665.00	2.00	
+HTX	160	 	Thomas	Burgis	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	161	 	George	Burrowes	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	162	 	Tho	Burton	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	163	 	John	Burton	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	164	 	Thomas	Burton	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	165	 	John	Burton	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	166	Widow	 	Calcott	 	 	Old Thame	Tax paid	1665.00	2.00	
+HTX	167	 	William	Clarke	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	168	 	Robert	Coally	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	169	Mr	 	Collinson	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	170	 	Thomas	Cooper	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	171	 	Robert	Cotton	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	172	 	William	Cotton	 	 	New Thame	Tax unpaid	1662.00	2.00	
+HTX	173	Widow	 	Couden	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	174	 	Henry	Coxe	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	175	Widow	 	Cruse	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	176	 	John	Daniell	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	177	 	John	Daniell	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	178	 	John	Dearinge	 	 	New Thame	Discharged tax payer	1665.00	2.00	
+HTX	179	 	John	Dearinge	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	180	 	John	Eustace	 	 	Old Thame	Tax paid	1665.00	2.00	
+HTX	181	 	Thomas	Eynott	 	 	Morton	Tax paid	1665.00	2.00	
+HTX	182	 	Jane	Eynott	 	 	North Weston	Discharged tax payer	1665.00	2.00	
+HTX	183	 	Dorothy	Eynott	 	 	Morton	Tax paid	1665.00	2.00	
+HTX	184	 	John	Eyres	 	 	Old Thame	Tax paid	1665.00	2.00	
+HTX	185	 	Thomas	Fletcher	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	186	 	William	Floyde	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	187	 	William	Frier	 	 	Priestend	Tax paid	1665.00	2.00	
+HTX	188	 	John	Gurden	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	189	Widow	Ann	Henn	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	190	 	Richard	Herne	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	191	 	Thomas	Higgins	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	192	 	Tho	Higgins	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	193	 	James	Holliman	 	 	New Thame	Tax unpaid	1662.00	2.00	
+HTX	194	 	John	Holly	 	 	Old Thame	Discharged tax payer	1665.00	2.00	
+HTX	195	 	John	Holly	 	 	Old Thame	Tax unpaid	1662.00	2.00	
+HTX	196	 	Thomas	Houch	 	 	New Thame	Tax unpaid	1662.00	2.00	
+HTX	197	 	Ed	Inott	 	 	New Thame	Tax unpaid	1662.00	2.00	
+HTX	198	 	Nicolas	Joanes	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	199	 	Nicholas	Jones	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	200	 	Richard	Jordan	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	201	 	Richard	Jorden	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	202	 	Phillip	Kinge	 	 	New Thame	Tax unpaid	1662.00	2.00	
+HTX	203	 	John	Larrance	 	 	New Thame	Tax unpaid	1662.00	2.00	
+HTX	204	 	Edward	Larrimore	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	205	 	Will	Low	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	206	 	Rob	Mabley	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	207	Widow	 	Maund	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	208	 	Nicholas	Mills	 	 	Morton	Tax paid	1665.00	2.00	
+HTX	209	 	Will	Mortimer	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	210	 	Humphry	Mounday	 	 	New Thame	Tax unpaid	1662.00	2.00	
+HTX	211	 	John	Mountaine	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	212	 	John	Mountaine	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	213	 	Robert	Newberry	 	 	Old Thame	Tax paid	1665.00	2.00	
+HTX	214	Widow	Joane	Norris	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	215	Widow	Alice	Pimm	 	 	New Thame	Discharged tax payer	1665.00	2.00	
+HTX	216	 	Rich	Pimme	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	217	 	Richard	Rastall	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	218	 	Rich	Rastall	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	219	 	Ed	Ridley	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	220	 	Edward	Rudley	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	221	 	Tho	Shreeve	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	222	Widow	Mary	Slatter	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	223	 	John	Slauter	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	224	 	Thomas	Spindler	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	225	 	Richard	Springall	 	 	Old Thame	Tax paid	1665.00	2.00	
+HTX	226	 	Joane	Stacey	 	 	Morton	Tax paid	1665.00	2.00	
+HTX	227	 	William	Stone	 	 	Morton	Tax paid	1665.00	2.00	
+HTX	228	 	John	Stripplinge	 	 	Priestend	Tax paid	1665.00	2.00	
+HTX	229	 	Edward	Tanner	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	230	 	Henery	Tripp	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	231	 	Henry	Tripp	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	232	 	William	Tripp	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	233	 	William	Tripp	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	234	 	Robert	Waters	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	235	 	Robert	Waters	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	236	 	Jacob	Watson	 	 	New Thame	Discharged tax payer	1665.00	2.00	
+HTX	237	 	Jacob	Wattson	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	238	 	Thomas	West	 	 	Old Thame	Tax paid	1665.00	2.00	
+HTX	239	 	William	Wheately	 	 	New Thame	Tax paid	1665.00	2.00	
+HTX	240	 	Will	Wheatly	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	241	 	Tho	Wheeler	 	 	New Thame	Tax unpaid	1662.00	2.00	
+HTX	242	 	William	Wigg	 	 	Morton	Tax paid	1665.00	2.00	
+HTX	243	 	Thomas	Williams	 	 	New Thame	Discharged tax payer	1665.00	2.00	
+HTX	244	Widow	 	Wood	 	 	New Thame	Tax paid	1662.00	2.00	
+HTX	245	 	John	Woodbridge	 	 	North Weston	Tax paid	1665.00	2.00	
+HTX	246	 	John	Young	 	 	Morton	Tax paid	1665.00	2.00	
+HTX	247	 	George	Younge	 	 	Morton	Tax paid	1665.00	2.00	
+HTX	248	Widow	 	Alnot	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	249	 	John	Apewell	 	 	Priestend	Tax paid	1665.00	1.00	
+HTX	250	 	Mathew	Barton	 	 	Old Thame	Tax paid	1665.00	1.00	
+HTX	251	 	Henry	Beck	 	 	Priestend	Tax paid	1665.00	1.00	
+HTX	252	 	James	Billington	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	253	 	Thomas	Broadwater	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	254	 	John	Brookes	 	 	Morton	Tax paid	1665.00	1.00	
+HTX	255	Widow	 	Brookes	 	 	New Thame	Tax paid	1662.00	1.00	[Common ??]
+HTX	256	 	John	Brookes	 	 	Priestend	Tax paid	1665.00	1.00	
+HTX	257	 	Rich	Brookes	 	 	New Thame	Tax paid	1662.00	1.00	[Common ??]
+HTX	258	 	Jerratt	Browne	 	 	Old Thame	Tax unpaid	1662.00	1.00	
+HTX	259	 	Luke	Burnham	 	 	Old Thame	Tax paid	1665.00	1.00	
+HTX	260	 	Allexander	Burton	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	261	Widow	Ann	Burton	 	 	Old Thame	Tax paid	1665.00	1.00	
+HTX	262	 	Will	Clarke	Sen	 	New Thame	Tax paid	1662.00	1.00	
+HTX	263	 	Will	Clerke	Jnr	 	New Thame	Tax paid	1662.00	1.00	
+HTX	264	 	John	Colley	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	265	 	Thomas	Cooke	 	 	Priestend	Tax paid	1665.00	1.00	
+HTX	266	 	Tho	Cooper	 	 	New Thame	Tax paid	1662.00	1.00	[Common ??]
+HTX	267	 	Thomas	Cooper	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	268	 	Henery	Cope	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	269	 	Benjamin	Corner	 	 	New Thame	Discharged tax payer	1665.00	1.00	
+HTX	270	 	Ben	Corner	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	271	 	Samuel	Cornwall	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	272	 	Samuell	Cornwell	 	 	New Thame	Tax paid	1665.00	1.00	
+HTX	273	Widow	 	Couden	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	274	 	Robertt	Cox	 	 	Old Thame	Tax unpaid	1662.00	1.00	
+HTX	275	 	Tho	Cruse	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	276	 	Mathew	Cruse	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	277	 	Thomas	Cruse	 	 	New Thame	Tax paid	1665.00	1.00	
+HTX	278	 	Robert	Deck	 	 	New Thame	Tax paid	1665.00	1.00	
+HTX	279	 	John	Dobinson	Jnr	 	Old Thame	Tax unpaid	1662.00	1.00	
+HTX	280	 	Thomas	Doyley	 	 	Priestend	Tax paid	1665.00	1.00	
+HTX	281	 	Rich	Eggerdon	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	282	 	Peter	Francis	 	 	New Thame	Tax paid	1665.00	1.00	
+HTX	283	 	Peeter	Francis	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	284	 	Henery	Frittwell	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	285	 	John 	Funge	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	286	 	Thomas	Gibbons	 	 	North Weston	Tax paid	1665.00	1.00	
+HTX	287	 	Tho	Gillutt	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	288	Widow	 	Greene	 	 	Old Thame	Tax paid	1665.00	1.00	
+HTX	289	 	 	Guche	 	 	New Thame	Tax paid	1662.00	1.00	[Common ??]
+HTX	290	 	John	Gurden	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	291	 	James	Gurney	 	 	New Thame	Tax paid	1665.00	1.00	
+HTX	292	 	James	Gurney	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	293	 	Richard	Halle	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	294	 	Frances	Hambleton	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	295	 	George	Hawkins	 	 	Old Thame	Tax unpaid	1662.00	1.00	
+HTX	296	 	Rob	Heath	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	297	 	Edmund	Hebb	 	 	Old Thame	Tax paid	1665.00	1.00	
+HTX	298	 	Robert	Hester	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	299	 	Robert	Hester	 	 	New Thame	Tax paid	1665.00	1.00	
+HTX	300	 	Mary	Higgins	 	 	Morton	Tax paid	1665.00	1.00	
+HTX	301	 	William	Horne	 	 	Old Thame	Tax paid	1665.00	1.00	
+HTX	302	 	John	Horrweed	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	303	 	George	Ingram	 	 	New Thame	Tax paid	1662.00	1.00	[Common ??]
+HTX	304	 	Rich	James	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	305	 	William	Jemett	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	306	 	John	Jemett	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	307	 	Joseph	Keene	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	308	 	Joseph	Keene	 	 	New Thame	Tax paid	1665.00	1.00	
+HTX	309	Widow	 	Kinge	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	310	 	Thomas	Kinge	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	311	 	Robert	Kinge	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	312	 	Thomas	Ladyman	 	 	Old Thame	Tax paid	1665.00	1.00	
+HTX	313	 	John	Laurence	 	 	New Thame	Tax paid	1665.00	1.00	
+HTX	314	 	William	Lawrence	 	 	New Thame	Tax paid	1665.00	1.00	
+HTX	315	 	Will	Lawrence	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	316	 	George	Looseley	 	 	Priestend	Tax paid	1665.00	1.00	
+HTX	317	 	Symon	Louch	 	 	New Thame	Tax paid	1665.00	1.00	
+HTX	318	 	Simon	Louch	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	319	 	Rich	Lowe	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	320	 	Thomas	Luce	 	 	North Weston	Tax paid	1665.00	1.00	
+HTX	321	 	John	Mekins	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	322	 	John	Messenger	 	 	Priestend	Tax paid	1665.00	1.00	
+HTX	323	 	Phillip	Messenger	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	324	 	John	Messenger	 	 	Morton	Tax paid	1665.00	1.00	
+HTX	325	 	Phillipp	Minge	Sen	 	Old Thame	Tax paid	1665.00	1.00	
+HTX	326	 	Rob	Moores	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	327	 	Robert	Morse	 	 	Old Thame	Tax paid	1665.00	1.00	
+HTX	328	 	Thomas	Needs	 	 	Old Thame	Tax unpaid	1662.00	1.00	
+HTX	329	Widow	 	Newman	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	330	 	Henery	Norwood	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	331	 	George	Pangbourn	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	332	Widow	 	Parnel	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	333	 	Henery	Payges	 	 	New Thame	Tax paid	1662.00	1.00	[Common ??]
+HTX	334	 	Robert	Pecke	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	335	 	Elinor	Pi?lton	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	336	 	Wake	Pollard	 	 	New Thame	Tax paid	1665.00	1.00	
+HTX	337	 	Wake	Pollard	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	338	 	John	Quarles	gent	 	Old Thame	Tax paid	1665.00	1.00	
+HTX	339	 	John	Randolph	 	 	Morton	Tax paid	1665.00	1.00	
+HTX	340	 	Richard	Rastall	 	 	New Thame	Tax paid	1665.00	1.00	
+HTX	341	 	Rich	Rastalle	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	342	 	Jerratt	Roggers	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	343	Widow	 	Rice	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	344	 	Marke	Sellery	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	345	 	Will	Sheppard	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	346	 	Frances	Simmonds	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	347	Widow	 	Smyth	 	 	Old Thame	Tax paid	1665.00	1.00	
+HTX	348	Widow	 	Smyth	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	349	 	Mathew	Smyth	 	 	North Weston	Tax paid	1665.00	1.00	
+HTX	350	 	Nic	Spindler	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	351	Widow	 	Stevens	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	352	 	Edward	Stranger	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	353	 	Edward	Stranger	 	 	New Thame	Tax paid	1665.00	1.00	
+HTX	354	 	Will	Taylor	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	355	 	Peeter	Tomlinson	Jnr	 	New Thame	Tax paid	1662.00	1.00	
+HTX	356	 	Cobham	Tonbridge	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	357	 	Leonard	Towne	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	358	 	William	Trigg	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	359	 	Edward	Tymothy	 	 	Old Thame	Tax unpaid	1662.00	1.00	
+HTX	360	 	John	Tymothy	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	361	Widow	 	Wallis	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	362	 	William	Wheeler	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	363	Widow	 	Wheeler	 	 	New Thame	Tax paid	1662.00	1.00	
+HTX	364	 	Richard	Williams	 	 	Priestend	Tax paid	1665.00	1.00	
+HTX	365	 	John	Willmott	 	 	Priestend	Tax paid	1665.00	1.00	
+HTX	366	 	Tho	Winch	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	367	Widow	Dorathy	Windlow	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	368	 	Richard	Windlow	 	 	New Thame	Tax unpaid	1662.00	1.00	
+HTX	369	 	Frances	Woodbridge	 	 	Old Thame	Tax unpaid	1662.00	1.00	
+HTX	370	Widow	 	Woodrase	 	 	New Thame	Tax unpaid	1662.00	1.00	

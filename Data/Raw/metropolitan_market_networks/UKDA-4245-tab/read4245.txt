@@ -1,0 +1,58 @@
+4245 - Metropolitan Market Networks, c1300-1600
+
+
+
+Dataset Type
+============
+spreadsheets (13 files)
+
+
+
+Dataset Format
+==============
+The following data formats have been prepared by the History Data
+Service.
+
+tab delimited text (13 files)
+
+If requested, data may have been supplied in other formats where
+practicable.
+
+
+
+Data Notes
+==========
+The files "dl1329.tab", "dl1424.tab", "dl1500.tab", "dl1570.tab",
+"dl1602.tab" contain the string "\r\n" in the "DETAILS" field to
+indicate a new line.
+
+
+
+Using the Data
+==============
+Users should ensure that the data type of the field "day" is specified
+as text to avoid software such as Microsoft Excel assigning a default
+year to the day and month values given.
+
+
+
+Documentation
+=============
+The documentation file "guide.rtf"/"guide.pdf" was created by the
+History Data Service and is based on information supplied by the
+depositor. The documentation provides details on hardware and software
+used during the project to create the data, but users should remember
+that all files are provided by the History Data Service in tab delimited
+text format (unless otherwise agreed).
+
+
+
+History Data Service, 24/06/2002
+UK Data Archive
+University of Essex
+Colchester, CO4 3SQ
+
+Tel: +44 (0)1206 872326
+Fax: +44 (0)1206 872003
+Email: hds@essex.ac.uk
+URL: http://hds.essex.ac.uk

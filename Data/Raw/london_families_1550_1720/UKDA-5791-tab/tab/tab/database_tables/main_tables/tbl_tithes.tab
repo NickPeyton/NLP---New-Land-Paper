@@ -1,0 +1,1928 @@
+doc_id	tithe_pid	tithe-id	prop_type	global_prop_id	location	rent_mod_valued	tithe_assessment	tithe_paid	tithe_notes
+57	1431	1		11-Jan	Cheapside	£90	£12 7s 6d	£2 1s 0d	
+57	1432	2		11-Feb	Cheapside	£50	£6 17s 6d	£4 2s 0d	
+57	1433	3	shop	11/2?	Cheapside	£10	£1 7s 6d	10s 0d	Mr Lanes Shop
+57	1434	4		11/6A?	Cheapside	£30	£4 2s 6d	£1 13s 0d	
+57	1435	5		11/6C?	Cheapside	£30	£4 2s 6d	£1 4s 0d	
+57	1436	6		11/7?	Cheapside	£30	£4 2s 6d	£1 16s 0d	
+57	1437	7		11/7?	Cheapside	£30	£4 2s 6d	£1 12s 0d	
+57	1438	8		11/8A2	Cheapside	£35	£4 16s 3d	£1 8s 0d	
+57	1439	9		11/8A1	Cheapside	£60	£8 5s 0d	£1 4s 0d	
+57	1440	10		11/8A3	Cheapside	£35	£4 16s 3d	£1 8s 0d	
+57	1441	11		11/8A4?	Cheapside	£50	£6 17s 6d	£1 12s 0d	
+57	1442	12		11/9A	Cheapside	£35	£4 16s 3d	£1 8s 0d	
+57	1443	13		11/9A	Cheapside	£40	£5 10s 0d	£1 4s 0d	
+57	1444	14		11/10A	Cheapside	£50	£6 17s 6d	£1 0s 0d	
+57	1445	15		11/10B	Cheapside	£60	£8 5s 0d	£1 8s 0d	
+57	1446	16		11/11-12A?	Cheapside	£30	£4 2s 6d	£1 4s 0d	
+57	1447	17		11/11-12B?	Cheapside	£30	£4 2s 6d	£1 4s 0d	
+57	1448	18		11/11-12C?	Cheapside	£30	£4 2s 6d	£1 8s 0d	
+57	1449	19		11/11-12E	Cheapside	£60	£8 5s 0d	£1 8s 0d	
+57	1450	20		11/11-12D?	Cheapside	£30	£4 2s 6d	£1 4s 0d	
+57	1451	21		11/8A5	Hony Lane	£9 0s 0d	£1 4s 9d	12s	
+57	1452	22		11/8A5	Hony Lane	£11	£1 10s 3d	12s	
+57	1453	23		11/8B	Hony Lane	£16	£2 4s 0d	12s	
+57	1454	24		11/8C?	Hony Lane	£16	£2 4s 0d	16s 8d	
+57	1455	25		11/8C?	Hony Lane	£13	£1 15s 9d	£1 2s 0d	
+57		26	warehouse	11/5 or 11/8C?	Hony Lane	£4	11s 0d	5s 0d	
+57		27	warehouse	11/5 or 11/8C?	Hony Lane	£4	11s 0d	(blank)	
+57	1456	28		11/5?	Hony Lane	£16	£2 4s 0d	£1 6s 0d	
+57	1457	29		11/5?	Hony Lane	£10	£1 7s 6d	14s 0d	
+57	1458	30	house	11-Mar	Hony Lane	£10	£1 7s 6d	13s 4d	
+57	1459	31	house & shop	11-Mar	Hony Lane	£10	£1 7s 6d	16s 0d	GAZETTEER STATES MRS WREN THOUGH NOTES ON MS STATE MR
+57	1460	32		11/6D?	Hony Lane	£7	19s 3d	16s 0d	
+57	1461	33		11/6B?	Hony Lane	£12	£1 13s 0d	£1 4s 0d	
+57	1462	34		11/11-12F	Trumpe Alley	£30	£4 2s 6d	£1 4s 0d	
+57	1463	35		11/11-12G	Trumpe Alley	£6	16s 6d	10s 0d	
+57	1464	36		11/11-12H	Trumpe Alley	£5	13s 9d	8s 0d	
+57	1465	37		11/11-12J	Trumpe Alley	£6	16s 6d	12s 0d	SEEMINGLY NO ID FOR THIS INDIVIDUAL IN GAZETTEER DB
+150	2078	38					£2 8s		
+150	2079	39					£2 15s		
+150	2080	40					£1 16s		
+150	2081	41					£1 16s		
+150	2082	42					£1 2s		
+150	2083	43					£2 8s		
+150	2084	44					£1 16s		
+150	2085	45					£1 16s		
+150	2086	46					£3		
+150	2087	47					£2 8s		
+150	2088	48					£2 8s
+150	2089	49					£1 13s 6d
+150	2090	50					£3
+150	2091	51					£1 16s
+150	2092	52					£1 4s
+150	2093	53					12s 4d
+150	2094	54					14s 4d
+150	2095	55					£1 8s 6d
+150	2096	56					£1 6s 4d
+150	2097	57					£1 16s
+150	2098	58					£1 16
+151	2101	59					10s
+151	2102	60					£1 1s
+151	2103	61					10s
+151	2104	62					8s 4d
+151	2105	63					9s 4d
+151	2106	64					10s		
+151	2107	65					7s 4d		
+151	2108	66					£1 1s		
+151		67					11s 4d		one empty house of pid2192
+151		68					7s 4d		another empty house of pid2192
+151	2109	69					7s 4d		
+151	2110	70					7s 4d		
+151	2111	71					7s 4d		
+151	2112	72					7s 4d		
+151	2113	73					7s 4d		
+151	2114	74					7s 4d		
+151		75					14s 4d		One house of pid2193 empty
+151	2115	76					10s 6d		
+151	2116	77					8s		
+151	2117	78					17s 8d		
+151	2118	79					15s 8d		
+151	2119	80					10s 6d		
+151	2120	81					17s 8d		
+151	2121	82					14s 4d		
+151	2122	83					£1 10s		
+151	2123	84					£1 10s		
+151	2124	85					£1 10s		
+151	2125	86					£1 5s		
+151	2126	87					18s		assessed with partner
+151	2127	88					£1 7s 8d		
+151	2128	89					£1 7s 8d		
+151	2129	90					£1 7s 8d		
+151		91					£1 5s		one empty house of pid2194
+151	2130	92					£1 13s		
+151	2131	93					£1 13s		
+151	2132	94					£1 13s		
+151		95					£1 13s		a foundation building by pid2195
+151		96					£1 13s		Another building next to pid2195
+151	2133	97					£1 13s		
+151	2134	98					16s 8d		
+151	2135	99					14s 4d		
+151	2136	100					14s 4d		
+151	2137	101					8s 8d		
+151	2138	102					5s 8d		
+151	2139	103					5s 8d		
+151	2140	104					17s 8d		
+151	2141	105					14s 4d		
+151		106					16s 6d		a house empty next pid2196
+151		107			next George yard		12s 2d		a house empty next George yard
+151		108			in George yard		5s 8d		[a house empty] in George yard
+151	2142	109					11s 4d		originally assessed at 10s; new value written over the top
+151	2143	110					g£1 1s		this titheid111 are numbered separately but assessed together
+151	2144	111					g£1 1s		this titheid110 are numbered separately but assessed together
+151	2145	112					£1 1s 8d		
+151	2146	113					7s 4d		
+151	2147	114					7s 4d		
+151	2148	115					£1 1s 8d		
+151	2149	116					18s 4d		
+151	2150	117					5s 8d		
+151	2151	118					5s 8d		
+151		119					5s 8d		an empty house
+151	2152	120					5s 8d		
+151	2153	121					5s 8d		
+151	2154	122					10s 8d		
+151	2155	123					14s 4d		
+151	2156	124					14s 4d		
+151	2157	125					14s 4d		
+151	2158	126					14s 4d		
+151	2159	127					17s 8d		
+151	2160	128					10s		
+151	2161	129					£1 10s		
+151	2162	130					£2 16s 8d		
+151	2163	131					£2 6s 8d		
+151	2164	132					£2 6s 8d		
+151	2165	133					£2 2s 4d		
+151	2166	134					£1 10s		
+151	2167	135					£1 3s 4d		
+151		136					£2 9s 8d		Esqr St John one house empty
+151		137					£1 8s 4d		Esqr St John two little houses empty. 20l each
+151	2168	138					£1 3s 4d		
+151	2169	139					£2 3s 4d		
+151	2170	140					13s 4d		
+151	2171	141					£1		
+151	2172	142					13s 4d		
+151	2173	143					16s 8d		
+151	2174	144					£1 13s 8d		
+151	2175	145					17s 4d		
+151	2176	146					£1 6s 8d		
+151	2177	147					£1		
+151	2178	148					16s		
+151	2179	149					6s 8d		
+151	2180	150					£1 13 4d		
+151	2181	151					£1 13s 4d		
+151	2182	152					g£1 13 4d		"this and titheid153 are a joint assessment, although unlike titheid110/111 the two assessed don't have their own numbers in the source - they share number 94"
+151	2183	153					g£1 13 4d		"this and titheid152 are a joint assessment, although unlike titheid110/111 the two assessed don't have their own numbers in the source - they share number 94"
+151		154					£2 16s 8d		pid2197 one empty house
+151	2184	155					£1		
+151	2185	156					£1		
+151		157					£1 10s		pid2198 one house empty
+151	2186	158					£1		
+151	2187	159					£1		
+151	2188	160					£1 16s		
+151	2189	161					£1 16s 8d		
+151	2190	162					£1 16s 8d		
+151	2191	163					£1 16s 8d		
+151		164			in bull yard unbuilt		10s		A toft of ground of pid2199 in bull yard unbuilt
+151		165					£1 1s		a Toft of ground of pid2200 when built
+152	2203	166					£1 15s		
+152	2204	167					£1 15s		
+152	2205	168					£2 19s		
+152	2206	169					£1 14s		
+152	2207	170					£1 15s		
+152	2208	171					£1 15s		
+152	2209	172					12s		his own house
+152	2209	173					18s		his other house
+152	2210	174					8s		
+152	2211	175					13s		
+152	2212	176					18s		
+152	2213	177					10s		
+152	2214	178					7s		
+152	2215	179					£1 1s		the fore house
+152	2215	180					4s 8d		the back house
+152	2216	181					£1 1s		
+152	2217	182					9s 4d		
+152	2218	183					8s 8d		
+152	2219	184					£1		
+152	2220	185					8s 8d		
+152	2221	186					£1 2s		
+152	2222	187					£1 18s		
+152	2223	188					£3		
+152	2224	189					19s		
+152	2225	190					16s		
+152	2226	191					14s 4d		ye Corner house
+152	2227	192					12s 8d		ye plough
+152	2228	193					18s		
+152	2229	194					10s		
+152	2230	195					15s		
+152	2231	196					15s		
+152	2232	197					£1 4s		
+152	2233	198					£1 4s		
+152	2234	199					£1 9s		2 parcels of ground each 14s 6d
+152	2234	200					£1 9s		for ye tavern ground
+152	2235	201					14s 8d		
+152	2236	202					18s		
+152	2237	203					£1 6s		
+152	2238	204					£2 8s		
+152	2239	205					£1 15s		
+350	9649	206					£1 8s		
+350	9650	207					£1 8s		
+350	9651	208					£1 10s		
+350	9652	209					£2 2s		
+350	9653	210					£1		
+350		211	house				£1		empty house of pid9654
+350	9655	212					£2 4s		
+350	9656	213					£1		
+350	9657	214					10s		
+350	9658	215					£1 8s		
+350	9659	216					£1 6s		
+350	9660	217					£1 10s		
+350	9661	218					£1		
+350	9662	219					10s		
+350		220	toft		between houses of pid9662 and 9663		£1 4s		
+350	9663	221					14s		
+350	9664	222					£1 16s		
+350	9665	223					£1 12s		
+350	9666	224					£1 15s
+350	9667	225					£1 6s
+350	9668	226					£1 4s
+350	9669	227					£1 4s
+350	9670	228					£1 6s
+350	9671	229					£1 6s 8d
+350	9672	230					£1 4s
+350	9673	231					£1 12s
+350	9674	232					£1
+350	9675	233					£ 12s
+350	9676	234					12s
+350	9677	235					18s
+350	9678	236					£1
+350	9679	237					13s 4d
+350	9680	238					£1
+350	9681	239					£1 6s
+350	9682	240					£1 8s		
+350	9683	241					11s		
+350	9684	242					12s		
+350	9685	243					£1		
+350		244	house				8s		empty house of pid9685
+350		245	house				£1		empty house of pid9686
+350	9687	246					£1 6s		
+350	9688	247	toft				14s		
+351	9689	248					£1 6s 8d		
+351	9690	249					£1 6s		
+351	9691	250					£1 8s		
+351	9692	251					£2		
+351	9693	252					£1		
+351	9694	253					£1		
+351	9695	254					£2 2s		
+351	9696	255					10s		
+351	9697	256					18s		
+351	9698	257					£1 10s		
+351		258					£1 8s		joint listing of pid9699 + 9700
+351	9701	259					£1 6s 8d		
+351	9702	260					10s		
+351	9703	261	ground				£1 8s		for the ground late in possession of pid9704 and 9705 att the time of the Fire
+351		262	ground				£1 10s		the ground between pid9702 and 9706 houses
+351	9706	263					14s		
+351	9707	264					£1 16s		
+351	9708	265	ground				10s		
+351	9709	266					£2		
+351	9710	267					£1 4s		
+351	9711	268					£1 4s		
+351	9712	269	house		king street		£1 4s		
+351	9713	270	house		king street		£1 4s		Lanes house there
+351	9714	271	house		king street		£1 16s		for his house next Mr Lanes
+351	9714	272	house		king street		£1 10s		his house next to that
+351	9714	273	house		king street		£1 18s		his next house below that adjoining to pid9715
+351	9716	274	house				£1		pid9716's house next the ground now rebuilding by pid9717
+351	9717	275	ground				£1 10s		pid9718's ground now in possession of pid9717
+351	9712	276	house		ironmonger lane		£1 10s		
+351	9714	277	house		ironmonger lane		£1		next to sortid276
+351	9714	278	house				13s 4d		his middle house
+351	9714	279	house				£1		his other house next to pid9719
+351	9719	280					£1 4s		
+351	9716	281					£1 6s 8d		
+351	9720	282					12s		
+351	9721	283					12s		
+351	9722	284	ground				£1		
+351	9723	285	house				£1 6s 8d		2 houses
+351	9724	286	ground				£1 4s		pid9718's ground in possession of pid9724
+351	9725	287	ground				18s		
+352	9727	288					£2 8s
+352	9728	289					£2 15s
+352	9729	290					£1 16s
+352	9730	291					£1 16s
+352	9731	292					£1 2s
+352	9732	293					£2 8s
+352	9733	294					£1 16s
+352	9734	295					£1 16s
+352	9735	296					£3
+352	9736	297					£2 8s
+352	9737	298					£2 8s
+352	9738	299					£1 13s 6d
+352	9739	300					£3
+352	9740	301					£1 16s
+352	9741	302					£1 4s
+352	9742	303					12s 4d
+352	9743	304					14s 4d		
+352	9744	305					£1 8s 6d		
+352	9745	306					£1 6s 4d		
+352	9746	307					£1 16s		
+352	9747	308					£1 16s		
+353	9749	309					£1 12s		
+353	9750	310					£1 12s		
+353	9751	311					£2 8s		
+353	9752	312					£2 6s 6d		
+353	9753	313					£3 6s 8d		
+353		314					£1 17s		"joint assessment for pid: 9754, 9755 and 9756"
+353	9757	315	toft				15s		
+353	9758	316					£1 17s		
+353	9759	317					£1 17s		
+353		318	shop				£1 10s		joint assessment: pid9760 and 9761
+353	9762	319					£1 17s		
+353	9763	320					£1 17s
+353	9764	321					£1 17s
+353	9765	322					£1 6s 8d
+353	9766	323					£1 14s
+353	9767	324					19s
+353	9768	325					£1 6s
+353	9769	326	shop				blank
+353	9770	327					£1 2s 8d
+353	9771	328					11s 4d
+353	9772	329					£2 16s
+353	9773	330					£1
+353	9774	331					£1 2s
+353	9775	332					10s
+353	9776	333					10s
+353	9777	334					10s
+353	9778	335					10s
+353	9779	336					£1 2s
+353	9780	337					9s
+353	9781	338					11s 4d
+353	9782	339	one shopp				4s 6d
+353	9783	340	one shopp				4s 6d
+353	9784	341					£1 10s
+353	9785	342	one house and shopp				£1 14s
+353	9786	343					£1 14s
+353	9787	344					£2 13s
+353	9788	345					£1 6s 8d
+353	9789	346					£1 17s
+353	9790	347					15s
+353	9791	348					£1 14s
+353	9792	349					£1 10s
+353	9793	350					10s
+353	9794	351					17s 6d
+353	9795	352					15s		
+353	9796	353	backhouse				19s		
+353	9797	354					£1 14s		
+353	9798	355					£1 14s		
+353	9799	356					£1 14s		
+353	9800	357					£1 10s		
+353	9801	358					£1 18s		
+353	9802	359					12s		
+353	9803	360					9s 8d		
+353	9804	361					18s 8d		
+353	9805	362					4s 8d		
+353	9806	363					4s 8d		
+353		364					19s 8d		"joint assessment: pid9807, 9808, 9809, 9810 and 9811"
+353	9812	365					8s		
+353	9813	366					£1 13s 4d		
+353	9814	367					18s 8d		
+355	9843	368				£60			
+355	9844	369	shop		Cheapside	£30			Mr Blagdons shop
+355	9845	370			Cheapside	£20			
+355	9846	371			Cheapside	£25			
+355	9847	372			Cheapside	£30			
+355	9848	373			Cheapside	£30			
+355	9849	374			Cheapside	£40			
+355	9850	375			Cheapside	£30			
+355	9851	376			Cheapside	£50			
+355	9852	377			Cheapside	£30			
+355	9853	378	shop		Cheapside	£20			Mr Munnes shop
+355	9854	379			Soper Lane	£20			
+355	9855	380			Soper Lane	£8			
+355	9856	381			Soper Lane	£15			
+355	9857	382			Soper Lane	£10			
+355	9858	383			Soper Lane	£25			
+355	9859	384			Soper Lane	£15			
+355	9860	385			Soper Lane	£13			
+355	9861	386			Soper Lane	£40			
+355	9862	387			Soper Lane	£20			
+355	9863	388			Soper Lane	£12			
+355	9864	389			Soper Lane	£10			
+355	9865	390			Soper Lane	£12			
+355	9866	391			Soper Lane	£30			
+355	9867	392			Soper Lane	£53			
+355	9868	393			Soper Lane	£25			
+355	9869	394			Soper Lane	£15			
+355	9870	395			Soper Lane	£5			
+355	9871	396			Soper Lane	£30			
+355	9872	397	shop		Soper Lane	£5			Mr Perkins shop
+355	9844	398	house		Soper Lane	£40			Mr Blagdens house
+355	9873	399			Soper Lane	£70			
+355	9874	400			Pancras Lane	£8			
+355	9875	401			Pancras Lane	£8			
+355	9876	402			Pancras Lane	£15			
+355	9877	403			Pancras Lane	£5			
+355	9878	404			Pancras Lane	£2			
+355	9879	405			Pancras Lane	£6			
+355	9880	406			Pancras Lane	£30			
+355	9881	407			Pancras Lane	£40			
+355	9882	408			Pancras Lane	£30			
+355	9883	409			Pancras Lane	£4			
+356	9884	410				£24			
+356	9885	411				£22			
+356	9886	412				£22			
+356	9887	413				£20			with a great wine cellar
+356	9888	414				£9			
+356	9889	415				£10			
+356	9890	416				£9			
+356	9891	417				£7			
+356	9892	418				£37			
+356	9893	419				£14			
+356	9894	420				£14			
+356	9895	421				£20			
+356	9896	422				£8			
+356	9897	423				£9			
+356	9898	424				£4			
+356	9899	425				£12			
+356	9900	426				£12			
+356	9901	427				£23			
+356	9902	428				£20			
+356	9903	429	warehouse			£24			with a great warehouse
+356	9904	430				£13			
+356	9905	431	warehouse			£24			with a great warehouse
+356	9906	432				£20			
+356	9907	433				£13			
+356	9908	434				£12			
+356	9909	435				£28			
+356	9910	436				£12			
+356	9911	437	house			£35			2 houses
+356	9912	438				£14			
+356	9913	439				£12			
+356	9914	440				£13			
+356	9915	441				£13			
+356	9916	442				£12			
+356	9917	443				£20			
+356	9918	444				£10			
+356	9919	445				£6			
+356	9920	446				£4			
+356	9921	447	house			£8			a part of his house
+356	9922	448				£20			part of the mercers chapel in which their clerk dwelleth
+357	9923	449				£24			
+357	9924	450				£10			
+357	9925	451				£24			
+357	9926	452				£14			
+357	9927	453				£24			
+357	9928	454				£24			
+357	9929	455				£24			
+357	9930	456	house and shop			£8			house and shop
+357	9931	457				£16			
+357	9932	458				£10			
+357	9933	459				£10			
+357	9934	460				£10			
+357	9935	461				£12			
+357	9936	462				£30			
+357	9937	463				£16			
+357	9938	464				£12			
+357	9939	465				£14			
+357	9940	466	house and shop			£12			house and shop
+357	9941	467				£8			
+357	9942	468				£8			
+357	9943	469				£8			
+357	9944	470				£24			
+357	9945	471				£24			
+357	9946	472				£24			
+357	9947	473				£28			
+357	9948	474				£12			
+357	9949	475				£12			
+357	9950	476				£24			
+357	9951	477				£24			
+357	9952	478				£20			
+357	9953	479				£12			
+357	9954	480				£14			
+357	9955	481				£24			
+357	9956	482				£8			
+357	9957	483				£24			
+357	9958	484				£24			
+357	9959	485				£20			
+357	9960	486				£24			
+357	9961	487				£24			
+357	9962	488				£24			
+357	9963	489				£12			
+357	9964	490				£3			
+357	9965	491				-			no amount given for rent
+357	9966	492				£8			
+357	9967	493				£8			
+357	9968	494				£12			shopkeepers but not inhabitants
+357	9969	495				£12			shopkeepers but not inhabitants
+357	9970	496				£16			shopkeepers but not inhabitants
+357	9971	497				£16			shopkeepers but not inhabitants; Hide and his two partners
+358	9973	498			South Cheape	£40			
+358	9974	499			South Cheape	£40			
+358	9975	500			South Cheape	£50			
+358	9976	501			South Cheape	£40			
+358	9977	502			South Cheape	£40			
+358	9978	503			South Cheape	£30			
+358	9979	504			South Cheape	£30			
+358	9980	505			South Cheape	£60			
+358	9981	506	shop		South Cheape	10-Oct			for a shop; amount for rent is sic
+358	9982	507			St Lawrence Lane	£20			
+358	9983	508			St Lawrence Lane	£25			
+358	9984	509			St Lawrence Lane	£30			
+358	9985	510			St Lawrence Lane	£16			
+358	9986	511			St Lawrence Lane	£20			
+358	9987	512			St Lawrence Lane	£20			
+358	9988	513			St Lawrence Lane	£8			
+358	9989	514			St Lawrence Lane	£6			
+358	9990	515			North Cheape	£30			
+358	9991	516			North Cheape	£40			
+358	9992	517			North Cheape	£40			
+358	9993	518			North Cheape	£50			
+358	9994	519			North Cheape	£20			
+358	9995	520			North Cheape	£30			
+358	9996	521			North Cheape	£50			
+358	9997	522			North Cheape	£30			
+358	9998	523			North Cheape	£50			
+358	9999	524			North Cheape	£40			
+358	10000	525			North Cheape	£30			
+358	10001	526	shop		North Cheape	£17			for a shop
+358	10002	527	shop		North Cheape	£6			for a shop
+358	10003	528	shop		North Cheape	£6			for a shop
+358	10004	529	shop		North Cheape	£8			for a shop
+358	10005	530	shop		North Cheape	£14			for a shop
+358	10006	531			North Cheape	£8			
+358	10007	532	shop		North Cheape	£10			shop
+358	10008	533			North Cheape	£20			
+358	10009	534			North Cheape	£20			
+358	10010	535	shop		North Cheape	£20			shop
+358	10011	536			North Cheape	£40			
+358	10012	537			North Cheape	£40			
+358	10013	538			North Cheape	£30			
+358	10014	539	shop		North Cheape	£16			shop
+358	10015	540	shop		North Cheape	£12			shop
+358	10015	541			Bow Church Yard	£30			
+358	10016	542			Bow Church Yard	£30			
+358	10017	543			Bow Church Yard	£30			
+358	10018	544			Bow Church Yard	£14
+358	10019	545			Bow Church Yard	£20
+358	10020	546			Bow Church Yard	£20
+358	10021	547			Bow Church Yard	£20
+358	10022	548			Bow Church Yard	£30
+358	10023	549			Bow Lane East Side	£16
+358	10024	550			Bow Lane East Side	£25
+358	10025	551			Bow Lane East Side	£30
+358	10026	552			Bow Lane East Side	£14
+358	10027	553			Bow Lane East Side	£14
+358	10028	554			Bow Lane East Side	£25
+358	10029	555			Bow Lane East Side	£18
+358	10030	556			Bow Lane East Side	£10
+358	10031	557			Bow Lane East Side	£16
+358	10032	558			Bow Lane East Side	£14
+358	10033	559			Bow Lane East Side	£16
+358	10034	560			Bow Lane West Side	£20
+358	10035	561			Bow Lane West Side	£16
+358	10036	562			Bow Lane West Side	£20
+358	10037	563			Bow Lane West Side	£10
+358	10038	564			Bow Lane West Side	£12
+358	10039	565			Bow Lane West Side	£10
+358	10040	566			Bow Lane West Side	£5
+358	10041	567			Bow Lane West Side	£10
+358	10042	568			Bow Lane West Side	£14
+358	10043	569			Bow Lane West Side	£16
+358	10044	570			Bow Lane West Side	£6
+358	10045	571			Bow Lane West Side	£8
+358	10046	572			Bow Lane West Side	£12
+358	10047	573			Bow Lane West Side	£16
+358	10048	574			Bow Lane West Side	£10
+358	10049	575			Bow Lane West Side	£8
+358	10050	576			Bow Lane West Side	£16
+358	10051	577			Bow Lane West Side	£14
+358	10052	578			Bow Lane West Side	£14
+358	10053	579			Bow Lane West Side	£16
+358	10054	580			Bow Lane West Side	£8
+358	10055	581			Bow Lane West Side	£14
+358	10056	582			Bow Lane West Side	£20
+358	10057	583			Goose Lane	£8
+358	10058	584			Goose Lane	£10
+358	10059	585			Goose Lane	£6
+358	10060	586			Goose Lane	£6
+358	10061	587			Goose Lane	£6
+358	10062	588			Goose Lane	£5
+358	10063	589			Goose Lane	£5
+361	10135	593			Hounsditch Precinct	16
+361	10136	594			Hounsditch Precinct	
+361	10137	595			Hounsditch Precinct	10
+361	10138	596			Hounsditch Precinct	25
+361	10139	597			Hounsditch Precinct	30
+361	10140	598			Hounsditch Precinct	3
+361	10141	599			Hounsditch Precinct	12
+361	10142	600			Hounsditch Precinct	12
+361	10143	601			Hounsditch Precinct	16
+361	10144	602			Hounsditch Precinct	20
+361	10145	603			Hounsditch Precinct	1
+361	10146	604			Hounsditch Precinct	20
+361	10147	605			Hounsditch Precinct	8
+361	10148	606			Hounsditch Precinct	6
+361	10149	607			Hounsditch Precinct	
+361	10150	608			Hounsditch Precinct	6
+361	10151	609			Hounsditch Precinct	2
+361	10152	610			Hounsditch Precinct	2
+361	10153	611			Hounsditch Precinct	2
+361	10154	612			Hounsditch Precinct	2
+361	10155	613			Hounsditch Precinct	2
+361	10156	614			Hounsditch Precinct	2
+361	10157	615			Hounsditch Precinct	3
+361	10158	616			Hounsditch Precinct	1
+361	10159	617			Hounsditch Precinct	4
+361	10160	618			Hounsditch Precinct	3
+361	10161	619			Hounsditch Precinct	4
+361	10162	620			Hounsditch Precinct	8
+361	10163	621			Hounsditch Precinct	5
+361	10164	622			Hounsditch Precinct	4
+361	10165	623			Hounsditch Precinct	8
+361	10166	624			Hounsditch Precinct	6
+361	10167	625			Hounsditch Precinct	3
+361	10168	626			Hounsditch Precinct	4
+361	10169	627			Hounsditch Precinct	3
+361	10170	628			Hounsditch Precinct	8
+361	10171	629			Hounsditch Precinct	3
+361	10172	630			Hounsditch Precinct	4
+361	10173	631			Hounsditch Precinct	2
+361	10174	632			Hounsditch Precinct	8
+361	10175	633			Hounsditch Precinct	3
+361	10176	634			Hounsditch Precinct	2
+361	10177	635			Hounsditch Precinct	1
+361	10178	636			Hounsditch Precinct	3
+361	10179	637			Hounsditch Precinct	1
+361	10180	638			Hounsditch Precinct	1
+361	10181	639			Hounsditch Precinct	5
+361	10182	640			Hounsditch Precinct	2
+361	10183	641			Hounsditch Precinct	6
+361	10184	642			Hounsditch Precinct	12
+361	10185	643			Hounsditch Precinct	2			
+361	10186	644			Hounsditch Precinct	3			
+361	10187	645			Hounsditch Precinct	6			
+361	10188	646	tenements		Hounsditch Precinct	16			and his tenements
+361	10189	647			Hounsditch Precinct	6			
+361	10190	648			Hounsditch Precinct	10			
+361	10191	649			Hounsditch Precinct	8			
+361	10192	650			Hounsditch Precinct	6			
+361	10193	651			Hounsditch Precinct	6			
+361	10194	652			Hounsditch Precinct	6			
+361	10195	653			Hounsditch Precinct	2			
+361	10196	654			Hounsditch Precinct	2			
+361	10197	655			Hounsditch Precinct	1			
+361	10198	656			Hounsditch Precinct	1			
+361	10199	657			Hounsditch Precinct	1			
+361	10200	658			Hounsditch Precinct	1			
+361	10201	659			Hounsditch Precinct	1
+361	10202	660			Hounsditch Precinct	
+361	10203	661			Hounsditch Precinct	4
+361	10204	662			Hounsditch Precinct	4
+361	10205	663			Hounsditch Precinct	2
+361	10206	664			Hounsditch Precinct	3
+361	10207	665			Hounsditch Precinct	2
+361	10208	666			Hounsditch Precinct	5
+361	10209	667			Hounsditch Precinct	5
+361	10210	668			Hounsditch Precinct	6
+361	10211	669			Hounsditch Precinct	6
+361	10212	670			Hounsditch Precinct	2
+361	10213	671			Hounsditch Precinct	2
+361	10214	672			Hounsditch Precinct	2
+361	10215	673			Hounsditch Precinct	4
+361	10216	674			Hounsditch Precinct	4
+361	10217	675			Hounsditch Precinct	5
+361	10218	676			Hounsditch Precinct	6
+361	10219	677			Hounsditch Precinct	3
+361	10220	678			Hounsditch Precinct	10
+361	10221	679			Hounsditch Precinct	4
+361	10222	680			Hounsditch Precinct	1
+361	10223	681			Hounsditch Precinct	5
+361	10224	682			Hounsditch Precinct	5
+361	10225	683			Hounsditch Precinct	6
+361	10226	684			Hounsditch Precinct	6
+361	10227	685			Hounsditch Precinct	3
+361	10228	686			Hounsditch Precinct	2
+361	10229	687			Hounsditch Precinct	3
+361	10230	688			Hounsditch Precinct	5
+361	10231	689			Hounsditch Precinct	2
+361	10232	690			Hounsditch Precinct	8
+361	10233	691			Hounsditch Precinct	6
+361	10234	692			Hounsditch Precinct	6
+361	10235	693			Hounsditch Precinct	6
+361	10236	694			Hounsditch Precinct	5
+361	10237	695			Hounsditch Precinct	2
+361	10238	696			Hounsditch Precinct	8
+361	10239	697			Hounsditch Precinct	3
+361	10240	698			Hounsditch Precinct	2
+361	10241	699			Hounsditch Precinct	5
+361	10242	700			Hounsditch Precinct	1
+361	10243	701			Hounsditch Precinct	2
+361	10244	702			Hounsditch Precinct	3
+361	10245	703			Hounsditch Precinct	1
+361	10246	704			Hounsditch Precinct	1
+361	10247	705			Hounsditch Precinct	2
+361	10248	706			Hounsditch Precinct	8
+361	10249	707			Hounsditch Precinct	8
+361	10250	708			Hounsditch Precinct	8
+361	10251	709			Hounsditch Precinct	6
+361	10252	710			Hounsditch Precinct	6
+361	10253	711			Hounsditch Precinct	6
+361	10254	712			Hounsditch Precinct	6
+361	10255	713			Hounsditch Precinct	5
+361	10256	714			Hounsditch Precinct	2
+361	10257	715			Hounsditch Precinct	5
+361	10258	716			Hounsditch Precinct	4
+361	10259	717			Hounsditch Precinct	4
+361	10260	718			Hounsditch Precinct	2
+361	10261	719			Hounsditch Precinct	1
+361	10262	720			Hounsditch Precinct	3
+361	10263	721			Hounsditch Precinct	20
+361	10264	722			Hounsditch Precinct	4
+361	10265	723			Hounsditch Precinct	4
+361	10266	724			Hounsditch Precinct	4
+361	10267	725			Hounsditch Precinct	2
+361	10268	726			Hounsditch Precinct	2
+361	10269	727			Hounsditch Precinct	4
+361	10270	728			Hounsditch Precinct	8
+361	10271	729			Hounsditch Precinct	1
+361	10272	730			Hounsditch Precinct	3
+361	10273	731			Hounsditch Precinct	1
+361	10274	732			Hounsditch Precinct	10
+361	10275	733			Hounsditch Precinct	3
+361	10276	734			Hounsditch Precinct	3
+361	10277	735			Hounsditch Precinct	3
+361	10278	736			Hounsditch Precinct	3
+361	10279	737			Hounsditch Precinct	3
+361	10280	738			Hounsditch Precinct	3
+361	10281	739			Hounsditch Precinct	3
+361	10282	740			Hounsditch Precinct	2
+361	10283	741			Hounsditch Precinct	3
+361	10284	742			Hounsditch Precinct	3
+361	10285	743			Hounsditch Precinct	3
+361	10286	744			Hounsditch Precinct	3
+361	10287	745			Hounsditch Precinct	2
+361	10288	746			Hounsditch Precinct	2
+361	10289	747			Hounsditch Precinct	2
+361	10290	748			Hounsditch Precinct	2
+361	10291	749			Hounsditch Precinct	8
+361	10292	750			Hounsditch Precinct	3
+361	10293	751			Hounsditch Precinct	4
+361	10294	752			Hounsditch Precinct	2
+361	10295	753			Hounsditch Precinct	3
+361	10296	754			Hounsditch Precinct	3
+361	10297	755			Hounsditch Precinct	3			
+361		756			Hounsditch Precinct	2			blank
+361		757			Hounsditch Precinct	2			blank
+361	10298	758			Hounsditch Precinct	3			
+361	10299	759			Hounsditch Precinct	2			
+361	10300	760			Hounsditch Precinct	2			
+361	10301	761			Hounsditch Precinct	2			
+361	10302	762	rents		Hounsditch Precinct	16			rents 16 tenements 20
+361	10303	764	house and rents		Hounsditch Precinct	123			house and rents consisting of 45 tenements
+361	10304	765			Hounsditch Precinct	6			
+361	10305	766			Hounsditch Precinct	4			
+361	10306	767			Hounsditch Precinct	2			
+361	10307	768			Hounsditch Precinct	2			
+361	10308	769			Hounsditch Precinct	2			
+361	10309	770			Hounsditch Precinct	2			
+361	10310	771			Hounsditch Precinct	2			
+361	10311	772			Hounsditch Precinct	2
+361	10312	773			Hounsditch Precinct	6
+361	10313	774			Hounsditch Precinct	2
+361	10314	775			Hounsditch Precinct	2
+361	10315	776			Hounsditch Precinct	2
+361	10316	777			Hounsditch Precinct	4
+361	10317	778			Hounsditch Precinct	3
+361	10318	779			Hounsditch Precinct	3
+361	10319	780			Hounsditch Precinct	6
+361	10320	781			Hounsditch Precinct	8
+361	10321	782			Hounsditch Precinct	5
+361	10322	783			Hounsditch Precinct	3
+361	10323	784			Hounsditch Precinct	6
+361	10324	785			Hounsditch Precinct	5
+361	10325	786			Hounsditch Precinct	18
+361	10326	787			Hounsditch Precinct	3
+361	10327	788			Hounsditch Precinct	3
+361	10328	789			Hounsditch Precinct	3
+361	10329	790			Hounsditch Precinct	5
+361	10330	791			Hounsditch Precinct	1
+361	10331	792			Hounsditch Precinct	5
+361	10332	793			Hounsditch Precinct	10
+361	10333	794			Hounsditch Precinct	3
+361	10334	795			Hounsditch Precinct	4
+361	10335	796			Hounsditch Precinct	10
+361	10336	797			Hounsditch Precinct	5
+361	10337	798			Hounsditch Precinct	5
+361	10338	799			Hounsditch Precinct	5
+361	10339	800			Hounsditch Precinct	5
+361	10340	801			Hounsditch Precinct	5
+361	10341	802			Hounsditch Precinct	5
+361	10342	803			Hounsditch Precinct	5
+361	10343	804			Hounsditch Precinct	4			
+361	10344	805			Hounsditch Precinct	5			[or gone]
+361	10345	806			Hounsditch Precinct	5			
+361	10346	807			Hounsditch Precinct	5			
+361	10347	808			Hounsditch Precinct	3			
+361	10348	809			Hounsditch Precinct	3			
+361	10349	810			Hounsditch Precinct	3			
+361	10350	811			Hounsditch Precinct	8			
+361	10351	812			Hounsditch Precinct	6			
+361	10352	813			Hounsditch Precinct	8			
+361	10353	814			Hounsditch Precinct	4			
+361	10354	815			Hounsditch Precinct	4			
+361	10355	816			Hounsditch Precinct	2			
+361	10356	817			Hounsditch Precinct	3			
+361	10357	818			Hounsditch Precinct	2			
+361	10358	819			Hounsditch Precinct	2			
+361	10359	820			Hounsditch Precinct	2
+361	10360	821			Hounsditch Precinct	2
+361	10361	822			Hounsditch Precinct	2
+361	10362	823			Hounsditch Precinct	2
+361	10363	824			Hounsditch Precinct	2
+361	10364	825			Hounsditch Precinct	2
+361	10365	826			Hounsditch Precinct	2
+361	10366	827			Hounsditch Precinct	15
+361	10367	828			Hounsditch Precinct	5
+361	10368	829			Hounsditch Precinct	5
+361	10369	830			Hounsditch Precinct	5
+361	10370	831			Hounsditch Precinct	5
+361	10371	832			Hounsditch Precinct	2
+361	10372	833			Hounsditch Precinct	2
+361	10373	834			Hounsditch Precinct	2
+361	10374	835			Hounsditch Precinct	6
+361	10375	836			Hounsditch Precinct	8
+361	10376	837			Hounsditch Precinct	6
+361	10377	838			Hounsditch Precinct	6
+361	10378	839			Hounsditch Precinct	2
+361	10379	840			Hounsditch Precinct	3
+361	10380	841			Hounsditch Precinct	6
+361	10381	842			Hounsditch Precinct	5
+361	10382	843			Hounsditch Precinct	6
+361	10383	844			Hounsditch Precinct	6
+361	10384	845			Hounsditch Precinct	4
+361	10385	846			Hounsditch Precinct	8
+361	10386	847			Hounsditch Precinct	8
+361	10387	848			Hounsditch Precinct	6
+361	10388	849			Hounsditch Precinct	6
+361	10389	850			Hounsditch Precinct	16
+361	10390	851			Hounsditch Precinct	6
+361	10391	852			Hounsditch Precinct	6			
+361	10392	853			Hounsditch Precinct	12			
+361	10393	854			Hounsditch Precinct	12			
+361	10394	855			Hounsditch Precinct	8			
+361	10395	856			Hounsditch Precinct	4			
+361	10396	857			Hounsditch Precinct	5			
+361	10397	858			Hounsditch Precinct	10			
+361	10398	859			Hounsditch Precinct	6			
+361	10399	860			Hounsditch Precinct	6			
+361	10400	861			Hounsditch Precinct	6			
+361	10401	862			Hounsditch Precinct	6			
+361	10402	863			Hounsditch Precinct	6			
+361	10403	864			Hounsditch Precinct	3			
+361		865			Hounsditch Precinct	4			blank
+361	10404	866			Hounsditch Precinct	6			
+361	10405	867			Hounsditch Precinct	3			
+361	10406	868			Hounsditch Precinct	3
+361	10407	869			Hounsditch Precinct	3
+361	10408	870			Hounsditch Precinct	3
+361	10409	871			Hounsditch Precinct	3
+361	10410	872			Hounsditch Precinct	12
+361	10411	873			Hounsditch Precinct	10
+361	10412	874			High St Precinct	4
+361	10413	875			High St Precinct	8
+361	10414	876			High St Precinct	30
+361	10415	877			High St Precinct	10
+361	10416	878			High St Precinct	20
+361	10417	879			High St Precinct	10
+361	10418	880			High St Precinct	3
+361	10419	881			High St Precinct	3
+361	10420	882			High St Precinct	
+361	10421	883			High St Precinct	5
+361	10422	884			High St Precinct	4
+361	10423	885			High St Precinct	3
+361	10424	886			High St Precinct	
+361	10425	887			High St Precinct	2
+361	10426	888			High St Precinct	5
+361	10427	889			High St Precinct	5
+361	10428	890			High St Precinct	5
+361	10429	891			High St Precinct	3
+361	10430	892			High St Precinct	4
+361	10431	893			High St Precinct	
+361	10432	894			High St Precinct	6
+361	10433	895			High St Precinct	16
+361	10434	896			High St Precinct	2
+361	10435	897			High St Precinct	2
+361	10436	898			High St Precinct	2
+361	10437	899			High St Precinct	2
+361	10438	900			High St Precinct	2
+361	10439	901			High St Precinct	2
+361	10440	902			High St Precinct	2
+361	10441	903			High St Precinct	2
+361	10442	904			High St Precinct	2
+361	10443	905			High St Precinct	2
+361	10444	906			High St Precinct	2
+361	10445	907			High St Precinct	2
+361	10446	908			High St Precinct	2
+361	10447	909			High St Precinct	2
+361	10448	910			High St Precinct	10
+361	10449	911			High St Precinct	6
+361	10450	912			High St Precinct	2
+361	10451	913			High St Precinct	2
+361	10452	914			High St Precinct	2
+361	10453	915			High St Precinct	4
+361	10454	916			High St Precinct	2			
+361	10455	917			High St Precinct	2			
+361	10456	918			High St Precinct	2			
+361	10457	919			High St Precinct	2			
+361	10458	920			High St Precinct	2			
+361	10459	921			High St Precinct	2			
+361	10460	922			High St Precinct	1			
+361	10461	923			High St Precinct	2			
+361	10462	924			High St Precinct	2			
+361	10463	925			High St Precinct	5			
+361	10464	926			High St Precinct	10			
+361	10465	927			High St Precinct	10			
+361	10466	928	shop		High St Precinct	2			shop
+361	10467	929			High St Precinct	6			
+361	10468	930			High St Precinct	1			
+361	10469	931			High St Precinct	8			
+361	10470	932	shop		High St Precinct	1			a shop
+361	10471	933			High St Precinct	3			
+361	10472	934			High St Precinct	2			
+361	10473	935			High St Precinct	2			
+361	10474	936			High St Precinct	2			
+361	10475	937			High St Precinct	2			
+361	10476	938			High St Precinct	2			
+361	10477	939			High St Precinct	2			
+361	10478	940			High St Precinct	2			
+361	10479	941			High St Precinct	2			
+361	10480	942			High St Precinct	2			
+361	10481	943			High St Precinct	2			
+361	10482	944			High St Precinct	2			
+361	10483	945			High St Precinct	2			
+361	10484	946			High St Precinct	2			
+361	10485	947			High St Precinct	2			
+361	10486	948			High St Precinct	2
+361	10487	949			High St Precinct	2
+361	10488	950			High St Precinct	2
+361	10489	951			High St Precinct	2
+361	10490	952			High St Precinct	2
+361	10491	953			High St Precinct	2
+361	10492	954			High St Precinct	2
+361	10493	955			High St Precinct	4
+361	10494	956			High St Precinct	16
+361	10495	957			High St Precinct	1
+361	10496	958			High St Precinct	6
+361	10497	959			High St Precinct	16
+361	10498	960			High St Precinct	3
+361	10499	961			High St Precinct	30
+361	10500	962			High St Precinct	8
+361	10501	963			High St Precinct	2
+361	10502	964			High St Precinct	8			
+361	10503	965			High St Precinct	2			
+361	10504	966			High St Precinct	4			
+361	10505	967			High St Precinct	2			
+361	10506	968			High St Precinct	8			
+361	10507	969			High St Precinct	8			
+361	10508	970			High St Precinct	10			
+361	10509	971			High St Precinct	20			
+361		972	shop		High St Precinct	20			pid10510 and 10511 listed jointly; a shop
+361	10512	973			High St Precinct	6			
+361	10513	974			High St Precinct	12			
+361	10514	975			High St Precinct	10			
+361	10515	976			High St Precinct	8			
+361	10516	977			High St Precinct	8			
+361	10517	978			High St Precinct	8			
+361	10518	979			High St Precinct	2			
+361	10519	980			High St Precinct	8			
+361	10520	981			High St Precinct				surname might be Harridavie
+361	10521	982			High St Precinct	6			
+361	10522	983			High St Precinct	8			
+361	10523	984			High St Precinct				
+361	10524	985			High St Precinct				
+361	10525	986			High St Precinct				
+361	10526	987			High St Precinct	2			
+361	10527	988			High St Precinct	3			
+361	10528	989			High St Precinct	4			
+361	10529	990			High St Precinct				
+361	10530	991			High St Precinct	6			
+361	10531	992			High St Precinct				
+361	10532	993			High St Precinct				
+361	10533	994			High St Precinct	4			
+361	10534	995			High St Precinct	6			
+361	10535	996			High St Precinct	5			
+361	10536	997			High St Precinct	8			
+361		998	tenements		High St Precinct	30			3 Kings Alley consisting of - tenements
+361	10537	999			High St Precinct	8			
+361	10538	1000			High St Precinct	3			
+361	10539	1001			High St Precinct	2			
+361	10540	1002			High St Precinct	10			
+361	10541	1003			High St Precinct	4			
+361	10542	1004			High St Precinct	4			
+361	10543	1005			High St Precinct	10			
+361	10544	1006			High St Precinct	6			
+361	10545	1007			High St Precinct	4			
+361	10546	1008			High St Precinct	12			
+361	10547	1009			High St Precinct	14			
+361	10548	1010			High St Precinct	2			
+361	10549	1011			High St Precinct	2			
+361	10550	1012			High St Precinct	2
+361	10551	1013			High St Precinct	2
+361	10552	1014			High St Precinct	6
+361	10553	1015			High St Precinct	8
+361	10554	1016			High St Precinct	3
+361	10555	1017			High St Precinct	8
+361	10556	1018			High St Precinct	2
+361	10557	1019			High St Precinct	2
+361	10558	1020			High St Precinct	2
+361	10559	1021			High St Precinct	2
+361	10560	1022			High St Precinct	2
+361	10561	1023			High St Precinct	2
+361	10562	1024			High St Precinct	2
+361	10563	1025			High St Precinct	2
+361	10564	1026			High St Precinct	2
+361	10565	1027			High St Precinct	2
+361	10566	1028			High St Precinct	2
+361	10567	1029			High St Precinct	2
+361	10568	1030			High St Precinct	2
+361	10569	1031			High St Precinct	2
+361	10570	1032			High St Precinct	2
+361	10571	1033			High St Precinct	2
+361	10572	1034			High St Precinct	2
+361	10573	1035			High St Precinct	2
+361	10574	1036			High St Precinct	2
+361	10575	1037			High St Precinct	5
+361	10576	1038			High St Precinct	4
+361	10577	1039			High St Precinct	3
+361	10578	1040			High St Precinct	3
+361	10579	1041			High St Precinct	8
+361	10580	1042			High St Precinct	
+361	10581	1043			High St Precinct	8
+361	10582	1044			High St Precinct	3
+361	10583	1045			High St Precinct	3
+361	10584	1046			High St Precinct	4
+361	10585	1047			High St Precinct	
+361	10586	1048			High St Precinct	2
+361	10587	1049			High St Precinct	
+361	10588	1050			High St Precinct	1
+361	10589	1051			High St Precinct	10
+361	10590	1052			High St Precinct	10
+361	10591	1053			High St Precinct	3
+361	10592	1054			High St Precinct	3
+361	10593	1055			High St Precinct	4
+361	10594	1056			High St Precinct	2
+361	10595	1057			High St Precinct	10
+361	10596	1058			High St Precinct	5
+361	10597	1059			High St Precinct	3
+361	10598	1060			High St Precinct	6
+361	10599	1061			High St Precinct	8
+361	10600	1062			High St Precinct	8
+361	10601	1063			High St Precinct	8
+361	10602	1064			High St Precinct	8
+361	10603	1065			High St Precinct	8
+361	10604	1066			High St Precinct	4
+361	10605	1067			High St Precinct	5
+361	10606	1068			High St Precinct	10
+361	10607	1069			High St Precinct	8
+361	10608	1070			High St Precinct	8
+361	10609	1071			High St Precinct	8
+361	10610	1072			High St Precinct	2
+361	10611	1073			High St Precinct	14
+361	10612	1074			The Barrs Precinct	3
+361	10613	1075			The Barrs Precinct	3
+361	10614	1076			The Barrs Precinct	3
+361	10615	1077			The Barrs Precinct	2
+361	10616	1078			The Barrs Precinct	1
+361	10617	1079			The Barrs Precinct	1
+361	10618	1080			The Barrs Precinct	2
+361	10619	1081			The Barrs Precinct	2
+361	10620	1082			The Barrs Precinct	
+361	10621	1083			The Barrs Precinct	4
+361	10622	1084			The Barrs Precinct	
+361	10623	1085			The Barrs Precinct	3
+361	10624	1086			The Barrs Precinct	3
+361	10625	1087			The Barrs Precinct	3
+361	10626	1088			The Barrs Precinct	8
+361	10627	1089			The Barrs Precinct	
+361	10628	1090			The Barrs Precinct	12
+361	10629	1091			The Barrs Precinct	3
+361	10630	1092			The Barrs Precinct	10
+361	10631	1093			The Barrs Precinct	2
+361	10632	1094			The Barrs Precinct	2
+361	10633	1095			The Barrs Precinct	2
+361	10634	1096			The Barrs Precinct	12
+361	10635	1097			The Barrs Precinct	12
+361	10636	1098			The Barrs Precinct	4
+361	10637	1099			The Barrs Precinct	4
+361	10638	1100			The Barrs Precinct	5
+361	10639	1101			The Barrs Precinct	4
+361	10640	1102			The Barrs Precinct	10
+361	10641	1103			The Barrs Precinct	10
+361	10642	1104			The Barrs Precinct	10
+361	10643	1105			The Barrs Precinct	6
+361		1106			The Barrs Precinct	3
+361	10644	1107			The Barrs Precinct	3
+361	10645	1108			The Barrs Precinct	4
+361	10646	1109			The Barrs Precinct	5
+361	10647	1110			The Barrs Precinct	
+361	10648	1111			The Barrs Precinct	5
+361	10649	1112			The Barrs Precinct	6
+361	10650	1113			The Barrs Precinct	8
+361	10651	1114			The Barrs Precinct	4
+361	10652	1115			The Barrs Precinct	3
+361	10653	1116			The Barrs Precinct	3
+361	10654	1117			The Barrs Precinct	5
+361	10655	1118			The Barrs Precinct	6
+361	10656	1119			The Barrs Precinct	6
+361	10657	1120			The Barrs Precinct	8
+361	10658	1121			The Barrs Precinct	
+361	10659	1122			The Barrs Precinct	10
+361	10660	1123			The Barrs Precinct	8
+361	10661	1124			The Barrs Precinct	8			
+361	10662	1125			The Barrs Precinct	10			
+361	10663	1126			The Barrs Precinct	8			surname might be Charvill
+361	10664	1127			The Barrs Precinct	4			
+361	10665	1128			The Barrs Precinct	6			
+361	10666	1129	shop		The Barrs Precinct				a shop
+361	10667	1130			The Barrs Precinct	6			
+361	10668	1131			The Barrs Precinct	5			
+361	10669	1132	shop		The Barrs Precinct	8			a shop
+361	10670	1133			The Barrs Precinct				
+361	10671	1134			The Barrs Precinct	6			
+361	10672	1135			The Barrs Precinct	5			
+361	10673	1136			The Barrs Precinct	10			
+361	10674	1137			The Barrs Precinct				
+361	10675	1138			The Barrs Precinct				
+361	10676	1139			The Barrs Precinct	3			
+361	10677	1140			The Barrs Precinct	4
+361	10678	1141			The Barrs Precinct	4
+361	10679	1142			The Barrs Precinct	4
+361	10680	1143			The Barrs Precinct	3
+361	10681	1144			The Barrs Precinct	2
+361	10682	1145			The Barrs Precinct	3
+361	10683	1146			The Barrs Precinct	
+361	10684	1147			The Barrs Precinct	4
+361	10685	1148			The Barrs Precinct	
+361	10686	1149			The Barrs Precinct	
+361	10687	1150			The Barrs Precinct	2
+361	10688	1151			The Barrs Precinct	
+361	10689	1152			The Barrs Precinct	3
+361	10690	1153			The Barrs Precinct	6
+361	10691	1154			The Barrs Precinct	3
+361	10692	1155			The Barrs Precinct	
+361	10693	1156			The Barrs Precinct	2
+361	10694	1157			The Barrs Precinct	2
+361	10695	1158			The Barrs Precinct	2
+361	10696	1159			The Barrs Precinct	4
+361	10697	1160			The Barrs Precinct	4
+361	10698	1161			The Barrs Precinct	4
+361	10699	1162			The Barrs Precinct	
+361	10700	1163			The Barrs Precinct	3
+361	10701	1164			The Barrs Precinct	3
+361	10702	1165			The Barrs Precinct	
+361	10703	1166			The Barrs Precinct	3
+361	10704	1167			The Barrs Precinct	1
+361	10705	1168			The Barrs Precinct	
+361	10706	1169			The Barrs Precinct	5
+361	10707	1170			The Barrs Precinct	3
+361	10708	1171			The Barrs Precinct	5
+361	10709	1172			The Barrs Precinct	4			
+361	10710	1173			The Barrs Precinct	2			
+361	10711	1174			The Barrs Precinct	6			
+361	10712	1175			The Barrs Precinct	2			
+361	10713	1176			The Barrs Precinct	6			
+361	10714	1177			The Barrs Precinct	3			
+361	10715	1178			The Barrs Precinct				
+361	10716	1179			The Barrs Precinct	2			William Huett and
+361	10717	1180			The Barrs Precinct				
+361	10718	1181			The Barrs Precinct	2			
+361	10719	1182			The Barrs Precinct	2			
+361	10720	1183			The Barrs Precinct	2			
+361	10721	1184			The Barrs Precinct				
+361	10722	1185			The Barrs Precinct	2			
+361	10723	1186			The Barrs Precinct	2			
+361	10724	1187			The Barrs Precinct				
+361	10725	1188			The Barrs Precinct	2
+361	10726	1189			The Barrs Precinct	3
+361	10727	1190			The Barrs Precinct	3
+361	10728	1191			The Barrs Precinct	3
+361	10729	1192			The Barrs Precinct	3
+361	10730	1193			The Barrs Precinct	3
+361	10731	1194			The Barrs Precinct	3
+361	10732	1195			The Barrs Precinct	3
+361	10733	1196			The Barrs Precinct	3
+361	10734	1197			The Barrs Precinct	3
+361	10735	1198			The Barrs Precinct	2
+361	10736	1199			The Barrs Precinct	4
+361	10737	1200			The Barrs Precinct	
+361	10738	1201			The Barrs Precinct	1
+361	10739	1202			The Barrs Precinct	2
+361	10740	1203			The Barrs Precinct	
+361	10741	1204			The Barrs Precinct	2
+361	10742	1205			The Barrs Precinct	3
+361	10743	1206			The Barrs Precinct	3
+361	10744	1207			The Barrs Precinct	
+361	10745	1208			The Barrs Precinct	4
+361	10746	1209			The Barrs Precinct	
+361	10747	1210			The Barrs Precinct	4
+361	10748	1211			The Barrs Precinct	2
+361	10749	1212			The Barrs Precinct	2
+361	10750	1213			The Barrs Precinct	3
+361	10751	1214			The Barrs Precinct	3
+361	10752	1215			The Barrs Precinct	3
+361	10753	1216			The Barrs Precinct	3
+361	10754	1217			The Barrs Precinct	3
+361	10755	1218			The Barrs Precinct	3
+361	10756	1219			The Barrs Precinct	3
+361	10757	1220			The Barrs Precinct	3
+361	10758	1221			The Barrs Precinct	8
+361	10759	1222			The Barrs Precinct	8
+361	10760	1223			The Barrs Precinct	8
+361	10761	1224			The Barrs Precinct	8
+361	10762	1225			The Barrs Precinct	6
+361	10763	1226			The Barrs Precinct	
+361	10764	1227			The Barrs Precinct	8
+361	10765	1228			The Barrs Precinct	3
+361	10766	1229			The Barrs Precinct	3
+361	10767	1230			The Barrs Precinct	3
+361	10768	1231			The Barrs Precinct	3
+361	10769	1232			The Barrs Precinct	
+361	10770	1233			The Barrs Precinct	3
+361	10771	1234			The Barrs Precinct	8
+361	10772	1235			The Barrs Precinct	8
+361	10773	1236			The Barrs Precinct	10
+361	10774	1237			Tower Hill Precinct	2
+361	10775	1238			Tower Hill Precinct	3
+361	10776	1239			Tower Hill Precinct	
+361	10777	1240			Tower Hill Precinct	
+361	10778	1241			Tower Hill Precinct	3
+361	10779	1242			Tower Hill Precinct	5
+361	10780	1243			Tower Hill Precinct	5
+361	10781	1244			Tower Hill Precinct	2
+361	10782	1245			Tower Hill Precinct	8
+361	10783	1246			Tower Hill Precinct	2
+361	10784	1247			Tower Hill Precinct	2
+361	10785	1248			Tower Hill Precinct	2
+361	10786	1249			Tower Hill Precinct	
+361	10787	1250			Tower Hill Precinct	
+361	10788	1251			Tower Hill Precinct	2
+361	10789	1252			Tower Hill Precinct	3			
+361	10790	1253			Tower Hill Precinct	5			
+361	10791	1254			Tower Hill Precinct	5			
+361	10792	1255			Tower Hill Precinct	12			
+361	10793	1256			Tower Hill Precinct	15			
+361		1257	rents		Tower Hill Precinct	30			"Squirrel Alley rents, consisting of"
+361	10794	1258			Tower Hill Precinct	14			
+361	11386	1259	rents		east smithfield	20			"Bridgehouse rents, consisting of ; is Bridgehouse a person or place?"
+361	10795	1260			Tower Hill Precinct	6			
+361	10796	1261			Tower Hill Precinct	8			
+361	10797	1262			Tower Hill Precinct	10			
+361	10798	1263			Tower Hill Precinct				
+361	10799	1264			Tower Hill Precinct	3			
+361	10800	1265			Tower Hill Precinct	8			
+361	10801	1266			Tower Hill Precinct	8			
+361	10802	1267			Tower Hill Precinct	8			
+361	10803	1268			Tower Hill Precinct	3			
+361	10804	1269			Tower Hill Precinct	4			
+361	10805	1270			Tower Hill Precinct	8			
+361	10806	1271			Tower Hill Precinct	5			
+361	10807	1272			Tower Hill Precinct	5			
+361	10808	1273			Tower Hill Precinct	8			
+361	10809	1274			Tower Hill Precinct				
+361	10810	1275			Tower Hill Precinct	8			
+361	10811	1276			Tower Hill Precinct				
+361	10812	1277			Tower Hill Precinct	1			
+361	10813	1278			Tower Hill Precinct				surname might be Toiney
+361	10814	1279			Tower Hill Precinct				
+361	10815	1280			Tower Hill Precinct	30			
+361	10816	1281			Tower Hill Precinct	4			
+361	10817	1282			Tower Hill Precinct	2			
+361	10818	1283			Tower Hill Precinct	4			
+361	10819	1284			Tower Hill Precinct	20			
+361	10820	1285			Tower Hill Precinct				
+361	10821	1286			Tower Hill Precinct				
+361	10822	1287			Tower Hill Precinct	5			
+361	10823	1288			Tower Hill Precinct	4			
+361	10824	1289			Tower Hill Precinct	5			
+361	10825	1290			Tower Hill Precinct	10			
+361	10826	1291			Tower Hill Precinct				
+361	10827	1292			Tower Hill Precinct	8			
+361	10828	1293			Tower Hill Precinct	8			
+361	10829	1294			Tower Hill Precinct	3			
+361	10830	1295			Tower Hill Precinct	3			
+361	10831	1296			Tower Hill Precinct	5			
+361		1297	tenements		Tower Hill Precinct	60			Red Lyon Allie consisting of 30 tenements or more 
+361	10832	1298			Tower Hill Precinct	8			
+361	10833	1299			Tower Hill Precinct	12			
+361	10834	1300			Tower Hill Precinct				
+361	10835	1301			Tower Hill Precinct	10			
+361	10836	1302			Tower Hill Precinct				
+361	10837	1303			Tower Hill Precinct	10			
+361	10838	1304			Tower Hill Precinct	10			
+361		1305	tenements		Tower Hill Precinct	50			Redgate Yard consisting of 28 tenements
+361	10839	1306			Tower Hill Precinct	5			
+361	10840	1307			Tower Hill Precinct	8			
+361	10841	1308			Tower Hill Precinct	2			
+361	10842	1309			Tower Hill Precinct	3			
+361	10843	1310			Tower Hill Precinct	5			
+361	10844	1311			Tower Hill Precinct	3			
+361	10845	1312			Tower Hill Precinct	3			
+361	10846	1313			Tower Hill Precinct	4			
+361	10847	1314			Tower Hill Precinct	6			
+361	10848	1315			Tower Hill Precinct	3			
+361	10849	1316			Tower Hill Precinct	5			
+361	10850	1317			Tower Hill Precinct				
+361		1318	tenements		Tower Hill Precinct	30			Bell Alley consisting of 14 tenements
+361		1319	tenements		Tower Hill Precinct	40			Blue Anchor Alley consisting of 24 tenements
+361	10851	1320			Tower Hill Precinct	2			
+361	10852	1321			Tower Hill Precinct	3			
+361	10853	1322			Tower Hill Precinct	3			surname might be Nonisse
+361	10854	1323			Tower Hill Precinct	2			
+361	10855	1324			Tower Hill Precinct	3			
+361	10856	1325			Tower Hill Precinct	3			
+361	10857	1326			Tower Hill Precinct	3			
+361	10858	1327	almshouses		Tower Hill Precinct				Marchant Taylours Almshouses
+361	10859	1328			Tower Hill Precinct	6			
+361	10860	1329			Tower Hill Precinct				
+361	10861	1330			Tower Hill Precinct	2			
+361	10862	1331			Tower Hill Precinct	2			
+361	10863	1332			Tower Hill Precinct	2			
+361	10864	1333			Tower Hill Precinct	2			
+361	10865	1334			Tower Hill Precinct	2			
+361	10866	1335			Tower Hill Precinct	3			
+361	10867	1336			Tower Hill Precinct	3			
+361	10868	1337			Tower Hill Precinct	4			
+361	10869	1338			Tower Hill Precinct	2			
+361	10870	1339			Tower Hill Precinct				
+361	10871	1340			Tower Hill Precinct	3			
+361	10872	1341			Tower Hill Precinct	5			
+361	10873	1342			Tower Hill Precinct	5			
+361	10874	1343			Tower Hill Precinct	4			
+361	10875	1344			Tower Hill Precinct	4			
+361	10876	1345			Tower Hill Precinct	4			
+361	10877	1346			Tower Hill Precinct	2			surname might be Morris
+361	10878	1347	rents		Tower Hill Precinct	15			Hunters Rents consisting of 5 tenements; is Hunter a person or place?
+361	10879	1348			Tower Hill Precinct	6			
+361	10880	1349			Tower Hill Precinct	3			
+361	10881	1350			Tower Hill Precinct	18			
+361	10882	1351			Tower Hill Precinct	6			
+361	10883	1352			Tower Hill Precinct	6			
+361	10884	1353			Tower Hill Precinct	3			
+361	10885	1354			Tower Hill Precinct	12			
+361	10886	1355			Tower Hill Precinct	3			
+361	10885	1356	rents		Tower Hill Precinct	12			Hubberstey's Rents consisting of 5 tenements; Hubbersty treated as same as tithe record 761
+361	10887	1357			Tower Hill Precinct	6			
+361	10888	1358			Tower Hill Precinct	6			
+361	10889	1359			Tower Hill Precinct	4			
+361	10890	1360			Tower Hill Precinct	5			
+361	10891	1361			Tower Hill Precinct	5			
+361	10892	1362			Tower Hill Precinct	5			
+361	10893	1363			Tower Hill Precinct	5			
+361		1364			Tower Hill Precinct	5			Blank
+361	10894	1365			Tower Hill Precinct	8			
+361	10895	1366			Tower Hill Precinct	5			
+361	10896	1367			Tower Hill Precinct	10			surname might be Addisse
+361	10897	1368			Tower Hill Precinct	10			
+361	10898	1369			Tower Hill Precinct	5			
+361	10899	1370			Tower Hill Precinct	3			
+361	10900	1371			Tower Hill Precinct	10			
+361	10901	1372			Tower Hill Precinct	2			
+361	10902	1373			Tower Hill Precinct	2			
+361	10903	1374			Tower Hill Precinct	2			
+361	10904	1375			Tower Hill Precinct	3			
+361	10905	1376			Tower Hill Precinct	3			
+361	10906	1377			Tower Hill Precinct	4			
+361	10907	1378			Tower Hill Precinct	6			
+361	10908	1379			Tower Hill Precinct	8			
+361	10909	1380	rents		Tower Hill Precinct	18			Banks his rents consisting of 9 tenements
+361	10909	1381	house and yard		Tower Hill Precinct	10			his house and yard
+361	10910	1382			Tower Hill Precinct	6			
+361	10911	1383			Tower Hill Precinct	3			
+361	10912	1384			Tower Hill Precinct	3			
+361	10913	1385			Tower Hill Precinct	3			
+361	10914	1386			Tower Hill Precinct	6			
+361	10915	1387			Tower Hill Precinct	8			
+361	10916	1388			Tower Hill Precinct	3			
+361	10917	1389			Tower Hill Precinct	3			
+361	10918	1390			Tower Hill Precinct	3			
+361	10919	1391			Tower Hill Precinct				
+361	10920	1392			Tower Hill Precinct	8			
+361	10921	1393			Tower Hill Precinct	3			
+361	10922	1394			Tower Hill Precinct	3			
+361	10923	1395			Tower Hill Precinct	8			
+361	10924	1396			Tower Hill Precinct	10
+361	10925	1397			Tower Hill Precinct	5
+361	10926	1398			Tower Hill Precinct	2
+361	10927	1399			Tower Hill Precinct	2
+361	10928	1400			Tower Hill Precinct	3
+361	10929	1401			Tower Hill Precinct	3
+361	10930	1402			Tower Hill Precinct	3
+361	10931	1403			Tower Hill Precinct	3
+361	10932	1404			Tower Hill Precinct	6
+361	10933	1405			Tower Hill Precinct	10
+361	10934	1406			Tower Hill Precinct	8
+361	10935	1407			Tower Hill Precinct	6
+361	10936	1408			Tower Hill Precinct	3
+361	10937	1409			Tower Hill Precinct	6
+361	10938	1410			Tower Hill Precinct	10
+361	10939	1411			Tower Hill Precinct	8
+361	10940	1412			Tower Hill Precinct	12			
+361	10941	1413			Tower Hill Precinct	14			
+361		1414			Tower Hill Precinct				East Smithfield
+361	10942	1415			east smithfield	2			
+361	10943	1416			east smithfield	2			
+361	10944	1417			east smithfield	2			
+361	10945	1418			east smithfield				
+361	10946	1419			east smithfield	2			
+361	10947	1420			east smithfield	2			
+361	10948	1421			east smithfield				
+361	10949	1422			east smithfield	2			
+361	10950	1423			east smithfield	2			
+361	10951	1424			east smithfield	2			
+361	10952	1425			east smithfield	3			
+361	10953	1426			east smithfield	3			
+361	10954	1427			east smithfield	2			
+361	10955	1428			east smithfield	3			
+361	10956	1429			east smithfield	4			
+361	10957	1430			east smithfield	3			
+361	10958	1431			east smithfield	2			
+361	10959	1432			east smithfield	3			
+361	10960	1433			east smithfield	4			
+361	10961	1434			east smithfield	3			
+361	10962	1435			east smithfield	3			
+361	10963	1436			east smithfield	3			
+361	10964	1437			east smithfield	2			
+361	10965	1438			east smithfield	2			
+361	10966	1439			east smithfield	2			surname might be Pavie
+361	10967	1440			east smithfield	2			
+361	10968	1441			east smithfield	2			
+361	10969	1442			east smithfield	2			
+361	10970	1443			east smithfield	2			
+361	10971	1444			east smithfield	2
+361	10972	1445			east smithfield	
+361	10973	1446			east smithfield	2
+361	10974	1447			east smithfield	2
+361	10975	1448			east smithfield	2
+361	10976	1449			east smithfield	2
+361	10977	1450			east smithfield	
+361	10978	1451			east smithfield	2
+361	10979	1452			east smithfield	
+361	10980	1453			east smithfield	3
+361	10981	1454			east smithfield	4
+361	10982	1455			east smithfield	
+361	10983	1456			east smithfield	2
+361	10984	1457			east smithfield	2
+361	10985	1458			east smithfield	2
+361	10986	1459			east smithfield	3
+361	10987	1460			east smithfield	2
+361	10988	1461			east smithfield	2
+361	10989	1462			east smithfield	2
+361	10990	1463			east smithfield	2
+361	10991	1464			east smithfield	
+361	10992	1465			east smithfield	2
+361	10993	1466			east smithfield	2
+361	10994	1467			east smithfield	2
+361	10995	1468			east smithfield	1
+361	10996	1469			east smithfield	2
+361	10997	1470			east smithfield	2
+361	10998	1471			east smithfield	3
+361	10999	1472			east smithfield	2
+361	11000	1473			east smithfield	3
+361	11001	1474			east smithfield	2
+361	11002	1475			east smithfield	
+361	11003	1476			east smithfield	2			
+361	11004	1477			east smithfield	2			
+361	11005	1478			east smithfield	2			surname might be Riou
+361	11006	1479			east smithfield	2			
+361	11007	1480			east smithfield	2			
+361	11008	1481			east smithfield	2			
+361	11009	1482			east smithfield	2			
+361	11010	1483			east smithfield	2			
+361	11011	1484			east smithfield	2			
+361	11012	1485			east smithfield	2			
+361	11013	1486			east smithfield	2			
+361	11014	1487			east smithfield				
+361	11015	1488			east smithfield				
+361	11016	1489			east smithfield	2			
+361	11017	1490			east smithfield	2			
+361	11018	1491			east smithfield	2			
+361	11019	1492			east smithfield	2
+361	11020	1493			east smithfield	2
+361	11021	1494			east smithfield	2
+361	11022	1495			east smithfield	2
+361	11023	1496			east smithfield	2
+361	11024	1497			east smithfield	2
+361	11025	1498			east smithfield	2
+361	11026	1499			east smithfield	
+361	11027	1500			east smithfield	
+361	11028	1501			east smithfield	2
+361	11029	1502			east smithfield	
+361	11030	1503			east smithfield	2
+361	11031	1504			east smithfield	2
+361	11032	1505			east smithfield	2
+361	11033	1506			east smithfield	
+361	11034	1507			east smithfield	
+361	11035	1508			east smithfield	
+361	11036	1509			east smithfield	3
+361	11037	1510			east smithfield	3
+361	11038	1511			east smithfield	2
+361	11039	1512			east smithfield	2
+361	11040	1513			east smithfield	2
+361	11041	1514			east smithfield	2
+361	11042	1515			east smithfield	2
+361	11043	1516			east smithfield	2
+361	11044	1517			east smithfield	2
+361	11045	1518			east smithfield	2
+361	11046	1519			east smithfield	2
+361	11047	1520			east smithfield	1
+361	11048	1521			east smithfield	2
+361	11049	1522			east smithfield	2
+361	11050	1523			east smithfield	2
+361	11051	1524			east smithfield	8
+361	11052	1525			east smithfield	2
+361	11053	1526			east smithfield	2
+361	11054	1527			east smithfield	2
+361	11055	1528			east smithfield	2
+361	11056	1529			east smithfield	2
+361	11057	1530			east smithfield	1
+361	11058	1531			east smithfield	2
+361	11059	1532			east smithfield	2
+361	11060	1533			east smithfield	3
+361	11061	1534			east smithfield	2
+361	11062	1535			east smithfield	2
+361	11063	1536			east smithfield	2
+361	11064	1537			east smithfield	2
+361	11065	1538			east smithfield	2
+361	11066	1539			east smithfield	
+361	11067	1540			east smithfield	2
+361	11068	1541			east smithfield	3
+361	11069	1542			east smithfield	6
+361	11070	1543			east smithfield	16
+361	11071	1544			east smithfield	
+361	11072	1545			east smithfield	5
+361	11073	1546			east smithfield	3
+361	11074	1547			east smithfield	3
+361	11075	1548			east smithfield	3
+361	11076	1549			east smithfield	2
+361	11077	1550			east smithfield	3
+361	11078	1551			east smithfield	2
+361	11079	1552			east smithfield	2
+361	11080	1553			east smithfield	3
+361	11081	1554			east smithfield	3
+361	11082	1555			east smithfield	4
+361	11083	1556			east smithfield	4
+361	11084	1557			east smithfield	3
+361	11085	1558			east smithfield	2
+361	11086	1559			east smithfield	2
+361	11087	1560			east smithfield	2
+361	11088	1561			east smithfield	2
+361	11089	1562			east smithfield	
+361	11090	1563			east smithfield	2
+361	11091	1564			east smithfield	4
+361	11092	1565			east smithfield	4
+361	11093	1566			east smithfield	
+361	11094	1567			east smithfield	4
+361	11095	1568			east smithfield	4
+361	11096	1569			east smithfield	4
+361	11097	1570			east smithfield	
+361	11098	1571			east smithfield	5
+361	11099	1572			east smithfield	5
+361	11100	1573			east smithfield	4
+361	11101	1574			east smithfield	
+361	11102	1575			east smithfield	
+361	11103	1576			east smithfield	3
+361	11104	1577			east smithfield	3
+361	11105	1578			east smithfield	4
+361	11106	1579			east smithfield	4
+361	11107	1580			east smithfield	
+361	11108	1581			east smithfield	
+361	11109	1582			east smithfield	5
+361	11110	1583			east smithfield	
+361	11111	1584			east smithfield	4
+361	11112	1585			east smithfield	8
+361	11113	1586			east smithfield	14
+361	11114	1587			east smithfield	6
+361	11115	1588			east smithfield	6			
+361	11116	1589			east smithfield	6			
+361	11117	1590			east smithfield	8			
+361	11118	1591			east smithfield	4			
+361	11119	1592			east smithfield	3			
+361	11120	1593			east smithfield	10			
+361	11121	1594			east smithfield	12			
+361		1595	tenements		Tower Hill Precinct	30			Sweeden Court consisting of some 16 tenements
+361		1596	storehouse		Tower Hill Precinct				The Storehouse
+361	11122	1597			east smithfield	2			
+361	11123	1598			east smithfield	2			
+361	11124	1599			east smithfield	2			
+361	11125	1600			east smithfield	2			
+361	11126	1601			east smithfield	4			
+361	11127	1602			east smithfield	2			
+361	11128	1603			east smithfield	3			
+361	11129	1604			east smithfield	4
+361	11130	1605			east smithfield	6
+361	11131	1606			east smithfield	
+361	11132	1607			east smithfield	6
+361	11133	1608			east smithfield	4
+361	11134	1609			east smithfield	4
+361	11135	1610			east smithfield	8
+361	11136	1611			east smithfield	5
+361	11137	1612			east smithfield	5
+361	11138	1613			east smithfield	5
+361	11139	1614			east smithfield	4
+361	11140	1615			east smithfield	6
+361	11141	1616			east smithfield	10
+361	11142	1617			east smithfield	16
+361	11143	1618			east smithfield	8
+361	11144	1619			east smithfield	3
+361	11145	1620			east smithfield	3
+361	11146	1621			east smithfield	5
+361	11147	1622			east smithfield	6
+361	11148	1623			east smithfield	6
+361	11149	1624			east smithfield	6
+361	11150	1625			east smithfield	6
+361	11151	1626			east smithfield	6
+361	11152	1627			east smithfield	
+361	11153	1628			east smithfield	10
+361	11154	1629			east smithfield	5
+361	11155	1630			east smithfield	2
+361	11156	1631			east smithfield	2
+361	11157	1632			east smithfield	
+361	11158	1633			east smithfield	2
+361	11159	1634			east smithfield	2
+361	11160	1635			east smithfield	2
+361	11161	1636			east smithfield	2
+361	11162	1637			east smithfield	2
+361	11163	1638			east smithfield	2
+361	11164	1639			east smithfield	4
+361	11165	1640			east smithfield	4
+361	11166	1641			east smithfield	4
+361	11167	1642			east smithfield	4
+361	11168	1643			east smithfield	4
+361	11169	1644			east smithfield	3
+361	11170	1645			east smithfield	4
+361	11171	1646			east smithfield	4
+361	11172	1647			east smithfield	3
+361	11173	1648			east smithfield	4
+361	11174	1649			east smithfield	6
+361	11175	1650			east smithfield	10
+361	11176	1651			east smithfield	20
+361	11177	1652			east smithfield	3			
+361	11178	1653			east smithfield	8			
+361	11179	1654			east smithfield	2			
+361	11180	1655			east smithfield	2			
+361	11181	1656			east smithfield	2			
+361	11182	1657			east smithfield	2			
+361	11183	1658			east smithfield	12			
+361	11184	1659			east smithfield	4			
+361	11185	1660			east smithfield	4			
+361	11186	1661			east smithfield	4			
+361		1662	tenements		Tower Hill Precinct	60			Cock Alley consisting of some 19 tenements
+361	11187	1663	tenements		east smithfield	20			Norcotts rents consisting of 8 tenements
+361	11188	1664			east smithfield				
+361	11189	1665			east smithfield	6			
+361	11190	1666			east smithfield	6			
+361	11191	1667			east smithfield	6			
+361	11192	1668			east smithfield	4			
+361	11193	1669			east smithfield	4			
+361	11194	1670			east smithfield	6			
+361	11195	1671			east smithfield	4			
+361	11196	1672			east smithfield	6			
+361	11197	1673			east smithfield	4			
+361	11198	1674			east smithfield	6			
+361	11199	1675			east smithfield	3			
+361	11200	1676			east smithfield	6			
+361		1677	tenements		Tower Hill Precinct	6			3 Tun Alley consisting of three tenements
+361	11201	1678			east smithfield	5			
+361	11202	1679			east smithfield	16			
+361	11203	1680			east smithfield				
+361	11204	1681			east smithfield				
+361	11205	1682			east smithfield	2			
+361	11206	1683			east smithfield	2			
+361	11207	1684			east smithfield	1			
+361	11208	1685			east smithfield	16			and his tenants
+361	11209	1686			east smithfield	8			
+361	11210	1687			east smithfield	6			
+361	11211	1688	rents		east smithfield	100			Hookars rents consisting of 40 or 50 tenements
+361		1689	tenements		Tower Hill Precinct	60			Jacob's Well Yard consisting of some 39 tenements
+361	11212	1690			east smithfield	2			
+361	11213	1691			east smithfield	2			
+361	11214	1692			east smithfield	6			
+361	11215	1693			east smithfield	6			
+361	11216	1694			east smithfield	6			
+361	11217	1695			east smithfield	6			
+361	11218	1696			east smithfield	4			
+361	11219	1697			east smithfield	4			
+361	11220	1698			east smithfield	4			
+361	11221	1699			east smithfield	3			
+361	11222	1700			east smithfield	6			
+361	11223	1701			east smithfield	1			
+361	11224	1702			east smithfield	3			
+361	11225	1703			east smithfield	2			
+361	11226	1704			east smithfield	10			
+361	11227	1705			east smithfield	6			
+361	11228	1706			east smithfield	6			
+361	11229	1707			east smithfield	6			
+361	11230	1708			east smithfield	6			
+361	11231	1709			east smithfield	6			
+361	11232	1710			east smithfield	5			
+361	11233	1711	tenements		east smithfield	50			Abbot's Rents consisting of 6 tenements 
+361	11234	1712			east smithfield	4			
+361	11235	1713			east smithfield	8			
+361		1714	tenements		Tower Hill Precinct	5			Hatchett Alley consisting of 2 tenements 
+361	11236	1715			east smithfield	8			
+361	11237	1716			east smithfield	4			
+361	11238	1717			east smithfield	4			
+361	11239	1718			east smithfield	4			
+361	11240	1719			east smithfield	3			
+361	11241	1720			east smithfield	5			
+361	11242	1721			east smithfield	4			
+361	11243	1722			east smithfield	6			surname might be Bulie
+361	11244	1723			east smithfield	4			
+361	11245	1724			east smithfield	4			
+361	11246	1725			east smithfield	4			
+361	11247	1726			east smithfield	3			
+361	11248	1727			east smithfield	3			
+361	11249	1728	houses		east smithfield	10			2 houses
+361	11250	1729			east smithfield	3			
+361	11251	1730			east smithfield	2			
+361	11252	1731			east smithfield	5			
+361	11253	1732			east smithfield	5			
+361	11254	1733			east smithfield	5			
+361	11255	1734			east smithfield	3			
+361	11256	1735			east smithfield	5			
+361	11257	1736			east smithfield	4			
+361	11258	1737			east smithfield	5			
+361	11259	1738			east smithfield	4			
+361	11260	1739			east smithfield	4			
+361	11261	1740			east smithfield	5			
+361	11262	1741			east smithfield	5			
+361		1742	tenements		Tower Hill Precinct	5			An Alley consisting of - tenements 
+361	11263	1743			east smithfield	5			
+361	11264	1744			east smithfield	4			
+361		1745	tenements		Tower Hill Precinct	6			An Alley of 4 tenements 
+361	11265	1746			east smithfield	4			
+361	11266	1747			east smithfield	3			
+361	11267	1748			east smithfield	4			
+361	11268	1749			east smithfield	3			
+361	11269	1750			east smithfield	3			
+361		1751	tenements		Tower Hill Precinct	50			Mouse Alley consisting of 24 tenements 
+361		1752	tenements		Tower Hill Precinct	150			Swann Alley consisting of 100 tenements
+361	11270	1753			east smithfield	6			
+361		1754	tenements		Tower Hill Precinct	100			Pond Alley consisting of betwixt 60 or 70 tenements
+361	11271	1755			east smithfield	5			
+361	11272	1756	rents and tenements		east smithfield	20			Clothworkers rents consisting of 6 or 7 tenements 
+361	11273	1757	tenements		east smithfield	20			his rents consisting of 6 or 7 tenements
+361	11274	1758			east smithfield	6			
+361	11275	1759			east smithfield	6			
+361	11276	1760			east smithfield	6			
+361	11277	1761			east smithfield	6			
+361	11278	1762			east smithfield	4			
+361	11279	1763			east smithfield	3			
+361	11280	1764			east smithfield	4			
+361	11281	1765	rents and tenements		east smithfield	40			rents consisting of 8 tenements
+361	11282	1766	rents and tenements		east smithfield	50			rents consisting of 14 do
+361	11283	1767	rents and tenements		east smithfield	200			rents consisting of betwix 60 or 70 do.
+361	11284	1768	rents and tenements		east smithfield	50			his rents consisting of 20 do.
+361	11285	1769	brewhouse		east smithfield	40			a great brewhouse with his dwelling 
+361	11286	1770			east smithfield	6			
+361	11287	1771			east smithfield	8			
+361	11288	1772			east smithfield	6			
+361	11289	1773			east smithfield	8			
+361	11290	1774			east smithfield	8			
+361	11291	1775			east smithfield	8			
+361	11292	1776			east smithfield	4			
+361	11293	1777			east smithfield	12			
+361	11294	1778			east smithfield	6			
+361	11295	1779			east smithfield	3			
+361	11296	1780			east smithfield	4			
+361	11297	1781			east smithfield	5			
+361	11298	1782			east smithfield	20			
+361	11299	1783	tenements		east smithfield	30			and his 3 tenements
+361		1784	tenements		Tower Hill Precinct	8			George Alley consisting of 4 do.
+361	11300	1785			east smithfield	5			
+361		1786	tenements		Tower Hill Precinct	10			Flushing Yard consisting of 5 tenements
+361	11301	1787			east smithfield	8			
+361	11302	1788			east smithfield	12			
+361	11303	1789			east smithfield	2			
+361	11304	1790			east smithfield	3			
+361	11305	1791			east smithfield	3			
+361	11306	1792			east smithfield	3			
+361	11307	1793			east smithfield	30			
+361	11308	1794			east smithfield	5			
+361	11309	1795			east smithfield	5			
+361	11310	1796			east smithfield	8
+361	11311	1797			east smithfield	8
+361	11312	1798			east smithfield	7
+361	11313	1799			east smithfield	8
+361	11314	1800			east smithfield	8
+361	11315	1801			east smithfield	6
+361	11316	1802			east smithfield	6
+361	11317	1803			east smithfield	5
+361	11318	1804			east smithfield	6
+361	11319	1805			east smithfield	8
+361	11320	1806			east smithfield	8
+361	11321	1807			east smithfield	8
+361	11322	1808			east smithfield	8
+361	11323	1809			east smithfield	30
+361	11324	1810			east smithfield	4
+361	11325	1811			east smithfield	4
+361	11326	1812			east smithfield	3			
+361	11327	1813			east smithfield	16			
+361	11328	1814			east smithfield	6			
+361	11329	1815			east smithfield	3			
+361	11330	1816			east smithfield	6			
+361	11331	1817			east smithfield	6			
+361	11332	1818			east smithfield	5			
+361	11333	1819			east smithfield	10			
+361	11334	1820	houses		east smithfield	10			2 houses
+361	11335	1821			east smithfield	6			
+361	11336	1822			east smithfield	5			
+361	11337	1823			east smithfield	5			
+361	11338	1824			east smithfield	5			
+361	11339	1825			east smithfield	12			
+361	11340	1826			east smithfield	6			
+361	11341	1827			east smithfield	6			
+361	11342	1828			east smithfield	4			
+361	11343	1829			east smithfield	7			
+361	11344	1830			east smithfield	8			
+361	11345	1831			east smithfield	6			
+361	11346	1832			east smithfield	5			
+361	11347	1833			east smithfield	4			
+361	11348	1834			east smithfield	6			
+361		1835	tenements		Tower Hill Precinct	10			Brush Alley consisting of 4 tenements
+361	11349	1836			east smithfield	4			
+361	11350	1837			east smithfield	4			
+361	11351	1838			east smithfield	6			
+361	11352	1839			east smithfield	6			
+361		1840			Tower Hill Precinct	8			blank
+361	11353	1841	house and tenements		east smithfield	60			his house and tenements being about 45
+361	11354	1842			east smithfield	8			and his tenant 
+361	11355	1843			east smithfield	5			
+361	11356	1844			east smithfield	8			
+361	11357	1845	tenements		east smithfield	20			St. Katherine's Lane consisting of 6 or 7 tenements belonging to Mr Richd. Roafe and his own house
+361	11358	1846			east smithfield	4			
+361	11359	1847			east smithfield	2			
+361	11360	1848			east smithfield	4			
+361	11361	1849			east smithfield	5			
+361	11362	1850			east smithfield	5			
+361	11363	1851			east smithfield	5			
+361	11364	1852			east smithfield	3			
+361	11365	1853			east smithfield	2			
+361	11366	1854			east smithfield	3			surname might be Sandan
+361		1855			Tower Hill Precinct	4			blank
+361	11367	1856			east smithfield	4			
+361		1857			Tower Hill Precinct	3			blank
+361	11368	1858			east smithfield	4			
+361	11369	1859			east smithfield	5			
+361		1860			Tower Hill Precinct	3			Gravel Lane and Coven Garden. Jeremie Eight Shillings [sic]
+361	11370	1861			east smithfield	2			
+361	11371	1862			east smithfield	4			
+361	11372	1863			east smithfield	4			
+361	11373	1864			east smithfield	4			
+361	11374	1865			east smithfield	4			
+361	11375	1866			east smithfield	4			
+361	11376	1867			east smithfield	4			
+361	11377	1868			east smithfield	4			
+361	11378	1869			east smithfield	20			
+361	11379	1870			east smithfield	4			
+361	11380	1871			east smithfield	4			
+361	11381	1872			east smithfield	4			
+361	11382	1873			east smithfield	4			
+361	11383	1874			east smithfield	4			
+361	11384	1875			east smithfield	4			
+361	11385	1876			east smithfield	4			
+570	57383	1877					7s 3d		Yearly: £1 9s
+570	57384	1878					6s 		
+570	57385	1879					6s 8d		
+570	57386	1880					5s 		
+570	57387	1881					g6s 10.5d		& Roger Barkinhed; listed jointly with pid57436
+570	57388	1882					6s 8d		
+570	57389	1883	shopp				4s 		shopp
+570	57390	1884	shopp				4s 		shopp
+570	57391	1885	shopp				5s 		shopp
+570	57392	1886					6s 8d		
+570	57393	1887	shopp				1s 		shopp
+570	57394	1888	shopp				1s 		shopp
+570	57395	1889	shopp				1s 6d		shopp
+570	57396	1890	shopp				1s 		shopp
+570		1891	the house next ye church				5s 6d		the house next ye church
+570	57397	1892					5s 		
+570	57398	1893					5s 		
+570	57399	1894					2s 9d		
+570	57400	1895					2s 9d		
+570	57401	1896					2s 9d		
+570	57402	1897					2s 9d		
+570	57403	1898					2s 9d		
+570	57404	1899					10s 		
+570	57405	1900					5s 		
+570	57406	1901					2s 8d		
+570	57407	1902					10s 		
+570	57408	1903	his house				2s 8d		his house
+570	57409	1904					2s 8d		
+570	57410	1905					2s 8d		
+570	57411	1906					3s 		
+570	57412	1907					5s 		
+570	57413	1908					2s 6d		
+570	57414	1909					5s 6d		
+570	57415	1910					8s 		
+570	57416	1911					4s 1.5d		
+570	57417	1912					4s 		
+570	57418	1913					10s 		
+570	57419	1914					6s 2d		
+570	57420	1915					8s 		
+570	57421	1916					4s 6d		
+570	57422	1917					3s 1d		
+570	57423	1918					6s 		
+570	57424	1919					5s 		
+570	57425	1920					5s 		fol. 280v
+570	57426	1921					g11s 1d		5s 6d & p[artner]? now 5s 7d
+570	57427	1922					5s 		
+570	57428	1923					5s 		
+570	57429	1924					7s 6d		
+570	57430	1925	house 1/2 was				10s 		house 1/2 was
+570	57431	1926					2s 9d		
+570	57432	1927					2s 9d		
+570	57433	1928					2s 9d		
+570	57434	1929	house 1/2 was				2s 9d		house 1/2 was
+570	57435	1930					4s 		
+570	57436	1931					g6s 10.5d		listed jointly with pid57387

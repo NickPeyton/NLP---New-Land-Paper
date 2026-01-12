@@ -1,0 +1,138 @@
+grant_num,grant_total,surname,alias,forename,title,title_of,surname_2,forename_2,rh,day,month,year,in_devon
+1,,,,Henry,Marquis,Exeter,,,Breamore Priory,9,11,1536,1
+2,,Plantagenet,,Arthur,Viscount,Lisle,,,Frithelstock Priory,4,9,1537,0
+3,2740,Wriothesley,,Thomas,,,,,Quarr,6,11,1537,0
+4,2920,Howard,,William ,Lord,,,,Barnstaple,9,3,1538,0
+5,,Wallop,,John,Gentleman of the Privy Chamber,,,,Barlinch Priory,29,5,1538,0
+6,,,,Charles,Duke,Suffolk,,,Barlinch Priory,19,12,1538,0
+7,14320,Russell,,John,Lord,,,,Tavistock Abbey,4,7,1539,0
+8,,Duke,,Richard,,,,,Syon Abbey,5,2,1540,0.5
+9,1127,Dennis,,Thomas,,,,,Sherborne Abbey,11,2,1540,1
+10,417,Ridgeway,,John,,,,,Torre Abbey,4,3,1540,1
+11,520,Bluett,,Roger,,,,,Montacute Priory,10,3,1540,0.5
+12,314,Dennis,,Thomas,,,,,Buckfast Abbey,16,3,1540,1
+13,236,Grenville,,John,Sergeant at Arms,,,,Polsoe Priory,22,3,1540,0.5
+14,,Carew,,Thomas,,,,,St John's Hospital Exeter,29,4,1540,0.5
+15,54,Menyfee,,John,Yeoman,,,,Breamore Priory,8,6,1540,0
+16,760,Pollard,,Richard,,,,,Forde Abbey,23,6,1540,0.5
+17,541,Dennis,,Thomas,,,,,St Nicholas Priory Exeter,25,6,1540,1
+18,553,Knolles,,Francis,King's Household,,,,Totnes Priory,12,7,1540,0
+19,,Clerk,,John,Bishop,Bath and Wells,,,"St John's Hospital, Wells",27,9,1540,0
+20,1275,Southcott,,John,,,,,Buckfast Abbey,23,12,1540,1
+21,200,Peers,,John,Clerk of the King's Household,,,,Canonsleigh,17,2,1541,1
+22,283,Harvey,,Anthony,,,,,Tewkesbury Abbey,15,3,1541,0
+23,,Canterbury Cathedral Dean and Chapter,,,,,,,Canterbury Cathedral Priory,23,5,1541,0
+24,233,Grenville,,Richard,,,,,Buckland Abbey,26,5,1541,0.5
+25,434,Champernon,,Katherine,,,,,Totnes Priory,10,3,1542,0.5
+26,599,Williams,Cromwell,Richard,,,,,Forde Abbey,29,3,1542,0
+27,140,Harvey,,Anthony,,,,,Plympton Priory,27,4,1542,0
+28,,,,Thomas,Archbishop,Canterbury,,,Buckland Priory,7,6,1542,0
+29,4461,Andrews,,Richard,,,,,St Nicholas Priory Exeter,17,6,1542,0
+30,200,Davy,,Robert,Merchant,,,,Merton Priory,15,8,1542,1
+31,638,,,,Dean and Chapter,Bristol,,,St Augustine's Abbey,18,11,1542,0
+32,,Colles,,Humphrey,,Barton,,,Pilton,16,3,1543,0
+33,116,Leger,St Leger,John,King's Servant,,,,Canonsleigh Abbey,10,6,1543,0.5
+34,521,Smyth,,Walter,,Totnes,,,Totnes Priory,3,7,1543,1
+35,2403,Andrews,,Richard,,Hailes Gloucestershire,,,Tavistock Abbey,4,7,1543,0
+36,439,Savery,,Richard,Merchant,Totnes,,,St Dogmell's Abbey,8,7,1543,1
+37,852.8,Giles,,John,,Totnes,,,Plympton Priory,18,7,1543,1
+38,405,Duke,,Richard,Clerk of Council,Court of Augmentations,,,Dunkeswell Priory,18,7,1543,0.5
+39,254,Dennis,,Henry,,,,,Buckfast Abbey,3,8,1543,1
+40,1436,Parker,,Richard,,Tavistock,,,Dunkeswell Priory,6,8,1543,0.5
+41,735,Goodwin,,Thomas,,Plymtree and London,,,Polsoe Priory,26,8,1543,0.5
+42,93,Gale,,Thomas,,Dartmouth,,,Torre Abbey,22,2,1544,0.5
+43,1719,,,John,Earl,Oxford,,,Forde Abbey,29,4,1544,0
+44,1286,Baker,,John,,,,,Glastonbury Abbey,23,5,1544,?
+45,,Fulford,,John,Sir,Dunsford,,,Montacute Priory,11,6,1544,0.5
+46,250.8333333,Haydon,,George,,Woodbury and London,Stucley,Hugh,Cannington Priory,14,6,1544,0.5
+47,330,Walter,,Edmund,Clerk,Petty Bag,,,Buckfast Abbey,1,7,1544,?
+48,681,Rolle,,George,,Stevenstone,Haydon,George,Barlinch,6,8,1544,0.5
+49,782,Riggs,,William,,,Brown,Leonard,Torre Abbey,17,8,1544,?
+50,255,Champernon,,Philip,,,Champernon,Arthur,Plympton Priory,19,8,1544,1
+51,8,Brokylsbye,,Richard,,,Dyon,Lincoln,Pilton,20,8,1544,0
+52,959,Goodwin,,Thomas,,Plymtree and London,,,Hartland,26,9,1544,0.5
+53,,Pope,,John,,,Foster,Anthony,St John's Hospital,26,9,1544,0
+54,843,Southcot,,John,,Bodmin,Tregonwell,John,St John's Hospital,24,10,1544,0
+55,118,Keynsham,,George,,,,,Plympton Priory,9,12,1544,0.5
+56,327,Pope,,John,,,,,Plympton Priory,8,2,1545,0
+57,999,Popham,,Alexander,,,Halley,William,Buckland,16,2,1545,?
+58,1237,Chaplin,,William,,,Selwood,John,Plympton Priory,5,3,1545,?
+59,323.8095238,Drake,,John,,,Drake,Margaret,Dunkeswell Priory,18,3,1545,0.5
+60,313,Litcott,,Christopher,,Taunton,Streitbury,Edward,Taunton,23,3,1545,0
+61,112.5,Berners,,William,,,,,St John's Hospital Exeter,25,3,1545,?
+62,1894.111111,Haydon,,John,,,Gibbes,Thomas,St John's Hospital Exeter,2,4,1545,1
+63,623,St Hill,,Peter,,Bradninch,,,Canonsleigh Abbey,16,5,1545,0.5
+64,1576,Gresham,,Richard,,London,Billingforde,Richard,Dunkeswell Priory,7,6,1545,0
+65,121,Beryff,,William,,Colchester,Multon,John,St Nicholas Priory Exeter,5,7,1545,0
+66,432,Loosemore,,George,,Tiverton,Strangman,John,Templecombe Preceptory,10,7,1545,1
+67,592,Gaverock,,John,,Newton Abbot,Gaverock,Joan,Torre Abbey,1,9,1545,1
+68,80,,,John,Earl,Bath,,,Dunkeswell Priory,5,9,1545,0
+69,350,Coffin,,James,,,Goodwin,Thomas,Plympton Priory,9,9,1545,?
+70,546,Slanning,,John,,,Slanning,Elizabeth,Buckland,21,9,1545,1
+71,299,,,Elizabeth,Countess,Bath,Darcy,Thomas,Crediton Collegiate Church,22,9,1545,0
+72,,Rolle,,George,,Stevenstone,Adams,Nicholas,Dunkeswell Priory,28,9,1545,0.5
+73,,,,,Parishioners,Ottery St Mary,,,Collegiate Church of Ottery St Mary,24,12,1545,0
+74,530,Arundell,,Thomas,,,,,,16,1,1546,?
+75,177,Petre,,William,Sir,,Petre,Ann,Buckfast Abbey,25,1,1546,?
+76,648,Abbot,,William,Sergeant,,,,Tavistock Abbey,30,1,1546,?
+77,1973,Gunter,,James,,,Westcott,Henry,Canonsleigh Abbey,6,3,1546,?
+78,34,Twynhoo,,Edward,,,Watson,John,Dunkeswell Priory,19,3,1546,0
+79,,,,,Bishop,Exeter,,,St Nicholas Priory Exeter,23,3,1546,0
+80,681,Charles,,John,,Tavistock,Parker,Richard,Plympton,29,3,1546,1
+81,1451,Crymes,,Richard,,London,Crymes,Elizabeth,Buckland Abbey,21,4,1546,0
+82,354,,,Edward,Earl,Hertford,,,,20,5,1546,0
+83,159,Petre,,William,,,,,,10,7,1546,1
+84,456,Fry,,John,,,,,,10,8,1546,0
+85,1285,Goodwin,,Thomas,,,,,,10,8,1546,0.5
+86,322,Etheridge,,John,,,,,,7,9,1546,0.5
+87,1196,Grenville,,Richard,,,Bluett,Roger,,,,1546,0.5
+88,324,Wotton,,William,,Harberton,Wotton,John,,,,1546,1
+89,839,Slanning,,John,,,Butler,Anthony,,,,1546,?
+90,256,Isham,,Giles,,London,Isham,Gregory,,,,1546,0
+91,1301,Bellow,,John,,,Broxholme,John,,,,1546,0
+92,400,Bellingham,,Edward,,,,,,,,1547,?
+93,,,,,Parishioners,Crediton,,,,,,1547,0
+94,6000,Wriothesley,,Thomas,,,,,,,,1547,0
+95,,,,,Dean and Canons,Chapel of St George in Windsor,,,,,,1547,0
+96,,Wriothesley,,Thomas,Earl,Southampton,,,,,,1548,0
+97,580,Heneage,,Thomas,,,Willoughby,William,,,,1548,0
+98,17,Keyleway,,Giles,,,Leonard,William,,,,1549,0
+99,225,Dudley,,John,Earl,Warwick,,,,,,1549,0
+100,,Venables,,Richard,,,Maynard,John,,,,1549,?
+101,147,Fountain,,William,,,Mayne,Richard,,,,1550,1
+102,4041,Sadler,,Ralph,,,Wennington,Laurence,,,,1550,?
+103,,Fynes,,Edward,,,,,,,,1551,0
+104,2000,Darcy,,Thomas,,,,,,,,1551,0
+105,1120,Darcy,,Arthur,,,,,,,,1551,0
+106,2000,Fynes,,Edward,,,,,,,,1552,0
+107,269,Palmer,,Thomas,,,,,,,,1552,?
+108,263,Cavendish,,William,,,,,,,,1552,?
+109,1073,Erle,,Walter,,,,,,,,1552,0.5
+110,120,Petre,,John,,,,,,,,1552,1
+111,334,Fynes,,Edward,,,Herdson,Henry,,,,1552,0
+112,680.8,Ridgeway,,John,,,Petre,John,,,,1553,1
+113,396,Waldron,,Ralph,,,Waldron,John,,,,1553,1
+114,20,Reve,,Thomas,,,Cotton,George,,,,1553,0
+115,1036,Hassard,,John,,,Hassard,Nicholas,,,,1553,0
+116,257.4,Southcot,,John,,Bovey Tracy,,,,,,1553,1
+117,1161,Waste,,John,,,Gratwick,Roger,,,,1553,0
+118,1406,Chamond,,Richard,,,Prideaux,Roger,,,,1553,0
+119,1736,Cowper,,Edward,,,Fairweather,Valentine,,,,1553,0
+120,2187.9,Wright,,John,,,Holmes,Thomas,,,,1553,0
+121,218,Seymour,,Edward,,,,,,,,1553,1
+122,1120,Grey,,Thomas,Lord,,,,,,,1553,0
+123,,,,Gertrude,Marchioness,Exeter,,,,,,1553,0
+124,,Gravener,,Elizabeth,,,,,,,,1554,0
+125,600,Green,,John,,,,,,,,1554,0
+126,,Gage,,John,Sir,,,,,,,1555,?
+127,,Gate,,Henry,Sir,,Gate,Lucy,,,,1555,0
+128,,Cheke,,John,Sir,,Osbourne,Peter,,,,1557,0
+129,46.42857143,Portman,,Henry,,,Dyer,John,,,,1557,0
+130,137.8571429,Yarde,,Thomas,Esquire,,Calmady,Vincent,,,,1557,0.5
+131,870.5263158,Northcote,,Walter,,,Northcote,John,,,,1557,1
+132,357.5,Drake,,John,Esquire,,Drake,Bernard,,,,1557,1
+133,84,Eliot,,John,,,,,,,,1557,?
+134,70.37037037,Petre,,William,Sir,,,,,,,1558,1
+135,283.5714286,Becher,,Henry,,,Butler,George,,,,1558,0
+136,20,Reve,,Thomas,,,Pynde,Nicholas,,,,1558,0
+137,,Curwen,,Richard,,,Hudson,John,,,,1558,0

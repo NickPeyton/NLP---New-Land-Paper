@@ -1,0 +1,723 @@
+id	porID	ruID	por	runame	utype	parish	window	numevents	pcs	sr	numyears	iratio	occ	n	adjn
+1	RUT/001/rose	RUT/001	rose	Ashwell	AP	Ashwell	1813-1820	58	0.00	1	8	1.00	labourer	36	36.00
+2	RUT/001/rose	RUT/001	rose	Ashwell	AP	Ashwell	1813-1820	58	0.00	1	8	1.00	grazier	9	9.00
+3	RUT/001/rose	RUT/001	rose	Ashwell	AP	Ashwell	1813-1820	58	0.00	1	8	1.00	shoemaker	3	3.00
+4	RUT/001/rose	RUT/001	rose	Ashwell	AP	Ashwell	1813-1820	58	0.00	1	8	1.00	illegitimate	2	2.00
+5	RUT/001/rose	RUT/001	rose	Ashwell	AP	Ashwell	1813-1820	58	0.00	1	8	1.00	blacksmith	4	4.00
+6	RUT/001/rose	RUT/001	rose	Ashwell	AP	Ashwell	1813-1820	58	0.00	1	8	1.00	servant	3	3.00
+7	RUT/001/rose	RUT/001	rose	Ashwell	AP	Ashwell	1813-1820	58	0.00	1	8	1.00	labourer and cottager	1	1.00
+8	RUT/002/rose	RUT/002	rose	Ayston	AP	Ayston	1813-1820	19	0.00	1	8	1.00	toll bar keeper	7	7.00
+9	RUT/002/rose	RUT/002	rose	Ayston	AP	Ayston	1813-1820	19	0.00	1	8	1.00	coachman	1	1.00
+10	RUT/002/rose	RUT/002	rose	Ayston	AP	Ayston	1813-1820	19	0.00	1	8	1.00	grazier	2	2.00
+11	RUT/002/rose	RUT/002	rose	Ayston	AP	Ayston	1813-1820	19	0.00	1	8	1.00	labourer	6	6.00
+12	RUT/002/rose	RUT/002	rose	Ayston	AP	Ayston	1813-1820	19	0.00	1	8	1.00	gardener	3	3.00
+13	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	illegitimate	11	11.00
+14	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	labourer	60	60.00
+15	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	collar maker	3	3.00
+16	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	shepherd	2	2.00
+17	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	mason	11	11.00
+18	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	glover	4	4.00
+19	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	joiner	1	1.00
+20	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	parchment maker	4	4.00
+21	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	tailor	2	2.00
+22	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	farmer	4	4.00
+23	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	baker	3	3.00
+24	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	no occupation specified	1	1.00
+25	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	shoemaker	5	5.00
+26	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	cottager and shepherd	1	1.00
+27	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	pig jobber	1	1.00
+28	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	carpenter	4	4.00
+29	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	tanner	3	3.00
+30	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	hosier	2	2.00
+31	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	butcher	3	3.00
+32	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	sawyer	2	2.00
+33	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	blacksmith	1	1.00
+34	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	thatcher	1	1.00
+35	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	cottager	1	1.00
+36	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	wool comber	1	1.00
+37	RUT/004/rose	RUT/004	rose	Barrowden	AP	Barrowden	1813-1820	132	0.83	1	8	1.00	publican	1	1.00
+38	RUT/006/rose	RUT/006	rose	Belton	CH	Wardley	1813-1820	86	0.00	1	8	1.00	brick maker	1	1.00
+39	RUT/006/rose	RUT/006	rose	Belton	CH	Wardley	1813-1820	86	0.00	1	8	1.00	carpenter	5	5.00
+40	RUT/006/rose	RUT/006	rose	Belton	CH	Wardley	1813-1820	86	0.00	1	8	1.00	labourer	18	18.00
+41	RUT/006/rose	RUT/006	rose	Belton	CH	Wardley	1813-1820	86	0.00	1	8	1.00	shoemaker	5	5.00
+42	RUT/006/rose	RUT/006	rose	Belton	CH	Wardley	1813-1820	86	0.00	1	8	1.00	mercer and draper	2	2.00
+43	RUT/006/rose	RUT/006	rose	Belton	CH	Wardley	1813-1820	86	0.00	1	8	1.00	illegitimate	6	6.00
+44	RUT/006/rose	RUT/006	rose	Belton	CH	Wardley	1813-1820	86	0.00	1	8	1.00	soldier	2	2.00
+45	RUT/006/rose	RUT/006	rose	Belton	CH	Wardley	1813-1820	86	0.00	1	8	1.00	labourer in husbandry	24	24.00
+46	RUT/006/rose	RUT/006	rose	Belton	CH	Wardley	1813-1820	86	0.00	1	8	1.00	shepherd and labourer	1	1.00
+47	RUT/006/rose	RUT/006	rose	Belton	CH	Wardley	1813-1820	86	0.00	1	8	1.00	shepherd	4	4.00
+48	RUT/006/rose	RUT/006	rose	Belton	CH	Wardley	1813-1820	86	0.00	1	8	1.00	innkeeper	1	1.00
+49	RUT/006/rose	RUT/006	rose	Belton	CH	Wardley	1813-1820	86	0.00	1	8	1.00	tailor	3	3.00
+50	RUT/006/rose	RUT/006	rose	Belton	CH	Wardley	1813-1820	86	0.00	1	8	1.00	farmer	2	2.00
+51	RUT/006/rose	RUT/006	rose	Belton	CH	Wardley	1813-1820	86	0.00	1	8	1.00	grazier	2	2.00
+52	RUT/006/rose	RUT/006	rose	Belton	CH	Wardley	1813-1820	86	0.00	1	8	1.00	stone mason	1	1.00
+53	RUT/006/rose	RUT/006	rose	Belton	CH	Wardley	1813-1820	86	0.00	1	8	1.00	wheelwright	1	1.00
+54	RUT/006/rose	RUT/006	rose	Belton	CH	Wardley	1813-1820	86	0.00	1	8	1.00	gardener	1	1.00
+55	RUT/006/rose	RUT/006	rose	Belton	CH	Wardley	1813-1820	86	0.00	1	8	1.00	farmer and grazier	4	4.00
+56	RUT/006/rose	RUT/006	rose	Belton	CH	Wardley	1813-1820	86	0.00	1	8	1.00	dealer in pots	1	1.00
+57	RUT/006/rose	RUT/006	rose	Belton	CH	Wardley	1813-1820	86	0.00	1	8	1.00	servant	1	1.00
+58	RUT/006/rose	RUT/006	rose	Belton	CH	Wardley	1813-1820	86	0.00	1	8	1.00	horse dealer	1	1.00
+59	RUT/007/rose	RUT/007	rose	Bisbrooke	AP	Bisbrooke	1813-1820	43	0.00	1	8	1.00	labourer	16	16.00
+60	RUT/007/rose	RUT/007	rose	Bisbrooke	AP	Bisbrooke	1813-1820	43	0.00	1	8	1.00	farmer	11	11.00
+61	RUT/007/rose	RUT/007	rose	Bisbrooke	AP	Bisbrooke	1813-1820	43	0.00	1	8	1.00	illegitimate	3	3.00
+62	RUT/007/rose	RUT/007	rose	Bisbrooke	AP	Bisbrooke	1813-1820	43	0.00	1	8	1.00	butcher	3	3.00
+63	RUT/007/rose	RUT/007	rose	Bisbrooke	AP	Bisbrooke	1813-1820	43	0.00	1	8	1.00	cottager	6	6.00
+64	RUT/007/rose	RUT/007	rose	Bisbrooke	AP	Bisbrooke	1813-1820	43	0.00	1	8	1.00	pauper	1	1.00
+65	RUT/007/rose	RUT/007	rose	Bisbrooke	AP	Bisbrooke	1813-1820	43	0.00	1	8	1.00	unreadable	1	1.00
+66	RUT/007/rose	RUT/007	rose	Bisbrooke	AP	Bisbrooke	1813-1820	43	0.00	1	8	1.00	gardener	1	1.00
+67	RUT/007/rose	RUT/007	rose	Bisbrooke	AP	Bisbrooke	1813-1820	43	0.00	1	8	1.00	carpenter	1	1.00
+68	RUT/008/rose	RUT/008	rose	Braunston	CH	Hambleton	1813-1820	144	0.00	1	8	1.00	carpenter	3	3.00
+69	RUT/008/rose	RUT/008	rose	Braunston	CH	Hambleton	1813-1820	144	0.00	1	8	1.00	labourer	60	60.00
+70	RUT/008/rose	RUT/008	rose	Braunston	CH	Hambleton	1813-1820	144	0.00	1	8	1.00	butcher	6	6.00
+71	RUT/008/rose	RUT/008	rose	Braunston	CH	Hambleton	1813-1820	144	0.00	1	8	1.00	baker	6	6.00
+72	RUT/008/rose	RUT/008	rose	Braunston	CH	Hambleton	1813-1820	144	0.00	1	8	1.00	farmer	12	12.00
+73	RUT/008/rose	RUT/008	rose	Braunston	CH	Hambleton	1813-1820	144	0.00	1	8	1.00	grazier	10	10.00
+74	RUT/008/rose	RUT/008	rose	Braunston	CH	Hambleton	1813-1820	144	0.00	1	8	1.00	illegitimate	7	7.00
+75	RUT/008/rose	RUT/008	rose	Braunston	CH	Hambleton	1813-1820	144	0.00	1	8	1.00	blacksmith and grazier	1	1.00
+76	RUT/008/rose	RUT/008	rose	Braunston	CH	Hambleton	1813-1820	144	0.00	1	8	1.00	cottager	7	7.00
+77	RUT/008/rose	RUT/008	rose	Braunston	CH	Hambleton	1813-1820	144	0.00	1	8	1.00	gentleman	5	5.00
+78	RUT/008/rose	RUT/008	rose	Braunston	CH	Hambleton	1813-1820	144	0.00	1	8	1.00	jobber	3	3.00
+79	RUT/008/rose	RUT/008	rose	Braunston	CH	Hambleton	1813-1820	144	0.00	1	8	1.00	gardener	6	6.00
+80	RUT/008/rose	RUT/008	rose	Braunston	CH	Hambleton	1813-1820	144	0.00	1	8	1.00	mason	5	5.00
+81	RUT/008/rose	RUT/008	rose	Braunston	CH	Hambleton	1813-1820	144	0.00	1	8	1.00	shepherd	6	6.00
+82	RUT/008/rose	RUT/008	rose	Braunston	CH	Hambleton	1813-1820	144	0.00	1	8	1.00	tailor	1	1.00
+83	RUT/008/rose	RUT/008	rose	Braunston	CH	Hambleton	1813-1820	144	0.00	1	8	1.00	blacksmith	2	2.00
+84	RUT/008/rose	RUT/008	rose	Braunston	CH	Hambleton	1813-1820	144	0.00	1	8	1.00	shoemaker	2	2.00
+85	RUT/008/rose	RUT/008	rose	Braunston	CH	Hambleton	1813-1820	144	0.00	1	8	1.00	publican	2	2.00
+86	RUT/009/rose	RUT/009	rose	Brooke	CH	Oakham	1813-1820	27	0.00	1	8	1.00	miller	1	1.00
+87	RUT/009/rose	RUT/009	rose	Brooke	CH	Oakham	1813-1820	27	0.00	1	8	1.00	labourer	10	10.00
+88	RUT/009/rose	RUT/009	rose	Brooke	CH	Oakham	1813-1820	27	0.00	1	8	1.00	illegitimate	1	1.00
+89	RUT/009/rose	RUT/009	rose	Brooke	CH	Oakham	1813-1820	27	0.00	1	8	1.00	grazier	8	8.00
+90	RUT/009/rose	RUT/009	rose	Brooke	CH	Oakham	1813-1820	27	0.00	1	8	1.00	cordwainer	2	2.00
+91	RUT/009/rose	RUT/009	rose	Brooke	CH	Oakham	1813-1820	27	0.00	1	8	1.00	farmer	4	4.00
+92	RUT/009/rose	RUT/009	rose	Brooke	CH	Oakham	1813-1820	27	0.00	1	8	1.00	parish clerk	1	1.00
+93	RUT/010/rose	RUT/010	rose	Burley	AP	Burley	1813-1820	50	0.00	1	8	1.00	labourer	19	19.00
+94	RUT/010/rose	RUT/010	rose	Burley	AP	Burley	1813-1820	50	0.00	1	8	1.00	armourer	3	3.00
+95	RUT/010/rose	RUT/010	rose	Burley	AP	Burley	1813-1820	50	0.00	1	8	1.00	carpenter	5	5.00
+96	RUT/010/rose	RUT/010	rose	Burley	AP	Burley	1813-1820	50	0.00	1	8	1.00	husbandman	2	2.00
+97	RUT/010/rose	RUT/010	rose	Burley	AP	Burley	1813-1820	50	0.00	1	8	1.00	gardener	2	2.00
+98	RUT/010/rose	RUT/010	rose	Burley	AP	Burley	1813-1820	50	0.00	1	8	1.00	cottager	3	3.00
+99	RUT/010/rose	RUT/010	rose	Burley	AP	Burley	1813-1820	50	0.00	1	8	1.00	farmer	7	7.00
+100	RUT/010/rose	RUT/010	rose	Burley	AP	Burley	1813-1820	50	0.00	1	8	1.00	illegitimate	1	1.00
+101	RUT/010/rose	RUT/010	rose	Burley	AP	Burley	1813-1820	50	0.00	1	8	1.00	cottager and labourer	2	2.00
+102	RUT/010/rose	RUT/010	rose	Burley	AP	Burley	1813-1820	50	0.00	1	8	1.00	toll bar keeper	1	1.00
+103	RUT/010/rose	RUT/010	rose	Burley	AP	Burley	1813-1820	50	0.00	1	8	1.00	gardener to the earl of winchilsea	2	2.00
+104	RUT/010/rose	RUT/010	rose	Burley	AP	Burley	1813-1820	50	0.00	1	8	1.00	shepherd	2	2.00
+105	RUT/010/rose	RUT/010	rose	Burley	AP	Burley	1813-1820	50	0.00	1	8	1.00	keeper of the toll bar	1	1.00
+106	RUT/011/rose	RUT/011	rose	Caldecott	CH	Liddington	1813-1820	52	0.00	1	8	1.00	illegitimate	2	2.00
+107	RUT/011/rose	RUT/011	rose	Caldecott	CH	Liddington	1813-1820	52	0.00	1	8	1.00	cordwainer	1	1.00
+108	RUT/011/rose	RUT/011	rose	Caldecott	CH	Liddington	1813-1820	52	0.00	1	8	1.00	shepherd	4	4.00
+109	RUT/011/rose	RUT/011	rose	Caldecott	CH	Liddington	1813-1820	52	0.00	1	8	1.00	carpenter	4	4.00
+110	RUT/011/rose	RUT/011	rose	Caldecott	CH	Liddington	1813-1820	52	0.00	1	8	1.00	publican	2	2.00
+111	RUT/011/rose	RUT/011	rose	Caldecott	CH	Liddington	1813-1820	52	0.00	1	8	1.00	grazier	11	11.00
+112	RUT/011/rose	RUT/011	rose	Caldecott	CH	Liddington	1813-1820	52	0.00	1	8	1.00	labourer	17	17.00
+113	RUT/011/rose	RUT/011	rose	Caldecott	CH	Liddington	1813-1820	52	0.00	1	8	1.00	servant	1	1.00
+114	RUT/011/rose	RUT/011	rose	Caldecott	CH	Liddington	1813-1820	52	0.00	1	8	1.00	cottager	1	1.00
+115	RUT/011/rose	RUT/011	rose	Caldecott	CH	Liddington	1813-1820	52	0.00	1	8	1.00	exciseman	1	1.00
+116	RUT/011/rose	RUT/011	rose	Caldecott	CH	Liddington	1813-1820	52	0.00	1	8	1.00	shoemaker	2	2.00
+117	RUT/011/rose	RUT/011	rose	Caldecott	CH	Liddington	1813-1820	52	0.00	1	8	1.00	miller	2	2.00
+118	RUT/011/rose	RUT/011	rose	Caldecott	CH	Liddington	1813-1820	52	0.00	1	8	1.00	farmer	1	1.00
+119	RUT/011/rose	RUT/011	rose	Caldecott	CH	Liddington	1813-1820	52	0.00	1	8	1.00	carter	1	1.00
+120	RUT/011/rose	RUT/011	rose	Caldecott	CH	Liddington	1813-1820	52	0.00	1	8	1.00	baker	1	1.00
+121	RUT/011/rose	RUT/011	rose	Caldecott	CH	Liddington	1813-1820	52	0.00	1	8	1.00	millwright	1	1.00
+122	RUT/012/rose	RUT/012	rose	Clipsham	AP	Clipsham	1813-1815/1818-1822	36	0.00	1	8	1.00	labourer	25	25.00
+123	RUT/012/rose	RUT/012	rose	Clipsham	AP	Clipsham	1813-1815/1818-1822	36	0.00	1	8	1.00	shoemaker	1	1.00
+124	RUT/012/rose	RUT/012	rose	Clipsham	AP	Clipsham	1813-1815/1818-1822	36	0.00	1	8	1.00	cottager	3	3.00
+125	RUT/012/rose	RUT/012	rose	Clipsham	AP	Clipsham	1813-1815/1818-1822	36	0.00	1	8	1.00	farmer	6	6.00
+126	RUT/012/rose	RUT/012	rose	Clipsham	AP	Clipsham	1813-1815/1818-1822	36	0.00	1	8	1.00	traveller	1	1.00
+127	RUT/013/rose	RUT/013	rose	Cottesmore	AP	Cottesmore	1813-1820	168	0.00	1	8	1.00	labouring carpenter	1	1.00
+128	RUT/013/rose	RUT/013	rose	Cottesmore	AP	Cottesmore	1813-1820	168	0.00	1	8	1.00	labourer	86	86.00
+129	RUT/013/rose	RUT/013	rose	Cottesmore	AP	Cottesmore	1813-1820	168	0.00	1	8	1.00	farmer	27	27.00
+130	RUT/013/rose	RUT/013	rose	Cottesmore	AP	Cottesmore	1813-1820	168	0.00	1	8	1.00	carpenter	6	6.00
+131	RUT/013/rose	RUT/013	rose	Cottesmore	AP	Cottesmore	1813-1820	168	0.00	1	8	1.00	clerk	3	3.00
+132	RUT/013/rose	RUT/013	rose	Cottesmore	AP	Cottesmore	1813-1820	168	0.00	1	8	1.00	mason	8	8.00
+133	RUT/013/rose	RUT/013	rose	Cottesmore	AP	Cottesmore	1813-1820	168	0.00	1	8	1.00	illegitimate	7	7.00
+134	RUT/013/rose	RUT/013	rose	Cottesmore	AP	Cottesmore	1813-1820	168	0.00	1	8	1.00	tailor	5	5.00
+135	RUT/013/rose	RUT/013	rose	Cottesmore	AP	Cottesmore	1813-1820	168	0.00	1	8	1.00	blacksmith	3	3.00
+136	RUT/013/rose	RUT/013	rose	Cottesmore	AP	Cottesmore	1813-1820	168	0.00	1	8	1.00	cottager	8	8.00
+137	RUT/013/rose	RUT/013	rose	Cottesmore	AP	Cottesmore	1813-1820	168	0.00	1	8	1.00	servant	8	8.00
+138	RUT/013/rose	RUT/013	rose	Cottesmore	AP	Cottesmore	1813-1820	168	0.00	1	8	1.00	schoolmaster	2	2.00
+139	RUT/013/rose	RUT/013	rose	Cottesmore	AP	Cottesmore	1813-1820	168	0.00	1	8	1.00	shoemaker	2	2.00
+140	RUT/013/rose	RUT/013	rose	Cottesmore	AP	Cottesmore	1813-1820	168	0.00	1	8	1.00	butcher	2	2.00
+141	RUT/014/rose	RUT/014	rose	Edith Weston	AP	Edith Weston	1813-1820	74	0.00	1	8	1.00	illegitimate	3	3.00
+142	RUT/014/rose	RUT/014	rose	Edith Weston	AP	Edith Weston	1813-1820	74	0.00	1	8	1.00	soldier	1	1.00
+143	RUT/014/rose	RUT/014	rose	Edith Weston	AP	Edith Weston	1813-1820	74	0.00	1	8	1.00	labourer	41	41.00
+144	RUT/014/rose	RUT/014	rose	Edith Weston	AP	Edith Weston	1813-1820	74	0.00	1	8	1.00	farmer	11	11.00
+145	RUT/014/rose	RUT/014	rose	Edith Weston	AP	Edith Weston	1813-1820	74	0.00	1	8	1.00	servant	2	2.00
+146	RUT/014/rose	RUT/014	rose	Edith Weston	AP	Edith Weston	1813-1820	74	0.00	1	8	1.00	tailor	3	3.00
+147	RUT/014/rose	RUT/014	rose	Edith Weston	AP	Edith Weston	1813-1820	74	0.00	1	8	1.00	mason	2	2.00
+148	RUT/014/rose	RUT/014	rose	Edith Weston	AP	Edith Weston	1813-1820	74	0.00	1	8	1.00	jobber	2	2.00
+149	RUT/014/rose	RUT/014	rose	Edith Weston	AP	Edith Weston	1813-1820	74	0.00	1	8	1.00	butcher	2	2.00
+150	RUT/014/rose	RUT/014	rose	Edith Weston	AP	Edith Weston	1813-1820	74	0.00	1	8	1.00	shoemaker	3	3.00
+151	RUT/014/rose	RUT/014	rose	Edith Weston	AP	Edith Weston	1813-1820	74	0.00	1	8	1.00	cooper	1	1.00
+152	RUT/014/rose	RUT/014	rose	Edith Weston	AP	Edith Weston	1813-1820	74	0.00	1	8	1.00	shepherd	2	2.00
+153	RUT/014/rose	RUT/014	rose	Edith Weston	AP	Edith Weston	1813-1820	74	0.00	1	8	1.00	cabinet maker	1	1.00
+154	RUT/015/rose	RUT/015	rose	Egleton	CH	Oakham	1813-1820	22	0.00	1	8	1.00	carpenter	2	2.00
+155	RUT/015/rose	RUT/015	rose	Egleton	CH	Oakham	1813-1820	22	0.00	1	8	1.00	tailor	1	1.00
+156	RUT/015/rose	RUT/015	rose	Egleton	CH	Oakham	1813-1820	22	0.00	1	8	1.00	merchant's clerk	1	1.00
+157	RUT/015/rose	RUT/015	rose	Egleton	CH	Oakham	1813-1820	22	0.00	1	8	1.00	labourer	8	8.00
+158	RUT/015/rose	RUT/015	rose	Egleton	CH	Oakham	1813-1820	22	0.00	1	8	1.00	cottager	2	2.00
+159	RUT/015/rose	RUT/015	rose	Egleton	CH	Oakham	1813-1820	22	0.00	1	8	1.00	gamekeeper	1	1.00
+160	RUT/015/rose	RUT/015	rose	Egleton	CH	Oakham	1813-1820	22	0.00	1	8	1.00	servant	2	2.00
+161	RUT/015/rose	RUT/015	rose	Egleton	CH	Oakham	1813-1820	22	0.00	1	8	1.00	cutter	1	1.00
+162	RUT/015/rose	RUT/015	rose	Egleton	CH	Oakham	1813-1820	22	0.00	1	8	1.00	weaver	2	2.00
+163	RUT/015/rose	RUT/015	rose	Egleton	CH	Oakham	1813-1820	22	0.00	1	8	1.00	farmer and grazier	1	1.00
+164	RUT/015/rose	RUT/015	rose	Egleton	CH	Oakham	1813-1820	22	0.00	1	8	1.00	illegitimate	1	1.00
+165	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	farmer	19	19.00
+166	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	labourer	99	99.00
+167	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	labourer and carpenter	1	1.00
+168	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	cottager	7	7.00
+169	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	farmer and baker	1	1.00
+170	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	gardener	1	1.00
+171	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	illegitimate	11	11.00
+172	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	shepherd	3	3.00
+173	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	carpenter	13	13.00
+174	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	mason	9	9.00
+175	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	tailor	2	2.00
+176	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	under gamekeeper	2	2.00
+177	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	cottager and carpenter	1	1.00
+178	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	steward	2	2.00
+179	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	butcher	4	4.00
+180	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	cordwainer	2	2.00
+181	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	baker	1	1.00
+182	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	cooper	3	3.00
+183	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	unreadable	1	1.00
+184	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	wheelwright	1	1.00
+185	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	miller	4	4.00
+186	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	keeper	1	1.00
+187	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	blacksmith	4	4.00
+188	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	gamekeeper	3	3.00
+189	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	shoemaker	1	1.00
+190	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	surgeon	2	2.00
+191	RUT/016/rose	RUT/016	rose	Empingham	AP	Empingham	1813-1819/1821	199	0.00	1	8	1.00	architect	1	1.00
+192	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	labourer	118	118.00
+193	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	surveyor of woods and roads	1	1.00
+194	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	musician	2	2.00
+195	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	carpenter	17	17.00
+196	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	blacksmith	5	5.00
+197	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	illegitimate	3	3.00
+198	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	servant	4	4.00
+199	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	shoemaker	8	8.00
+200	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	soldier	1	1.00
+201	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	mason	8	8.00
+202	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	publican	4	4.00
+203	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	under keeper	1	1.00
+204	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	cottager	1	1.00
+205	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	gardener	4	4.00
+206	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	farmer	3	3.00
+207	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	slater	2	2.00
+208	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	tailor	1	1.00
+209	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	other parish - no occupation	1	1.00
+210	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	gentleman and farmer	1	1.00
+211	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	sawyer	2	2.00
+212	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	shepherd	1	1.00
+213	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	groom in training stables	1	1.00
+214	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	clerk and carpenter	1	1.00
+215	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	labourer and shopkeeper	1	1.00
+216	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	journeyman blacksmith	1	1.00
+217	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	exciseman	2	2.00
+218	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	farmer and carpenter	1	1.00
+219	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	rope maker	2	2.00
+220	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	plasterer	3	3.00
+221	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	shopkeeper	1	1.00
+222	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	farmer and surveyor of canals and roads	1	1.00
+223	RUT/018/rose	RUT/018	rose	Exton	AP	Exton	1813-1820	203	0.00	1	8	1.00	labourer and mason	1	1.00
+224	RUT/019/rose	RUT/019	rose	Glaston	AP	Glaston	1813-1820	38	0.00	1	8	1.00	esquire	2	2.00
+225	RUT/019/rose	RUT/019	rose	Glaston	AP	Glaston	1813-1820	38	0.00	1	8	1.00	labourer	16	16.00
+226	RUT/019/rose	RUT/019	rose	Glaston	AP	Glaston	1813-1820	38	0.00	1	8	1.00	groom	2	2.00
+227	RUT/019/rose	RUT/019	rose	Glaston	AP	Glaston	1813-1820	38	0.00	1	8	1.00	farmer	5	5.00
+228	RUT/019/rose	RUT/019	rose	Glaston	AP	Glaston	1813-1820	38	0.00	1	8	1.00	ploughwright	1	1.00
+229	RUT/019/rose	RUT/019	rose	Glaston	AP	Glaston	1813-1820	38	0.00	1	8	1.00	shoemaker	3	3.00
+230	RUT/019/rose	RUT/019	rose	Glaston	AP	Glaston	1813-1820	38	0.00	1	8	1.00	wheelwright	2	2.00
+231	RUT/019/rose	RUT/019	rose	Glaston	AP	Glaston	1813-1820	38	0.00	1	8	1.00	cottager	1	1.00
+232	RUT/019/rose	RUT/019	rose	Glaston	AP	Glaston	1813-1820	38	0.00	1	8	1.00	gardener	3	3.00
+233	RUT/019/rose	RUT/019	rose	Glaston	AP	Glaston	1813-1820	38	0.00	1	8	1.00	mason	1	1.00
+234	RUT/019/rose	RUT/019	rose	Glaston	AP	Glaston	1813-1820	38	0.00	1	8	1.00	grazier	1	1.00
+235	RUT/019/rose	RUT/019	rose	Glaston	AP	Glaston	1813-1820	38	0.00	1	8	1.00	publican	1	1.00
+236	RUT/020/rose	RUT/020	rose	Great Casterton	AP	Great Casterton	1813-1820	88	0.00	1	8	1.00	illegitimate	6	6.00
+237	RUT/020/rose	RUT/020	rose	Great Casterton	AP	Great Casterton	1813-1820	88	0.00	1	8	1.00	labourer	46	46.00
+238	RUT/020/rose	RUT/020	rose	Great Casterton	AP	Great Casterton	1813-1820	88	0.00	1	8	1.00	wheelwright	5	5.00
+239	RUT/020/rose	RUT/020	rose	Great Casterton	AP	Great Casterton	1813-1820	88	0.00	1	8	1.00	mason	6	6.00
+240	RUT/020/rose	RUT/020	rose	Great Casterton	AP	Great Casterton	1813-1820	88	0.00	1	8	1.00	butcher	4	4.00
+241	RUT/020/rose	RUT/020	rose	Great Casterton	AP	Great Casterton	1813-1820	88	0.00	1	8	1.00	woodman	3	3.00
+242	RUT/020/rose	RUT/020	rose	Great Casterton	AP	Great Casterton	1813-1820	88	0.00	1	8	1.00	northampton regiment of militia	1	1.00
+243	RUT/020/rose	RUT/020	rose	Great Casterton	AP	Great Casterton	1813-1820	88	0.00	1	8	1.00	blacksmith	5	5.00
+244	RUT/020/rose	RUT/020	rose	Great Casterton	AP	Great Casterton	1813-1820	88	0.00	1	8	1.00	farmer	9	9.00
+245	RUT/020/rose	RUT/020	rose	Great Casterton	AP	Great Casterton	1813-1820	88	0.00	1	8	1.00	carpenter	2	2.00
+246	RUT/020/rose	RUT/020	rose	Great Casterton	AP	Great Casterton	1813-1820	88	0.00	1	8	1.00	servant	1	1.00
+247	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	labourer	57	57.00
+248	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	servant	2	2.00
+249	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	illegitimate	10	10.00
+250	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	vicar	6	6.00
+251	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	saddler	3	3.00
+252	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	shepherd	1	1.00
+253	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	cottager	4	4.00
+254	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	baker	2	2.00
+255	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	innkeeper	3	3.00
+256	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	farmer	16	16.00
+257	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	carpenter	8	8.00
+258	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	shoemaker	7	7.00
+259	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	miller	4	4.00
+260	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	blacksmith	5	5.00
+261	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	tailor	2	2.00
+262	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	gardener	3	3.00
+263	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	toll keeper	1	1.00
+264	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	mason	3	3.00
+265	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	schoolmaster	2	2.00
+266	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	plasterer	1	1.00
+267	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	postboy	1	1.00
+268	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	publican	2	2.00
+269	RUT/021/rose	RUT/021	rose	Greetham	AP	Greetham	1813-1820	144	0.00	1	8	1.00	barber	1	1.00
+270	RUT/022/rose	RUT/022	rose	Hambleton	AP	Hambleton	1813-1820	70	0.00	1	8	1.00	baker	6	6.00
+271	RUT/022/rose	RUT/022	rose	Hambleton	AP	Hambleton	1813-1820	70	0.00	1	8	1.00	labourer	31	31.00
+272	RUT/022/rose	RUT/022	rose	Hambleton	AP	Hambleton	1813-1820	70	0.00	1	8	1.00	schoolmaster	1	1.00
+273	RUT/022/rose	RUT/022	rose	Hambleton	AP	Hambleton	1813-1820	70	0.00	1	8	1.00	farmer	9	9.00
+274	RUT/022/rose	RUT/022	rose	Hambleton	AP	Hambleton	1813-1820	70	0.00	1	8	1.00	carpenter	1	1.00
+275	RUT/022/rose	RUT/022	rose	Hambleton	AP	Hambleton	1813-1820	70	0.00	1	8	1.00	officer in the westmorland militia	1	1.00
+276	RUT/022/rose	RUT/022	rose	Hambleton	AP	Hambleton	1813-1820	70	0.00	1	8	1.00	shoemaker	3	3.00
+277	RUT/022/rose	RUT/022	rose	Hambleton	AP	Hambleton	1813-1820	70	0.00	1	8	1.00	grazier	5	5.00
+278	RUT/022/rose	RUT/022	rose	Hambleton	AP	Hambleton	1813-1820	70	0.00	1	8	1.00	shepherd	3	3.00
+279	RUT/022/rose	RUT/022	rose	Hambleton	AP	Hambleton	1813-1820	70	0.00	1	8	1.00	serving man	2	2.00
+280	RUT/022/rose	RUT/022	rose	Hambleton	AP	Hambleton	1813-1820	70	0.00	1	8	1.00	butcher	1	1.00
+281	RUT/022/rose	RUT/022	rose	Hambleton	AP	Hambleton	1813-1820	70	0.00	1	8	1.00	joiner	1	1.00
+282	RUT/022/rose	RUT/022	rose	Hambleton	AP	Hambleton	1813-1820	70	0.00	1	8	1.00	illegitimate	4	4.00
+283	RUT/022/rose	RUT/022	rose	Hambleton	AP	Hambleton	1813-1820	70	0.00	1	8	1.00	grocer	1	1.00
+284	RUT/022/rose	RUT/022	rose	Hambleton	AP	Hambleton	1813-1820	70	0.00	1	8	1.00	stone mason	1	1.00
+285	RUT/024/rose	RUT/024	rose	Ketton	AP	Ketton	1813-1820	174	0.00	1	8	1.00	mason	3	3.00
+286	RUT/024/rose	RUT/024	rose	Ketton	AP	Ketton	1813-1820	174	0.00	1	8	1.00	tailor	9	9.00
+287	RUT/024/rose	RUT/024	rose	Ketton	AP	Ketton	1813-1820	174	0.00	1	8	1.00	carpenter	4	4.00
+288	RUT/024/rose	RUT/024	rose	Ketton	AP	Ketton	1813-1820	174	0.00	1	8	1.00	labourer	115	115.00
+289	RUT/024/rose	RUT/024	rose	Ketton	AP	Ketton	1813-1820	174	0.00	1	8	1.00	servant	2	2.00
+290	RUT/024/rose	RUT/024	rose	Ketton	AP	Ketton	1813-1820	174	0.00	1	8	1.00	shopkeeper	3	3.00
+291	RUT/024/rose	RUT/024	rose	Ketton	AP	Ketton	1813-1820	174	0.00	1	8	1.00	illegitimate	6	6.00
+292	RUT/024/rose	RUT/024	rose	Ketton	AP	Ketton	1813-1820	174	0.00	1	8	1.00	farmer	4	4.00
+293	RUT/024/rose	RUT/024	rose	Ketton	AP	Ketton	1813-1820	174	0.00	1	8	1.00	stone mason	2	2.00
+294	RUT/024/rose	RUT/024	rose	Ketton	AP	Ketton	1813-1820	174	0.00	1	8	1.00	weaver	2	2.00
+295	RUT/024/rose	RUT/024	rose	Ketton	AP	Ketton	1813-1820	174	0.00	1	8	1.00	shepherd	2	2.00
+296	RUT/024/rose	RUT/024	rose	Ketton	AP	Ketton	1813-1820	174	0.00	1	8	1.00	gardener	2	2.00
+297	RUT/024/rose	RUT/024	rose	Ketton	AP	Ketton	1813-1820	174	0.00	1	8	1.00	basket maker	2	2.00
+298	RUT/024/rose	RUT/024	rose	Ketton	AP	Ketton	1813-1820	174	0.00	1	8	1.00	shoemaker	6	6.00
+299	RUT/024/rose	RUT/024	rose	Ketton	AP	Ketton	1813-1820	174	0.00	1	8	1.00	sailor	1	1.00
+300	RUT/024/rose	RUT/024	rose	Ketton	AP	Ketton	1813-1820	174	0.00	1	8	1.00	yeoman	5	5.00
+301	RUT/024/rose	RUT/024	rose	Ketton	AP	Ketton	1813-1820	174	0.00	1	8	1.00	captain in the artillery	1	1.00
+302	RUT/024/rose	RUT/024	rose	Ketton	AP	Ketton	1813-1820	174	0.00	1	8	1.00	tallow chandler	2	2.00
+303	RUT/024/rose	RUT/024	rose	Ketton	AP	Ketton	1813-1820	174	0.00	1	8	1.00	fellmonger	1	1.00
+304	RUT/024/rose	RUT/024	rose	Ketton	AP	Ketton	1813-1820	174	0.00	1	8	1.00	baker	2	2.00
+305	RUT/025/rose	RUT/025	rose	Langham	CH	Oakham	1813-1820	122	0.86	1	8	1.00	publican	2	2.00
+306	RUT/025/rose	RUT/025	rose	Langham	CH	Oakham	1813-1820	122	0.86	1	8	1.00	butcher	8	8.00
+307	RUT/025/rose	RUT/025	rose	Langham	CH	Oakham	1813-1820	122	0.86	1	8	1.00	grazier	23	23.00
+308	RUT/025/rose	RUT/025	rose	Langham	CH	Oakham	1813-1820	122	0.86	1	8	1.00	whitesmith	2	2.00
+309	RUT/025/rose	RUT/025	rose	Langham	CH	Oakham	1813-1820	122	0.86	1	8	1.00	carpenter	3	3.00
+310	RUT/025/rose	RUT/025	rose	Langham	CH	Oakham	1813-1820	122	0.86	1	8	1.00	baker	12	12.00
+311	RUT/025/rose	RUT/025	rose	Langham	CH	Oakham	1813-1820	122	0.86	1	8	1.00	labourer	45	45.00
+312	RUT/025/rose	RUT/025	rose	Langham	CH	Oakham	1813-1820	122	0.86	1	8	1.00	weaver	8	8.00
+313	RUT/025/rose	RUT/025	rose	Langham	CH	Oakham	1813-1820	122	0.86	1	8	1.00	cordwainer	2	2.00
+314	RUT/025/rose	RUT/025	rose	Langham	CH	Oakham	1813-1820	122	0.86	1	8	1.00	illegitimate	6	6.00
+315	RUT/025/rose	RUT/025	rose	Langham	CH	Oakham	1813-1820	122	0.86	1	8	1.00	shoemaker	1	1.00
+316	RUT/025/rose	RUT/025	rose	Langham	CH	Oakham	1813-1820	122	0.86	1	8	1.00	servant man	1	1.00
+317	RUT/025/rose	RUT/025	rose	Langham	CH	Oakham	1813-1820	122	0.86	1	8	1.00	victualler	1	1.00
+318	RUT/025/rose	RUT/025	rose	Langham	CH	Oakham	1813-1820	122	0.86	1	8	1.00	brick maker	1	1.00
+319	RUT/025/rose	RUT/025	rose	Langham	CH	Oakham	1813-1820	122	0.86	1	8	1.00	mason	1	1.00
+320	RUT/025/rose	RUT/025	rose	Langham	CH	Oakham	1813-1820	122	0.86	1	8	1.00	schoolmaster	1	1.00
+321	RUT/025/rose	RUT/025	rose	Langham	CH	Oakham	1813-1820	122	0.86	1	8	1.00	joiner	1	1.00
+322	RUT/025/rose	RUT/025	rose	Langham	CH	Oakham	1813-1820	122	0.86	1	8	1.00	innkeeper	1	1.00
+323	RUT/025/rose	RUT/025	rose	Langham	CH	Oakham	1813-1820	122	0.86	1	8	1.00	gardener	1	1.00
+324	RUT/025/rose	RUT/025	rose	Langham	CH	Oakham	1813-1820	122	0.86	1	8	1.00	no occupation specified	1	1.00
+325	RUT/025/rose	RUT/025	rose	Langham	CH	Oakham	1813-1820	122	0.86	1	8	1.00	clerk	1	1.00
+326	RUT/027/rose	RUT/027	rose	Little Casterton	AP	Little Casterton	1813-1820	32	0.00	1	8	1.00	farmer	6	6.00
+327	RUT/027/rose	RUT/027	rose	Little Casterton	AP	Little Casterton	1813-1820	32	0.00	1	8	1.00	miller	3	3.00
+328	RUT/027/rose	RUT/027	rose	Little Casterton	AP	Little Casterton	1813-1820	32	0.00	1	8	1.00	labourer	18	18.00
+329	RUT/027/rose	RUT/027	rose	Little Casterton	AP	Little Casterton	1813-1820	32	0.00	1	8	1.00	esquire	3	3.00
+330	RUT/027/rose	RUT/027	rose	Little Casterton	AP	Little Casterton	1813-1820	32	0.00	1	8	1.00	illegitimate	1	1.00
+331	RUT/027/rose	RUT/027	rose	Little Casterton	AP	Little Casterton	1813-1820	32	0.00	1	8	1.00	clerk	1	1.00
+332	RUT/028/rose	RUT/028	rose	Lyddington	AP	Lyddington	1813-1820	111	0.91	1	8	1.00	farmer	10	10.00
+333	RUT/028/rose	RUT/028	rose	Lyddington	AP	Lyddington	1813-1820	111	0.91	1	8	1.00	labourer	44	44.00
+334	RUT/028/rose	RUT/028	rose	Lyddington	AP	Lyddington	1813-1820	111	0.91	1	8	1.00	no occupation specified	1	1.00
+335	RUT/028/rose	RUT/028	rose	Lyddington	AP	Lyddington	1813-1820	111	0.91	1	8	1.00	cordwainer	1	1.00
+336	RUT/028/rose	RUT/028	rose	Lyddington	AP	Lyddington	1813-1820	111	0.91	1	8	1.00	jobber	1	1.00
+337	RUT/028/rose	RUT/028	rose	Lyddington	AP	Lyddington	1813-1820	111	0.91	1	8	1.00	shoemaker	4	4.00
+338	RUT/028/rose	RUT/028	rose	Lyddington	AP	Lyddington	1813-1820	111	0.91	1	8	1.00	butcher	2	2.00
+339	RUT/028/rose	RUT/028	rose	Lyddington	AP	Lyddington	1813-1820	111	0.91	1	8	1.00	blacksmith	4	4.00
+340	RUT/028/rose	RUT/028	rose	Lyddington	AP	Lyddington	1813-1820	111	0.91	1	8	1.00	tanner	3	3.00
+341	RUT/028/rose	RUT/028	rose	Lyddington	AP	Lyddington	1813-1820	111	0.91	1	8	1.00	cottager	10	10.00
+342	RUT/028/rose	RUT/028	rose	Lyddington	AP	Lyddington	1813-1820	111	0.91	1	8	1.00	grazier	11	11.00
+343	RUT/028/rose	RUT/028	rose	Lyddington	AP	Lyddington	1813-1820	111	0.91	1	8	1.00	mason	6	6.00
+344	RUT/028/rose	RUT/028	rose	Lyddington	AP	Lyddington	1813-1820	111	0.91	1	8	1.00	baker	3	3.00
+345	RUT/028/rose	RUT/028	rose	Lyddington	AP	Lyddington	1813-1820	111	0.91	1	8	1.00	illegitimate	1	1.00
+346	RUT/028/rose	RUT/028	rose	Lyddington	AP	Lyddington	1813-1820	111	0.91	1	8	1.00	carpenter	4	4.00
+347	RUT/028/rose	RUT/028	rose	Lyddington	AP	Lyddington	1813-1820	111	0.91	1	8	1.00	tailor	2	2.00
+348	RUT/028/rose	RUT/028	rose	Lyddington	AP	Lyddington	1813-1820	111	0.91	1	8	1.00	currier	1	1.00
+349	RUT/028/rose	RUT/028	rose	Lyddington	AP	Lyddington	1813-1820	111	0.91	1	8	1.00	wheelwright	1	1.00
+350	RUT/028/rose	RUT/028	rose	Lyddington	AP	Lyddington	1813-1820	111	0.91	1	8	1.00	watchmaker	1	1.00
+351	RUT/028/rose	RUT/028	rose	Lyddington	AP	Lyddington	1813-1820	111	0.91	1	8	1.00	turnpike warden	1	1.00
+352	RUT/029/rose	RUT/029	rose	Lyndon	AP	Lyndon	1813-1820	16	0.00	1	8	1.00	labourer	12	12.00
+353	RUT/029/rose	RUT/029	rose	Lyndon	AP	Lyndon	1813-1820	16	0.00	1	8	1.00	farmer	1	1.00
+354	RUT/029/rose	RUT/029	rose	Lyndon	AP	Lyndon	1813-1820	16	0.00	1	8	1.00	servant	1	1.00
+355	RUT/029/rose	RUT/029	rose	Lyndon	AP	Lyndon	1813-1820	16	0.00	1	8	1.00	illegitimate	1	1.00
+356	RUT/029/rose	RUT/029	rose	Lyndon	AP	Lyndon	1813-1820	16	0.00	1	8	1.00	grazier	1	1.00
+357	RUT/030/rose	RUT/030	rose	Manton	AP	Manton	1813-1820	46	0.00	1	8	1.00	labourer	28	28.00
+358	RUT/030/rose	RUT/030	rose	Manton	AP	Manton	1813-1820	46	0.00	1	8	1.00	tailor	1	1.00
+359	RUT/030/rose	RUT/030	rose	Manton	AP	Manton	1813-1820	46	0.00	1	8	1.00	cordwainer	5	5.00
+360	RUT/030/rose	RUT/030	rose	Manton	AP	Manton	1813-1820	46	0.00	1	8	1.00	schoolmaster	1	1.00
+361	RUT/030/rose	RUT/030	rose	Manton	AP	Manton	1813-1820	46	0.00	1	8	1.00	farmer	8	8.00
+362	RUT/030/rose	RUT/030	rose	Manton	AP	Manton	1813-1820	46	0.00	1	8	1.00	carpenter	3	3.00
+363	RUT/031/rose	RUT/031	rose	Market Overton	AP	Market Overton	1813-1820	111	0.00	1	8	1.00	labourer	38	38.00
+364	RUT/031/rose	RUT/031	rose	Market Overton	AP	Market Overton	1813-1820	111	0.00	1	8	1.00	illegitimate	9	9.00
+365	RUT/031/rose	RUT/031	rose	Market Overton	AP	Market Overton	1813-1820	111	0.00	1	8	1.00	servant	3	3.00
+366	RUT/031/rose	RUT/031	rose	Market Overton	AP	Market Overton	1813-1820	111	0.00	1	8	1.00	farmer	11	11.00
+367	RUT/031/rose	RUT/031	rose	Market Overton	AP	Market Overton	1813-1820	111	0.00	1	8	1.00	shoemaker	7	7.00
+368	RUT/031/rose	RUT/031	rose	Market Overton	AP	Market Overton	1813-1820	111	0.00	1	8	1.00	fellmonger	1	1.00
+369	RUT/031/rose	RUT/031	rose	Market Overton	AP	Market Overton	1813-1820	111	0.00	1	8	1.00	tailor	8	8.00
+370	RUT/031/rose	RUT/031	rose	Market Overton	AP	Market Overton	1813-1820	111	0.00	1	8	1.00	chimney sweep	1	1.00
+371	RUT/031/rose	RUT/031	rose	Market Overton	AP	Market Overton	1813-1820	111	0.00	1	8	1.00	miller	3	3.00
+372	RUT/031/rose	RUT/031	rose	Market Overton	AP	Market Overton	1813-1820	111	0.00	1	8	1.00	whitesmith	1	1.00
+373	RUT/031/rose	RUT/031	rose	Market Overton	AP	Market Overton	1813-1820	111	0.00	1	8	1.00	mason	6	6.00
+374	RUT/031/rose	RUT/031	rose	Market Overton	AP	Market Overton	1813-1820	111	0.00	1	8	1.00	carpenter	2	2.00
+375	RUT/031/rose	RUT/031	rose	Market Overton	AP	Market Overton	1813-1820	111	0.00	1	8	1.00	butcher	11	11.00
+376	RUT/031/rose	RUT/031	rose	Market Overton	AP	Market Overton	1813-1820	111	0.00	1	8	1.00	blacksmith	7	7.00
+377	RUT/031/rose	RUT/031	rose	Market Overton	AP	Market Overton	1813-1820	111	0.00	1	8	1.00	gardener	1	1.00
+378	RUT/031/rose	RUT/031	rose	Market Overton	AP	Market Overton	1813-1820	111	0.00	1	8	1.00	corn factor	2	2.00
+379	RUT/033/rose	RUT/033	rose	Morcott	AP	Morcott	1813-1820	95	0.00	1	8	1.00	labourer	49	49.00
+380	RUT/033/rose	RUT/033	rose	Morcott	AP	Morcott	1813-1820	95	0.00	1	8	1.00	carpenter	4	4.00
+381	RUT/033/rose	RUT/033	rose	Morcott	AP	Morcott	1813-1820	95	0.00	1	8	1.00	cottager	1	1.00
+382	RUT/033/rose	RUT/033	rose	Morcott	AP	Morcott	1813-1820	95	0.00	1	8	1.00	farmer	8	8.00
+383	RUT/033/rose	RUT/033	rose	Morcott	AP	Morcott	1813-1820	95	0.00	1	8	1.00	illegitimate	8	8.00
+384	RUT/033/rose	RUT/033	rose	Morcott	AP	Morcott	1813-1820	95	0.00	1	8	1.00	basket maker	1	1.00
+385	RUT/033/rose	RUT/033	rose	Morcott	AP	Morcott	1813-1820	95	0.00	1	8	1.00	soldier	1	1.00
+386	RUT/033/rose	RUT/033	rose	Morcott	AP	Morcott	1813-1820	95	0.00	1	8	1.00	mason	3	3.00
+387	RUT/033/rose	RUT/033	rose	Morcott	AP	Morcott	1813-1820	95	0.00	1	8	1.00	shoemaker	3	3.00
+388	RUT/033/rose	RUT/033	rose	Morcott	AP	Morcott	1813-1820	95	0.00	1	8	1.00	yeoman	1	1.00
+389	RUT/033/rose	RUT/033	rose	Morcott	AP	Morcott	1813-1820	95	0.00	1	8	1.00	slater	1	1.00
+390	RUT/033/rose	RUT/033	rose	Morcott	AP	Morcott	1813-1820	95	0.00	1	8	1.00	tailor	3	3.00
+391	RUT/033/rose	RUT/033	rose	Morcott	AP	Morcott	1813-1820	95	0.00	1	8	1.00	shepherd	2	2.00
+392	RUT/033/rose	RUT/033	rose	Morcott	AP	Morcott	1813-1820	95	0.00	1	8	1.00	shopkeeper	1	1.00
+393	RUT/033/rose	RUT/033	rose	Morcott	AP	Morcott	1813-1820	95	0.00	1	8	1.00	blacksmith	3	3.00
+394	RUT/033/rose	RUT/033	rose	Morcott	AP	Morcott	1813-1820	95	0.00	1	8	1.00	publican	3	3.00
+395	RUT/033/rose	RUT/033	rose	Morcott	AP	Morcott	1813-1820	95	0.00	1	8	1.00	reverend	1	1.00
+396	RUT/033/rose	RUT/033	rose	Morcott	AP	Morcott	1813-1820	95	0.00	1	8	1.00	sawyer	1	1.00
+397	RUT/033/rose	RUT/033	rose	Morcott	AP	Morcott	1813-1820	95	0.00	1	8	1.00	butcher	1	1.00
+398	RUT/034/rose	RUT/034	rose	Normanton	AP	Normanton	1813-1820	4	0.00	1	8	1.00	wheelwright	4	4.00
+399	RUT/035/rose	RUT/035	rose	North Luffenham	AP	North Luffenham	1813-1820	101	0.00	1	8	1.00	tailor	4	4.00
+400	RUT/035/rose	RUT/035	rose	North Luffenham	AP	North Luffenham	1813-1820	101	0.00	1	8	1.00	labourer	61	61.00
+401	RUT/035/rose	RUT/035	rose	North Luffenham	AP	North Luffenham	1813-1820	101	0.00	1	8	1.00	schoolmaster and parish clerk	1	1.00
+402	RUT/035/rose	RUT/035	rose	North Luffenham	AP	North Luffenham	1813-1820	101	0.00	1	8	1.00	mason	4	4.00
+403	RUT/035/rose	RUT/035	rose	North Luffenham	AP	North Luffenham	1813-1820	101	0.00	1	8	1.00	farmer	3	3.00
+404	RUT/035/rose	RUT/035	rose	North Luffenham	AP	North Luffenham	1813-1820	101	0.00	1	8	1.00	shepherd	5	5.00
+405	RUT/035/rose	RUT/035	rose	North Luffenham	AP	North Luffenham	1813-1820	101	0.00	1	8	1.00	carpenter	2	2.00
+406	RUT/035/rose	RUT/035	rose	North Luffenham	AP	North Luffenham	1813-1820	101	0.00	1	8	1.00	illegitimate	2	2.00
+407	RUT/035/rose	RUT/035	rose	North Luffenham	AP	North Luffenham	1813-1820	101	0.00	1	8	1.00	parish clerk and schoolmaster	2	2.00
+408	RUT/035/rose	RUT/035	rose	North Luffenham	AP	North Luffenham	1813-1820	101	0.00	1	8	1.00	shoemaker	7	7.00
+409	RUT/035/rose	RUT/035	rose	North Luffenham	AP	North Luffenham	1813-1820	101	0.00	1	8	1.00	stone mason	5	5.00
+410	RUT/035/rose	RUT/035	rose	North Luffenham	AP	North Luffenham	1813-1820	101	0.00	1	8	1.00	labourer and shoemaker	1	1.00
+411	RUT/035/rose	RUT/035	rose	North Luffenham	AP	North Luffenham	1813-1820	101	0.00	1	8	1.00	malting labourer	1	1.00
+412	RUT/035/rose	RUT/035	rose	North Luffenham	AP	North Luffenham	1813-1820	101	0.00	1	8	1.00	schoolmaster	2	2.00
+413	RUT/035/rose	RUT/035	rose	North Luffenham	AP	North Luffenham	1813-1820	101	0.00	1	8	1.00	groom	1	1.00
+414	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	servant	6	6.00
+415	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	labourer	124	124.00
+416	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	grocer	7	7.00
+417	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	baker	3	3.00
+418	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	shoemaker	11	11.00
+419	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	illegitimate	17	17.00
+420	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	horse dealer	2	2.00
+421	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	sergeant major local militia	2	2.00
+422	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	farmer	6	6.00
+423	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	carpenter	27	27.00
+424	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	grazier	17	17.00
+425	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	tailor	6	6.00
+426	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	thatcher	2	2.00
+427	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	wool comber	1	1.00
+428	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	horse breaker	1	1.00
+429	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	clerk to the commissioner of taxes	5	5.00
+430	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	slater	2	2.00
+431	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	mason	7	7.00
+432	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	gardener	4	4.00
+433	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	draper	2	2.00
+434	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	writing clerk	1	1.00
+435	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	blacksmith	8	8.00
+436	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	butcher	9	9.00
+437	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	currier	1	1.00
+438	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	glazier	6	6.00
+439	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	journeyman draper	1	1.00
+440	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	ostler at the crown inn	1	1.00
+441	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	publican and parish clerk	1	1.00
+442	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	chimney sweeper	2	2.00
+443	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	saddler	2	2.00
+444	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	ostler	4	4.00
+445	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	coal merchant	5	5.00
+446	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	gardener's assistant	1	1.00
+447	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	soldier in the rutland militia	3	3.00
+448	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	rush thatcher	1	1.00
+449	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	cook	1	1.00
+450	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	toyman	1	1.00
+451	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	surgeon	5	5.00
+452	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	shepherd	4	4.00
+453	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	vintner	1	1.00
+454	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	no occupation specified	6	6.00
+455	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	druggist	2	2.00
+456	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	tailor and parish clerk	1	1.00
+457	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	soldier	2	2.00
+458	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	breeches maker	3	3.00
+459	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	basket maker	3	3.00
+460	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	attorney	1	1.00
+461	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	linen dresser	4	4.00
+462	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	tradesman	2	2.00
+463	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	schoolmaster	1	1.00
+464	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	physician	3	3.00
+465	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	brush maker	1	1.00
+466	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	postboy	2	2.00
+467	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	chair maker	2	2.00
+468	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	gentleman	1	1.00
+469	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	parish clerk	1	1.00
+470	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	manservant	2	2.00
+471	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	clergyman	1	1.00
+472	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	master of the grammar school	1	1.00
+473	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	collar maker	2	2.00
+474	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	coal porter	1	1.00
+475	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	sawyer	1	1.00
+476	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	traveller	1	1.00
+477	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	liquor merchant	1	1.00
+478	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	flax dresser	1	1.00
+479	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	dealer	1	1.00
+480	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	plasterer	1	1.00
+481	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	in the poor house	1	1.00
+482	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	rope maker	1	1.00
+483	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	brazier	1	1.00
+484	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	master chimney sweeper	1	1.00
+485	RUT/036/rose	RUT/036	rose	Oakham	AP	Oakham	1813-1820	363	1.73	1	8	1.00	maltster	1	1.00
+486	RUT/037/rose	RUT/037	rose	Pickworth	AP	Pickworth	1814-1821	40	0.00	1	8	1.00	labourer	26	26.00
+487	RUT/037/rose	RUT/037	rose	Pickworth	AP	Pickworth	1814-1821	40	0.00	1	8	1.00	illegitimate	5	5.00
+488	RUT/037/rose	RUT/037	rose	Pickworth	AP	Pickworth	1814-1821	40	0.00	1	8	1.00	farmer	9	9.00
+489	RUT/038/rose	RUT/038	rose	Pilton	AP	Pilton	1813-1820	13	0.00	1	8	1.00	labourer	7	7.00
+490	RUT/038/rose	RUT/038	rose	Pilton	AP	Pilton	1813-1820	13	0.00	1	8	1.00	farmer	5	5.00
+491	RUT/038/rose	RUT/038	rose	Pilton	AP	Pilton	1813-1820	13	0.00	1	8	1.00	illegitimate	1	1.00
+492	RUT/039/rose	RUT/039	rose	Preston	AP	Preston	1813-1820	50	0.00	1	8	1.00	labourer	27	27.00
+493	RUT/039/rose	RUT/039	rose	Preston	AP	Preston	1813-1820	50	0.00	1	8	1.00	illegitimate	3	3.00
+494	RUT/039/rose	RUT/039	rose	Preston	AP	Preston	1813-1820	50	0.00	1	8	1.00	baker	3	3.00
+495	RUT/039/rose	RUT/039	rose	Preston	AP	Preston	1813-1820	50	0.00	1	8	1.00	shepherd	2	2.00
+496	RUT/039/rose	RUT/039	rose	Preston	AP	Preston	1813-1820	50	0.00	1	8	1.00	cottager	1	1.00
+497	RUT/039/rose	RUT/039	rose	Preston	AP	Preston	1813-1820	50	0.00	1	8	1.00	maltster	1	1.00
+498	RUT/039/rose	RUT/039	rose	Preston	AP	Preston	1813-1820	50	0.00	1	8	1.00	farmer	1	1.00
+499	RUT/039/rose	RUT/039	rose	Preston	AP	Preston	1813-1820	50	0.00	1	8	1.00	shoemaker	2	2.00
+500	RUT/039/rose	RUT/039	rose	Preston	AP	Preston	1813-1820	50	0.00	1	8	1.00	miller	2	2.00
+501	RUT/039/rose	RUT/039	rose	Preston	AP	Preston	1813-1820	50	0.00	1	8	1.00	servant	1	1.00
+502	RUT/039/rose	RUT/039	rose	Preston	AP	Preston	1813-1820	50	0.00	1	8	1.00	excise officer	2	2.00
+503	RUT/039/rose	RUT/039	rose	Preston	AP	Preston	1813-1820	50	0.00	1	8	1.00	butcher	1	1.00
+504	RUT/039/rose	RUT/039	rose	Preston	AP	Preston	1813-1820	50	0.00	1	8	1.00	fishmonger	1	1.00
+505	RUT/039/rose	RUT/039	rose	Preston	AP	Preston	1813-1820	50	0.00	1	8	1.00	coachman	1	1.00
+506	RUT/039/rose	RUT/039	rose	Preston	AP	Preston	1813-1820	50	0.00	1	8	1.00	machine builder	1	1.00
+507	RUT/039/rose	RUT/039	rose	Preston	AP	Preston	1813-1820	50	0.00	1	8	1.00	helper in stables	1	1.00
+508	RUT/040/rose	RUT/040	rose	Ridlington	AP	Ridlington	1813-1820	56	0.00	1	8	1.00	grazier	4	4.00
+509	RUT/040/rose	RUT/040	rose	Ridlington	AP	Ridlington	1813-1820	56	0.00	1	8	1.00	labourer	24	24.00
+510	RUT/040/rose	RUT/040	rose	Ridlington	AP	Ridlington	1813-1820	56	0.00	1	8	1.00	shoemaker	4	4.00
+511	RUT/040/rose	RUT/040	rose	Ridlington	AP	Ridlington	1813-1820	56	0.00	1	8	1.00	rector	3	3.00
+512	RUT/040/rose	RUT/040	rose	Ridlington	AP	Ridlington	1813-1820	56	0.00	1	8	1.00	cottager	5	5.00
+513	RUT/040/rose	RUT/040	rose	Ridlington	AP	Ridlington	1813-1820	56	0.00	1	8	1.00	illegitimate	1	1.00
+514	RUT/040/rose	RUT/040	rose	Ridlington	AP	Ridlington	1813-1820	56	0.00	1	8	1.00	mason	4	4.00
+515	RUT/040/rose	RUT/040	rose	Ridlington	AP	Ridlington	1813-1820	56	0.00	1	8	1.00	army captain	1	1.00
+516	RUT/040/rose	RUT/040	rose	Ridlington	AP	Ridlington	1813-1820	56	0.00	1	8	1.00	pauper	2	2.00
+517	RUT/040/rose	RUT/040	rose	Ridlington	AP	Ridlington	1813-1820	56	0.00	1	8	1.00	farmer	5	5.00
+518	RUT/040/rose	RUT/040	rose	Ridlington	AP	Ridlington	1813-1820	56	0.00	1	8	1.00	carpenter	1	1.00
+519	RUT/040/rose	RUT/040	rose	Ridlington	AP	Ridlington	1813-1820	56	0.00	1	8	1.00	publican	1	1.00
+520	RUT/040/rose	RUT/040	rose	Ridlington	AP	Ridlington	1813-1820	56	0.00	1	8	1.00	servant	1	1.00
+521	RUT/041/rose	RUT/041	rose	Ryhall	AP	Ryhall	1813-1820	161	0.00	1	8	1.00	farmer	21	21.00
+522	RUT/041/rose	RUT/041	rose	Ryhall	AP	Ryhall	1813-1820	161	0.00	1	8	1.00	labourer	90	90.00
+523	RUT/041/rose	RUT/041	rose	Ryhall	AP	Ryhall	1813-1820	161	0.00	1	8	1.00	carpenter	9	9.00
+524	RUT/041/rose	RUT/041	rose	Ryhall	AP	Ryhall	1813-1820	161	0.00	1	8	1.00	toll bar keeper	3	3.00
+525	RUT/041/rose	RUT/041	rose	Ryhall	AP	Ryhall	1813-1820	161	0.00	1	8	1.00	blacksmith	6	6.00
+526	RUT/041/rose	RUT/041	rose	Ryhall	AP	Ryhall	1813-1820	161	0.00	1	8	1.00	shepherd	1	1.00
+527	RUT/041/rose	RUT/041	rose	Ryhall	AP	Ryhall	1813-1820	161	0.00	1	8	1.00	illegitimate	5	5.00
+528	RUT/041/rose	RUT/041	rose	Ryhall	AP	Ryhall	1813-1820	161	0.00	1	8	1.00	shoemaker	3	3.00
+529	RUT/041/rose	RUT/041	rose	Ryhall	AP	Ryhall	1813-1820	161	0.00	1	8	1.00	gardener	1	1.00
+530	RUT/041/rose	RUT/041	rose	Ryhall	AP	Ryhall	1813-1820	161	0.00	1	8	1.00	baker	3	3.00
+531	RUT/041/rose	RUT/041	rose	Ryhall	AP	Ryhall	1813-1820	161	0.00	1	8	1.00	miller	1	1.00
+532	RUT/041/rose	RUT/041	rose	Ryhall	AP	Ryhall	1813-1820	161	0.00	1	8	1.00	mason	6	6.00
+533	RUT/041/rose	RUT/041	rose	Ryhall	AP	Ryhall	1813-1820	161	0.00	1	8	1.00	servant	3	3.00
+534	RUT/041/rose	RUT/041	rose	Ryhall	AP	Ryhall	1813-1820	161	0.00	1	8	1.00	yeoman	3	3.00
+535	RUT/041/rose	RUT/041	rose	Ryhall	AP	Ryhall	1813-1820	161	0.00	1	8	1.00	tailor	3	3.00
+536	RUT/041/rose	RUT/041	rose	Ryhall	AP	Ryhall	1813-1820	161	0.00	1	8	1.00	shopkeeper	1	1.00
+537	RUT/041/rose	RUT/041	rose	Ryhall	AP	Ryhall	1813-1820	161	0.00	1	8	1.00	auctioneer	1	1.00
+538	RUT/041/rose	RUT/041	rose	Ryhall	AP	Ryhall	1813-1820	161	0.00	1	8	1.00	stocking weaver	1	1.00
+539	RUT/042/rose	RUT/042	rose	Seaton	AP	Seaton	1813-1820	91	0.00	1	8	1.00	farmer	17	17.00
+540	RUT/042/rose	RUT/042	rose	Seaton	AP	Seaton	1813-1820	91	0.00	1	8	1.00	labourer	60	60.00
+541	RUT/042/rose	RUT/042	rose	Seaton	AP	Seaton	1813-1820	91	0.00	1	8	1.00	cordwainer	1	1.00
+542	RUT/042/rose	RUT/042	rose	Seaton	AP	Seaton	1813-1820	91	0.00	1	8	1.00	shepherd	1	1.00
+543	RUT/042/rose	RUT/042	rose	Seaton	AP	Seaton	1813-1820	91	0.00	1	8	1.00	baker	2	2.00
+544	RUT/042/rose	RUT/042	rose	Seaton	AP	Seaton	1813-1820	91	0.00	1	8	1.00	illegitimate	3	3.00
+545	RUT/042/rose	RUT/042	rose	Seaton	AP	Seaton	1813-1820	91	0.00	1	8	1.00	miller	2	2.00
+546	RUT/042/rose	RUT/042	rose	Seaton	AP	Seaton	1813-1820	91	0.00	1	8	1.00	slater	2	2.00
+547	RUT/042/rose	RUT/042	rose	Seaton	AP	Seaton	1813-1820	91	0.00	1	8	1.00	shoemaker	1	1.00
+548	RUT/042/rose	RUT/042	rose	Seaton	AP	Seaton	1813-1820	91	0.00	1	8	1.00	carpenter	1	1.00
+549	RUT/042/rose	RUT/042	rose	Seaton	AP	Seaton	1813-1820	91	0.00	1	8	1.00	schoolmaster	1	1.00
+550	RUT/043/rose	RUT/043	rose	South Luffenham	AP	South Luffenham	1813-1820	61	0.00	1	8	1.00	fellmonger	3	3.00
+551	RUT/043/rose	RUT/043	rose	South Luffenham	AP	South Luffenham	1813-1820	61	0.00	1	8	1.00	labourer	43	43.00
+552	RUT/043/rose	RUT/043	rose	South Luffenham	AP	South Luffenham	1813-1820	61	0.00	1	8	1.00	miller	2	2.00
+553	RUT/043/rose	RUT/043	rose	South Luffenham	AP	South Luffenham	1813-1820	61	0.00	1	8	1.00	cordwainer	3	3.00
+554	RUT/043/rose	RUT/043	rose	South Luffenham	AP	South Luffenham	1813-1820	61	0.00	1	8	1.00	wheelwright	2	2.00
+555	RUT/043/rose	RUT/043	rose	South Luffenham	AP	South Luffenham	1813-1820	61	0.00	1	8	1.00	farmer	3	3.00
+556	RUT/043/rose	RUT/043	rose	South Luffenham	AP	South Luffenham	1813-1820	61	0.00	1	8	1.00	illegitimate	2	2.00
+557	RUT/043/rose	RUT/043	rose	South Luffenham	AP	South Luffenham	1813-1820	61	0.00	1	8	1.00	esquire	1	1.00
+558	RUT/043/rose	RUT/043	rose	South Luffenham	AP	South Luffenham	1813-1820	61	0.00	1	8	1.00	gipsy	1	1.00
+559	RUT/043/rose	RUT/043	rose	South Luffenham	AP	South Luffenham	1813-1820	61	0.00	1	8	1.00	servant	1	1.00
+560	RUT/044/rose	RUT/044	rose	Stoke Dry	AP	Stoke Dry	1813-1820	19	0.00	1	8	1.00	labourer	12	12.00
+561	RUT/044/rose	RUT/044	rose	Stoke Dry	AP	Stoke Dry	1813-1820	19	0.00	1	8	1.00	shepherd	4	4.00
+562	RUT/044/rose	RUT/044	rose	Stoke Dry	AP	Stoke Dry	1813-1820	19	0.00	1	8	1.00	illegitimate	1	1.00
+563	RUT/044/rose	RUT/044	rose	Stoke Dry	AP	Stoke Dry	1813-1820	19	0.00	1	8	1.00	grazier	1	1.00
+564	RUT/044/rose	RUT/044	rose	Stoke Dry	AP	Stoke Dry	1813-1820	19	0.00	1	8	1.00	farmer	1	1.00
+565	RUT/045/rose	RUT/045	rose	Stretton	AP	Stretton	1813-1820	37	0.00	1	8	1.00	carpenter	1	1.00
+566	RUT/045/rose	RUT/045	rose	Stretton	AP	Stretton	1813-1820	37	0.00	1	8	1.00	labourer	22	22.00
+567	RUT/045/rose	RUT/045	rose	Stretton	AP	Stretton	1813-1820	37	0.00	1	8	1.00	servant	4	4.00
+568	RUT/045/rose	RUT/045	rose	Stretton	AP	Stretton	1813-1820	37	0.00	1	8	1.00	farmer	4	4.00
+569	RUT/045/rose	RUT/045	rose	Stretton	AP	Stretton	1813-1820	37	0.00	1	8	1.00	illegitimate	2	2.00
+570	RUT/045/rose	RUT/045	rose	Stretton	AP	Stretton	1813-1820	37	0.00	1	8	1.00	shoemaker	1	1.00
+571	RUT/045/rose	RUT/045	rose	Stretton	AP	Stretton	1813-1820	37	0.00	1	8	1.00	baker	1	1.00
+572	RUT/045/rose	RUT/045	rose	Stretton	AP	Stretton	1813-1820	37	0.00	1	8	1.00	blacksmith	1	1.00
+573	RUT/045/rose	RUT/045	rose	Stretton	AP	Stretton	1813-1820	37	0.00	1	8	1.00	stone mason	1	1.00
+574	RUT/046/rose	RUT/046	rose	Teigh	AP	Teigh	1813-1820	33	0.00	1	8	1.00	carpenter	3	3.00
+575	RUT/046/rose	RUT/046	rose	Teigh	AP	Teigh	1813-1820	33	0.00	1	8	1.00	labourer	11	11.00
+576	RUT/046/rose	RUT/046	rose	Teigh	AP	Teigh	1813-1820	33	0.00	1	8	1.00	farmer	5	5.00
+577	RUT/046/rose	RUT/046	rose	Teigh	AP	Teigh	1813-1820	33	0.00	1	8	1.00	butcher	3	3.00
+578	RUT/046/rose	RUT/046	rose	Teigh	AP	Teigh	1813-1820	33	0.00	1	8	1.00	grazier	4	4.00
+579	RUT/046/rose	RUT/046	rose	Teigh	AP	Teigh	1813-1820	33	0.00	1	8	1.00	chair mender	1	1.00
+580	RUT/046/rose	RUT/046	rose	Teigh	AP	Teigh	1813-1820	33	0.00	1	8	1.00	cottager	4	4.00
+581	RUT/046/rose	RUT/046	rose	Teigh	AP	Teigh	1813-1820	33	0.00	1	8	1.00	illegitimate	1	1.00
+582	RUT/046/rose	RUT/046	rose	Teigh	AP	Teigh	1813-1820	33	0.00	1	8	1.00	sawyer	1	1.00
+583	RUT/047/rose	RUT/047	rose	Thistleton	AP	Thistleton	1813-1820	40	0.00	1	8	1.00	cottager	1	1.00
+584	RUT/047/rose	RUT/047	rose	Thistleton	AP	Thistleton	1813-1820	40	0.00	1	8	1.00	tailor	8	8.00
+585	RUT/047/rose	RUT/047	rose	Thistleton	AP	Thistleton	1813-1820	40	0.00	1	8	1.00	labourer	19	19.00
+586	RUT/047/rose	RUT/047	rose	Thistleton	AP	Thistleton	1813-1820	40	0.00	1	8	1.00	schoolmaster	1	1.00
+587	RUT/047/rose	RUT/047	rose	Thistleton	AP	Thistleton	1813-1820	40	0.00	1	8	1.00	illegitimate	4	4.00
+588	RUT/047/rose	RUT/047	rose	Thistleton	AP	Thistleton	1813-1820	40	0.00	1	8	1.00	farmer	7	7.00
+589	RUT/048/rose	RUT/048	rose	Tickencote	AP	Tickencote	1813-1820	35	0.00	1	8	1.00	shepherd	1	1.00
+590	RUT/048/rose	RUT/048	rose	Tickencote	AP	Tickencote	1813-1820	35	0.00	1	8	1.00	publican	1	1.00
+591	RUT/048/rose	RUT/048	rose	Tickencote	AP	Tickencote	1813-1820	35	0.00	1	8	1.00	labourer	20	20.00
+592	RUT/048/rose	RUT/048	rose	Tickencote	AP	Tickencote	1813-1820	35	0.00	1	8	1.00	miller	4	4.00
+593	RUT/048/rose	RUT/048	rose	Tickencote	AP	Tickencote	1813-1820	35	0.00	1	8	1.00	gardener	1	1.00
+594	RUT/048/rose	RUT/048	rose	Tickencote	AP	Tickencote	1813-1820	35	0.00	1	8	1.00	farmer	4	4.00
+595	RUT/048/rose	RUT/048	rose	Tickencote	AP	Tickencote	1813-1820	35	0.00	1	8	1.00	butcher	1	1.00
+596	RUT/048/rose	RUT/048	rose	Tickencote	AP	Tickencote	1813-1820	35	0.00	1	8	1.00	servant	2	2.00
+597	RUT/048/rose	RUT/048	rose	Tickencote	AP	Tickencote	1813-1820	35	0.00	1	8	1.00	illegitimate	1	1.00
+598	RUT/049/rose	RUT/049	rose	Tinwell	AP	Tinwell	1813-1820	58	0.00	1	8	1.00	labourer	35	35.00
+599	RUT/049/rose	RUT/049	rose	Tinwell	AP	Tinwell	1813-1820	58	0.00	1	8	1.00	servant	3	3.00
+600	RUT/049/rose	RUT/049	rose	Tinwell	AP	Tinwell	1813-1820	58	0.00	1	8	1.00	gardener	3	3.00
+601	RUT/049/rose	RUT/049	rose	Tinwell	AP	Tinwell	1813-1820	58	0.00	1	8	1.00	illegitimate	2	2.00
+602	RUT/049/rose	RUT/049	rose	Tinwell	AP	Tinwell	1813-1820	58	0.00	1	8	1.00	mason	3	3.00
+603	RUT/049/rose	RUT/049	rose	Tinwell	AP	Tinwell	1813-1820	58	0.00	1	8	1.00	farmer	2	2.00
+604	RUT/049/rose	RUT/049	rose	Tinwell	AP	Tinwell	1813-1820	58	0.00	1	8	1.00	soldier	3	3.00
+605	RUT/049/rose	RUT/049	rose	Tinwell	AP	Tinwell	1813-1820	58	0.00	1	8	1.00	miller	2	2.00
+606	RUT/049/rose	RUT/049	rose	Tinwell	AP	Tinwell	1813-1820	58	0.00	1	8	1.00	gentleman	1	1.00
+607	RUT/049/rose	RUT/049	rose	Tinwell	AP	Tinwell	1813-1820	58	0.00	1	8	1.00	slater	1	1.00
+608	RUT/049/rose	RUT/049	rose	Tinwell	AP	Tinwell	1813-1820	58	0.00	1	8	1.00	carpenter	3	3.00
+609	RUT/050/rose	RUT/050	rose	Tixover	CH	Ketton	1813-1820	24	0.00	1	8	1.00	labourer	12	12.00
+610	RUT/050/rose	RUT/050	rose	Tixover	CH	Ketton	1813-1820	24	0.00	1	8	1.00	gentleman	4	4.00
+611	RUT/050/rose	RUT/050	rose	Tixover	CH	Ketton	1813-1820	24	0.00	1	8	1.00	butler	4	4.00
+612	RUT/050/rose	RUT/050	rose	Tixover	CH	Ketton	1813-1820	24	0.00	1	8	1.00	illegitimate	3	3.00
+613	RUT/050/rose	RUT/050	rose	Tixover	CH	Ketton	1813-1820	24	0.00	1	8	1.00	esquire	1	1.00
+614	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	shoemaker	10	10.00
+615	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	grazier	1	1.00
+616	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	labourer	95	95.00
+617	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	sailor	1	1.00
+618	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	gardener	3	3.00
+619	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	collar maker	6	6.00
+620	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	baker	3	3.00
+621	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	tailor	11	11.00
+622	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	victualler	1	1.00
+623	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	illegitimate	20	20.00
+624	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	stone mason	2	2.00
+625	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	flax dresser	1	1.00
+626	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	mason	14	14.00
+627	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	schoolmaster	3	3.00
+628	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	carpenter	9	9.00
+629	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	currier	2	2.00
+630	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	brazier	4	4.00
+631	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	chimney sweeper	1	1.00
+632	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	wool sorter	2	2.00
+633	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	farmer	10	10.00
+634	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	saddler	4	4.00
+635	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	wool stapler	2	2.00
+636	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	servant	7	7.00
+637	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	chair turner	3	3.00
+638	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	innkeeper	3	3.00
+639	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	grocer	7	7.00
+640	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	druggist	4	4.00
+641	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	harness maker	2	2.00
+642	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	publican	1	1.00
+643	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	clergyman	6	6.00
+644	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	ironmonger	5	5.00
+645	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	baker and mason	1	1.00
+646	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	butcher	4	4.00
+647	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	slater	2	2.00
+648	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	no occupation specified	3	3.00
+649	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	bootmaker	1	1.00
+650	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	brewer	1	1.00
+651	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	carrier	3	3.00
+652	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	sawyer	2	2.00
+653	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	glazier	4	4.00
+654	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	hired servant	1	1.00
+655	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	blacksmith	3	3.00
+656	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	liquor merchant	4	4.00
+657	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	ostler	2	2.00
+658	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	brick maker	1	1.00
+659	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	innholder	1	1.00
+660	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	clerk	2	2.00
+661	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	postboy	6	6.00
+662	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	minature painter	1	1.00
+663	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	cabinet maker	1	1.00
+664	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	horse dealer	7	7.00
+665	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	horse keeper	1	1.00
+666	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	lieutenant in his majesty's army	1	1.00
+667	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	higgler	1	1.00
+668	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	maltster	1	1.00
+669	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	chelsea pensioner	1	1.00
+670	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	joiner	1	1.00
+671	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	dealer in earthenware	1	1.00
+672	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	tallow chandler	1	1.00
+673	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	waggoner	1	1.00
+674	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	postman	1	1.00
+675	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	hairdresser	1	1.00
+676	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	painter	1	1.00
+677	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	excise officer	2	2.00
+678	RUT/051/rose	RUT/051	rose	Uppingham	AP	Uppingham	1813-1820	308	1.04	1	8	1.00	huckster	1	1.00
+679	RUT/052/rose	RUT/052	rose	Wardley	AP	Wardley	1813-1820	9	0.00	1	8	1.00	labourer	4	4.00
+680	RUT/052/rose	RUT/052	rose	Wardley	AP	Wardley	1813-1820	9	0.00	1	8	1.00	grazier	4	4.00
+681	RUT/052/rose	RUT/052	rose	Wardley	AP	Wardley	1813-1820	9	0.00	1	8	1.00	labourer in husbandry	1	1.00
+682	RUT/053/rose	RUT/053	rose	Whissendine	AP	Whissendine	1813-1820	151	0.00	1	8	1.00	tailor	12	12.00
+683	RUT/053/rose	RUT/053	rose	Whissendine	AP	Whissendine	1813-1820	151	0.00	1	8	1.00	labourer	87	87.00
+684	RUT/053/rose	RUT/053	rose	Whissendine	AP	Whissendine	1813-1820	151	0.00	1	8	1.00	illegitimate	10	10.00
+685	RUT/053/rose	RUT/053	rose	Whissendine	AP	Whissendine	1813-1820	151	0.00	1	8	1.00	grazier	19	19.00
+686	RUT/053/rose	RUT/053	rose	Whissendine	AP	Whissendine	1813-1820	151	0.00	1	8	1.00	miller	2	2.00
+687	RUT/053/rose	RUT/053	rose	Whissendine	AP	Whissendine	1813-1820	151	0.00	1	8	1.00	mason	3	3.00
+688	RUT/053/rose	RUT/053	rose	Whissendine	AP	Whissendine	1813-1820	151	0.00	1	8	1.00	soldier	1	1.00
+689	RUT/053/rose	RUT/053	rose	Whissendine	AP	Whissendine	1813-1820	151	0.00	1	8	1.00	gardener	2	2.00
+690	RUT/053/rose	RUT/053	rose	Whissendine	AP	Whissendine	1813-1820	151	0.00	1	8	1.00	victualler	4	4.00
+691	RUT/053/rose	RUT/053	rose	Whissendine	AP	Whissendine	1813-1820	151	0.00	1	8	1.00	butcher	2	2.00
+692	RUT/053/rose	RUT/053	rose	Whissendine	AP	Whissendine	1813-1820	151	0.00	1	8	1.00	baker	2	2.00
+693	RUT/053/rose	RUT/053	rose	Whissendine	AP	Whissendine	1813-1820	151	0.00	1	8	1.00	coach maker	1	1.00
+694	RUT/053/rose	RUT/053	rose	Whissendine	AP	Whissendine	1813-1820	151	0.00	1	8	1.00	unreadable	1	1.00
+695	RUT/053/rose	RUT/053	rose	Whissendine	AP	Whissendine	1813-1820	151	0.00	1	8	1.00	carpenter	3	3.00
+696	RUT/053/rose	RUT/053	rose	Whissendine	AP	Whissendine	1813-1820	151	0.00	1	8	1.00	shoemaker	1	1.00
+697	RUT/053/rose	RUT/053	rose	Whissendine	AP	Whissendine	1813-1820	151	0.00	1	8	1.00	cordwainer	1	1.00
+698	RUT/054/rose	RUT/054	rose	Whitwell	AP	Whitwell	1814-1821	26	4.17	1	8	1.00	shoemaker	4	4.00
+699	RUT/054/rose	RUT/054	rose	Whitwell	AP	Whitwell	1814-1821	26	4.17	1	8	1.00	farmer	3	3.00
+700	RUT/054/rose	RUT/054	rose	Whitwell	AP	Whitwell	1814-1821	26	4.17	1	8	1.00	labourer	9	9.00
+701	RUT/054/rose	RUT/054	rose	Whitwell	AP	Whitwell	1814-1821	26	4.17	1	8	1.00	illegitimate	2	2.00
+702	RUT/054/rose	RUT/054	rose	Whitwell	AP	Whitwell	1814-1821	26	4.17	1	8	1.00	servant	1	1.00
+703	RUT/054/rose	RUT/054	rose	Whitwell	AP	Whitwell	1814-1821	26	4.17	1	8	1.00	shepherd	3	3.00
+704	RUT/054/rose	RUT/054	rose	Whitwell	AP	Whitwell	1814-1821	26	4.17	1	8	1.00	rector	1	1.00
+705	RUT/054/rose	RUT/054	rose	Whitwell	AP	Whitwell	1814-1821	26	4.17	1	8	1.00	servant to grocer	1	1.00
+706	RUT/054/rose	RUT/054	rose	Whitwell	AP	Whitwell	1814-1821	26	4.17	1	8	1.00	no occupation specified	1	1.00
+707	RUT/054/rose	RUT/054	rose	Whitwell	AP	Whitwell	1814-1821	26	4.17	1	8	1.00	publican	1	1.00
+708	RUT/055/rose	RUT/055	rose	Wing	AP	Wing	1813-1820	53	0.00	1	8	1.00	clerk and curate of wing	1	1.00
+709	RUT/055/rose	RUT/055	rose	Wing	AP	Wing	1813-1820	53	0.00	1	8	1.00	labourer	31	31.00
+710	RUT/055/rose	RUT/055	rose	Wing	AP	Wing	1813-1820	53	0.00	1	8	1.00	carpenter	2	2.00
+711	RUT/055/rose	RUT/055	rose	Wing	AP	Wing	1813-1820	53	0.00	1	8	1.00	miller	1	1.00
+712	RUT/055/rose	RUT/055	rose	Wing	AP	Wing	1813-1820	53	0.00	1	8	1.00	publican	1	1.00
+713	RUT/055/rose	RUT/055	rose	Wing	AP	Wing	1813-1820	53	0.00	1	8	1.00	illegitimate	2	2.00
+714	RUT/055/rose	RUT/055	rose	Wing	AP	Wing	1813-1820	53	0.00	1	8	1.00	farmer	4	4.00
+715	RUT/055/rose	RUT/055	rose	Wing	AP	Wing	1813-1820	53	0.00	1	8	1.00	blacksmith	3	3.00
+716	RUT/055/rose	RUT/055	rose	Wing	AP	Wing	1813-1820	53	0.00	1	8	1.00	dealer in pots	1	1.00
+717	RUT/055/rose	RUT/055	rose	Wing	AP	Wing	1813-1820	53	0.00	1	8	1.00	military surveyor	1	1.00
+718	RUT/055/rose	RUT/055	rose	Wing	AP	Wing	1813-1820	53	0.00	1	8	1.00	butcher	2	2.00
+719	RUT/055/rose	RUT/055	rose	Wing	AP	Wing	1813-1820	53	0.00	1	8	1.00	curate of wing	1	1.00
+720	RUT/055/rose	RUT/055	rose	Wing	AP	Wing	1813-1820	53	0.00	1	8	1.00	shoemaker	1	1.00
+721	RUT/055/rose	RUT/055	rose	Wing	AP	Wing	1813-1820	53	0.00	1	8	1.00	mason	1	1.00
+722	RUT/055/rose	RUT/055	rose	Wing	AP	Wing	1813-1820	53	0.00	1	8	1.00	baker	1	1.00

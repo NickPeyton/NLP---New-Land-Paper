@@ -1,0 +1,211 @@
+SC	ID	Title	Fname	Sname	Status	Occup	Place	Role	Year	End year	Comment
+SCH	1	 	Edward	Harris	 	Schoolmaster		Headmaster	1570.00	1597.00	
+SCH	2	 	Richard	Boucher	 	Schoolmaster		Headmaster	1597.00	1627.00	in Thame Probate court
+SCH	3	 	Hugh	Evans	 	Schoolmaster		Headmaster	1627.00	1631.00	
+SCH	4	 	William	Burt	 	Schoolmaster		Headmaster	1631.00	1647.00	
+SCH	5	 	William	Ayliffe	 	Schoolmaster		Headmaster	1647.00	1655.00	
+SCH	6	 	Henry	Beeston	 	Schoolmaster		Headmaster	1655.00	1655.00	
+SCH	7	 	Hugh	Willis	 	Schoolmaster		Headmaster	1655.00	1675.00	
+SCH	8	 	Thomas	Middleton	 	Schoolmaster		Headmaster	1675.00	1694.00	
+SCH	9	 	Henry	Bruges	 	Schoolmaster		Headmaster	1694.00	1727.00	
+SCH	10	 	Richard	Pynnocke	 	Schoolmaster		Usher	1587.00	1587.00	
+SCH	11	 	Humfrye	Hart	 	Schoolmaster		Usher	1613.00	1613.00	died in 1613
+SCH	12	 	Francis	Bartlet	 	Schoolmaster		Usher	1613.00	1632.00	
+SCH	13	 	John	Ives	 	Schoolmaster		Usher	1613.00	1632.00	
+SCH	14	 	Thomas	Gilbert	 	Schoolmaster		Usher	1632.00	1634.00	
+SCH	15	 	John	Fournesse	 	Schoolmaster		Usher	1634.00	1644.00	
+SCH	16	 	David	Thomas	 	Schoolmaster		Usher	1644.00	1646.00	
+SCH	17	 	Daniel	Ballowe	 	Schoolmaster		Usher	1658.00	1659.00	
+SCH	18	 	Thomas	Fawkes	 	Schoolmaster		Usher	1659.00	1660.00	
+SCH	19	 	William	Collins	 	Schoolmaster		Usher	1660.00	1662.00	
+SCH	20	 	Robert	Bourne	 	Schoolmaster		Usher	1662.00	1671.00	
+SCH	21	 	Edward	Dove	 	Schoolmaster		Usher	1671.00	1674.00	
+SCH	22	 	Benjamin	Wainwright	 	Schoolmaster		Usher	1674.00		
+SCH	23	 	Edward	Adams	 	Rope Supplier		Tradesman	1602.00	1647.00	
+SCH	24	 	John	Adkins	 	Carpenter		Tradesman	1602.00	1647.00	board and hinge for school setle
+SCH	25	 	Philip	Alnut	 	Plumber		Tradesman	1602.00	1647.00	making and setting up the plumpe
+SCH	26	 	Robert	Alnutt	 	Carpenter		Tradesman	1602.00	1647.00	
+SCH	27	 	William	Alnutt	 	Carpenter		Tradesman	1602.00	1647.00	
+SCH	28	 	William	Atkins	 	Plumber		Tradesman	1602.00	1647.00	mending the plumpe
+SCH	29	 	Paule	Audley	 	Glazier		Tradesman	1602.00	1647.00	
+SCH	30	 	 	Ayres	 	Gardener		Labourer	1602.00	1647.00	cutting hedges
+SCH	31	 	John	Baker	 	 		Tradesman	1602.00	1647.00	a piece of timber
+SCH	32	 	Thomas	Ballowe	 	Merchant Farmer		Tennant	1602.00	1647.00	
+SCH	33	Widow	Agnes	Ballowe	 	Landowner	Sydenham	Tennant	1602.00	1647.00	lands in Sydenham
+SCH	34	 	Edward	Bampton	 	Cooper		Tradesman	1602.00	1647.00	
+SCH	35	 	Lawrence	Bannister	Esquire	Farmer		Tennant	1602.00	1647.00	fee farms in Brill Oakley Boarstall
+SCH	36	Mistress	 	Bannister	 	Farmer		Tennant	1602.00	1647.00	fee farms in Brill Oakley Boarstall
+SCH	37	 	 	Barnett	 	Gardener		Tradesman	1602.00	1647.00	
+SCH	38	Mr	 	Barrowes	 	Draper		Tradesman	1602.00	1647.00	
+SCH	39	Mr	 	Bayley	 	 		Tennant	1602.00	1647.00	
+SCH	40	Mr	 	Beake	 	Landowner	Sydenham	Tennant	1602.00	1647.00	lands in Sydenham
+SCH	41	Mistress	 	Beake	 	Landowner	Sydenham	Tennant	1602.00	1647.00	lands in Sydenham
+SCH	42	 	 	Bernard	 	Gardener		Tradesman	1602.00	1647.00	
+SCH	43	 	Richard	Boucher	 	Schoolmaster		Usher	1602.00	1647.00	
+SCH	44	 	Richard	Bowcher	 	Schoolmaster		Usher	1602.00	1647.00	same as Boucher
+SCH	45	 	Richard	Brasey	 	 	New Thame	Tennant	1602.00	1647.00	2 tenements in New Thame
+SCH	46	 	Thomas	Brasie	 	 	New Thame	Tennant	1602.00	1647.00	2 tenements in New Thame
+SCH	47	 	John	Brasyer	 	 	Aylesbury	Tradesman	1602.00	1647.00	of Aylesbury for a pound of foder
+SCH	48	Mr	 	Brasyes	 	 	Thame	Tennant	1602.00	1647.00	house in Thame
+SCH	49	 	Edmond	Brookes	 	 	New Thame	Tennant	1602.00	1647.00	a tenement in New Thame
+SCH	50	Mr	 	Bryan	 	 		Tradesman	1602.00	1647.00	for carriage
+SCH	51	 	Roger	Burges	 	 		Tradesman	1602.00	1647.00	laying oaken planks about the plumpe
+SCH	52	 	William	Burte	 	Schoolmaster		Usher	1602.00	1647.00	
+SCH	53	 	 	Burton	 	Hellyer		Tradesman	1602.00	1647.00	
+SCH	54	 	 	Burton	 	Mason		Tradesman	1602.00	1647.00	
+SCH	55	 	Edward	Burton	 	Tiler and Mason		Tradesman	1602.00	1647.00	
+SCH	56	 	Leonard	Burton	 	Tile Merchant and Tyler		Tradesman	1602.00	1647.00	
+SCH	57	 	Philip	Burton	 	 		Labourer	1602.00	1647.00	6 dayes worke
+SCH	58	 	John	Calcott	 	 		Tradesman	1602.00	1647.00	lime, heare
+SCH	59	 	John	Cannon	 	 		Tradesman	1602.00	1647.00	for digging and mending the way
+SCH	60	 	Thomas	Canon	 	Farmer	Long Crendon	Tennant	1602.00	1647.00	of Long Crendon, farm called Sperlings
+SCH	61	 	Cornelius	Carden	 	 		Tradesman	1602.00	1647.00	mending school door lock
+SCH	62	 	Edward	Carden	 	Smith		Tradesman	1602.00	1647.00	
+SCH	63	Mr	 	Castle	 	 		Tennant	1602.00	1647.00	arrears of rent
+SCH	64	 	 	Chapman	 	 		Tradesman	1602.00	1647.00	clensing house of office
+SCH	65	 	James	Childe	 	 		Tennant	1602.00	1647.00	lived next door to school and almshouse
+SCH	66	 	 	Clisbye	 	 		Tradesman	1602.00	1647.00	for carriage
+SCH	67	 	J	Coles	 	 		Tradesman	1602.00	1647.00	pitching
+SCH	68	 	 	Collingridge	 	 		Tradesman	1602.00	1647.00	amending the plumpe
+SCH	69	 	Robert	Cooke	 	 	New Thame	Tennant	1602.00	1647.00	2 tenements in New Thame
+SCH	70	 	Robert	Cooke	elder	 		Tradesman	1602.00	1647.00	boards
+SCH	71	 	Robert	Cooke	younger	 		Tradesman	1602.00	1647.00	elme boards
+SCH	72	 	 	Corbett	man	 		Tradesman	1602.00	1647.00	Corbett's man for mending lock and clock
+SCH	73	 	 	Corkes	 	 		Tradesman	1602.00	1647.00	for carriage
+SCH	74	 	Edward	Cornelius	 	 		Tradesman	1602.00	1647.00	oaken rayles and post
+SCH	75	 	Richard	Corner	 	 		Tradesman	1602.00	1647.00	lime
+SCH	76	 	 	Costard	 	 		Tradesman	1602.00	1647.00	fetching the lymes
+SCH	77	 	James	Cowden	 	 		Tradesman	1602.00	1647.00	oak boards
+SCH	78	Goodman	 	Cowley	 	 		Tradesman	1602.00	1647.00	mending almshouse door
+SCH	79	 	Henry	Cowlye	 	 		Tradesman	1602.00	1647.00	for oaken rayle and a post for his labour
+SCH	80	 	Henry	Cowly	 	Carpenter		Tradesman	1602.00	1647.00	
+SCH	81	 	Robert	Crase	 	Smith		Tradesman	1602.00	1647.00	
+SCH	82	 	John	Cruse	 	 		Tradesman	1602.00	1647.00	mending key to school door
+SCH	83	 	Robert	Cruse	 	Smith		Tradesman	1602.00	1647.00	
+SCH	84	 	Robert	Cubbidy	 	 		Tradesman	1602.00	1647.00	piece of oken tymber
+SCH	85	Mrs	 	Deane	 	 	Sydenham	Tennant	1602.00	1647.00	lands in Sydenham
+SCH	86	 	Henry	Divers	 	 		Tradesman	1602.00	1647.00	for eaves lath & for oaken board
+SCH	87	 	John	Dobbins	 	 		Tradesman	1602.00	1647.00	for halfe a dayes work
+SCH	88	 	Robert	Dubery	 	 		Tradesman	1602.00	1647.00	for one dayes work
+SCH	89	Mr	 	Durdente	 	 		Tennant	1602.00	1647.00	
+SCH	90	 	John	Dynham	Sen	 	Brill	Tennant	1602.00	1647.00	fee farms in Brill, Oakley and Boarstall
+SCH	91	 	William	Emanuell	 	Glazier		Tradesman	1602.00	1647.00	
+SCH	92	 	Hughe	Evans	 	Schoolmaster		Usher	1602.00	1647.00	
+SCH	93	 	J	Figg	 	Labourer		Tradesman	1602.00	1647.00	
+SCH	94	 	Henry	Foster	 	 		Tradesman	1602.00	1647.00	for nayles
+SCH	95	 	W	Francklin	 	Carpenter		Tradesman	1602.00	1647.00	
+SCH	96	Mr	 	Barker	 	Gardner		Tennant	1602.00	1647.00	
+SCH	97	 	Edward	Gardner	 	 		Tradesman	1602.00	1647.00	levelling the courtyard
+SCH	98	 	Humfry	Gemmot	 	 		Tradesman	1602.00	1647.00	for two bushells of lyme
+SCH	99	 	Edward	Gourden	 	 		Tradesman	1602.00	1647.00	for carrying 2 loades of stone
+SCH	100	 	John	Greene	 	Carpenter		Tradesman	1602.00	1647.00	
+SCH	101	 	Walter	Greene	 	Carpenter		Tradesman	1602.00	1647.00	
+SCH	102	 	 	Groome	 	 		Tradesman	1602.00	1647.00	making gownes
+SCH	103	 	John	Groome	 	Joiner		Tradesman	1602.00	1647.00	
+SCH	104	 	W	Grove	 	Carpenter		Tradesman	1602.00	1647.00	
+SCH	105	 	Aust.	Harrise	 	Smith		Tradesman	1602.00	1647.00	
+SCH	106	 	Sr	Hatton	 	Farmer	Eastneston	Tennant	1602.00	1647.00	of Eastneston Notts
+SCH	107	 	 	Hayborne	 	 		Tradesman	1602.00	1647.00	for boards
+SCH	108	 	 	Henly	 	Carpenter		Tradesman	1602.00	1647.00	
+SCH	109	 	 	Henly	 	 		Tradesman	1602.00	1647.00	carriage
+SCH	110	Mr	 	Hester	 	 		Tennant	1602.00	1647.00	for arrears of rent
+SCH	111	 	 	Hobbes	 	Woodman		Tradesman	1602.00	1647.00	
+SCH	112	 	 	Horton	 	 		Tradesman	1602.00	1647.00	5 dayes helpe
+SCH	113	 	 	Howly	 	Carpenter		Tradesman	1602.00	1647.00	
+SCH	114	 	Thomas	Hunt	 	 		Tradesman	1602.00	1647.00	for carriage of tiles and llime
+SCH	115	 	John	Ives	 	Usher		Usher	1602.00	1647.00	
+SCH	116	father	 	Jacksonne	 	Almsman		Tennant	1602.00	1647.00	
+SCH	117	 	Thomas	Jefcocke	 	Labourer		Labourer	1602.00	1647.00	
+SCH	118	 	Humfry	Jemmot	 	 		Tradesman	1602.00	1647.00	for 2 bushells of lyme
+SCH	119	 	Thomas	Keene	 	 		Tradesman	1602.00	1647.00	keeping the school clocke
+SCH	120	 	 	Kempe	 	 		Tradesman	1602.00	1647.00	tieing and pruning trees
+SCH	121	Dr	 	Lake	 	Warden	Oxford	Visitor	1602.00	1647.00	Warden of New College Oxford
+SCH	122	 	 	Lawrenc	 	 		Tradesman	1602.00	1647.00	for his work
+SCH	123	 	 	Lawrence	 	 		Tradesman	1602.00	1647.00	60 bricks to mend the house of office
+SCH	124	Goodman	 	Lawrence	 	 		Tradesman	1602.00	1647.00	mending the school wall
+SCH	125	 	Edward	Lawrence	 	Mason Tiler Hellier		Tradesman	1602.00	1647.00	
+SCH	126	 	William	Lawrence	 	Tiler		Tradesman	1602.00	1647.00	
+SCH	127	 	Thomas	Man	 	 		Tradesman	1602.00	1647.00	for laying boards
+SCH	128	 	William	Manuell	 	 		Tradesman	1602.00	1647.00	for mending glass windows
+SCH	129	 	Thomas	Masons	 	 		Tradesman	1602.00	1647.00	work on the school wall
+SCH	130	 	 	Mathewe	 	Labourer		Labourer	1602.00	1647.00	
+SCH	131	 	 	Miles	 	Bookbinder	Oxford	Tennant	1602.00	1647.00	of Oxford
+SCH	132	 	Thomas	Miller	fellow	 	Oxford	Tennant	1602.00	1647.00	Fellow of New College Oxford
+SCH	133	 	 	Min	 	Cobler		Tradesman	1602.00	1647.00	
+SCH	134	 	Philip	Ming	 	Labourer		Tradesman	1602.00	1647.00	
+SCH	135	 	William	Ming	 	 		Labourer	1602.00	1647.00	for 6 dayes worke  4s
+SCH	136	 	Griffin	Minge	 	 		Tradesman	1602.00	1647.00	for stones
+SCH	137	 	Valentine	Morley	 	 		Tradesman	1627.00	1647.00	sent account in 1627
+SCH	138	 	H	Mun	 	 		Tradesman	1602.00	1647.00	lock for H.Mun's door
+SCH	139	 	 	Nicholas	 	 		Tradesman	1602.00	1647.00	for cleansing the house of office
+SCH	140	 	Peter	Numan	 	 	Brill	Tradesman	1602.00	1647.00	tile merchant Brill
+SCH	141	 	 	Olyffe	 	Glazier	Thame	Tradesman	1602.00	1647.00	of Thame
+SCH	142	Mother	 	Page	 	 		Tradesman	1602.00	1647.00	mending her door in the almshouse
+SCH	143	 	John	Pecke	 	 		Tradesman	1602.00	1647.00	for lath nayles
+SCH	144	goody	 	Pedly	 	 		Labourer	1602.00	1647.00	weeding
+SCH	145	 	John	Pedly	 	 		Tradesman	1602.00	1647.00	for mending the plumpe,clensing the well
+SCH	146	 	Sisly	Pedly	 	 		Labourer	1602.00	1647.00	weeding
+SCH	147	 	Richard	Perin	 	Tailor		Tradesman	1602.00	1647.00	
+SCH	148	 	Edward	Phillips	 	Draper		Tradesman	1602.00	1647.00	
+SCH	149	 	 	Powell	 	 		Tradesman	1602.00	1647.00	carriage of a loade
+SCH	150	 	Edward	Ridley	 	Cloth Merchant		Tradesman	1602.00	1647.00	
+SCH	151	 	Jone	Ridly	 	 		Tradesman	1602.00	1647.00	for skowring the school windows
+SCH	152	 	Hughe	Robotham	 	 	Thame	Tennant	1602.00	1647.00	tenement in Thame
+SCH	153	Widow	 	Robothams	 	 		Tennant	1602.00	1647.00	a house
+SCH	154	 	Agnes	Rogers	 	 		Tennant	1602.00	1647.00	weeding
+SCH	155	Mother		Roger	 	 		Labourer	1602.00	1647.00	weeding
+SCH	156	 	Francis	Rufin	 	Farmer	Long Crendon	Tennant	1602.00	1647.00	of Long Crendon
+SCH	157	 	Robert	Ruffyn	 	Farmer	Long Crendon	Tennant	1602.00	1647.00	of Long Crendon
+SCH	158	 	Henry	Sheriff	 	Smith		Tradesman	1602.00	1647.00	
+SCH	159	 	Henry	Shreeve	 	Smith		Tradesman	1602.00	1647.00	
+SCH	160	 	William	Slaughter	 	 		Tradesman	1602.00	1647.00	mending the casements and glasse windows
+SCH	161	 	 	Smithe	 	Gardener		Tradesman	1602.00	1647.00	
+SCH	162	 	E	Smithe	 	 		Tradesman	1602.00	1647.00	key for E.Smithes door
+SCH	163	 	William	Smith	 	 		Tradesman	1602.00	1647.00	mending and keeping the school clock
+SCH	164	Mistress	 	Somes	 	 	Brill	Tennant	1602.00	1647.00	fee farm of Oakley Brill and Boarstall
+SCH	165	 	Thomas	Sones	 	Mason		Tradesman	1602.00	1647.00	
+SCH	166	Widow	 	Crewes	 	 		Tennant	1602.00	1647.00	mending her house
+SCH	167	 	 	Stannton	 	 		Tradesman	1602.00	1647.00	buying and bringing cloth from Reading
+SCH	168	 	James	Stannton	 	 		Tradesman	1602.00	1647.00	lime
+SCH	169	 	Thomas	Stribblehill	 	 		Tradesman	1602.00	1647.00	for 8 hundred lath
+SCH	170	 	Edward	Swifte	 	Nayleman		Tradesman	1602.00	1647.00	chains for books
+SCH	171	 	Thomas	Symons	 	 	New Thame	Tennant	1602.00	1647.00	tenement in New Thame
+SCH	172	 	William	Thame	 	Tailor		Tradesman	1602.00	1647.00	
+SCH	173	 	Thomas	Sone	 	Mason		Tradesman	1602.00	1647.00	
+SCH	174	 	Thomas	Sones	 	Tiler		Tradesman	1602.00	1647.00	
+SCH	175	 	William	Thorneton	 	Glazier		Tradesman	1602.00	1647.00	repairing the school gutter
+SCH	176	 	 	Wakeman	 	 		Tradesman	1602.00	1647.00	clensing the water course
+SCH	177	 	 	Walker	 	 	Brill	Tradesman	1602.00	1647.00	of Brill, for tyles
+SCH	178	 	William	Welche	 	 	Thame	Tennant	1602.00	1647.00	tenement in Thame
+SCH	179	 	 	West	 	Tile Maker	Brill	Tradesman	1602.00	1647.00	of Brill tile maker
+SCH	180	 	Thomas	Weste	 	 		Tradesman	1602.00	1647.00	carriage of stones
+SCH	181	 	William	Weste	 	Almsman		Tradesman	1602.00	1647.00	taking gravel with wheelbarrow
+SCH	182	 	Richard	Wheeler	 	 		Tradesman	1602.00	1647.00	for boards
+SCH	183	 	Richard	Woodman	 	Almsman		Tennant	1602.00	1647.00	repairing his house
+SCH	184	Mr	 	Yates	 	Farmer	Long Crendon	Tennant	1602.00	1647.00	of Long Crendon
+SCH	185	 	Nicholas	Stanton	 	Innkeeper~	Thame	Tennant	1575.00	1575.00	Tennant of Saracen's Head (from before 1575)
+SCH	186	 	Richard	Pitman	 	Innkeeper~	Thame	Tennant	1575.00	1595.00	Tennant of Saracen's Head
+SCH	187	 	Richard	Pitman	 	Innkeeper~	Thame	Tennant	1617.00	1617.00	Tennant of Saracen's Head
+SCH	188	Widow	 	Pitman	 	Innkeeper~	Thame	Tennant	1618.00	1624.00	Tennant of Saracen's Head
+SCH	189	 	Edmund	Brookes	 	Innkeeper~	Thame	Tennant	1625.00	1633.00	Tennant of Saracen's Head
+SCH	190	 	William	Welch	 	Innkeeper~	Thame	Tennant	1634.00	1647.00	Tennant of Saracen's Head
+SCH	191	 	Emmanuel	Slaughter	 	Innkeeper~	Thame	Tennant	1656.00	1656.00	Tennant of Saracen's Head
+SCH	192	Widow	 	Slaughter	 	Innkeeper~	Thame	Tennant	1664.00	1668.00	Tennant of Saracen's Head
+SCH	193	 	Richard	Atkins	 	Innkeeper~	Thame	Tennant	1669.00	1704.00	Tennant of Saracen's Head
+SCH	194	 	James	Horseman	 	Innkeeper~	Thame	Tennant	1729.00	1743.00	Tennant of Saracen's Head
+SCH	195	 	William	Horseman	 	Innkeeper~	Thame	Tennant	1744.00	1774.00	Tennant of Saracen's Head
+SCH	196	 	 	Phillips	 	Innkeeper~	Thame	Tennant	1776.00	1785.00	Tennant of Saracen's Head
+SCH	197	Master	 	Barnet	 	Innkeeper~	Thame	Tennant	1786.00	1794.00	Tennant of Saracen's Head
+SCH	198	Master	 	Rotten	 	Innkeeper~	Thame	Tennant	1795.00	1796.00	Tennant of Saracen's Head
+SCH	199	Master	 	Kingston	 	Innkeeper~	Thame	Tennant	1797.00	1798.00	Tennant of Saracen's Head
+SCH	200	 	John	Robotham	 	Innkeeper~	Thame	Tennant	1579.00	1579.00	Tennant of Old King's Head
+SCH	201	Widow	 	Robotham	 	Innkeeper~	Thame	Tennant	1681.00	1681.00	Tennant of Old King's Head
+SCH	202	 	John	White	 	Innkeeper~	Thame	Tennant	1726.00	1726.00	Tennant of Old King's Head
+SCH	203	 	John	Fevin	 	Innkeeper~	Thame	Tennant	1729.00	1750.00	Tennant of Old King's Head
+SCH	204	 	Richard	Clerk	 	Innkeeper~	Thame	Tennant	1751.00	1774.00	Tennant of Old King's Head
+SCH	205	 	 	Moore	 	Innkeeper~	Thame	Tennant	1778.00	1778.00	Tennant of Old King's Head
+SCH	206	 	 	Bowdry	 	Innkeeper~	Thame	Tennant	1786.00	1786.00	Tennant of Old King's Head
+SCH	207	 	 	Howland	 	Innkeeper~	Thame	Tennant	1792.00	1814.00	Tennant of Old King's Head
+SCH	208	 	John & William	Heywood	 	Innkeeper~	Thame	Tennant	1811.00	1811.00	Paid benefit for the Fleur de Lys
+SCH	209	 	Edward	Turner	 	Innkeeper~	Thame	Tennant	1811.00	1811.00	Paid benefit for the Bird Cage at 16s per year
+SCH	210	 	Robert	Battin	 	Innkeeper~	Thame	Tennant	1811.00	1811.00	Paid benefit for the Nags Head

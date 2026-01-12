@@ -1,0 +1,430 @@
+SC	ID	Title	Fname	Sname	Status	Role	Occup	Year	Month	Day	Paid/Rec'd	Paid/Rec'dsort	Owed	Owedsort	Place in Church	MS folio no
+POOR	1	 	 	Read's	tenant	Rate Payer	 	1604	11	18	8 pence	8.00	Nil			1V
+POOR	2	 	Cornelius	Carden	 	Rate Payer	 	1604	11	18	4 pence	4.00	Nil			1V
+POOR	3	 	Richard	Molinax	 	Rate Payer	 	1604	11	18	4 pence	4.00	Nil			1V
+POOR	4	 	Ry	Graunt	 	Rate Payer	 	1604	11	18	4 pence	4.00	Nil			1V
+POOR	5	 	William	Lea	 	Rate Payer	 	1604	11	18	4 pence	4.00	Nil			1V
+POOR	6	 	John	Houghton	 	Rate Payer	 	1604	11	18	4 pence	4.00	Nil			1V
+POOR	7	 	William	Robbins	 	Rate Payer	 	1604	11	18	4 pence	4.00	Nil			1V
+POOR	8	 	John	Calcott	 	Rate Payer	 	1604	11	18	4 pence	4.00	Nil			1V
+POOR	9	 	Richard	Woodbridge	 	Rate Payer	 	1604	11	18	4 pence	4.00	Nil			1V
+POOR	10	 	Thomas	Groome	 	Rate Payer	 	1604	11	18	4 pence	4.00	Nil			1V
+POOR	11	 	Peter	Weston	 	Rate Payer	 	1604	11	18	4 pence	4.00	Nil			1V
+POOR	12	 	John	Groome	 	Rate Payer	 	1604	11	18	4 pence	4.00	Nil			1V
+POOR	13	 	Robert	Allnett	 	Rate Payer	 	1604	11	18	2 pence	2.00	Nil			1V
+POOR	14	 	Robert	Baker	 	Rate Payer	 	1604	11	18	4 pence	4.00	Nil			1V
+POOR	15	 	Richard	Wittney	 	Rate Payer	 	1604	11	18	2 pence	2.00	Nil			1V
+POOR	16	 	Richard	Corner	 	Rate Payer	 	1604	11	18	2 pence	2.00	Nil			1V
+POOR	17	 	Thomas	Baker	 	Rate Payer	 	1604	11	18	2 pence	2.00	Nil			1V
+POOR	18	 	Robert	Flexman	 	Rate Payer	 	1604	11	18	2 pence	2.00	Nil			1V
+POOR	19	 	Edward	Adams	 	Rate Payer	 	1604	11	18	7 pence	7.00	Nil			1V
+POOR	22	 	 	Cottmell	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil			1R
+POOR	23	 	 	Peck	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil			1R
+POOR	24	 	 	Hadley	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil			1R
+POOR	25	 	 	Saunders	 	Rate Payer	 	1604	12	0	8 pence	8.00	Nil			1R
+POOR	26	 	 	Heybourne	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil			1R
+POOR	27	 	 	Springlake	 	Rate Payer	 	1604	12	0	8 pence	8.00	Nil			1R
+POOR	28	 	 	Cotton	 	Rate Payer	 	1604	12	0	8 pence	8.00	Nil			1R
+POOR	29	 	 	Besper	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil			1R
+POOR	30	 	 	Jemmett	 	Rate Payer	 	1604	12	0	8 pence	8.00	Nil			1R
+POOR	31	 	 	Stone	 	Rate Payer	 	1604	12	0	8 pence	8.00	Nil			1R
+POOR	32	 	 	Beale	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil			1R
+POOR	33	 	Edward	Barnes	 	Rate Payer	 	1604	12	0	2 pence	2.00	Nil			1R
+POOR	34	 	William	Densher	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil			1R
+POOR	35	 	John	Stanton	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil			1R
+POOR	36	 	William	Gardner	 	Rate Payer	 	1604	12	0	2 pence	2.00	Nil			1R
+POOR	37	 	Richard	Wheeler	 	Rate Payer	 	1604	12	0	2 pence	2.00	Nil			1R
+POOR	38	 	Phillip	Burd	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil			1R
+POOR	39	 	Michael	Powell	 	Rate Payer	 	1604	12	0	2 pence	2.00	Nil			1R
+POOR	40	 	William	Haslegrave	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Alley beneath Quatermaines	1R
+POOR	41	 	Mar?	Fletcher	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Alley beneath Quatermaines	1R
+POOR	42	 	John	Wittney	 	Rate Payer	 	1604	12	0	2 pence	2.00	Nil		Alley beneath Quatermaines	1R
+POOR	43	 	Henry	Shreeve	 	Rate Payer	 	1604	12	0	2 pence	2.00	Nil		Alley beneath Quatermaines	1R
+POOR	44	 	John	Addams	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Alley beneath Quatermaines	1R
+POOR	45	 	John	Powell	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Alley beneath Quatermaines	1R
+POOR	46	 	Richard	Pynder	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Alley beneath Quatermaines	1R
+POOR	47	 	William	Springall	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Alley beneath Quatermaines	1R
+POOR	48	 	Phillip	Springall	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Alley beneath Quatermaines	1R
+POOR	49	 	John	Burt	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Alley beneath Quatermaines	1R
+POOR	50	 	William	Fletcher	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Alley beneath Quatermaines	1R
+POOR	51	 	Richard	Hester	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Alley beneath Quatermaines	1R
+POOR	52	 	Thomas	Bartlett	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Alley beneath Quatermaines	1R
+POOR	53	 	John	Greene	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Alley beneath Quatermaines	1R
+POOR	54	 	John	Bigge	 	Rate Payer	 	1604	12	0	8 pence	8.00	Nil		Alley beneath Quatermaines	1R
+POOR	55	 	Thomas	Warner	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Morton seats	1R
+POOR	56	 	Thomas	Cobbett	 	Rate Payer	 	1604	12	0	12 pence	12.00	Nil		Morton seats	1R
+POOR	57	 	Guy	Pyme	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Morton seats	1R
+POOR	58	 	John	Yonge	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Morton seats	1R
+POOR	59	 	John	Perkins	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Morton seats	1R
+POOR	60	 	Richard	Eynett	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Morton seats	1R
+POOR	61	 	Henry	Stone	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Morton seats	1R
+POOR	62	 	Edward	Goode	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Morton seats	1R
+POOR	63	 	Richard	Rowland	 	Rate Payer	 	1604	12	0	2 pence	2.00	Nil		Morton seats	1R
+POOR	64	 	William	Snowe	 	Rate Payer	 	1604	12	0	2 pence	2.00	Nil		Morton seats	1R
+POOR	65	 	Henry	Ayres	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Morton seats	1R
+POOR	66	Widow	 	Eynott	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Morton seats	1R
+POOR	67	 	 	Greene	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Morton seats	1R
+POOR	68	 	 	Benson	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Morton seats	1R
+POOR	69	 	 	Smith	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Morton seats	1R
+POOR	70	 	 	Pittman	 	Rate Payer	 	1604	12	0	4 pence	4.00	Nil		Morton seats	1R
+POOR	74	 	 	Parrie	 	Rate Payer	 	1609	0	0	4 shillings	48.00	Nil			5V
+POOR	75	 	 	Joseph	 	Rate Payer	 	1609	0	0	2 pence	2.00	Nil			5V
+POOR	76	 	 	Hall	 	Rate Payer	 	1609	0	0	2 pence	2.00	Nil			5V
+POOR	77	 	 	Dorvall	 	Rate Payer	 	1609	0	0	24 pence	24.00	Nil			5V
+POOR	78	 	 	Lewes	 	Rate Payer	 	1609	0	0	12 pence	12.00	Nil			5V
+POOR	79	 	 	Mathew	 	Rate Payer	 	1609	0	0	12 pence	12.00	Nil			5V
+POOR	80	 	 	Wry	 	Rate Payer	 	1609	0	0	6 pence	6.00	Nil			5V
+POOR	81	 	 	Beale	 	Rate Payer	 	1609	0	0	2 pence	2.00	Nil			5V
+POOR	82	 	 	Price	 	Rate Payer	 	1609	0	0	13 pence	13.00	Nil			5V
+POOR	83	 	 	Huckett	 	Rate Payer	 	1609	0	0	14 pence	14.00	Nil			5V
+POOR	84	 	 	Hyde	 	Rate Payer	 	1609	0	0	14 pence	14.00	Nil			5V
+POOR	85	 	 	Rowland	 	Rate Payer	 	1609	0	0	23 pence	23.00	Nil			5V
+POOR	86	 	 	Smith	 	Rate Payer	 	1609	0	0	23 pence	23.00	Nil			5V
+POOR	87	 	 	Gett	 	Rate Payer	 	1609	0	0	2 pence	2.00	Nil			5V
+POOR	88	 	 	Percie	 	Rate Payer	 	1609	0	0	6 pence	6.00	Nil			5V
+POOR	89	 	 	Crane	 	Rate Payer	 	1609	0	0	2 pence	2.00	Nil			5V
+POOR	90	 	 	Cule	 	Rate Payer	 	1609	0	0	?		Nil			5V
+POOR	91	 	 	Berdworth	 	Rate Payer	 	1609	0	0	7 pence	7.00	Nil			5V
+POOR	92	 	 	Home	 	Rate Payer	 	1609	0	0	5 pence	5.00	Nil			5V
+POOR	93	 	 	Harris	 	Rate Payer	 	1609	0	0	2 pence	2.00	Nil			5V
+POOR	94	 	 	Simson	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			5V
+POOR	95	 	 	Sims	 	Rate Payer	 	1609	0	0	7 pence	7.00	Nil			5V
+POOR	96	 	 	Simons	 	Rate Payer	 	1609	0	0	?		Nil			5V
+POOR	97	 	 	Wilrose	 	Rate Payer	 	1609	0	0	8 pence	8.00	Nil			5V
+POOR	98	 	 	Bartlett	 	Rate Payer	 	1609	0	0	?		Nil			5V
+POOR	99	 	 	Gradale	 	Rate Payer	 	1609	0	0	?		Nil			5V
+POOR	100	 	 	Dawkin	 	Rate Payer	 	1609	0	0	8 pence	8.00	Nil			5V
+POOR	101	 	 	Girks	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			5V
+POOR	102	 	 	Childe	 	Rate Payer	 	1609	0	0	2 pence	2.00	Nil			5V
+POOR	103	 	 	Archer	 	Rate Payer	 	1609	0	0	2 pence	2.00	Nil			5V
+POOR	104	 	 	Cope	 	Rate Payer	 	1609	0	0	2 pence	2.00	Nil			5V
+POOR	105	 	 	Paine	 	Rate Payer	 	1609	10	0	4 shillings	48.00	Nil			3V
+POOR	106	 	 	Jesephe	 	Rate Payer	 	1609	10	0	10 pence	10.00	Nil			3V
+POOR	107	 	 	Dorvall	 	Rate Payer	 	1609	10	0	2 shillings	24.00	Nil			3V
+POOR	108	 	 	Lewes	 	Rate Payer	 	1609	10	0	4 shillings	48.00	Nil			3V
+POOR	109	 	 	Mathew	 	Rate Payer	 	1609	10	0	2 shillings	24.00	Nil			3V
+POOR	110	 	 	Wigg	 	Rate Payer	 	1609	10	0	2 shillings	24.00	Nil			3V
+POOR	111	 	 	Beale	 	Rate Payer	 	1609	10	0	8 pence	8.00	Nil			3V
+POOR	112	 	 	Hucket	 	Rate Payer	 	1609	10	0	16 pence	16.00	Nil			3V
+POOR	113	 	 	Hide	 	Rate Payer	 	1609	10	0	16 pence	16.00	Nil			3V
+POOR	114	 	 	Rowland	 	Rate Payer	 	1609	10	0	2 shillings	24.00	Nil			3V
+POOR	115	 	 	Smith	 	Rate Payer	 	1609	10	0	2 shillings	24.00	Nil			3V
+POOR	116	 	 	Gott	 	Rate Payer	 	1609	10	0	4 sh & 8 d	56.00	Nil			3V
+POOR	117	 	Percie	Wing	 	Rate Payer	 	1609	10	0	1s  6d	18.00	Nil			3V
+POOR	118	 	 	Crane	 	Rate Payer	 	1609	10	0	8 pence	8.00	Nil			3V
+POOR	119	 	 	Cule	 	Rate Payer	 	1609	10	0	8 pence	8.00	Nil			3V
+POOR	120	 	 	Berdsworth	 	Rate Payer	 	1609	10	0	8 pence	8.00	Nil			3V
+POOR	121	 	 	Hore	 	Rate Payer	 	1609	10	0	12 pence	12.00	Nil			3V
+POOR	122	 	 	Hains	 	Rate Payer	 	1609	10	0	?		Nil			3V
+POOR	123	 	 	Simson	 	Rate Payer	 	1609	10	0	15 pence	15.00	Nil			3V
+POOR	124	 	 	Simms	 	Rate Payer	 	1609	10	0	8 pence	8.00	Nil			3V
+POOR	125	 	 	Simons	 	Rate Payer	 	1609	10	0	7 pence	7.00	Nil			3V
+POOR	126	 	 	Willcope	 	Rate Payer	 	1609	10	0	8 pence	8.00	Nil			3V
+POOR	127	 	 	Bartlett	 	Rate Payer	 	1609	10	0	4 pence	4.00	Nil			3V
+POOR	128	 	 	Goodall	 	Rate Payer	 	1609	10	0	6 pence	6.00	Nil			3V
+POOR	129	 	 	Dawkins	 	Rate Payer	 	1609	10	0	16 pence	16.00	Nil			3V
+POOR	130	 	 	Ginks	 	Rate Payer	 	1609	10	0	18 pence	18.00	Nil			3V
+POOR	131	 	 	Coper	 	Rate Payer	 	1609	10	0	8 pence	8.00	Nil			3V
+POOR	132	 	 	Childs	 	Rate Payer	 	1609	10	0	14 pence	14.00	Nil			3V
+POOR	133	 	 	Amgur	 	Rate Payer	 	1609	10	0	8 pence	8.00	Nil			3V
+POOR	134	Mr	 	Ballowe	 	Rate Payer	 	1609	0	0	2 shillings	24.00	Nil			4R
+POOR	135	Mr	 	Robotham	 	Rate Payer	 	1609	0	0	12 pence	12.00	Nil			4R
+POOR	136	 	John	Striblehill	 	Rate Payer	 	1609	0	0	8 pence	8.00	Nil			4R
+POOR	137	 	George	Wallpoole	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	138	 	Laurence	Belson	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	139	 	John	Tibberd	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	140	 	Thomas	West	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	141	 	William	Towne	 	Rate Payer	 	1609	0	0	8 pence	8.00	Nil			4R
+POOR	142	 	Robert	Cooke	 	Rate Payer	 	1609	0	0	8 pence	8.00	Nil			4R
+POOR	143	 	Robert	Correr	 	Rate Payer	 	1609	0	0	8 pence	8.00	Nil			4R
+POOR	144	 	Edward	Bampton	 	Rate Payer	 	1609	0	0	8 pence	8.00	Nil			4R
+POOR	145	 	 	Wethered	 	Rate Payer	 	1609	0	0	6 pence	6.00	Nil			4R
+POOR	146	 	John	Louch	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	147	 	Henry	Foster	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	148	 	John	Stone	 	Rate Payer	 	1609	0	0	6 pence	6.00	Nil			4R
+POOR	149	 	Thomas	Ives	 	Rate Payer	 	1609	0	0	2 pence	2.00	Nil			4R
+POOR	150	 	Robert	Baker	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	151	 	John	Peek	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	152	 	Thomas	Roper	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	153	 	Michael	Saunders	 	Rate Payer	 	1609	0	0	8 pence	8.00	Nil			4R
+POOR	154	 	Philip	Barde	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	155	 	John	Messenger	 	Rate Payer	 	1609	0	0	2 pence	2.00	Nil			4R
+POOR	156	 	William	Halome	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	157	 	Thomas	Minchor	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	158	 	Robert	Cotton	 	Rate Payer	 	1609	0	0	8 pence	8.00	Nil			4R
+POOR	159	 	Richard	Pynder	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	160	 	Roger	Burgis	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	161	 	Henry	Benson	 	Rate Payer	 	1609	0	0	8 pence	8.00	Nil			4R
+POOR	162	 	Walter	Jemmett	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	163	 	William	Flester	 	Rate Payer	 	1609	0	0	6 pence	6.00	Nil			4R
+POOR	164	 	Richard	Smith	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	165	 	Francis	Carter	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	166	 	Edward	Cope	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	167	 	Henry	Beale	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	168	 	William	Brasey	 	Rate Payer	 	1609	0	0	8 pence	8.00	Nil			4R
+POOR	169	 	William	Wethered	 	Rate Payer	 	1609	0	0	8 pence	8.00	Nil			4R
+POOR	170	 	Richard	Cotton	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	171	 	Augustus	Striblehill	 	Rate Payer	 	1609	0	0	6 pence	6.00	Nil			4R
+POOR	172	 	John	Baker	 	Rate Payer	 	1609	0	0	2 sh & 6d	30.00	Nil			4R
+POOR	173	 	John	Bigg	 	Rate Payer	 	1609	0	0	8 pence	8.00	Nil			4R
+POOR	174	Mrs	 	Barry	 	Rate Payer	 	1609	0	0	12 pence	12.00	Nil			4R
+POOR	175	Mrs	 	Minchard	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	176	Widow	 	Tomlinson	 	Rate Payer	 	1609	0	0	12 pence	12.00	Nil			4R
+POOR	177	 	Richard	Wheeler	 	Rate Payer	 	1609	0	0	2 pence	2.00	Nil			4R
+POOR	178	 	William	Dershere	 	Rate Payer	 	1609	0	0	2 pence	2.00	Nil			4R
+POOR	179	 	Nicholas	Powell	 	Rate Payer	 	1609	0	0	2 pence	2.00	Nil			4R
+POOR	180	 	James	Starton	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	181	 	William	Haslegrove	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	182	 	Andrew	Spindler	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	183	 	John	Wittney	 	Rate Payer	 	1609	0	0	2 pence	2.00	Nil			4R
+POOR	184	 	Richard	Wittney	 	Rate Payer	 	1609	0	0	2 pence	2.00	Nil			4R
+POOR	185	 	John	Addams	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	186	 	John	Powell	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	187	 	William	Springall	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	188	 	Leonard	Messenger	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	189	 	John	Burt	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	190	 	Richard	Goldinge	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	191	 	Edward	Beale	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	192	 	Thomas	Bartlett	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	193	 	Peter	Willmott	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	194	 	John	Greene	 	Rate Payer	 	1609	0	0	2 pence	2.00	Nil			4R
+POOR	195	 	George	Towne	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	196	 	Henry	Harrison	 	Rate Payer	 	1609	0	0	2 pence	2.00	Nil			4R
+POOR	197	 	Thomas	Warrenn	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	198	 	Thomas	Cobbett	 	Rate Payer	 	1609	0	0	12 pence	12.00	Nil			4R
+POOR	199	 	John	Parkin	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	200	 	Richard	Ineet	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	201	 	Henry	Ayres	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	202	Widow	 	Inett	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	203	Widow	 	Greene	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	204	Widow	 	Benson	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	205	Widow	 	Pytman	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	206	 	Reginald	Grant	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	207	 	Richard	Molinax	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	208	 	John	Pittman	 	Rate Payer	 	1609	0	0	8 pence	8.00	Nil			4R
+POOR	209	 	Thomas	Groome	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	210	 	Robert	Allnett	 	Rate Payer	 	1609	0	0	2 pence	2.00	Nil			4R
+POOR	211	 	Peter	Weston	 	Rate Payer	 	1609	0	0	3 pence	3.00	Nil			4R
+POOR	212	 	John	Calcott	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	213	 	Richard	Hester	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			4R
+POOR	214	Mr	 	Hester	 	Rate Payer	 	1609	0	0	2 shillings	24.00	Nil			2R
+POOR	215	Mr	 	Ballowe	 	Rate Payer	 	1609	0	0	2 shillings	24.00	Nil			2R
+POOR	216	Mr	 	Robotham	 	Rate Payer	 	1609	0	0	12 pence	12.00	Nil			2R
+POOR	217	 	John	Striblehill	 	Rate Payer	 	1609	0	0	8 pence	8.00	Nil			2R
+POOR	218	 	George	Wallpull	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			2R
+POOR	219	 	Lawrence	Belson	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			2R
+POOR	220	 	John	Tytlerd	 	Rate Payer	 	1609	0	0	4 pence	4.00	Nil			2R
+POOR	221	 	Henry	Smith	 	Rate Payer	 	1609	0	11	2 pence	2.00	Nil			2V
+POOR	222	 	Robert	Clark	 	Rate Payer	 	1609	0	11	2 pence	2.00	Nil			2V
+POOR	223	 	Richard	Rowland	 	Rate Payer	 	1609	0	11	2 pence	2.00	Nil			2V
+POOR	224	 	Thomas	Boyle	 	Rate Payer	 	1609	0	11	2 pence	2.00	Nil			2V
+POOR	225	 	John	Messenger	 	Rate Payer	 	1609	0	11	2 pence	2.00	Nil			2V
+POOR	226	 	William	Jonson	 	Rate Payer	 	1609	0	11	2 pence	2.00	Nil			2V
+POOR	227	 	Michael	Morris	 	Rate Payer	 	1609	0	11	2 pence	2.00	Nil			2V
+POOR	228	 	Thomas	Keene	 	Rate Payer	 	1609	0	11	2 pence	2.00	Nil			2V
+POOR	229	 	John	Nixon	 	Rate Payer	 	1609	0	11	2 pence	2.00	Nil			2V
+POOR	230	 	Thomas	Zone	 	Rate Payer	 	1609	0	11	2 pence	2.00	Nil			2V
+POOR	231	 	Thomas	Ridley	 	Rate Payer	 	1609	0	11	2 pence	2.00	Nil			2V
+POOR	232	 	 	Chapman	 	Rate Payer	 	1609	0	11	2 pence	2.00	Nil			
+POOR	233	Sir	William	Clark	 	Rate Payer	 	1609	0	11	Nil		5 shillings	60.00		2V
+POOR	234	Mr	 	Yorke	 	Rate Payer	 	1609	0	11	Nil		7 shillings	84.00		2V
+POOR	235	Mr	 	Paulin	 	Rate Payer	 	1609	0	11	Nil		3s 7d	43.00		2V
+POOR	236	Mr	 	Tipping	 	Rate Payer	 	1609	0	11	Nil		18 shillings	216.00		2V
+POOR	237	Mr	 	Simms	 	Rate Payer	 	1609	0	11	Nil		16 shillings	192.00		2V
+POOR	238	 	Walter	Lake	 	Rate Payer	 	1609	0	11	Nil		2 shillings	24.00		2V
+POOR	239	 	John	Hester	 	Rate Payer	 	1609	0	11	Nil		12 shillings	144.00		2V
+POOR	240	 	John	Bigg	 	Rate Payer	 	1609	0	11	Nil		6 pence	6.00		2V
+POOR	241	 	Augustus	Stribblehill	 	Rate Payer	 	1609	0	11	Nil		6 pence	6.00		2V
+POOR	242	 	Lawrence	Belson	 	Rate Payer	 	1609	0	11	Nil		4 pence	4.00		2V
+POOR	243	 	Thomas	Ives	 	Rate Payer	 	1609	0	11	Nil		4 pence	4.00		2V
+POOR	244	Widow	 	Inet	 	Rate Payer	 	1609	0	11	Nil		12 pence	12.00		2V
+POOR	245	 	Richard	Bennett	 	Rate Payer	 	1609	0	11	Nil		4 pence	4.00		2V
+POOR	246	 	Henry	Smith	 	Rate Payer	 	1609	0	11	Nil		2 pence	2.00		2V
+POOR	247	 	Robert	Clarke	 	Rate Payer	 	1609	0	11	Nil		2 pence	2.00		2V
+POOR	248	 	Richard	Rowland	 	Rate Payer	 	1609	0	11	Nil		6 pence	6.00		2V
+POOR	249	 	Thomas	Boyle	 	Rate Payer	 	1609	0	11	Nil		6 pence	6.00		2V
+POOR	250	 	Thomas	Messenger	 	Rate Payer	 	1609	0	11	Nil		12 pence	12.00		2V
+POOR	251	 	John	Messenger	 	Rate Payer	 	1609	0	11	Nil		6 pence	6.00		2V
+POOR	252	 	Michael	Morris	 	Rate Payer	 	1609	0	11	Nil		2 pence	2.00		2V
+POOR	253	 	Thomas	Keene	 	Rate Payer	 	1609	0	11	Nil		2 pence	2.00		2V
+POOR	254	 	John	Nixon	 	Rate Payer	 	1609	0	11	Nil		6 pence	6.00		2V
+POOR	255	 	Thomas	Ridley	 	Rate Payer	 	1609	0	11	Nil		7 pence	7.00		2V
+POOR	256	 	Thomas	Zone	 	Rate Payer	 	1609	0	11	Nil		7 pence	7.00		2V
+POOR	257	 	William	Towne	 	Rate Payer	 	1609	0	11	Nil		8 pence	8.00		2V
+POOR	258	 	Thomas	Cobbett	 	Rate Payer	 	1609	0	11	Nil		6 pence	6.00		2V
+POOR	259	Mr	 	Tippinge	 	Rate Payer	 	1604	11	18	Nil		?			1V
+POOR	260	Mr	 	Simon	 	Rate Payer	 	1604	11	18	Nil		?			1V
+POOR	261	Mr	 	Lake	 	Rate Payer	 	1604	11	18	Nil		?			1V
+POOR	262	 	Augustus	Striblehill	 	Rate Payer	 	1604	11	18	Nil		?			1V
+POOR	263	 	John	Bigg	 	Rate Payer	 	1604	11	18	Nil		?			1V
+POOR	264	 	 	Weston	men	Rate Payer	 	1604	11	18	Nil		?		Weston men	1V
+POOR	265	 	Thomas	West	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	266	 	William	Towne	 	Rate Payer	 	1604	0	0	8 pence	8.00	Nil			2R
+POOR	267	 	Robert	Corke	 	Rate Payer	 	1604	0	0	8 pence	8.00	Nil			2R
+POOR	268	 	Robert	Correr	 	Rate Payer	 	1604	0	0	8 pence	8.00	Nil			2R
+POOR	269	 	Edward	Bampton	 	Rate Payer	 	1604	0	0	8 pence	8.00	Nil			2R
+POOR	270	 	 	Wethered	Jnr	Rate Payer	 	1604	0	0	6 pence	6.00	Nil			2R
+POOR	271	 	John	Louch	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	272	 	Henry	Foster	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	273	 	John	Stone	 	Rate Payer	 	1604	0	0	6 pence	6.00	Nil			2R
+POOR	274	 	Thomas	Ives	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	275	 	Robert	Baker	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	276	 	John	Peck	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	277	 	Thomas	Roper	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	278	 	Mor?	Saunders	 	Rate Payer	 	1604	0	0	8 pence	8.00	Nil			2R
+POOR	279	 	Philip	Burd	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	280	 	John	Messenger	 	Rate Payer	 	1604	0	0	2 pence	2.00	Nil			2R
+POOR	281	 	William	Heiburne	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	282	 	Thomas	Mynchard	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	283	 	Robert	Cotton	 	Rate Payer	 	1604	0	0	6 pence	6.00	Nil			2R
+POOR	284	 	Richard	Pynder	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	285	 	Richard G.	Burgis	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	286	 	Henry	Beram	 	Rate Payer	 	1604	0	0	8 pence	8.00	Nil			2R
+POOR	287	 	Walter	Jemott	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	288	 	Richard	Smith	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	289	 	Francis	Carter	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	290	 	Edward	Cope	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	291	 	Henry	Beale	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	292	 	William	Wethered	 	Rate Payer	 	1604	0	0	8 pence	8.00	Nil			2R
+POOR	293	Mr	 	Boas	 	Rate Payer	 	1604	0	0	8 pence	8.00	Nil			2R
+POOR	294	 	Richard	Cotton	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	295	 	Augustus	Striblehill	 	Rate Payer	 	1604	0	0	6 pence	6.00	Nil			2R
+POOR	296	 	John	Baker	 	Rate Payer	 	1604	0	0	6 pence	6.00	Nil			2R
+POOR	297	Mrs	 	Barry	 	Rate Payer	 	1604	0	0	12 pence	12.00	Nil			2R
+POOR	298	 	John	Bigg	 	Rate Payer	 	1604	0	0	8 pence	8.00	Nil			2R
+POOR	299	Widow	 	Tomlinson	 	Rate Payer	 	1604	0	0	12 pence	12.00	Nil			2R
+POOR	300	 	Richard	Wheeler	 	Rate Payer	 	1604	0	0	2 pence	2.00	Nil			2R
+POOR	301	 	William	Denster	 	Rate Payer	 	1604	0	0	2 pence	2.00	Nil			2R
+POOR	302	 	Nicholas	Powell	 	Rate Payer	 	1604	0	0	2 pence	2.00	Nil			2R
+POOR	303	 	John	Stanton	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	304	 	William	Haslegrove	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	305	 	Andrew	Spindler	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	306	 	John	Witney	 	Rate Payer	 	1604	0	0	2 pence	2.00	Nil			2R
+POOR	307	 	Richard	Wittney	 	Rate Payer	 	1604	0	0	2 pence	2.00	Nil			2R
+POOR	308	 	John	Addams	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	309	 	John	Powell	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	310	 	William	Springall	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	311	 	Leonard	Messenger	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	312	 	John	Burton	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	313	 	Richard	Golding	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	314	 	Edward	Beale	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	315	 	Thomas	Bartlett	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	316	 	Peter	Willmott	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	317	 	John	Greene	 	Rate Payer	 	1604	0	0	2 pence	2.00	Nil			2R
+POOR	318	 	 	Towne	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	319	 	Henry	Lariman	 	Rate Payer	 	1604	0	0	2 pence	2.00	Nil			2R
+POOR	320	 	Thomas	Warner	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	321	 	Thomas	Cobbett	 	Rate Payer	 	1604	0	0	12 pence	12.00	Nil			2R
+POOR	322	 	John	Parkins	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	323	 	Edward	Baylie	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	324	 	Richard	Inett	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	325	 	Thomas	Messenger	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	326	 	John	Messenger	 	Rate Payer	 	1604	0	0	2 pence	2.00	Nil			2R
+POOR	327	 	Henry	Ayres	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	328	Widow	 	Inett	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	329	Widow	 	Greene	 	Rate Payer	 	1604	0	0	8 pence	8.00	Nil			2R
+POOR	330	Widow	 	Benson	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	331	Widow	 	Pytman	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	332	Widow	 	Minchard	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	333	 	Reginald	Graunt	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	334	 	Richard	Molinax	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	335	 	John	Pyttman	 	Rate Payer	 	1604	0	0	8 pence	8.00	Nil			2R
+POOR	336	 	Thomas	Groome	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	337	 	John	Calcott	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	338	 	Robert	Alnett	 	Rate Payer	 	1604	0	0	2 pence	2.00	Nil			2R
+POOR	339	 	Peter	Weston	 	Rate Payer	 	1604	0	0	3 pence	3.00	Nil			2R
+POOR	340	 	Edmund	Sheppard	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	341	 	John	Groome	 	Rate Payer	 	1604	0	0	4 pence	4.00	Nil			2R
+POOR	342	 	Guy	Wilton	 	Rate Payer	 	1604	0	0	2 pence	2.00	Nil			2R
+POOR	343	 	Richard	Corner	 	Rate Payer	 	1604	0	0	2 pence	2.00	Nil			2R
+POOR	344	 	Humphrey	Jemott	 	Rate Payer	 	1604	0	0	2 pence	2.00	Nil			2R
+POOR	345	 	Joseph	Sheppard	 	Rate Payer	 	1604	0	0	2 pence	2.00	Nil			2R
+POOR	423	Widow	 	Dorvall	 	Rate Peceiver	 	1609	0	0	12 pence	12.00	Nil			5R
+POOR	424	Widow	 	Lewes	 	Rate Peceiver	 	1609	0	0	12 pence	12.00	Nil			5R
+POOR	425	Widow	 	Page	 	Rate Peceiver	 	1609	0	0	6 pence	6.00	Nil			5R
+POOR	426	 	 	Coles	 	Rate Peceiver	 	1609	0	0	4 pence	4.00	Nil			5R
+POOR	427	 	 	Beale	 	Rate Peceiver	 	1609	0	0	6 pence	6.00	Nil			5R
+POOR	428	 	 	Matthews	 	Rate Peceiver	 	1609	0	0	4 pence	4.00	Nil			5R
+POOR	429	 	Richard	Percie	 	Rate Peceiver	 	1609	0	0	12 pence	12.00	Nil			5R
+POOR	430	 	Cicel	More	 	Rate Peceiver	 	1609	0	0	6 pence	6.00	Nil			5R
+POOR	431	Widow	 	Keeles	 	Rate Peceiver	 	1609	0	0	6 pence	6.00	Nil			5R
+POOR	432	 	 	Hall	 	Rate Peceiver	 	1609	0	0	8 pence	8.00	Nil			5R
+POOR	433	 	 	Child	 	Rate Peceiver	 	1609	0	0	8 pence	8.00	Nil			5R
+POOR	434	 	Mary	White	 	Rate Peceiver	 	1609	0	0	2 pence	2.00	Nil			5R
+POOR	435	 	 	Wells	 	Rate Peceiver	 	1609	0	0	8 pence	8.00	Nil			5R
+POOR	436	 	Richard	Bradshul	 	Rate Peceiver	 	1609	0	0	1 penny & halfpenny	1.50	Nil			5R
+POOR	437	 	 	Jackson	 	Rate Peceiver	 	1609	0	0	6 pence	6.00	Nil			5R
+POOR	438	 	Michael	Woodbridge	wife of	Rate Peceiver	 	1609	0	0	12 pence	12.00	Nil			5R
+POOR	439	 	 	Collman	 	Rate Peceiver	 	1609	0	0	4 pence	4.00	Nil			5R
+POOR	440	Widow	 	Hyde	 	Rate Peceiver	 	1609	0	0	5 pence	5.00	Nil			5R
+POOR	441	Widow	 	Howe	 	Rate Peceiver	 	1609	0	0	12 pence	12.00	Nil			5R
+POOR	442	Widow	 	Palmer	 	Rate Peceiver	 	1609	0	0	4 pence	4.00	Nil			5R
+POOR	443	 	 	Jesseppe	 	Rate Peceiver	 	1609	0	0	4 pence	4.00	Nil			5R
+POOR	444	 	 	Prise	 	Rate Peceiver	 	1609	0	0	17 pence	17.00	Nil			5R
+POOR	445	 	 	Huckett	 	Rate Peceiver	 	1609	0	0	3 pence	3.00	Nil			5R
+POOR	446	 	 	Cope	 	Rate Peceiver	 	1609	0	0	3 pence	3.00	Nil			5R
+POOR	447	 	 	Wigg	 	Rate Peceiver	 	1609	0	0	4 pence	4.00	Nil			5R
+POOR	448	 	 	Beardsworth	 	Rate Peceiver	 	1609	0	0	3 pence	3.00	Nil			5R
+POOR	449	 	 	Rowland	 	Rate Peceiver	 	1609	0	0	4 pence	4.00	Nil			5R
+POOR	450	 	 	Smith	 	Rate Peceiver	 	1609	0	0	4 pence	4.00	Nil			5R
+POOR	451	 	 	Costard	 	Rate Peceiver	 	1609	0	0	1 penny	1.00	Nil			5R
+POOR	452	 	 	Simson	 	Rate Peceiver	 	1609	0	0	9 pence	9.00	Nil			5R
+POOR	453	 	William	Dickinson	 	Rate Peceiver	 	1609	10	29	8 pence	8.00	Nil			3R
+POOR	454	Mrs	 	Nicholas	 	Rate Peceiver	 	1609	10	29	4 pence	4.00	Nil			3R
+POOR	455	Widow	 	Paine	 	Rate Peceiver	 	1609	10	29	8 pence	8.00	Nil			3R
+POOR	456	Widow	 	Lewes	 	Rate Peceiver	 	1609	10	29	16 pence	16.00	Nil			3R
+POOR	457	 	 	Jesephe	 	Rate Peceiver	 	1609	10	29	4 pence	4.00	Nil			3R
+POOR	458	 	 	Hall	 	Rate Peceiver	 	1609	10	29	4 pence	4.00	Nil			3R
+POOR	459	Widow	 	Dorvall	 	Rate Peceiver	 	1609	10	29	8 pence	8.00	Nil			3R
+POOR	460	 	Mathew	Wigg	 	Rate Peceiver	 	1609	10	29	8 pence	8.00	Nil			3R
+POOR	461	 	 	Beale	 	Rate Peceiver	 	1609	10	29	4 pence	4.00	Nil			3R
+POOR	462	 	 	Hide	 	Rate Peceiver	 	1609	10	29	8 pence	8.00	Nil			3R
+POOR	463	 	 	Smith	 	Rate Peceiver	 	1609	10	29	8 pence	8.00	Nil			3R
+POOR	464	 	 	Gott	 	Rate Peceiver	 	1609	10	29	16 pence	16.00	Nil			3R
+POOR	465	Mistress	 	Dorsie	 	Rate Peceiver	 	1609	10	29	8 pence	8.00	Nil			3R
+POOR	466	 	 	Nichilis	 	Rate Peceiver	 	1609	10	29	2 pence	2.00	Nil			3R
+POOR	467	 	 	Smith	 	Rate Peceiver	 	1609	10	29	2 pence	2.00	Nil			3R
+POOR	468	 	 	Gill	 	Rate Peceiver	 	1609	10	29	4 pence	4.00	Nil			3R
+POOR	469	 	 	Collnid	 	Rate Peceiver	 	1609	10	29	4 pence	4.00	Nil			3R
+POOR	470	 	 	Davis	 	Rate Peceiver	 	1609	10	29	4 pence	4.00	Nil			3R
+POOR	471	 	 	Goodall	 	Rate Peceiver	 	1609	10	29	2 pence	2.00	Nil			3R
+POOR	472	 	 	Wells	 	Rate Peceiver	 	1609	10	29	4 pence	4.00	Nil			3R
+POOR	473	 	 	Bradford	 	Rate Peceiver	 	1609	10	29	4 pence	4.00	Nil			3R
+POOR	474	 	 	Crane	 	Rate Peceiver	 	1609	10	29	4 pence	4.00	Nil			3R
+POOR	475	 	 	Cule	 	Rate Peceiver	 	1609	10	29	2 pence	2.00	Nil			3R
+POOR	476	 	 	Sims	 	Rate Peceiver	 	1609	10	29	2 pence	2.00	Nil			3R
+POOR	477	 	 	Beresworth	 	Rate Peceiver	 	1609	10	29	4 pence	4.00	Nil			3R
+POOR	478	 	 	Asher	 	Rate Peceiver	 	1609	10	29	4 pence	4.00	Nil			3R
+POOR	479	 	 	Simson	 	Rate Peceiver	 	1609	10	29	6 pence	6.00	Nil			3R
+POOR	480	 	 	Wilcox	 	Rate Peceiver	 	1609	10	29	4 pence	4.00	Nil			3R
+POOR	481	 	 	Goodall	 	Rate Peceiver	 	1609	10	29	2 pence	2.00	Nil			3R
+POOR	482	 	 	Bartlet	 	Rate Peceiver	 	1609	10	29	2 pence	2.00	Nil			3R
+POOR	483	 	 	Dawkins	 	Rate Peceiver	 	1609	10	29	8 pence	8.00	Nil			3R
+POOR	484	 	 	Child	 	Rate Peceiver	 	1609	10	29	4 pence	4.00	Nil			3R
+POOR	485	 	 	Gynks	 	Rate Peceiver	 	1609	10	29	8 pence	8.00	Nil			3R
+POOR	486	 	 	Coper	 	Rate Peceiver	 	1609	10	29	4 pence	4.00	Nil			3R
+POOR	487	 	 	Archer	 	Rate Peceiver	 	1609	10	29	4 pence	4.00	Nil			3R
+POOR	488	 	 	Hubbert	 	Rate Peceiver	 	1609	10	29	12 pence	12.00	Nil			3R
+POOR	489	 	 	Allen	 	Rate Peceiver	 	1609	10	29	4 pence	4.00	Nil			3R
+POOR	490	 	 	Smith	 	Rate Peceiver	 	1609	10	29	4 pence	4.00	Nil			3R
+POOR	491	 	 	Simms	 	Rate Peceiver	 	1609	10	29	2 pence	2.00	Nil			3R
+POOR	492	 	 	Rowland	 	Rate Peceiver	 	1609	10	29	2 pence	2.00	Nil			3R
+POOR	493	 	 	Fanbur	 	Rate Peceiver	 	1609	10	29	4 pence	4.00	Nil			3R
+POOR	494	Widow	 	Lewes	 	Rate Peceiver	 	1609	10	29	2 sh for shoes	24.00	Nil			3R
+POOR	495	 	 	Hucket	 	Rate Peceiver	 	1609	10	29	8 pence	8.00	Nil			3R
+POOR	496	 	 	Rowland	 	Rate Peceiver	 	1609	10	29	8 pence	8.00	Nil			3R
+POOR	497	 	Henry	Beale	 	Rate Collector	 	1609	10	0	Nil		Nil			3V
+POOR	498	 	Henry	Benson	 	Rate Collector	 	1609	10	0	Nil		Nil			3V
+POOR	499	 	George	Benson	 	Rate Collector	 	1609	10	29	Nil		Nil			3R
+POOR	500	 	John	Adams	 	Rate Collector	 	1609	0	11	Nil		Nil			2V
+POOR	501	 	Edward	Beale	 	Rate Collector	 	1609	0	11	Nil		Nil			2V
+POOR	502	 	John	Calcott	 	Rate Collector	 	1609	0	0	Nil		Nil			5V
+POOR	503	 	Robert	Cotton	 	Rate Collector	 	1609	0	0	Nil		Nil			5V
+POOR	504	 	Thomas	West	 	Rate Collector	 	1604	11	18	Nil		Nil			1V
+POOR	505	 	Michael	Saunders	 	Rate Collector	 	1604	11	18	Nil		Nil			1V
+POOR	506	 	 	Wethered	 	Rate Collector	 	1604	12	0	Nil		Nil			1R
+POOR	507	 	Richard	Witney	 	Rate Collector	 	1604	12	0	Nil		Nil			1R
+POOR	508	 	Henry	Benson	 	Rate Collector	 	1609	0	0	Nil		Nil			4R; Date uncertain
+POOR	509	 	Henry	Beale	 	Rate Collector	 	1609	0	0	Nil		Nil			4R; Date uncertain
+POOR	510	 	John	Calcott	 	Rate Collector	 	1604	0	0	Nil		Nil			2R; date unknown
+POOR	511	 	Robert	Cotton	 	Rate Collector	 	1604	0	0	Nil		Nil			2R; date unknown

@@ -1,0 +1,37 @@
+5398 -  Male Occupational Data from English Parish Registers (processed
+summary data), c. 1700-1820
+
+
+
+Data Set Type
+=============
+
+data files (23 files)
+
+
+
+Data Set Format
+===============
+
+The following data formats have been prepared by AHDS History:
+
+Tab delimited *.txt files (23 files)
+
+OR
+
+Tab delimited *.tab files - suitable for usage with MSExcel (23 files) 
+
+If requested, data may have been supplied in other formats where
+practicable.
+
+
+
+History Data Service (HDS), 09/06/2011
+UK Data Archive
+University of Essex
+Colchester CO4 3SQ
+
+Tel: +44 (0)1206 872326
+Fax: +44 (0)1206 872003
+Email: hds@essex.ac.uk
+URL: http://hds.essex.ac.uk/

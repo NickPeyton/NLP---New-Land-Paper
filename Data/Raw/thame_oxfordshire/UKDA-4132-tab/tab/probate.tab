@@ -1,0 +1,811 @@
+SC	ID	Title	Fname	Sname	Status	Occup	Place	Role	Year	Day	Month	ProbYear	ProbDay	ProbMonth	DocNo1	Comment	OccupCode	Typed	Transcribed
+LEE	61	 	Thomas	Bryan	 	Beerbrewer	Thame	Will	1643	13	7	1643	20	9	LEE P119		4	Yes	Syn
+LEE	153	 	John	Dormer	 	Yeoman	Thame	Will	1619	7	6				LEE P522		2	Yes	Syn
+ORO	532	 	Jeffery	Alnut	Sen	Shoemaker	Thame	Will	1692	5	8				Hi 1/2	X refer PEC 32/2/12	4	Yes	Yes
+ORO	609	 	Richard	Greene	 	Shepherd	Thame	Will	1655	10	8				Misc Yorks NR III/i/1	X refer PROB11 267	2	Yes	Yes
+ORO	666	 	Richard	Lamborn	gentleman	 	Old Thame	Will	1658	2	1	1658	28	2	Parrott II/83	X refer PROB11 272	1	Yes	Yes
+ORO	705	 	William	Pime	 	 	New Thame	Will	1661	23	1	1662	10	10	Misc I/ii/6	X refer PEC 48/3/5	1	Yes	Yes
+ORO	718	 	Anthony	Price	gent	 	Old Thame	Will	1688	27	9				Wi I/xvi/2	X refer PEC 49/1/23	1	Yes	Yes
+ORO	780	 	Matthew	Warters	 	Mercer	Thame	Will	1660	21	9	1661	12	2	Li XV/ii/c/7	X refer PROB11 303	4	Yes	Yes
+PCC	3	 	Thomas	Addams	 	Yeoman	Thame	Will	1623	7	6	1623	1	8	PROB11 142.82		2	Yes	Yes
+PCC	7	 	Nicholas	Almond	 	Yeoman	Thame	Will	1652	17	5	1653	20	4	PROB11 229.255		2	Yes	Yes
+PCC	8	Widow	Chrispian	Alnet	 	 	Thame	Will	1602	1	5	1602	21	10	PROB11 100.64		5	Yes	Yes
+PCC	14	 	Elizabeth	Atlife	gentlewoman	 	Thame	Will	1662	7	8				PROB11 305.133		5	Yes	Yes
+PCC	17	 	John	Ayres	elder	Shopkeeper~	Thame	Will	1650	21	2				PROB11 217.137		4	Yes	Yes
+PCC	20	 	John	Ayres	elder	Innholder/Gardener	Thame	Will	1693	20	2	1697	25	11	PROB11 441.219		2	Yes	Yes
+PCC	22	 	Jerome	Baley	als Henley	Carpenter	Thame	Will	1632	2	4	1657	14	8	PROB11 267.314		3	Yes	Yes
+PCC	23	 	Robert	Baker	 	Brewer	Thame	Will	1622	17	9	1622	17	10	PROB11 140.87		4	Yes	Yes
+PCC	27	 	Thomas	Ballowe	elder	 	Thame	Will	1615	9	12	1616	1	2	PROB11 127.17a		1	Yes	Yes
+PCC	28	 	Thomas	Ballowe	gent	 	Thame	Will	1627	8	3	1629	23	4	PROB11 155.33		1	Yes	Yes
+PCC	29	 	Thomas	Ballo	 	Merchant	Old Thame	Will	1636	12	7	1638	12	7	PROB11 177.67		1	Yes	Yes
+PCC	36	 	Frauncis	Barry	gent	 	Thame	Will	1604	18	3	1604	2	5	PROB11 103.37		1	Yes	Yes
+PCC	37	 	Vincent	Barry	Esquire	 	Thame	Will	1666	30	5	1667	24	1	PROB11 323.2		1	Yes	Yes
+PCC	41	 	John	Basse	 	Carrier	New Thame	Will	1694	21	2	1694	10	4	PROB11 419.69		3	Yes	Yes
+PCC	46	Mr	Henry	Benson	 	 	Thame	Will	1612	9	5				PROB11 120.11O		1	Yes	Yes
+PCC	54	 	Phillipp	Burde	 	Fletcher	Thame	Will	1598	22	4	1600	5	2	PROB11 95.9		3	Yes	Yes
+PCC	58	 	Richard	Boucher	gent	 	Thame	Will	1627	9	7	1627	6	8	PROB11 152.84		1	Yes	Syn
+PCC	60	 	Richard	Brasey	als Baker gentleman	 	Thame	Will	1647	21	7	1647	30	7	PROB11 201.156	alias Baker. See LEE page 157	1	Yes	Yes
+PCC	65	 	Elizabeth	Brooks	 	 	Thame	Account	1677	0	0		0	0	PROB4 9438	unable to transcribe	5	Yes	No
+PCC	72	 	Richard	Burnard	 	Yeoman	Priestend	Will	1689	22	6	1692	2	6	PROB11 410.99		2	Yes	Yes
+PCC	73	 	George	Burrowes	 	Merchant	City of London	Will	1693	6	7				PROB11 415.105		4	Yes	Yes
+PCC	81	 	John	Calcott	 	Fellmonger	New Thame	Will	1654	16	11	1658	31	3	PROB11 274.123		4	Yes	Yes
+PCC	82	 	Joseph	Calcott	 	Butcher	Thame	Will	1659	27	10	1659	0	0	PROB11 300.205		4	Yes	Yes
+PCC	88	 	Richard	Cannon	 	Almsman	Thame	Will	1606	2	6	1606	15	7	PROB11 108.61		1	Yes	Yes
+PCC	96	Widow	Mary	Clerke	als Phillipps	 	Thame	Will	1620	17	1	1620	22	6	PROB11 135.62		5	Yes	Yes
+PCC	97	 	Edward	Clerke	Esquire	 	N. Weston	Will	1677	22	4	1678	17	8	PROB11 357.91		1	Yes	Yes
+PCC	98	Dame	Philadelphia	Clerke	 	 	N. Weston	Will	1695	15	8	1699	4	5	PROB11 450.71		5	Yes	Yes
+PCC	100	 	John	Clisby	 	Husbandman	Moreton	Will	1658	12	8	1658	30	10	PROB11 282.552		2	Yes	Yes
+PCC	101	 	Thomas	Cobbet	 	Yeoman	Moreton	Will	1617	12	11	1618	11	2	PROB11 131.1O		2	Yes	Yes
+PCC	105	 	Robert	Coles	elder	Maltster	Thame	Will	1653	5	5	1654	11	9	PROB11 234.73		4	Yes	Yes
+PCC	108	 	Robert	Cooke	 	Brewer	Thame	Will	1621	23	1	1621	22	2	PROB11 137.14		4	Yes	Yes
+PCC	110	 	Robert	Cooke	 	Scrivenor	Thame	Will	1659	15	3	1661	19	12	PROB11 306.195		1	Yes	No
+PCC	112	 	Jane	Cooke	 	 	New Thame	Will	1680	24	6	1680	6	8	PROB11 363.105		5	Yes	Yes
+PCC	125	 	William	Cotton	 	Yeoman	Thame	Will	1612	3	9	1612	5	11	PROB11 120.111		2	Yes	Yes
+PCC	127	 	Robert	Cotten	 	Linen Draper	Thame	Will	1627	8	5	1628	20	2	PROB11 153.9		4	Yes	Yes
+PCC	129	 	Phillipp	Cotton	 	Innholder	Thame	Will	1655	30	8	1657	26	11	PROB11 270.473		4	Yes	Yes
+PCC	130	 	Richard	Cotton	 	Butcher	Thame	Will	1655	20	3	1656	17	7	PROB11 257.283		4	Yes	Yes
+PCC	135	 	Robert	Cotton	 	Grazier	Old Thame	Will	1700	15	5	1700	5	12	PROB11 458.180		2	Yes	Yes
+PCC	138	 	Stephen	Coosen	 	Victualer~/Baker	Thame	Will	1654	18	7	1654	17	8	PROB11 234.179		4	Yes	Yes
+PCC	140	 	John	Cove	 	Husbandman	N. Weston	Will	1601	17	5	1601	7	8	PROB11 98.53		2	Yes	Yes
+PCC	146	 	John	Cowley	 	Carpenter	New Thame	Will	1689	14	10	1689	2	12	PROB11 397.172		3	Yes	Yes
+PCC	159	Sir	Christopher	Edmundes	knight	 	N. Weston	Will	1595	0	6	1597	0	2	PROB11 88.53	of Lewknor	1	Yes	Yes
+PCC	160	 	Zacharie	Edwardes	 	Yeoman	Thame Park	Will	1646	0	0	1646	21	10	PROB11 197.147	will undated	2	Yes	Yes
+PCC	168	 	Hugh	Evans	bachelor of arts	 	Thame	Will	1632	3	1	1632	19	1	PROB11 161.4		1	Yes	Yes
+PCC	169	 	Griffin	Evans	 	 	Thame	Will	1655	9	11	1656	15	3	PROB11 254.107		1	Yes	Yes
+PCC	173	 	Thomas	Ewstace	 	Yeoman	N. Weston	Will	1656	9	12	1657	24	11	PROB11 270.472		2	Yes	Yes
+PCC	185	 	Joseph	Franklin	 	Yeoman	Thame	Will	1669	14	2	1669	29	4	PROB11 329.40		2	Yes	Yes
+PCC	186	 	William	Fryer	 	Yeoman	Moreton	Will	1679	21	6	1679	10	7	PROB11 360.83		2	Yes	Yes
+PCC	190	 	John	Gynger	 	Carpenter	Thame	Will	1615	2	10	1616	7	2	PROB11 127.17b		3	Yes	Yes
+PCC	195	Widow	Cecilie	Greene	 	 	N. Weston	Will	1610	21	10	1611	10	1	PROB11 117.7		5	Yes	Yes
+PCC	201	 	Richard	Green	 	Shepherd	Thame	Will	1655	10	8	1657	14	8	PROB11 267.314	X refer Misc Yorks NR III/i/1	2	Yes	Yes
+PCC	206	 	Edward	Gurden	 	Draper~	Thame	Will	1638	5	3	1638	12	6	PROB11 177.75		4	Yes	Yes
+PCC	207	Widow	Elizabeth	Gourden	 	 	Thame	Will	1638	9	10				PRO SP11/8 XC4724		5	Yes	Yes
+PCC	208	 	John	Gurden	 	Draper	New Thame	Will	1681	6	4	1681	27	10	PROB11 367.141		4	Yes	Yes
+PCC	214	 	Robert	Harris	 	Labourer	Thame	Will	1652	11	5	1652	14	10	PROB11 223.171		2	Yes	Yes
+PCC	216	 	Humfrye	Harte	 	Usher	Thame	Will	1613	16	8	1613	13	12	PROB11 122.118	 Free School	1	Yes	Yes
+PCC	218	 	Joane	Haulgh	 	 	Thame Park	Will	1649	19	4	1649	28	6	PROB11 208.82		5	Yes	Yes
+PCC	221	 	Robert	Heath	 	Mason	New Thame	Will	1694	25	6	1695	23	5	PROB11 425.74	X refer PROB4 4462	3	Yes	Yes
+PCC	222	 	William	Hellier	 	Collermaker	Thame	Will	1610	16	1	1611	1	2	PROB11 117.16		3	Yes	Yes
+PCC	225	 	William	Heyburne	 	Yeoman	Thame	Will	1641	26	1	1641	10	5	PROB11 186.64		2	Yes	Yes
+PCC	226	 	William	Heyborne	 	 	Thame	Will	1646	2	11	1648	9	2	PROB11 199.13		1	Yes	Yes
+PCC	229	 	Thomas	Heyborne	 	Yeoman	Thame Park	Will	1689	3	9	1696	8	2	PROB11 430.14		2	Yes	Yes
+PCC	255	 	William	Jordan	 	Yeoman	Thame	Will	1653	4	9	1654	28	1	PROB11 239.349		2	Yes	Yes
+PCC	257	 	Richard	Jordan	elder	Distiller	New Thame	Will	1687	1	9	1688	10	10	PROB11 388.127		4	Yes	Yes
+PCC	258	Widow	Joane	Jordan	 	 	Thame	Will	1694	21	11	1695	28	3	PROB11 429.211		5	Yes	Yes
+PCC	264	 	Richard	Lamborne	gent	 	Old Thame	Will	1658	2	1	1658	14	1	PROB11 272.48	X refer Parrott II/83	1	Yes	Yes
+PCC	266	 	Edward	Lawrence	elder	Bricklayer	Thame	Will	1660	17	3	1660	22	11	PROB11 302.286		3	Yes	Yes
+PCC	268	 	Edward	Leaver	gent	 	N. Weston	Will	1696	3	11	1697	10	2	PROB11 443.42		1	Yes	Yes
+PCC	270	 	Robert	Loder	 	 	Thame Park	Will	1622	0	0	1623	18	1	PROB11 141.5		1	Yes	Yes
+PCC	272	Widow	Anne	Lord	 	 	Thame	Will	1648	15	3	1658	13	2	PROB11 273.58		5	Yes	Yes
+PCC	278	Widow	Elizabeth	Maund	 	 	Thame	Will	1672	12	4				PROB11 341.178		5	Yes	Yes
+PCC	280	 	William	Maune	 	Tanner	Windsor	Will	1692	12	9				PROB11 418.14	died at Windsor	3	Yes	Yes
+PCC	281	 	John	Mayne	gent	 	Moreton	Will	1626	29	5	1626	30	6	PROB11 149.96		1	Yes	Yes
+PCC	288	 	Richard	Messenger	 	Yeoman	Moreton	Will	1652	18	4	1653	27	5	PROB11 226.66		2	Yes	Yes
+PCC	298	Widow	Mairie	Moore	 	 	Thame	Will	1634	28	7	1637	24	11	PROB11 175.147		5	Yes	Yes
+PCC	318	 	Gerrard	Parslowe	 	 	N. Weston	Will	1601	13	5				PROB11 98.42	X refer PROB11 100.50	1	Yes	Yes
+PCC	319	 	John	Partridge	 	Yeoman	New Thame	Will	1683	10	2	1684	31	7	PROB11 276	X refer PROB4 4784	2	Yes	Yes
+PCC	322	 	Maximilian	Petty	Esquire	 	Thame	Will	1639	12	8	1641	24	1	PROB11 182.2		1	Yes	Yes
+PCC	323	 	William	Phillipps	 	Draper	Thame	Will	1648	11	1	1648	25	2	PROB11 203.214		4	Yes	Yes
+PCC	324	Widow	Mary	Phillipps	 	 	Moreton	Will	1658	5	10	1658	16	11	PROB11 285.672		5	Yes	Yes
+PCC	330	 	John	Pitman	 	Mercer~	Thame	Will	1619	1	3	1619	8	11	PROB11 134.108		4	Yes	Syn
+PCC	344	 	Thomas	Quartermaine	gentleman	 	Thame	Will	1632	28	2				PROB11 161.15		1	Yes	Yes
+PCC	352	 	Thomas	Roper	 	Mercer	Thame	Will	1616	19	12	1617	7	2	PROB11 129.18		4	Yes	Syn
+PCC	354	 	Thomas	Roper	gent	 	London	Will	1648	8	9	1648	20	9	PROB11 209.138		1	Yes	Yes
+PCC	355	 	William	Roper	 	Milliner	Thame	Will	1652	20	3	1652	8	5	PROB11 221.91		4	Yes	Yes
+PCC	359	 	Thomas	Shackerley	bachelor	 	Thame	Will	1646	0	4	1647	27	6	PROB11 196.93	Died in service of Parliament	1	Yes	Yes
+PCC	370	 	Richard	Smith	gentleman~	 	Thame	Will	1621	14	10	1622	22	5	PROB11 139.50		1	Yes	Yes
+PCC	374	 	John	Smith	 	Yeoman	N. Weston	Will	1652	11	7	1653	2	6	PROB11 234.74		2	Yes	Yes
+PCC	375	 	John	Smith	 	Yeoman	N. Weston	Will	1659	7	4	1660	11	4	PROB11 298.68		2	Yes	Yes
+PCC	385	Widow	Elizabeth	Springall	 	 	Priestend	Will	1616	2	9	1617	9	10	PROB11 128.93		5	Yes	Yes
+PCC	391	 	Richard	Springall	 	Butcher	New Thame	Will	1681	23	11	1685	18	7	PROB11 380.93	X refer PROB4 10989	4	Yes	Yes
+PCC	393	 	Thomas	Stanton	 	Mercer	Priestend	Will	1600	20	1				PROB11 95.24		4	Yes	Yes
+PCC	402	Widow	Mary	Stone	 	 	Thame	Will	1661	2	11				PROB11 307.10		5	Yes	Yes
+PCC	409	 	John	Stribblehill	 	Tanner	Thame	Will	1618	0	0	1618	30	4	PROB11 131.29	will undated	3	Yes	Yes
+PCC	410	 	Augustine	Striblehill	 	 	Thame	Will	1636	4	1	1636	10	10	PROB11 172.105		1	Yes	Yes
+PCC	411	Widow	Jane	Striblehill	 	 	Thame	Will	1636	23	8	1636	10	10	PROB11 172.106		5	Yes	Yes
+PCC	413	 	John	Striblehill	elder	Yeoman	Priestend	Will	1680	15	3	1680	8	6	PROB11 303.86		2	Yes	Yes
+PCC	414	 	Thomas	Striblehill	gent	 	Old Thame	Will	1679	5	12	1680	22	10	PROB11 364.134		1	Yes	Yes
+PCC	415	Widow	Joane	Striblehill	 	 	Priestend	Will	1687	8	3	1687	1	11	PROB11 389.143		5	Yes	Yes
+PCC	420	 	Mary	Syred	spinster	 	Thame	Will	1621	21	6	1621	20	9	PROB11 138.76		5	Yes	Yes
+PCC	432	 	William	Towne	elder	Yeoman	Priestend	Will	1657	24	7	1658	4	2	PROB11 273.58		2	Yes	Yes
+PCC	440	 	Thomas	Warner	 	Carrier	Thame	Will	1654	1	7	1654	8	9	PROB11 234.73		3	Yes	Yes
+PCC	443	 	Mathew	Warters	 	Mercer	Thame	Will	1660	21	9	1661	12	2	PROB11 303.35	X refer ORO Li. XV/ii/c/7	4	Yes	Yes
+PCC	447	 	William	Welsh	 	Schoolmaster	Thame	Will	1649	3	3	1651	28	7	PROB11 217.153		1	Yes	Syn
+PCC	448	Sir	Richard	Wenman	knight	 	Thame Park	Will	1638	15	8	1640	30	4	PROB11 182.47	Viscount Wenman	1	Yes	Yes
+PCC	449	 	Richard	Wenman	Esquire	 	Thame Park	Will	1646	12	6	1646	7	10	PROB11 197.147	son of Viscount Wenman	1	Yes	Syn
+PCC	455	 	William	Wethered	 	Yeoman	Priestend	Will	1616	3	5	1619	19	6	PROB11 133.70		2	Yes	Yes
+PCC	462	 	Nicholas	Widmer	 	 	Old Thame	Will	1669	30	10				PROB11 330.80		1	Yes	Yes
+PCC	465	 	Thomas	Wilgoose	 	Innholder~	Thame	Will	1641	1	2	1643	20	5	PROB11 191.35.a		4	Yes	Yes
+PCC	476	 	John	Woodbridge	 	Yeoman	N. Weston	Will	1647	5	9	1647	2	11	PROB11 202		2	Yes	Yes
+PCC	478	 	John	Wootton	 	Labourer	Thame	Will	1614	24	4	1616	26	10	PROB11 126.91		2	Yes	Yes
+PCC	691	 	James	Nixon	 	Victualer	Thame	Will	1685	4	11	1686	24	2	PROB11 382.22	X refer PROB4 11011	4	Yes	Yes
+PCC	700	 	Jerratt	Parslowe	 	 	Thame	Case papers	1602	6	6				PROB11 100.50	X refer PROB11 98.42	1	Yes	Yes
+PCC	707	Widow	Elynn	Pitman	 	 	Thame	Will	1623	17	5	1623	26	6	PROB11 141.58	X refer PROB11 142.105 & PEC 48.2.10	5	Yes	Yes
+PCC	708	Widow	Elynn	Pitman	 	 	Thame	Will	1623	17	5	1623	26	6	PROB11 142.105	X refer PROB11 141.58 & PEC 48/2/10	5	Yes	Yes
+PCC	729	 	Thomas	Shackerley	bachelor	 	Thame	Will	1646	0	4	1647	27	6	PROB11 196.94	Died in service of Parliament	1	Yes	Yes
+PCC	742	 	John	Smith	 	 	Thame	Will	1666	9	4	1666	24	9	PROB11 321	X refer PROB4 9776	1	Yes	Yes
+PCC	793	 	Thomas	Wildgoose	 	Innholder~	Thame	Codicil	1643	29	3	1643	20	5	PROB11 191.35.b		4	Yes	Yes
+PCC	813	 	Zacharias	Hames	 	Merchant~	Thame	Account	1686	11	1	1700	20	9	PROB4 15794.b		4	Yes	Yes
+PCCi	213	 	Zacharias	Hames	 	Merchant~	Thame	Inventory	1686	11	10	1700	20	9	PROB4 15794.a		4	Yes	Yes
+PCCi	279	 	Anne	Maunde	 	 	Thame	Inventory	1687	8	9	1687	28	9	PROB4 15860		5	Yes	Yes
+PCCi	308	 	James	Nixon	 	Victualer	Thame	Inventory	1686	1	2	1686	10	2	PROB4 11011	X refer PROB11 382.22	4	Yes	Yes
+PCCi	377	 	John	Smith	 	 	Thame	Inventory	1666	9	4	1666	24	9	PROB4 9776	inventory date unreadable/ X refer PROB11 321	1	Yes	Yes
+PCCi	416	 	John	Striblehill	gent	 	Thame	Inventory	1692	8	10	1693	30	5	PROB4 11085		1	Yes	Yes
+PCCi	526	 	Richard	Burnard	 	Yeoman	Priestend	Inventory	1693	30	3				PROB4 5271		2	Yes	Yes
+PCCi	547	 	Robert	Cooke	 	Scrivenor~	Thame	Inventory	1661	30	11	1661	8	12	PROB4 15257	X refer PROB4 11018	1	Yes	Yes
+PCCi	548	 	Jane	Cooke	 	 	New Thame	Inventory	1680	4	8	1680	6	8	PROB4 15143		5	Yes	Yes
+PCCi	622	 	Robert	Heath	 	Mason	Thame	Inventory	1695	4	2				PROB4 4462	X refer PROB11 425.74	3	Yes	Yes
+PCCi	661	 	Richard	Jordan	elder	Distiller~	Thame	Inventory	1687	13	9	1687	10	10	PROB4 10620		4	Yes	Yes
+PCCi	701	 	John	Partridge	 	Yeoman~	New Thame	Inventory	1684	16	2	1684	31	7	PROB4 4784	X refer PROB11 276.93	2	Yes	Yes
+PCCi	751	 	Richard	Springall	 	Butcher	New Thame	Inventory	1685	13	6	1685	18	7	PROB4 10989	X refer PROB11 380.93	4	Yes	Yes
+PEC	12	 	Jeffrey	Alnut	Sen	Shoemaker	Thame	Will	1692	5	8				PEC 32/2/12.b	X refer ORO Hi l/2	4	Yes	Yes
+PEC	15	 	Henry	Ayres	 	Miller	Thame	Will	1617	1	10				PEC 32/1/23.a		4	Yes	Yes
+PEC	16	 	Jeffery	Ayres	 	Miller	Thame	Will	1636	12	6				PEC 32/1/37		4	Yes	Yes
+PEC	18	 	John	Ayres	 	Mercer~	Thame	Administration	1667	5	7	1667	5	6	PEC 32/1/48.b		4	Yes	Yes
+PEC	19	 	William	Ayres	 	Gardiner	New Thame	Will	1681	12	3				PEC 32/2/4.a		2	Yes	Yes
+PEC	21	Widow	Ellyn	Bayley	 	 	Moreton	Will	1589	23	11	1607	20	4	PEC 32/4/32.b		5	Yes	Yes
+PEC	24	 	William	Baker	als Bowry	Yeoman~	Old Thame	Will	1660	28	11	1670	4	3	PEC 33/2/23.b		2	Yes	Yes
+PEC	25	 	Thomas	Baker	 	Maltster	New Thame	Will	1688	22	12				PEC 33/4/25.a		4	Yes	Yes
+PEC	26	 	Thomas	Balle	 	Yeoman	Priestend	Will	1643	15	6				PEC 33/2/16.a		2	Yes	Yes
+PEC	30	 	Thomas	Bampton	 	Miller	Thame	Will	1603	12	5	1603	28	7	PEC 32/4/26.a		4	Yes	Yes
+PEC	32	 	Thomas	Banks	 	Cordwainer	New Thame	Will	1674	13	4	1674	12	6	PEC 33/3/23.a	PEC 33/2/23?	3	Yes	Yes
+PEC	33	 	Edward	Barnes	 	Tailor	Thame	Will	1606	2	12	1607	20	4	PEC 32/4/31.a		4	Yes	Yes
+PEC	34	Widow	Anne	Barnes	 	 	Thame	Will	1616	27	5				PEC 32/4/60.a		5	Yes	Yes
+PEC	35	 	Elizabeth	Barnes	 	 	Thame	Account	1618	29	10	1618	29	10	PEC 32/4/70		5	Yes	Yes
+PEC	38	 	Thomas	Bartlet	 	Yeoman	Thame	Will	1618	1	5				PEC 32/4/67.b		2	Yes	Yes
+PEC	39	Widow	Elizabeth	Bartlett	 	 	Thame	Will	1631	8	9				PEC 33/2/3		5	Yes	Yes
+PEC	42	 	Laurence	Belson	 	Yeoman	Priestend	Will	1621	1	7	1621	13	11	PEC 32/5/4.a		2	Yes	Yes
+PEC	44	 	William	Belson	 	 	N. Weston	Will	1630	0	0	1630	20	11	PEC 33/1/15	will undated	1	Yes	torn
+PEC	47	Widow	Katherin	Benson	 	 	Thame	Will	1615	2	4				PEC 32/4/61.a		5	Yes	Yes
+PEC	48	Widow	Sissley	Benson	 	 	New Thame	Will	1626	0	0				PEC 32/5/18.a	will undated	5	Yes	Yes
+PEC	49	 	John	Bew	 	Butcher	New Thame	Will	1695	12	12				PEC 33/4/37.b		4	Yes	Yes
+PEC	50	 	Laurence	Bigge	 	Yeoman	N. Weston	Will	1606	1	2	1606	22	5	PEC 32/4/29.b		2	Yes	Yes
+PEC	51	 	William	Bigg	 	Yeoman	N. Weston	Will	1647	11	8				PEC 33/2/22		2	Yes	Yes
+PEC	52	 	William	Bigg	 	Yeoman	Priestend	Will	1681	14	5				PEC 33/4/27.a		2	Yes	Yes
+PEC	55	 	Phillipp	Bird	 	Yeoman	Thame	Will	1643	17	7				PEC 33/2/17		2	Yes	Yes
+PEC	57	Widow	Mary	Boothe	 	 	Ashenden  Bucks	Will	1685	14	5	1686	21	6	PEC 33/4/14.b		5	Yes	Yes
+PEC	63	 	Suzan	Briant	spinster	 	Thame	Will	1628	21	8				PEC 33/1/7.a		5	Yes	Yes
+PEC	64	 	Thomas	Broadwater	 	Gardener	New Thame	Will	1669	5	8	1670	14	8	PEC 33/3/15.a		2	Yes	Yes
+PEC	66	 	William	Brookes	 	 	Moreton	Will	1695	19	11	1695	11	12	PEC 33/4/36		1	Yes	Yes
+PEC	67	Widow	Elizabeth	Browne	 	 	Thame	Will	1623	16	12	1626	4	4	PEC 32/5/16.b		5	Yes	Yes
+PEC	68	 	Mary	Buckingham	 	 	Thame	Will	1692	13	2				PEC 33/4/30.a		5	Yes	Yes
+PEC	69	 	Edward	Bundocke	 	Tailor	Thame	Will	1631	20	1				PEC 33/1/17.b		4	Yes	Yes
+PEC	71	 	Thomas	Burges	 	Brasier	Thame	Will	1664	24	2	1665	24	2	PEC 33/2/32.b		3	Yes	Yes
+PEC	74	 	John	Burte	 	Cordwainer	Thame	Will	1629	1	5	1629	9	11	PEC 33/1/10.b		3	Yes	Yes
+PEC	76	Widow	Joane	Burton	 	 	Thame	Will	1612	18	5	1612	6	7	PEC 32/4/47.a		5	Yes	Yes
+PEC	77	 	John	Burton	Sen	Baker	Thame	Will	1643	22	8	1643	24	8	PEC 33/2/18.a		4	Yes	Yes
+PEC	78	 	Philip	Burton	elder	Mason~	Thame	Will	1662	7	1	1662	24	5	PEC 33/2/28.a		3	Yes	Yes
+PEC	79	 	John	Burton	 	Yeoman	New Thame	Will	1671	4	1				PEC 33/3/17.b		2	Yes	Yes
+PEC	83	 	John	Calcott	 	Butcher	New Thame	Will	1675	6	8	1675	10	11	PEC 35/2/23.b		4	Yes	Yes
+PEC	84	 	Oliver	Calcott	 	Butcher		Will	1674	29	12				PEC 35/2/30.b		4	Yes	Yes
+PEC	85	 	Richard	Calcott	 	Yeoman	Old Thame	Will	1676	12	11	1677	18	6	PEC 35/2/38.a		2	Yes	Yes
+PEC	86	Widow	Jane	Calcott	 	 	New Thame	Will	1679	20	1				PEC 35/3/1.b		5	Yes	Yes
+PEC	89	 	Cornelius	Carden	 	Locksmith	Thame	Will	1615	1	12	1618	20	5	PEC 34/4/27.b		3	Yes	Yes
+PEC	90	 	John	Carter	 	Yeoman~	N. Weston	Will	1643	22	7				PEC 35/1/19.a		2	Yes	Yes
+PEC	91	 	William	Carter	 	Yeoman	N. Weston	Will	1645	16	11	1647	3	8	PEC 35/1/24.a		2	Yes	Yes
+PEC	92	 	Henry	Carter	 	Carpenter	Old Thame	Will	1694	1	2	1697	6	8	PEC 35/3/43		3	Yes	Yes
+PEC	94	Widow	Gillian	Chapman	 	 	Thame	Will	1639	11	12				PEC 35/1/16.b		5	Yes	Yes
+PEC	99	 	Edmund	Clinckett	 	Husbandman	Thame	Will	1604	11	8	1605	22	4	PEC 34/4/2.a		2	Yes	Yes
+PEC	104	Widow	Elizabeth	Coles	 	 	N. Weston	Will	1614	19	5	1614	28	7	PEC 34/4/19.b		5	Yes	Yes
+PEC	111	 	Thomas	Cooke	 	Yeoman	Priestend	Will	1655	25	5	1666	13	1	PEC 35/2/12.b		2	Yes	Yes
+PEC	114	 	William	Cooke	 	Yeoman	Old Thame	Will	1693	23	1	1698	30	4	PEC 35/3/45.a		2	Yes	Yes
+PEC	115	Widow	Mary	Cooper	 	 	Old Thame	Will	1675	0	11	1676	10	5	PEC 35/2/34		5	Yes	Yes
+PEC	118	Widow	Lettice	Cope	 	 	Thame	Account	1647	3	9	1647	23	8	PEC 35/1/25.a		5	Yes	Yes
+PEC	119	 	Henry	Cope	elder	Cordwainer	Priestend	Will	1659	14	9				PEC 35/2/4.a		3	Yes	Yes
+PEC	120	 	Henry	Cope	 	Cordwainer	Thame	Administration	1684	8	10	1684	1	10	PEC 35/3/13.b		3	Yes	Yes
+PEC	121	Widow	Margery	Corner	 	 	Old Thame	Will	1618	16	5	1619	21	4	PEC 34/4/28.a		5	Yes	Yes
+PEC	122	 	John	Corner	 	Yeoman	Thame	Will	1619	7	7				PEC 34/4/32.a		2	Yes	Yes
+PEC	124	Widow	Ales	Cotton	 	 	New Thame	Will	1602	22	11	1603	28	7	PEC 34/3/25.a		5	Yes	Yes
+PEC	126	 	Richard	Cotton	 	Butcher	Thame	Will	1613	23	7	1613	11	10	PEC 34/4/17.a		4	Yes	Yes
+PEC	128	 	Walter	Cotton	 	Yeoman	Thame	Will	1643	1	8	1643	0	10	PEC 35/1/21.b		2	Yes	Yes
+PEC	131	Widow	Jane	Cotton	 	 	Thame	Will	1657	10	8				PEC 35/2/5.b		5	Yes	Yes
+PEC	132	Widow	Mary	Cotton	 	 	Thame	Will	1665	3	6	1665	5	6	PEC 35/2/10.b		5	Yes	Yes
+PEC	134	 	Richard	Cotton	 	Butcher	New Thame*	Will	1681	14	3	1681	2	5	PEC 35/3/4.a	The Shambles	4	Yes	Yes
+PEC	136	 	Christopher	Coosen	 	Cordwainer	Thame	Will	1615	25	5	1615	2	11	PEC 34/4/20.b		3	Yes	Yes
+PEC	137	 	William	Cozons	 	Yeoman	Thame	Will	1630	27	9	1630	22	11	PEC 34/4/52.a		2	Yes	Yes
+PEC	141	 	James	Couden	Sen	Barber~	New Thame	Will	1680	15	11				PEC 35/3/3.b		4	Yes	Yes
+PEC	142	Widow	Jone	Cowden	 	 	New Thame	Will	1682	23	2				PEC 35/3/8.a		5	Yes	Yes
+PEC	143	 	James	Cowden	 	Barber	New Thame	Will	1691	4	0	1691	30	12	PEC 35/3/35.a		4	Yes	Yes
+PEC	144	 	Henry	Cowley	 	Carpenter	New Thame	Will	1643	22	4				PEC 35/1/18.a		3	Yes	Yes
+PEC	145	 	William	Cowly	 	Yeoman	Old Thame	Will	1682	12	4				PEC 35/3/10.a		2	Yes	Yes
+PEC	148	 	Thomas	Crues	als Aclee	Blacksmith	Thame	Will	1643	20	8				PEC 35/1/22.a		3	Yes	Yes
+PEC	149	Widow	Elionor	Crewes	als Aclee	 	Thame	Will	1669	16	5				PEC 35/2/18.a		5	Yes	Yes
+PEC	150	 	Thomas	Crewes	elder	Tallow Chandler	New Thame	Will	1697	29	3	1697	9	8	PEC 35/3/44.a		4	Yes	Yes
+PEC	152	 	Mary	Dobbinson	infant	 	Thame	Administration	1699	1	5	1699	1	5	PEC 37/1/21		5	Yes	Yes
+PEC	154	 	William	Dormer	 	Tailor	Thame	Will	1630	31	5	1631	24	7	PEC 36/4/14.b		4	Yes	Yes
+PEC	155	 	Jeremiah	Doyeley	 	Labourer~	New Thame	Will	1684	12	11				PEC 37/1/8.c		2	Yes	Yes
+PEC	156	Widow	Julian	Druce	 	 	Old Thame	Will	1659	13	4				PEC 36/4/26.b		5	Yes	Syn
+PEC	164	 	Joane	Eeles	spinster	 	Thame	Will	1694	24	12				PEC 38/1/13.b		5	Yes	Yes
+PEC	165	 	William	Eeles	 	Glazier	New Thame	Will	1699	20	10				PEC 38/1/19		3	Yes	Yes
+PEC	167	 	Elizabeth	Eldridge	 	 	New Thame	Inventory.1	1670	9	2				PEC 37/4/34.c		5	Yes	Yes
+PEC	174	 	Willm	Feery	 	Currier	Thame	Will	1603	10	5	1603	28	7	PEC 38/3/9.a		3	Yes	Yes
+PEC	176	Widow	Joane	Flaxman	 	 	Thame	Will	1621	18	4	1621	19	7	PEC 38/4/5.b	buried 18 April 1621 will undated	5	Yes	Yes
+PEC	178	 	Thomas	Fletcher	 	Hempdresser	Thame	Will	1672	0	3				PEC 38/4/33.c		3	Yes	Yes
+PEC	180	 	Gabriell	Franklyn	 	Yeoman~	Thame	Will	1606	20	5	1606	22	5	PEC 38/3/11.a		2	Yes	Yes
+PEC	181	 	Thomas	Francklin	 	Labourer	Thame	Will	1611	27	9	1611	3	12	PEC 38/3/16.b		2	Yes	Yes
+PEC	182	Widow	Elizabeth	Franklin	 	 	Thame	Will	1620	20	12	1622	11	11	PEC 38/4/7.b		5	Yes	Yes
+PEC	187	 	Humphrey	Gibins	 	Yeoman	Thame	Will	1637	24	11				PEC 39/4/23.a		2	Yes	Yes
+PEC	188	 	Wm	Gibson	 	Dyer	Thame	Will	1684	27	2	1684	23	6	PEC 39/6/10.a		3	Yes	Yes
+PEC	189	 	Richard	Gilman	 	Yeoman	Thame	Will	1638	6	12	1638	17	5	PEC 39/4/24.a		2	Yes	Yes
+PEC	191	 	John	Godden	 	 	Thame	Will	1631	20	8				PEC 39/4/13		1	Yes	Yes
+PEC	192	 	Reynold	Graunt	 	Yeoman	Thame	Will	1617	18	4				PEC 39/3/26.a		2	Yes	Yes
+PEC	193	 	Mary	Graunt	spinster	 	Thame	Will	1634	3	7	1634	22	5	PEC 39/4/17.a		5	Yes	Yes
+PEC	196	Widow	Alice	Green	 	 	Thame	Will	1621	21	3	1621	19	7	PEC 39/3/28.a		5	Yes	Yes
+PEC	197	 	John	Greene	 	Carpenter	Thame	Will	1625	18	10	1627	9	5	PEC 39/3/37.a		3	Yes	Yes
+PEC	198	Widow	Margaret	Greene	 	 	Thame	Will	1631	9	6				PEC 39/4/26.a		5	Yes	Yes
+PEC	204	 	Thomas	Groome	 	Yeoman	Thame	Will	1623	7	1	1628	12	5	PEC 39/4/3.b		2	Yes	Yes
+PEC	209	 	William	Gurney	 	Barber	New Thame	Will	1672	9	7	1672	27	7	PEC 39/5/19.b		4	Yes	Yes
+PEC	210	 	Thomas	Burn	 	Barber	New Thame	Will	1674	2	5				PEC 39/5/22.a		4	Yes	Yes
+PEC	212	 	John	Gutteridge	 	Husbandman	Thame	Will	1670	22	3				PEC 39/5/15.a		2	Yes	Yes
+PEC	217	 	Willm	Haselgrove	 	Maltster	Thame	Will	1623	24	1	1623	24	4	PEC 41/2/47.a		4	Yes	Yes
+PEC	220	 	Thomas	Herne	gentleman	 	Moreton	Will	1658	12	1				PEC 41/4/6.b		1	Yes	Yes
+PEC	224	 	Vincent	Hester	 	Cordwainer	Thame	Will	1605	21	11	1606	20	2	PEC 41/1/38.a		3	Yes	Yes
+PEC	227	 	William	Heyborn	 	Yeoman	Thame Park	Will	1659	13	7	1662	24	5	PEC 41/4/7.b		2	Yes	Yes
+PEC	228	 	Elizabeth	Heyborne	spinster	 	Old Thame	Will	1688	7	9				PEC 42/1/34.b		5	Yes	Yes
+PEC	230	 	John	Heyborne	 	Yeoman	Priestend	Will	1699	9	1				PEC 42/1/49.a		2	Yes	Yes
+PEC	232	 	William	Hitchington	 	Glover~	Thame	Administration	1625	22	12				PEC 41/2/55.a		4	Yes	Yes
+PEC	233	 	William	Horne	 	Yeoman	Thame	Will	1686	14	8				PEC 42/1/26.a		2	Yes	Yes
+PEC	234	Widow	Elizabeth	Hughes	 	 	Thame	Will	1688	18	12				PEC 42/1/32.a		5	Yes	Yes
+PEC	236	Widow	Joane	Inett	 	 	Moreton	Will	1617	8	10				PEC 37/3/18.b		5	Yes	Yes
+PEC	237	 	Richard	Inot	 	Yeoman	Moreton	Administration	1662	10	1				PEC 37/4/16.a		2	Yes	Yes
+PEC	238	 	Thomas	Eynott	 	Yeoman	N. Weston	Will	1662	17	1				PEC 37/4/15.a		2	Yes	Syn
+PEC	239	 	Thomas	Inot	 	Yeoman	Moreton	Will	1663	17	12				PEC 37/4/24.a		2	Yes	Yes
+PEC	240	Widow	Joane	Eynott	 	 	N. Weston	Will	1671	22	1				PEC 37/4/38.a		5	Yes	Syn
+PEC	241	 	Edmund	Eynot	 	Tailor	New Thame	Note	1678	0	0				PEC 44/1/2	X refer PEC 38/1/2	4	Yes	Yes
+PEC	243	Widow	Dorothy	Eynott	 	 	Moreton	Will	1686	1	6				PEC 38/1/10.a		5	Yes	Yes
+PEC	244	 	Henry	Ingrame	 	 	Thame	Will	1626	11	5				PEC 43/3/26.a		1	Yes	Yes
+PEC	245	 	George	Ingram	 	Baker	New Thame	Will	1682	29	8				PEC 44/1/5.a		4	Yes	Yes
+PEC	246	 	An	Ingrome	spinster	 	New Thame	Will	1689	1	12	1690	7	7	PEC 44/1/10.a		5	Yes	Yes
+PEC	247	 	John	Ives	 	Wheelwright	New Thame	Will	1683	25	10				PEC 44/1/6.a		3	Yes	Yes
+PEC	248	 	Willm	Jackson	 	Clerk	Thame	Will	1617	12	5				PEC 43/3/18.a		1	Yes	Yes
+PEC	249	Widow	Anne	Jacob	 	 	Thame	Will	1621	27	1	1630	20	11	PEC 43/3/30.a		5	Yes	Yes
+PEC	250	Widow	Alice	Jemett	 	 	New Thame	Administration	1671	0	0	1671	29	12	PEC 43/3/47.a		5	Yes	Syn
+PEC	251	Widow	Joyce	Jemett	 	 	New Thame	Administration	1691	20	7				PEC 44/1/11.a		5	Yes	Yes
+PEC	252	 	Nicholas	Jones	 	Innholder~	Thame	Administration	1667	4	6	1667	4	6	PEC 43/3/43.a		4	Yes	Yes
+PEC	253	Widow	Margaret	Jones	 	 	New Thame	Will	1676	24	5				PEC 44/1/1		5	Yes	Yes
+PEC	254	 	Willm	Jonson	 	Glover	Thame	Will	1616	3	9	1622	11	11	PEC 43/3/25.a		4	Yes	Yes
+PEC	260	 	Edward	Kent	 	Yeoman	Old Thame	Will	1658	20	9	1661	10	1	PEC 44/4/9.b		2	Yes	Yes
+PEC	261	 	Robert	Kinge	 	Tailor	Thame	Will	1684	5	1				PEC 44/5/17		4	Yes	Yes
+PEC	262	 	Thomas	Kinge	elder	Yeoman	Moreton	Will	1682	12	10				PEC 44/5/11.b		2	Yes	Yes
+PEC	263	 	John	Knapp	elder	Yeoman	Thame	Will	1685	5	11				PEC 44/5/13.a		2	Yes	Yes
+PEC	267	 	Richard	Lawrence	 	Cordwainer	Thame	Will	1683	5	11	1683	9	12	PEC 45/3/2b.a		3	Yes	Yes
+PEC	269	Widow	Jane	Lillingstone	 	 	New Thame	Will	1680	4	5				PEC 45/3/3.a		5	Yes	Yes
+PEC	271	 	Henry	Lord	 	 	Thame	Administration	1646	30	10	1646	30	10	PEC 45/2/16		1	Yes	Yes
+PEC	273	 	John	Lowtch	 	Yeoman	Thame	Will	1643	19	7	1643	14	12	PEC 45/2/15.a		2	Yes	Yes
+PEC	274	 	Simon	Louch	 	Barber	New Thame	Will	1685	2	10				PEC 45/3/4.a		4	Yes	Yes
+PEC	275	Widow	Dorothy	Mathews	 	 	Moreton	Will	1643	11	2				PEC 46/2/18.b		5	Yes	Yes
+PEC	277	 	Edmund	Maund	 	Yeoman	Thame	Will	1661	29	8				PEC 46/2/24.a		2	Yes	Yes
+PEC	284	Widow	Jone	Messenger	 	 	Moreton	Will	1603	27	4	1607	20	4	PEC 46/1/15.a		5	Yes	Yes
+PEC	285	 	John	Messenger	elder	Husbandman	Moreton	Will	1626	2	11	1632	17	7	PEC 46/2/6.a		2	Yes	Yes
+PEC	286	Widow	Ellinor	Messenger	 	 	Moreton	Will	1633	25	5	1634	22	5	PEC 46/2/8.a		5	Yes	Yes
+PEC	287	 	Leonard	Messenger	 	Yeoman	Luddesden	Will	1635	13	8	1635	23	9	PEC 46/2/9.a		2	Yes	Yes
+PEC	289	 	Jerratt	Messenger	 	Yeoman	Old Thame	Will	1662	28	3				PEC 46/2/47		2	Yes	Yes
+PEC	290	 	John	Messenger	 	Yeoman	Moreton	Will	1662	9	6				PEC 46/2/39		2	Yes	Syn
+PEC	292	 	Nicholas	Milles	 	Husbandman	Moreton	Administration	1678	0	0				PEC 46/3/1.a	bond undated	2	Yes	Yes
+PEC	293	 	William	Minchard	 	Tanner	Old Thame	Will	1602	22	3	1602	6	12	PEC 46/1/11		3	Yes	Yes
+PEC	294	 	Simon	Minchard	 	Salter	New Thame	Will	1606	3	5	1607	26	4	PEC 46/1/16.a		3	Yes	Yes
+PEC	295	 	Thomas	Minchard	 	Shoemaker	Thame	Will	1614	3	10				PEC 46/1/30.a		4	Yes	Yes
+PEC	296	Widow	Ann	Mynchard	 	 	Thame	Will	1615	10	8	1618	20	5	PEC 46/1/37.a		5	No	No
+PEC	299	 	Bartholmew	Morris	 	Labourer	Thame	Will	1617	27	7				PEC 46/1/35.a		2	Yes	Yes
+PEC	300	 	William	Morris	 	Labourer	Thame	Will	1619	29	10				PEC 46/1/39		2	Yes	Yes
+PEC	301	Widow	Christian	Morrice	 	 	Thame	Will	1625	13	10	1625	1	12	PEC 46/1/45		5	Yes	Yes
+PEC	302	 	Michaell	Morrice	 	 	Thame	Account	1625	28	12				PEC 46/1/46.a		1	Yes	Yes
+PEC	303	Widow	Amee	Mortimer	 	 	Thame	Will	1607	2	5	1607	19	10	PEC 46/1/17.a		5	Yes	Yes
+PEC	305	Widow	Katherine	Nevill	 	 	Thame	Will	1633	5	11				PEC 47/2/1		5	Yes	Yes
+PEC	307	Widow	Rebeca	Newbery	 	 	Old Thame	Will	1675	23	8				PEC 47/2/23.a		5	Yes	Yes
+PEC	309	 	Anthonie	Nore	 	Yeoman	Thame	Will	1624	1	4				PEC 47/1/77.a		2	Yes	Yes
+PEC	315	 	William	Parker	elder	Gunsmith	New Thame	Will	1686	24	2				PEC 49/1/26.a		3	Yes	Yes
+PEC	316	 	John	Parkins	elder	Yeoman	Priestend	Will	1635	12	2				PEC 48/2/32.a		2	Yes	Yes
+PEC	317	 	Robert	Parkins	 	Yeoman	Priestend	Will	1636	1	6	1646	23	1	PEC 48/2/44.a		2	Yes	Yes
+PEC	321	 	Robert	Pecke	 	Ironmonger	New Thame	Will	1686	2	8	1686	0	0	PEC 49/1/20		4	Yes	Yes
+PEC	325	Widow	Anne	Phillipps	 	 	Thame	Will	1665	20	6				PEC 48/3/6.a		5	Yes	Yes
+PEC	326	 	William	Pime	 	 	New Thame	Will	1661	23	1				PEC 48/3/5.a	X refer ORO  I/ii/6	1	Yes	Yes
+PEC	327	Widow	Alles	Pim	 	 	New Thame	Will	1670	9	6				PEC 48/3/12		5	Yes	Yes
+PEC	328	 	John	Pym	 	Cordwainer	New Thame	Will	1677	24	9	1679	16	7	PEC 49/1/3.a		3	Yes	Yes
+PEC	331	Widow	Ellyn	Pitman	 	 	Thame	Will	1623	17	5	1623	26	6	PEC 48/2/10.a	X refer PROB11 141.58 & 142.105	5	Yes	Yes
+PEC	332	 	Samuell	Potter	 	Almsman	Thame	Will	1636	20	9				PEC 48/2/34.a		1	Yes	Yes
+PEC	333	 	Wm	Pountney	 	Husbandman	Thame	Will	1636	28	10	1637	8	3	PEC 48/2/35.a		2	Yes	Yes
+PEC	334	Widow	Elizabeth	Pountney	 	 	Thame	Case papers	1640	14	2				PEC 48/2/37		5	Yes	Yes
+PEC	335	 	Nicholas	Powell	 	Butcher	Priestend	Will	1627	19	11	1628	12	5	PEC 48/2/18.a		4	Yes	Yes
+PEC	336	 	John	Appowell	 	Yeoman	Thame	Will	1632	21	12				PEC 32/1/35		2	Yes	Yes
+PEC	337	Widow	Ann	Powell	 	 	Old Thame	Will	1640	10	10				PEC 48/2/40.a		5	Yes	Yes
+PEC	338	 	William	Apowell	 	Victualer~	Thame	Will	1659	14	2	1662	10	1	PEC 32/1/43.a		4	Yes	Yes
+PEC	339	 	John	Powell	 	Butcher	Thame	Administration	1679	16	4				PEC 49/1/2.b		4	Yes	Yes
+PEC	340	Widow	Margaret	Powell	 	 	Old Thame	Will	1679	12	9	1680	7	6	PEC 49/1/7.a		5	Yes	Yes
+PEC	342	 	Anthony	Price	gent	 	Old Thame	Will	1688	27	9				PEC 49/1/23.a	X refer ORO Wi.I/xvi/2	1	Yes	Yes
+PEC	343	 	Charles	Quarles	 	Surveyor~	Thame	Will	1661	4	10	1662	10	1	PEC 49/4/2.a		1	Yes	Yes
+PEC	345	 	Robert	Radford	 	 	N. Weston	Will	1636	24	8	1637	8	3	PEC 50/2/27		1	Yes	Yes
+PEC	346	 	John	Randall	 	Labourer	Moreton	Administration	1682	1	5				PEC 50/3/4.b		2	Yes	Yes
+PEC	347	 	Elizabeth	Redman	spinster	 	Thame	Will	1627	24	12				PEC 50/2/13		5	Yes	Yes
+PEC	348	 	Thomas	Bigg	or Ridge	Husbandman	Moreton	Will	1603	14	5	1603	28	7	PEC 50/1/10.a		2	Yes	Yes
+PEC	349	 	Thomas	Reydley	 	Weaver	Thame	Will	1625	6	5				PEC 50/2/10.a		3	Yes	Yes
+PEC	350	 	James	Roberts	elder	Yeoman	New Thame	Will	1646	28	2	1648	13	10	PEC 50/2/31.a		2	Yes	Yes
+PEC	357	 	John	Saunders	 	Husbandman	Thame	Will	1670	4	9				PEC 51/4/18.a		2	Yes	Yes
+PEC	360	 	Emanuel	Sheppard	 	Yeoman	Thame	Will	1625	21	5				PEC 51/1/42.a		2	Yes	Yes
+PEC	365	 	John	Shreeve	 	Blacksmith	New Thame	Will	1682	6	3				PEC 51/4/15.a		3	Yes	Yes
+PEC	366	 	John	Simons	 	Husbandman	Luddesden	Will	1605	17	6	1605	21	10	PEC 50/5/30.a		2	Yes	Syn
+PEC	367	 	John	Symons	 	Husbandman~	Thame	Will	1641	20	8	1641	4	9	PEC 51/2/39.a		2	Yes	Yes
+PEC	368	 	Emmanuel	Slatter	 	Glazier	Thame	Administration	1664	28	7				PEC 51/3/13.b		3	Yes	Yes
+PEC	369	Widow	Maryan	Slaughter	 	 	Thame	Will	1688	4	5				PEC 51/4/31.a		5	Yes	Yes
+PEC	372	 	William	Smyth	 	Gunsmith	Thame	Will	1643	29	7	1647	27	9	PEC 51/2/48.a		3	Yes	Yes
+PEC	373	 	William	Smith	 	Yeoman~	N. Weston	Will	1649	0	0	1650	4	12	PEC 51/2/50.a	will undated	2	Yes	Yes
+PEC	376	 	Martha	Smith	 	 	N. Weston	Administration	1664	28	7				PEC 51/3/14.b		5	Yes	Yes
+PEC	378	 	Thomas	Smith	 	Victualer	New Thame	Will	1690	8	4	1690	24	6	PEC 51/4/40.a		4	Yes	Yes
+PEC	379	 	Willm	Snowe	 	Labourer	N. Weston	Will	1621	21	5	1622	13	5	PEC 51/1/35.a		2	Yes	Yes
+PEC	380	 	Richard	Somers	gentleman	 	Priestend	Will	1661	15	7	1666	13	1	PEC 51/3/18.a		1	Yes	Yes
+PEC	381	Widow	Joane	Somers	 	 	Priestend	Will	1670	26	1				PEC 51/3/28		5	Yes	Yes
+PEC	382	 	Andrew	Spindler	 	Yeoman	Thame	Will	1612	16	6	1612	9	7	PEC 51/1/16.a		2	Yes	Yes
+PEC	383	Widow	Joane	Spindler	 	 	Thame	Will	1612	1	10	1612	19	10	PEC 51/1/4.a		5	Yes	Yes
+PEC	384	 	Robert	Springall	 	Collermaker	Priestend	Will	1606	22	3				PEC 50/5/32.a		3	Yes	Yes
+PEC	386	 	Thomas	Springall	 	Yeoman	Priestend	Will	1637	23	10	1638	17	5	PEC 51/2/29.a		2	Yes	Yes
+PEC	388	 	Jane	Springale	wife of	 	Old Thame	Will	1641	5	2				PEC 51/2/38	wife of Rich Springale	5	Yes	Yes
+PEC	389	Widow	Mary	Springall	 	 	Priestend	Will	1658	2	4				PEC 51/3/1.a		5	Yes	Yes
+PEC	390	 	Richard	Springall	 	Yeoman	Thame	Will	1645	27	10				PEC 51/3/7		2	Yes	Yes
+PEC	392	 	John	Stanbridge	 	Shepherd	Thame	Will	1670	4	11	1670	29	11	PEC 51/3/25		2	Yes	Yes
+PEC	394	 	Thomas	Stanton	 	Baker	Old Thame	Administration	1698	30	6				PEC 52/1/11.b		4	Yes	Yes
+PEC	395	 	Mary	Starling	als Birch	 	Thame	Administration	1687	13	6	1687	13	6	PEC 51/4/29		5	Yes	Yes
+PEC	396	 	John	Stevens	 	Yeoman	Thame	Will	1617	27	12	1619	30	8	PEC 51/1/24.a		2	Yes	Yes
+PEC	397	 	William	Stoakes	 	 	Thame	Statement	1643	27	5	1643	13	7	PEC 51/2/41.a		1	Yes	Yes
+PEC	398	 	John	Stone	 	Yeoman~	Moreton	Will	1618	27	7				PEC 51/1/23.a		2	Yes	Yes
+PEC	400	Widow	Alice	Stone	 	 	Moreton	Will	1638	14	2				PEC 51/2/30.a		5	Yes	Yes
+PEC	401	 	Robert	Stone	 	Chandler	Thame	Will	1641	17	8				PEC 51/2/40.a		4	Yes	Yes
+PEC	403	Widow	Joane	Stone	 	 	Moreton	Will	1669	21	12				PEC 51/3/24.a		5	Yes	Yes
+PEC	404	 	William	Stone	 	Yeoman	New Thame	Will	1681	23	8	1681	10	9	PEC 51/4/12.a		2	Yes	Yes
+PEC	406	Widow	Elianor	Stone	 	 	Moreton	Will	1682	27	8				PEC 51/4/16.a		5	Yes	Yes
+PEC	408	 	Richard	Striblehill	 	Butcher	Thame	Will	1607	17	6				PEC 50/5/36.a		4	Yes	Yes
+PEC	417	 	William	Sumner	 	Miller~	New Thame	Administration	1680	7	6				PEC 51/4/9.b		4	Yes	Yes
+PEC	418	 	William	Symes	 	Shepherd	Thame	Will	1625	13	12				PEC 51/1/43.a		2	Yes	Yes
+PEC	422	 	William	Tippinge	 	Shoemaker~	Thame	Will	1604	11	6	1604	6	7	PEC 52/3/12.a		4	Yes	Yes
+PEC	423	Widow	Anne	Tippinge	 	 	Thame	Will	1605	9	1	1608	2	7	PEC 52/3/13.a		5	Yes	Yes
+PEC	424	 	Edmund	Tomlinson	 	Yeoman	Thame	Will	1607	1	5	1607	19	10	PEC 52/3/15.a		2	Yes	Yes
+PEC	425	Widow	Margaret	Tomlinson	 	Innholder~	Thame	Will	1632	5	11				PEC 52/4/14.a		5	Yes	Yes
+PEC	426	 	Peter	Tomlinson	 	Yeoman	Thame	Will	1678	13	12	1679	16	6	PEC 53/2/5.a		2	Yes	Syn
+PEC	427	 	Peter	Tomlinson	 	Blacksmith	Thame	Administration	1681	17	8				PEC 53/2/8.a		3	Yes	Yes
+PEC	429	 	William	Towne	 	Husbandman~	Chillington*	Will	1617	24	5				PEC 52/3/28.b	too damaged to transcibe	2	No	Damaged
+PEC	430	 	William	Towne	 	 	Thame	Administration	1629	4	6	1629	4	6	PEC 52/4/2		1	Yes	Yes
+PEC	431	 	Leonard	Towne	elder	Yeoman	Thame	Will	1643	10	7				PEC 52/4/26.a		2	Yes	Yes
+PEC	433	 	Jerrad	Towne	 	Butcher	Thame	Administration	1679	26	5	1679	26	5	PEC 53/2/2		4	Yes	Yes
+PEC	434	 	Frances	Towne	 	 	Thame	Administration	1683	22	6	1682	22	6	PEC 53/2/9		5	Yes	Yes
+PEC	435	 	John	Trinder	 	Clerk	Thame	Will	1629	2	11	1630	5	7	PEC 52/4/5.a		1	Yes	Yes
+PEC	436	 	William	Tripp	 	Tallow Chandler	New Thame	Will	1676	9	3	1677	18	6	PEC 53/1/19.a		4	Yes	Syn
+PEC	437	Widow	Elizabeth	Tripp	 	 	New Thame	Will	1687	9	2				PEC 53/2/15.a		5	Yes	Yes
+PEC	438	Widow	Alice	Tripp	 	 	New Thame	Administration	1688	0	0				PEC 53/2/19.a		5	Yes	Yes
+PEC	439	 	John	Vickers	 	Husbandman		Will	1614	6	2	1614	8	4	PEC 53/5/4.a		2	Yes	Yes
+PEC	441	 	Thomas	Warren	 	Yeoman	Moreton	Will	1613	4	11	1613	14	12	PEC 54/1/44.a		2	Yes	Yes
+PEC	444	 	Robert	Warters	elder	Chandler	New Thame	Will	1671	18	1				PEC 54/4/33.a		4	Yes	Yes
+PEC	445	Widow	Dorothy	Warters	 	 	New Thame	Will	1673	17	3	1674	30	6	PEC 54/4/39.a		5	Yes	Syn
+PEC	446	 	Thomas	Wells	 	Yeoman	Thame	Will	1629	7	4	1629	9	11	PEC 54/3/7		2	Yes	Yes
+PEC	450	 	Thomas	Weste	 	Husbandman	Thame	Will	1614	17	6	1614	28	7	PEC 54/1/47		2	Yes	Yes
+PEC	452	Widow	Elianor	West	 	 	Thame	Will	1658	25	4				PEC 54/4/5.a		5	Yes	Yes
+PEC	453	 	Thomas	West	Sen	Husbandman	Old Thame	Administration	1689	1	7				PEC 55/2/36.a		2	Yes	Yes
+PEC	454	 	Peter	Weston	 	Yeoman~	N. Weston	Will	1638	4	3	1639	9	8	PEC 54/3/40.a		2	Yes	Yes
+PEC	456	Widow	Maude	Wethered	 	 	Thame	Will	1619	6	5	1620	19	10	PEC 54/2/17.a		5	Yes	Yes
+PEC	457	Widow	Margery	Wheeler	 	 	Thame	Will	1627	3	3	1629	12	5	PEC 54/3/1.a		5	Yes	Yes
+PEC	459	Widow	Mary	Wheeler	 	 	Thame	Administration	1664	29	2				PEC 54/4/12.a		5	Yes	Yes
+PEC	460	 	Robert	White	 	Victualer	Thame	Administration	1670	1	8				PEC 54/4/6	X refer PEC 54/4/6	4	Yes	Yes
+PEC	461	 	Isaac	Wickes	 	Gardener	Old Thame	Will	1684	4	11	1685	7	1	PEC 55/2/19.a		2	Yes	Yes
+PEC	463	 	William	Wigg	 	Husbandman	Thame Park	Will	1680	22	3	1680	7	6	PEC 55/2/2		2	Yes	Yes
+PEC	464	 	Thomas	Wigg	 	Yeoman~	Thame Park	Will	1691	29	8				PEC 55/2/41.a		2	Yes	Yes
+PEC	466	 	John	Williams	 	Cooper	New Thame	Will	1660	0	10				PEC 54/4/9.a		3	Yes	Yes
+PEC	467	 	Hugh	Willis	 	Clerk	Thame	Administration	1675	0	0				PEC 55/1/3	adminstration undated	1	Yes	Yes
+PEC	468	 	Peter	Willmot	 	Yeoman	Thame	Account	1626	26	6				PEC 54/2/36.a		2	Yes	Yes
+PEC	469	 	John	Wittney	 	Husbandman	Old Thame	Will	1604	21	1				PEC 54/1/21.a		2	Yes	Yes
+PEC	470	 	John	Witney	 	Yeoman	Thame	Will	1627	12	7	1627	29	10	PEC 54/2/42.a		2	Yes	Yes
+PEC	471	 	Walter	Witney	widower	 	Chillington	Will	1684	20	9	1684	11	10	PEC 55/2/17		1	Yes	Yes
+PEC	472	 	Richard	Woodbridge	 	Tailor	Thame	Will	1607	21	1	1607	20	4	PEC 54/1/26		4	Yes	Yes
+PEC	473	Widow	Margery	Woodbridge	 	 	Thame	Will	1618	20	9				PEC 54/2/14.a		5	Yes	Yes
+PEC	474	 	William	Woodbridge	 	Labourer	Thame	Will	1603	20	9	1631	2	12	PEC 54/3/17.a		2	Yes	Yes
+PEC	475	 	Jeffery	Woodbridge	 	Cordwainer	Thame	Will	1643	20	7				PEC 54/3/44.a		4	Yes	Yes
+PEC	477	 	Peter	Woodcock	 	Innholder	Thame	Administration	1678	17	5				PEC 55/2/1.a		4	Yes	Yes
+PEC	479	Widow	Christian	Wyam	 	 		Will	1626	1	11				PEC 54/2/39.a		5	Yes	Yes
+PEC	482	 	John	Young	 	Collermaker	New Thame	Will	1674	4	2				PEC 56/5/5.a	died 21/2/1674	3	Yes	Syn
+PEC	483	 	John	Young	 	Husbandman	Moreton	Will	1683	4	10				PEC 56/5/8.a		2	Yes	Yes
+PEC	484	 	Robert	Young	bachelor	 		Administration	1697	6	8				PEC 56/5/9		1	Yes	Yes
+PEC	486	 	John	Aclee	 	Blacksmith	Thame	Will	1629	10	4	1629	8	11	PEC 32/1/32.b		3	Yes	Yes
+PEC	487	 	William	Adkins	 	Yeoman	Priestend	Will	1692	19	2				PEC 32/2/11.b		2	yes	Syn
+PEC	488	 	John	Allen	 	 	Thame	Will	1632	0	6				PEC 32/1/34.a		1	yes	Yes
+PEC	489	 	William	Allen	 	Tailor~	Thame	Administration	1684	11	12				PEC 32/2/8.b		4	yes	Yes
+PEC	490	 	Peter	Alnett	 	 	Thame	Will	1605	12	11	1609	10	2	PEC 32/1/11.a		1	yes	Yes
+PEC	491	 	Robert	Alnott	 	Carpenter	Thame	Will	1626	11	3				PEC 32/1/28.a		3	yes	Yes
+PEC	502	 	Tho	Banks	 	Cordwainer~	Thame	Memorandum	1684	10	7				PEC 33/3/23.c		3	yes	Yes
+PEC	503	 	Thomas	Banks	 	Cordwainer~	Thame	Administration	1674	14	4				PEC 33/3/23.d		3	Yes	Yes
+PEC	507	 	Arian	Barton	 	Husbandman~	Thame	Administration	1680	13	12				PEC 33/4/8.a		2	Yes	Yes
+PEC	509	 	Steven	Belson	 	Yeoman~	Thame	Administration	1630	29	2				PEC 33/1/11.b		2	yes	Yes
+PEC	510	 	Richard	Bennet	 	Butcher~	Thame	Administration	1633	20	12				PEC 33/1/24.a		4	yes	Yes
+PEC	516	 	William	Bigg	 	Yeoman~	Thame	Commission	1690	5	9				PEC 33/4/27.b		2	Yes	Yes
+PEC	517	Widow	Deborah	Bigg	 	 	Thame	Administration	1693	26	10				PEC 33/4/31.b		5	Yes	Yes
+PEC	524	 	Richard	Burch	 	Innholder~	Thame	Administration	1687	13	6				PEC 33/4/17	X refer PEC 33/4/13	4	Yes	Yes
+PEC	533	 	Grace	Andrews	 	 	Thame	Administration	1641	10	9				PEC 32/1/39.b		5	yes	Yes
+PEC	538	 	William	Calcott	 	Yeoman~	Thame	Administration	1684	16	6				PEC 35/3/12.b		2	Yes	Yes
+PEC	544	 	John	Cocke	 	Husbandman~	Thame	Administration	1661	0	0				PEC 35/2/3.a	admin date not readable	2	Yes	Syn
+PEC	549	 	Edward	Cooke	 	Yeoman~	Thame	Administration	1681	9	3				PEC 35/3/6.a		2	Yes	Yes
+PEC	551	 	Edward	Cope	gent	 	Thame	Account	1618	8	5				PEC 34/4/26.b		1	Yes	Yes
+PEC	552	Widow	Lettice	Cope	 	 	Thame	Administration	1647	23	8				PEC 35/1/25.b		5	Yes	Yes
+PEC	554	 	Henry	Cope	 	Cordwainer~	Thame	Administration	1685	1	10				PEC 35/3/13.a		3	Yes	Yes
+PEC	557	 	Richard	Costard	 	Yeoman~	Thame	Administration	1688	1	4				PEC 35/3/23.b		2	Yes	Yes
+PEC	568	 	Philip	Cousins	 	Victualer~	Thame	Administration	1687	18	6				PEC 35/3/25.b		4	Yes	Yes
+PEC	573	 	Bernard	Crisp	 	Miller~	Thame	Administration	1681	30	8				PEC 35/3/5.b		4	Yes	Yes
+PEC	574	 	Bernard	Crisp	 	Miller~	Thame	Will	1681	6	1				PEC 35/3/5.a		4	Yes	Yes
+PEC	578	 	Richard	Dobbbinson	 	Milliner	Thame	Administration	1695	30	11				PEC 37/1/19.a		4	Yes	Yes
+PEC	581	 	Jeremiah	Doyeley	 	Labourer~	Thame	Administration	1684	17	6				PEC 37/1/8.a		2	Yes	Yes
+PEC	583	 	William	Eeles	 	 	Thame	Administration	1662	10	10				PEC 37/4/19.a		1	Yes	Yes
+PEC	584	 	William	Eeles	 	Glazier~	New Thame	Administration	1684	5	8				PEC 38/1/7.b		3	Yes	Yes
+PEC	587	 	Elizabeth	Eldridge	als Clarkson	 	New Thame	Administration	1671	17	10				PEC 37/4/34.a		5	Yes	Yes
+PEC	588	 	Margaret	Evans	spinster	 	Thame	Administration	1662	1	6				PEC 37/4/17.b		5	Yes	Yes
+PEC	589	 	William	Evans	 	Yeoman	Thame	Administration	1694	0	6				PEC 38/1/11.b		2	Yes	Yes
+PEC	592	 	William	Fletcher	 	Shepherd~	Thame	Administration	1670	20	5				PEC 38/4/32.a		2	Yes	Yes
+PEC	594	 	Thomas	Fletcher	 	Hempdresser~	Thame	Administration	1672	9	9				PEC 38/4/33.b		3	Yes	Yes
+PEC	595	 	William	Floyd	 	Currier~	Thame	Administration	1666	22	8				PEC 38/4/28.a		3	Yes	Yes
+PEC	601	 	William	Gibson	 	Dyer~	Thame	Administration	1683	23	6				PEC 39/6/10.c		3	Yes	Yes
+PEC	605	 	William	Graunt	 	Yeoman~	Thame	Account	1646	8	8				PEC 39/4/31.a		2	Yes	Yes
+PEC	611	 	John	Groome	 	Joiner~	Thame	Account	1625	19	5				PEC 39/3/35.b		3	Yes	Yes
+PEC	612	 	Thomas	Groome	 	Yeoman~	Thame	Administration	1671	24	5				PEC 39/5/18.b		2	Yes	Yes
+PEC	614	 	William	Gurney	 	Barber~	Thame	Administration	1672	27	7				PEC 39/5/19.a		4	Yes	Yes
+PEC	616	 	James	Gurney	 	Barber~	Thame	Administration	1687	0	0				PEC 39/6/19.a		4	Yes	Yes
+PEC	618	 	John	Harris	 	Innholder~	Thame	Administration	1688	28	6				PEC 42/1/30.b		4	Yes	Yes
+PEC	620	 	Francis	Healy	 	Gardener~	Moreton	Administration	1662	10	1				PEC 41/4/2.a		2	Yes	Yes
+PEC	623	Mr	Thomas	Hennant	 	Vicar	Thame	Account	1667	27	6				PEC 41/4/13.a		1	Yes	Yes
+PEC	624	 	Thomas	Hennant	 	Clerk	Thame	Administration	1665	11	1				PEC 41/4/13.b		1	Yes	Yes
+PEC	629	 	John	Higgins	 	Husbandman~	Thame	Administration	1662	10	1				PEC 41/4/3.b		2	Yes	Yes
+PEC	631	 	William	Hitchington	 	Glover~	Thame	Account	1626	20	6				PEC 41/2/55.b		4	Yes	Yes
+PEC	633	Widow	Elizabeth	Hughes	 	 	Thame	Letter of Admin	1688	26	11				PEC 42/1/32.b		5	Yes	Yes
+PEC	634	Widow	Elizabeth	Hughes	 	 	Thame	Deposition	1690	28	2				PEC 42/1/32.c		5	Yes	Yes
+PEC	635	Widow	Elizabeth	Hughes	 	 	Thame	Case papers	1690	28	2				PEC 42/1/32.d		5	Yes	Yes
+PEC	636	Widow	Elizabeth	Hughes	 	 	Thame	Administration	1690	28	2				PEC 42/1/32.e		5	Yes	Yes
+PEC	637	Widow	Elizabeth	Hughes	 	 	Thame	Letter	1690	15	3				PEC 42/1/32.f		5	Yes	Yes
+PEC	638	 	Christopher	Hide	 	Husbandman	Thame	Administration	1688	9	12				PEC 41/4/1.b		2	Yes	Yes
+PEC	646	 	Richard	Inott	 	Yeoman~	Moreton	Account	1665	5	6				PEC 37/4/16.c		2	Yes	Yes
+PEC	649	 	Edmund	Inott	 	Tailor	Thame	Will	1675	0	0				PEC 38/1/2.a	Will undated; statement of 1679 says written about 4 years ago.	4	Yes	Yes
+PEC	651	 	Edmund	Inett	 	Tailor~	Thame	Administration	1679	19	6				PEC 38/1/2.c		4	Yes	Yes
+PEC	653	 	Edward	Eynott	 	Tailor	Thame	Administration	1682	28	10				PEC 38/1/5.b		4	Yes	Yes
+PEC	660	 	Edward	Jordan	 	Milliner~	Thame	Account	1676	1	11				PEC 43/3/49.b		4	Yes	Yes
+PEC	662	 	Joseph	Kearne	 	 	New Thame	Administration	1674	1	7				PEC 44/4/20.a		1	Yes	Yes
+PEC	674	 	John	Menday	 	Bookseller~	Thame	Account	1685	2	7				PEC 46/3/10.b		4	Yes	Yes
+PEC	675	 	John	Menday	 	Bookseller~	Thame	Administration	1684	0	0				PEC 46/3/10.c		4	Yes	Yes
+PEC	680	 	Thomas	Middleton	 	Clerk~	Thame	Administration	1684	23	5				PEC 46/3/18.b		1	Yes	Yes
+PEC	682	 	Nicholas	Milles	 	 	Thame	Account	1678	0	0				PEC 46/3/1.c	account undated	1	Yes	Yes
+PEC	689	 	John	Newberry	 	Weaver~	Thame	Administration	1662	0	0				PEC 47/2/10.a	bond undated	3	Yes	Yes
+PEC	693	 	William	Norris	 	Husbandman~	Moreton	Administration	1662	10	1				PEC 47/2/9.b		2	Yes	Yes
+PEC	694	 	Henry	Page	 	Baker~	Thame	Administration	1667	20	5				PEC 48/3/7.b		4	Yes	Yes
+PEC	695	 	Thomas	Parker	 	 	Thame	Administration	1662	10	2				PEC 48/3/2.b		1	Yes	Yes
+PEC	699	 	Robert	Parkins	 	Yeoman~	Thame	Case papers	1637	20	1				PEC 48/2/44.c		2	incom	incomplete
+PEC	702	 	Thomas	Pawling	 	Tailor~	Thame	Administration	1675	29	12				PEC 48/3/17.b		4	Yes	Yes
+PEC	713	 	William	Apowell	 	Victualer~	Thame	Administration	1662	24	5				PEC 32/1/43.c		4	Yes	Yes
+PEC	725	Widow	Margarett	Roper	 	 	Thame	Account	1635	6	5				PEC 50/2/21.b		5	Yes	Yes
+PEC	727	 	John	Saunders	 	Husbandman	Thame	Administration	1682	1	11				PEC 51/4/18.c		2	Yes	Yes
+PEC	728	 	Francis	Scarlet	 	Husbandman	Moreton	Account	1626	26	6				PEC 51/1/41.b		2	Yes	Yes
+PEC	731	 	Thomas	Shreife	 	Blacksmith~	Thame	Administration	1664	18	7				PEC 51/3/12.b		3	Yes	Yes
+PEC	732	 	Thomas	Shriefe	 	Blacksmith	New Thame	Account	1665	3	6				PEC 51/3/12.c		3	Yes	Yes
+PEC	737	 	Emanuell	Slatter	 	Glazier~	Thame	Account	1667	5	6				PEC 51/3/13.c		3	Yes	Yes
+PEC	754	 	William	Stoakes	 	 	Thame	Administration	1643	27	5				PEC 51/2/41.b		1	Yes	Yes
+PEC	760	 	William	Stone	 	Yeoman~	Moreton	Administration	1681	0	0				PEC 51/4/11.b		2	Yes	Yes
+PEC	762	 	Thomas	Striblehill	 	Butcher~	Thame	Account	1598	11	6				PEC 50/5/20.b		4	Yes	Yes
+PEC	782	Widow	Dorothy	Warters	 	 	Thame	Administration	1674	6	6				PEC 54/4/39.b		5	Yes	Syn
+PEC	795	 	John	Williams	 	Cooper~	Thame	Administration	1662	24	5				PEC 54/4/9.c		3	Yes	Yes
+PEC	801	 	William	Woodbridge	 	Labourer~	Thame	Codicil	1631	5	11	1631	2	12	PEC 54/3/17.c		2	Yes	Yes
+PEC	806	 	Leonard	Yeats	 	Blacksmith~	Thame	Account	1607	30	9				PEC 56/4/2.b		3	Yes	Yes
+PEC	814	 	Robert	Maund	 	Innholder~	Thame	Administration	1660						PEC 46/2/26		0	Yes	Yes
+PECi	1	 	John	Aclee	 	Blacksmith~	Thame	Inventory	1629	14	5	1629	8	11	PEC 32/1/32.a		3	Yes	Yes
+PECi	2	Widow	Alis	Addames	 	 	Thame	Inventory	1602	0	10				PEC 32/1/9		5	Yes	Yes
+PECi	4	 	William	Adkins	 	Yeoman	Priestend	Inventory	1692	7	3				PEC 32/2/11.a		2	Yes	Syn
+PECi	5	 	John	Allen	 	 	Thame	Inventory	1632	6	10	1632	8	10	PEC 32/1/34.b		1	Yes	Yes
+PECi	6	 	William	Alline	 	Tailor	Thame	Inventory	1684	12	11	1684	20	12	PEC 32/2/8.a		4	Yes	Yes
+PECi	9	 	Peter	Allnett	 	 	Thame	Inventory	1606	30	1	1609	10	2	PEC 32/1/11.b		1	Yes	Yes
+PECi	10	Widow	Sibell	Allnett	 	 	Thame	Inventory	1610	28	3				PEC 32/1/16		5	Yes	Yes
+PECi	11	 	Robart	Alnott	 	Carpenter	Thame	Inventory	1626	1	4				PEC 32/1/28.b		3	Yes	Yes
+PECi	13	Widow	Grace	Andrewes	 	 	Thame	Inventory	1641	30	8				PEC 32/1/39.a		5	Yes	Yes
+PECi	31	 	Edmund	Bampton	 	 	Thame	Inventory	1638	2	1				PEC 33/2/8		1	Yes	damaged
+PECi	40	 	Arian	Barton	 	Husbandman	Priestend	Inventory	1680	30	10				PEC 33/4/8.b		2	Yes	Yes
+PECi	43	 	Steven	Belson	 	Yeoman	Priestend	Inventory	1630	17	2	1630	29	2	PEC 33/1/11.a		2	Yes	Yes
+PECi	45	 	Richard	Bennet	 	Butcher~	Thame	Inventory	1633	14	12	1633	23	12	PEC 33/1/24.b		4	Yes	Yes
+PECi	53	Widow	Deborah	Bigg	 	 	Priestend	Inventory	1693	21	10	1693	26	10	PEC 33/4/31.a		5	Yes	Yes
+PECi	56	 	Willm	Boorne	 	Weaver	Thame	Inventory	1607	18	4				PEC 32/4/30		4	Yes	Yes
+PECi	59	 	George	Boyse	 	Cordwainer	Thame	Inventory	1624	1	11	1624	19	5	PEC 32/5/12		5	Yes	Yes
+PECi	62	 	Anne	Brian	wife	 	Thame	Inventory	1647	6	12				PEC 33/2/21		5	Yes	Yes
+PECi	70	 	Richard	Burch	 	Innholder~	New Thame	Inventory	1684	30	12	1685	2	7	PEC 33/4/13	X refer PEC 33/4/17	4	Yes	Yes
+PECi	75	 	Alexander	Burton	 	Bricklayer	Thame	Inventory	1607	27	11	1608	22	2	PEC 32/4/37		3	Yes	Yes
+PECi	80	 	John	Calcott	 	Glover	Thame	Inventory	1625	19	5	1625	19	5	PEC 34/4/40		4	Yes	Yes
+PECi	87	 	William	Callcott	 	Yeoman~	Thame	Inventory	1684	20	6	1685	2	7	PEC 35/3/12.a		2	Yes	Yes
+PECi	93	 	Thomas	Chapman	 	 	Thame	Inventory	1622	20	4				PEC 34/4/36		1	Yes	Yes
+PECi	95	 	Thomas	Clerke	 	Shepherd	Moreton	Inventory	1603	20	1	1603	7	2	PEC 34/3/24		2	Yes	Yes
+PECi	102	 	John	Cocke	 	Husbandman~	Moreton	Inventory	1661	9	12				PEC 35/2/3.b		2	Yes	Syn
+PECi	103	 	Thomas	Coles	als Baker	Husbandman~	Thame	Inventory	1603	7	3				PEC 34/3/23		2	Yes	Yes
+PECi	106	 	Robert	Coles	 	Husbandman~	New Thame	Inventory	1670	14	4				PEC 35/2/21		2	Yes	Yes
+PECi	107	 	Robert	Collenridge	 	Carpenter	Thame	Inventory	1635	4	1	1635	7	1	PEC 35/1/1		3	Yes	Yes
+PECi	109	 	Robert	Cooke	 	Beerbrewer	Thame	Inventory	1638	13	5				PEC 35/1/10		4	Yes	Yes
+PECi	113	 	Edward	Cooke	als Jonson	Yeoman	Old Thame	Inventory	1680	8	12	1681	9	3	PEC 35/3/6.b		2	Yes	Yes
+PECi	116	 	Will	Cooper	 	Yeoman~	Thame	Inventory	1684	15	10	1685	1	10	PEC 35/3/14.b		2	Yes	Yes
+PECi	117	 	Edward	Cope	gentleman	 	Thame	Inventory	1617	14	8	1618	8	5	PEC 34/4/26.a		1	Yes	Yes
+PECi	123	 	Richard	Costard	 	Yeoman		Inventory	1687	2	4	1687	30	4	PEC 35/3/23.a		2	Yes	Yes
+PECi	133	 	William	Cotton	 	Victualer	Priestend	Inventory	1667	11	9	1667	19	9	PEC 35/2/14		4	Yes	Yes
+PECi	139	 	Phillip	Cousins	 	Victualer	New Thame	Inventory	1686	11	5	1686	18	6	PEC 35/3/25.a	died 11 May 1686	4	Yes	Yes
+PECi	147	 	Bernard	Crisp	 	Miller	Thame	Inventory	1681	20	1	1681	3	8	PEC 35/3/5.c		4	Yes	Yes
+PECi	151	 	Richard	Dobinson	 	Milliner	New Thame	Inventory	1695	22	11	1695	30	11	PEC 37/1/19.b		4	Yes	Yes
+PECi	157	 	George	Dyett	 	Innholder	Thame	Inventory	1676	26	4	1676	12	5	PEC 36/4/33.a		4	Yes	Yes
+PECi	158	 	William	Edgerton	 	Shoemaker	New Thame	Inventory	1694	3	8	1694	26	8	PEC 38/1/12.a		4	Yes	Yes
+PECi	161	 	Giles	Edwardes	 	 	Thame	Inventory	1675	0	0				PEC 37/4/37		1	Yes	Yes
+PECi	162	 	William	Eeles	elder	 	Thame	Inventory	1662	9	10				PEC 37/4/19.b		1	Yes	Yes
+PECi	163	 	William	Eeles	 	Glazier	New Thame	Inventory	1683	0	0	1683	14	7	PEC 38/1/7.a	inventory undated	3	Yes	Yes
+PECi	166	 	John	Eldridge	 	Ploughwright	Thame	Inventory	1636	2	7				PEC 37/4/11		3	Yes	Yes
+PECi	170	 	Thomas	Evans	 	Labourer	Thame	Inventory	1660	11	5				PEC 37/4/28.b		2	Yes	Yes
+PECi	171	 	Margaret	Evans	spinster	 	Thame	Inventory	1662	9	1				PEC 37/4/17.a		5	Yes	Yes
+PECi	172	 	Wm	Evans	 	Yeoman	Thame	Inventory	1694	30	6	1694	18	7	PEC 38/1/11.a	died 30 June 1694	2	Yes	Yes
+PECi	175	Widow	An	Flaxmens	 	 	Thame	Inventory	1603	4	7	1603	23	7	PEC 38/3/8		5	Yes	Yes
+PECi	177	 	William	Fletcher	 	Shepherd~	Old Thame	Inventory	1670	4	4	1670	20	5	PEC 38/4/32.b		2	Yes	Yes
+PECi	179	 	William	Floyd	 	Currier	Thame	Inventory	1664	23	11				PEC 38/4/28.b		3	Yes	Yes
+PECi	183	 	Henry	Francklin	 	Blacksmith~	Thame	Inventory	1636	26	9	1636	28	9	PEC 38/4/14		3	Yes	Yes
+PECi	184	 	William	Franckline	 	Carpenter	Thame	Inventory	1638	27	12				PEC 38/4/18		3	Yes	Yes
+PECi	194	 	Willm	Graunt	 	Yeoman	Thame	Inventory	1643	19	8	1644	28	1	PEC 39/4/31.b		2	Yes	Yes
+PECi	199	Widow	Phillis	Greene	 	 	Priestend	Inventory	1643	13	8				PEC 39/4/30		5	Yes	Yes
+PECi	200	 	William	Greene	 	Miller	Thame	Inventory	1647	2	10				PEC 39/4/34		4	Yes	Yes
+PECi	202	 	Frances	Griffin	 	 	Thame	Inventory	1631	16	11	1631	21	10	PEC 39/4/14		1	Yes	Yes
+PECi	203	 	John	Groome	 	Joiner	Thame	Inventory	1625	2	3				PEC 39/3/35.a		3	Yes	Yes
+PECi	205	 	Thomas	Groome	 	Joiner~	Thame	Inventory	1670	28	10				PEC 39/5/18.a		3	Yes	Yes
+PECi	211	 	James	Gurney	 	Barber~	New Thame	Inventory	1686	22	11	1687	1	7	PEC 39/6/19.b		4	Yes	Yes
+PECi	215	Mr	John	Harris	 	Innholder~	Thame	Inventory	1688	27	6	1688	28	6	PEC 42/1/30.a		4	Yes	Yes
+PECi	219	 	Francis	Healye	 	Gardener	Moreton	Inventory	1660	22	9	1662	10	1	PEC 41/4/2.b		2	Yes	Yes
+PECi	223	 	Thomas	Hennant	 	Vicar~	Thame	Inventory	1665	9	1				PEC 41/4/13.c		1	Yes	Yes
+PECi	231	 	John	Hyggens	 	Husbandman~	Moreton	Inventory	1661	9	12	1662	10	1	PEC 41/4/3.a		2	Yes	Yes
+PECi	235	 	Christipher	Hid	 	Husbandman~		Inventory	1661	30	10	1661	9	12	PEC 41/4/1.a		2	Yes	Yes
+PECi	242	 	Edward	Inott	 	Tailor	Thame	Inventory	1682	27	10	1682	28	10	PEC 38/1/5.a		4	Yes	Yes
+PECi	256	 	Edward	Jordan	 	Milliner~	Thame	Inventory	1675	8	9				PEC 43/3/49.a		4	Yes	Yes
+PECi	259	 	Joseph	Kearne	 	 	New Thame	Inventory	1673	3	12				PEC 44/4/20.b		1	Yes	Yes
+PECi	265	 	Roberte	Lawrence	 	 	Moreton	Inventory	1601	27	7	1601	0	0	PEC 45/1/7		1	Yes	Yes
+PECi	276	 	Robert	Maund	 	Innholder~	Thame	Inventory	1660	16	4	1662	24	5	PEC 46/2/26		4	Yes	Yes
+PECi	282	 	William	Meade	 	 	Priestend	Inventory	1664	26	3				PEC 46/2/30		1	Yes	Yes
+PECi	283	Mr	John	Menday	 	Bookseller	Thame	Inventory	1684	4	10	1684	20	10	PEC 46/3/10.a		4	Yes	Yes
+PECi	291	 	Thomas	Middleton	 	Clerke	Thame	Inventory	1694	1	5	1694	23	6	PEC 46/3/18.a		1	Yes	Yes
+PECi	297	Widow	Francis	Minge	 	 	Thame	Inventory	1622	14	2	1622	13	5	PEC 46/1/42		5	Yes	Yes
+PECi	304	 	William	Nevill	 	 	Thame	Inventory	1631	27	5	1631	28	5	PEC 47/1/19		1	Yes	Yes
+PECi	306	 	John	Newberry	 	Weaver	Thame	Inventory	1661	2	11	1662	11	1	PEC 47/2/10.b		3	Yes	Yes
+PECi	310	 	John	Norris	 	Husbandman~	Moreton	Inventory	1617	1	10				PEC 47/1/8		2	Yes	Yes
+PECi	311	 	Willyam	Norris	 	Husbandman~	Moreton	Inventory	1662	0	0				PEC 47/2/9.a	inventory undated	2	Yes	Yes
+PECi	312	 	John	Pages	 	Yeoman	Thame	Inventory	1633	20	5				PEC 48/2/29		2	Yes	Yes
+PECi	313	 	Henry	Page	 	Baker	New Thame	Inventory	1637	13	4	1677	20	4	PEC 48/3/7.a		4	Yes	Yes
+PECi	314	 	Thomas	Parker	 	 	Old Thame	Inventory	1662	0	0	1662	10	2	PEC 48/3/2.a	inventory undated	1	Yes	Yes
+PECi	320	 	Thomas	Pawling	 	Tailor	New Thame	Inventory	1675	27	12				PEC 48/3/17.a		4	Yes	Yes
+PECi	329	 	Phillip	Pytman	 	Shopkeeper~	Thame	Inventory	1603	26	5				PEC 48/1/16		4	Yes	Yes
+PECi	341	 	Anthony	Price	 	Yeoman~	N. Weston	Inventory	1645	24	9	1645	23	9	PEC 48/2/43		2	Yes	Yes
+PECi	351	 	Thomas	Rogers	 	Shopkeeper~	Thame	Inventory	1639	2	2				PEC 50/2/28		4	Yes	Yes
+PECi	353	Widow	Margarett	Roper	 	 	Thame	Inventory	1633	22	12	1633	23	12	PEC 50/2/21.a		5	Yes	Yes
+PECi	356	 	Benjamin	Rowland	 	Barber Surgeon	Thame	Inventory	1608	12	10				PEC 50/1/16		4	Yes	Yes
+PECi	358	 	Francis	Scarlett	 	Husbandman	Moreton	Inventory	1625	23	3	1625	19	5	PEC 51/1/41.a		2	Yes	Yes
+PECi	361	 	John	Sheppard	 	Tailor	Thame	Inventory	1634	5	11				PEC 51/2/21		4	Yes	Yes
+PECi	362	Widow	Alice	Sheppard	 	 	Thame	Inventory	1643	22	8				PEC 51/2/46		5	Yes	Yes
+PECi	363	 	John	Shurley	 	Draper	Thame	Inventory	1643	7	9				PEC 51/2/43		4	Yes	Yes
+PECi	364	 	Thomas	Shreife	 	Blacksmith	Thame	Inventory	1664	27	7	1664	20	10	PEC 51/3/12.a		3	Yes	Yes
+PECi	371	 	Thomas	Smyth	 	Labourer	Chillington	Inventory	1634	15	12	1635	4	5	PEC 51/2/18		2	Yes	Yes
+PECi	387	 	Robert	Springalles	 	 	Thame	Inventory	1640	26	5	1640	29	5	PEC 51/2/36		1	Yes	Yes
+PECi	399	 	Thomas	Stone	 	Yeoman	Moreton	Inventory	1618	20	7				PEC 51/1/22		2	Yes	Yes
+PECi	405	 	William	Stone	 	Yeoman	Moreton	Inventory	1681	29	4	1681	2	5	PEC 51/4/11.a		2	Yes	Yes
+PECi	407	 	Thomas	Striblehill	 	Butcher~	Thame	Inventory	1598	12	4				PEC 50/5/20.a		4	Yes	Yes
+PECi	412	 	Thomas	Striblehill	 	Yeoman~	Old Thame	Inventory	1674	20	7	1674	27	5	PEC 51/3/32		2	Yes	Yes
+PECi	419	 	Sara	Symes	 	 	Thame	Inventory	1639	7	2	1639	30	5	PEC 51/2/33		5	Yes	Yes
+PECi	421	 	Richard	Timberlake	 	Yeoman	Thame	Inventory	1613	29	4	1613	3	5	PEC 52/3/26		2	Yes	Yes
+PECi	428	 	John	Totnall	 	Mercer	Thame	Inventory	1631	15	8				PEC 52/4/9		4	Yes	Yes
+PECi	442	 	Edmund	Warren	 	 	Thame	Inventory	1632	0	0	1632	8	10	PEC 54/3/19	inventory undated	1	Yes	Yes
+PECi	451	 	Willm	West	 	Yeoman~	Old Thame	Inventory	1635	19	3				PEC 54/3/30		2	Yes	Yes
+PECi	458	 	Thomas	Wheeler	 	Innholder	Thame	Inventory	1643	13	8				PEC 54/3/43		4	Yes	Yes
+PECi	480	 	Leonard	Yates	 	Blacksmith~	Thame	Inventory	1606	28	2				PEC 56/4/2.a		3	Yes	Yes
+PECi	481	 	William	Younge	 	Shopkeeper~	Thame	Inventory	1639	18	1	1639	4	4	PEC 56/4/12		4	Yes	Yes
+PECi	485	 	Thomas	Zoane	 	 		Inventory	1611	14	4				PEC 56/7/11		1	Yes	Yes
+PECi	492	 	Jeffry	Allnut	 	Shoemaker~	Thame	Inventory	1693	28	3	1693	6	4	PEC 32/2/12.a		4	yes	Yes
+PECi	493	 	Henry	Aires	 	Miller	Thame	Inventory	1617	9	10				PEC 32/1/23.b		4	yes	Yes
+PECi	494	 	John	Ayres	 	Mercer~	Thame	Inventory	1667	3	6				PEC 32/1/48.a		4	yes	Yes
+PECi	495	Widow	Ellin	Bayley	 	 	Moreton	Inventory	1607	13	3				PEC 32/4/32.a		5	yes	Yes
+PECi	496	 	William	Aires	 	Victualer	Thame	Inventory	1681	21	4				PEC 32/2/4.b		4	yes	Yes
+PECi	497	 	William	Baker	als Bowry	Yeoman	Thame	Inventory	1661	7	1	1690	4	3	PEC 33/2/23.a		2	yes	Yes
+PECi	498	 	Thomas	Baker	 	 	New Thame	Inventory	1689	1	2	1690	18	7	PEC 33/4/25.b		4	Yes	Yes
+PECi	499	 	Thomas	Ball	 	Yeoman~	Thame	Inventory	1643	0	0				PEC 33/2/16.b	inventory undated	2	yes	Yes
+PECi	500	 	Thomas	Bampton	 	Miller	Thame	Inventory	1603	26	7				PEC 32/4/26.b		4	yes	Yes
+PECi	501	 	Thomas	Banks	 	Cordwainer~	New Thame	Inventory	1674	2	5	1674	12	6	PEC 33/3/23.b		3	yes	Yes
+PECi	504	 	Edmund	Barnes	 	Tailor	Thame	Inventory	1607	8	1	1607	20	4	PEC 32/4/31.b		4	yes	Yes
+PECi	505	Widow	Anne	Barnes	 	 	Thame	Inventory	1616	5	7		15	7	PEC 32/4/60.b		5	yes	Yes
+PECi	506	 	Thomas	Bartlet	 	Yeoman	Thame	Inventory	1618	9	5				PEC 32/4/67.a		2	yes	Yes
+PECi	508	 	Lawrence	Belson	 	Yeoman	Priestend	Inventory	1621	3	10	1621	13	11	PEC 32/5/4.b		2	yes	Yes
+PECi	511	Widow	Katherine	Benson	 	 	Thame	Inventory	1616	14	5		27	7	PEC 32/4/61.b		5	yes	Yes
+PECi	512	Widow	Cisseley	Benson	 	 	Thame	Inventory	1626	25	10				PEC 32/5/18.b		5	yes	Yes
+PECi	513	 	John	Bew	 	 	Thame	Inventory	1696	20	2	1696	14	3	PEC 33/4/37.a		4	Yes	Yes
+PECi	514	 	Laurence	Bigge	 	Yeoman~	N. Weston	Inventory	1606	10	3	1606	22	5	PEC 32/4/29.a		2	yes	Yes
+PECi	515	 	William	Bigg	 	Yeoman~	Priestend	Inventory	1690	27	7	1691	13	3	PEC 33/4/27.c		2	Yes	Yes
+PECi	518	 	Mary	Booth	 	 	Thame	Inventory	1686	21	4				PEC 33/4/14.a		5	Yes	Yes
+PECi	519	 	Susan	Bryan	 	 	Thame	Inventory	1628	20	11				PEC 33/1/7.b		5	yes	Yes
+PECi	520	 	Thomas	Broadwater	 	Gardener	New Thame	Inventory	1669	14	8				PEC 33/3/15.b		2	yes	Yes
+PECi	521	Widow	Elizabeth	Browne	 	 	Thame	Inventory	1625	1	5	1626	4	4	PEC 32/5/16.a		5	yes	Yes
+PECi	522	 	Mary	Buckingham	spinster	 	Thame	Inventory	1692	0	0	1692	23	6	PEC 33/4/30.b	inventory undated	5	Yes	Yes
+PECi	523	 	Edward	Bundocke	 	Tailor~	Thame	Inventory	1631	30	1				PEC 33/1/17.a		4	yes	Yes
+PECi	525	 	Thomas	Burges	 	Brasier~	Thame	Inventory	1664	25	4				PEC 33/2/32.a		3	yes	Yes
+PECi	527	 	John	Burte	 	Cordwainer	Thame	Inventory	1629	0	0	1629	9	11	PEC 33/1/10.a	inventory undated	3	yes	Yes
+PECi	528	Widow	Joane	Burton	 	 	Thame	Inventory	1612	22	6	1612	0	0	PEC 32/4/47.b		5	yes	Yes
+PECi	529	 	John	Burton	Sen	Baker~	Thame	Inventory	1643	22	8				PEC 33/2/18.b		4	yes	Yes
+PECi	530	 	Philip	Burton	elder	Mason	Thame	Inventory	1662	2	4	1662	24	5	PEC 33/2/28.b		3	yes	Yes
+PECi	531	 	John	Burton	 	Yeoman	New Thame	Inventory	1671	17	5				PEC 33/3/17.a		2	yes	Yes
+PECi	534	 	John	Calcott	 	Butcher	New Thame	Inventory	1675	18	8				PEC 35/2/23.a		4	Yes	Yes
+PECi	535	 	Oliver	Calcott	 	Butcher~	Thame	Inventory	1675	7	1				PEC 35/2/30.a		4	Yes	Yes
+PECi	536	 	Richard	Calcott	 	Yeoman~	Old Thame	Inventory	1676	1	1				PEC 35/2/38.b		2	Yes	Yes
+PECi	537	Widow	Jane	Calcott	 	 	New Thame	Inventory	1679	1	8	1679	20	8	PEC 35/3/1.a		5	Yes	Yes
+PECi	539	 	Cornelius	Carden	 	Locksmith	Thame	Inventory	1617	18	6	1618	20	5	PEC 34/4/27.a		3	Yes	Yes
+PECi	540	 	John	Carter	 	Yeoman~	Thame	Inventory	1643	23	7				PEC 35/1/19.b		2	Yes	Yes
+PECi	541	 	William	Carter	 	Yeoman~	N. Weston	Inventory	1645	25	12	1647	30	8	PEC 35/1/24.b		2	Yes	Yes
+PECi	542	Widow	Geyllian	Chapman	 	 	Thame	Inventory	1640	12	2				PEC 35/1/16.a		5	Yes	Yes
+PECi	543	 	Edmund	Clinkett	 	Yeoman	Thame	Inventory	1605	21	4				PEC 34/4/2.b		2	Yes	Yes
+PECi	545	Widow	Elizabeth	Coles	 	 	N. Weston	Inventory	1614	28	7	1614	28	7	PEC 34/4/19.a		5	Yes	Yes
+PECi	546	 	Thomas	Cooke	 	Yeoman~	Priestend	Inventory	1666	11	1	1666	13	1	PEC 35/2/12.a		2	Yes	Yes
+PECi	550	 	William	Cooke	 	Yeoman~	Thame	Inventory	1693	29	11				PEC 35/3/45.b		2	Yes	Yes
+PECi	553	 	Henry	Cope	elder	Cordwainer	Priestend	Inventory	1659	26	10	1662	10	1	PEC 35/2/4.b		3	Yes	Yes
+PECi	555	Widow	Margery	Corner	 	 	Thame	Inventory	1619	12	2	1619	21	4	PEC 34/4/28.b		5	Yes	Yes
+PECi	556	 	John	Corner	 	Yeoman	Thame	Inventory	1619	9	7	1619	30	8	PEC 34/4/32.b		2	Yes	Yes
+PECi	558	Widow	Alice	Cotton	 	 	 New Thame	Inventory	1603	29	1	1603	28	7	PEC 34/3/25.b		5	Yes	Yes
+PECi	559	 	Richard	Cotton	 	Butcher	Thame	Inventory	1613	26	8	1613	11	10	PEC 34/4/17.b		4	Yes	Yes
+PECi	560	 	Walter	Cotton	 	Yeoman	Thame	Inventory	1643	25	9	1643	0	10	PEC 35/1/21.a		2	Yes	Yes
+PECi	561	Widow	Jane	Cotton	 	 	Thame	Inventory	1662	17	8	1662	10	10	PEC 35/2/5.a		5	Yes	Yes
+PECi	562	Widow	Mary	Cotton	 	 	Thame	Inventory	1665	3	6				PEC 35/2/10.a		5	Yes	Yes
+PECi	564	 	Christopher	Coosen	 	Cordwainer	Thame	Inventory	1615	16	6	1615	2	11	PEC 34/4/20.a		3	Yes	Yes
+PECi	565	 	Richard	Cotton	 	Butcher	Thame	Inventory	1681	7	4				PEC 35/3/4.b		4	Yes	Yes
+PECi	566	 	William	Cozens	 	Yeoman	Thame	Inventory	1630	0	11				PEC 34/4/52.b		2	Yes	Yes
+PECi	567	 	James	Cowden	Sen	Barber~	New Thame	Inventory	1680	29	12	1681	2	5	PEC 35/3/3.a		4	Yes	Yes
+PECi	569	 	Jone	Cowden	 	 	New Thame	Inventory	1682	21	6				PEC 35/3/8.b		5	Yes	Yes
+PECi	570	 	James	Cowden	 	Barber~	New Thame	Inventory	1691	29	7				PEC 35/3/35.b		4	Yes	Yes
+PECi	571	 	Henary	Cowle	 	Carpenter~	Thame	Inventory	1643	21	8				PEC 35/1/18.b		3	Yes	Yes
+PECi	572	 	William	Cowley	 	Grocer	Old Thame	Inventory	1682	10	5				PEC 35/3/10.b		4	Yes	Yes
+PECi	575	 	Thomas	Acclee	als Crues	Blacksmith	Thame	Inventory	1693	10	11				PEC 35/1/22.b		3	Yes	Yes
+PECi	576	Widow	Elnore	Cruse	 	 	Thame	Inventory	1668	15	10				PEC 35/2/18.b		5	Yes	Yes
+PECi	577	 	Thomas	Crewes	 	Tallow Chandler	Thame	Inventory	1697	19	5				PEC 35/3/44.b		4	Yes	Yes
+PECi	579	 	William	Dormer	 	Tailor~	Thame	Inventory	1631	0	0				PEC 36/4/14.a		4	Yes	Yes
+PECi	580	 	Jeremiah	Doyeley	 	Labourer	Thame	Inventory	1684	14	6				PEC 37/1/8.b		2	Yes	Yes
+PECi	582	Widow	Julian	Druce	 	 	Old Thame	Inventory	1661	4	7				PEC 36/4/26.a		5	Yes	Yes
+PECi	585	 	Joane	Eeles	spinster	 	Priestend	Inventory	1695	2	1				PEC 38/1/13.a		5	Yes	Yes
+PECi	586	 	Elizabeth	Elldridg	 	 	New Thame	Inventory.2	1670	31	5				PEC 37/4/34.b		5	Yes	Yes
+PECi	590	 	William	Vearye	 	Currier~	Thame	Inventory	1603	22	6	1603	28	7	PEC 38/3/9.b		3	Yes	Yes
+PECi	591	Widow	Joane	Flexman	 	 	Thame	Inventory	1621	18	4				PEC 38/4/5.a	buried 18 April 1621 inventory undated	5	Yes	Yes
+PECi	593	 	Thomas	Fletcher	 	Hempdresser	Thame	Inventory	1671	8	3				PEC 38/4/33.a		3	Yes	Yes
+PECi	596	 	Thomas	Franklin	 	Labourer~	Thame	Inventory	1611	18	11				PEC 38/3/16.a		2	Yes	Yes
+PECi	597	Widow	Elizabeth	Franklyn	 	 	Thame	Inventory	1622	14	12				PEC 38/4/7.a		5	Yes	Yes
+PECi	598	 	Gabriell	Francklin	 	Yeoman	Thame	Inventory	1606	21	5	1606	22	5	PEC 38/3/11.b		2	Yes	Yes
+PECi	599	 	Humphry	Gibbins	 	Yeoman~	Thame	Inventory	1638	21	3				PEC 39/4/23.b		2	Yes	Yes
+PECi	600	 	William	Gibson	 	Dyer~	Thame	Inventory	1683	15	3				PEC 39/6/10.b		3	Yes	Yes
+PECi	602	 	Richard	Gilman	 	Yeoman~	Thame	Inventory	1638	1	2				PEC 39/4/24.b		2	Yes	Yes
+PECi	603	 	Reynold	Graunt	 	Yeoman	Thame	Inventory	1619	13	2	1619	30	8	PEC 39/3/26.b		2	Yes	Yes
+PECi	604	 	Mary	Graunte	spinster	 	Thame	Inventory	1634	22	5				PEC 39/4/17.b		5	Yes	Yes
+PECi	606	Widow	Alice	Greene	 	 	Thame	Inventory	1621	16	5	1621	19	7	PEC 39/3/28.b		5	Yes	Yes
+PECi	607	 	John	Greene	 	Carpenter~	Thame	Inventory	1627	3	5	1627	9	5	PEC 39/3/37.b		3	Yes	Yes
+PECi	608	Widow	Margaret	Greene	 	 	Thame	Inventory	1639	3	2				PEC 39/4/26.b		5	Yes	Yes
+PECi	610	 	Thomas	Groome	 	Yeoman	Thame	Inventory	1627	28	12				PEC 39/4/3.a		2	Yes	Yes
+PECi	613	 	William	Gurney	 	Barber~	Thame	Inventory	1672	0	0	1672	27	7	PEC 39/5/19.c	inventory undated	4	Yes	Yes
+PECi	615	 	Thomas	Gurney	 	Barber~	Thame	Inventory	1674	30	5				PEC 39/5/22.b		4	Yes	Yes
+PECi	617	 	John	Gutteridge	 	Yeoman	Thame	Inventory	1670	4	4				PEC 39/5/15.b		2	Yes	Yes
+PECi	619	 	William	Haslegrove	 	Yeoman	Thame	Inventory	1622	6	2				PEC 41/2/47.b		2	Yes	Yes
+PECi	621	 	Thomas	Herne	gentleman	 	Moreton	Inventory	1662	24	5	1662	24	5	PEC 41/4/6.a		1	Yes	Yes
+PECi	625	 	Vincent	Hester	 	Cordwainer	Thame	Inventory	1605	22	11	1606	20	2	PEC 41/1/38.b		3	Yes	Yes
+PECi	626	 	William	Heaborne	 	Yeoman~	Thame	Inventory	1659	12	10				PEC 41/4/7.a		2	Yes	Yes
+PECi	627	 	Elizabeth	Heybourne	spinster	 	Old Thame	Inventory	1689	1	6				PEC 42/1/34.a		5	Yes	Yes
+PECi	628	 	John	Heyborne	 	Yeoman	Priestend	Inventory	1699	0	0				PEC 42/1/49.b	inventory incomplete	2	Yes	Yes
+PECi	630	 	William	Hychingtone	 	Glover~	Thame	Inventory	1626	0	0	1626	22	12	PEC 41/2/55.c	inventory undated	4	Yes	Yes
+PECi	632	 	William	Horne	 	Yeoman	Thame	Inventory	1686	21	8	1686	25	8	PEC 42/1/26.b		2	Yes	Yes
+PECi	639	 	Henrye	Ingromme	 	 	Thame	Inventory	1626	26	6				PEC 43/3/26.b		1	Yes	Yes
+PECi	640	 	George	Ingrame	 	Baker	New Thame	Inventory	1682	15	9				PEC 44/1/5.b		4	Yes	Yes
+PECi	641	 	An	Ingrome	 	 	New Thame	Inventory	1690	17	3				PEC 44/1/10.b		5	Yes	Yes
+PECi	642	Widow	Joane	Inett	 	 	Moreton	Inventory	1617	2	10				PEC 37/3/18.a		5	Yes	Yes
+PECi	643	 	Thomas	Inot	 	Yeoman	N. Weston	Inventory	1661	0	0				PEC 37/4/15.b		2	Yes	Syn
+PECi	644	 	Thomas	Eynott	 	Yeoman~	Moreton	Inventory	1664	15	1				PEC 37/4/24.b		2	Yes	Yes
+PECi	645	 	Richard	Eynott	 	Yeoman~	Moreton	Inventory	1661	28	10	1662	10	1	PEC 37/4/16.b		2	Yes	Yes
+PECi	647	Widow	Joane	Eynott	 	 	Thame	Inventory	1671	24	8				PEC 37/4/38.b		5	Yes	Syn
+PECi	648	 	Dorothy	Eynott	 	 	Thame	Inventory	1689	10	9	1689	0	7	PEC 38/1/10.b		5	Yes	Yes
+PECi	650	 	Edmund	Inett	 	Tailor~	Thame	Inventory	1678	10	10				PEC 38/1/2.b		4	Yes	Syn
+PECi	652	 	John	Ives	 	Wheelwright	New Thame	Inventory	1683	29	10				PEC 44/1/6.b		3	Yes	Yes
+PECi	654	 	William	Jackson	 	Clerk~	Thame	Inventory	1671	22	10				PEC 43/3/18.b		1	Yes	Yes
+PECi	655	Widow	Anne	Jacopp	 	 	Thame	Inventory	1630	18	11	1630	22	11	PEC 43/3/30.b		5	Yes	Yes
+PECi	656	Widow	Alice	Jemett	 	 	New Thame	Inventory	1671	28	12				PEC 43/3/47.b		5	Yes	Yes
+PECi	657	Widow	Joyce	Jemmett	 	 	New Thame	Inventory	1691	5	5	1691	20	7	PEC 44/1/11.b		5	Yes	Yes
+PECi	658	 	Nicholas	Jones	 	Innholder~	Thame	Inventory	1666	6	6	1666	4	6	PEC 43/3/43.b		4	Yes	Yes
+PECi	659	 	Wm	Jonson	 	Glover~	Thame	Inventory	1622	28	10	1622	11	11	PEC 43/3/25.b		4	Yes	Yes
+PECi	663	 	Edward	Kent	 	Yeoman	Old Thame	Inventory	1658	4	10	1661	10	1	PEC 44/4/9.a		2	Yes	Yes
+PECi	664	 	Thomas	King	elder	Yeoman	N. Weston	Inventory	1687	10	4	1687	13	6	PEC 44/5/11.a		2	Yes	Yes
+PECi	665	 	John	Knapp	 	Yeoman~	Thame	Inventory	1688	23	3				PEC 44/5/13.b		2	Yes	Yes
+PECi	667	 	Richard	Lawrence	 	Cordwainer	Thame	Inventory	1683	29	11	1683	6	12	PEC 45/3/2b.b		3	Yes	Yes
+PECi	669	Mrs	Jane	Livingstone	 	 	Thame	Inventory	1684	1	3				PEC 45/3/3.b		5	Yes	Yes
+PECi	670	 	John	Louch	 	Victualer	Thame	Inventory	1643	26	8				PEC 45/2/15.b		4	Yes	Yes
+PECi	671	 	Simon	Louch	 	Barber~	New Thame	Inventory	1686	29	5				PEC 45/3/4.b		4	Yes	Yes
+PECi	672	Widow	Dorothy	Mathewes	 	 	Moreton	Inventory	1643	6	12				PEC 46/2/18.a		5	Yes	Yes
+PECi	673	 	Edmund	Maund	 	Yeoman	Thame	Inventory	1661	2	11				PEC 46/2/24.b		2	Yes	Yes
+PECi	676	 	Jone	Messinger	 	 	Moreton	Inventory	1607	0	0	1607	20	4	PEC 46/1/15.b		5	Yes	Yes
+PECi	677	 	John	Messenger	Sen	Husbandman~	Thame	Inventory	1632	18	4	1632	8	10	PEC 46/2/6.b		2	Yes	Yes
+PECi	678	Widow	Ellen	Messenger	 	 	Moreton	Inventory	1634	25	1	1634	22	5	PEC 46/2/8.b		5	Yes	Yes
+PECi	679	 	Leonard	Messenger	 	Yeoman	Thame	Inventory	1635	21	9	1635	23	9	PEC 46/2/9.b		2	Yes	Yes
+PECi	681	 	Nicholas	Milles	 	 	Thame	Inventory	1677	20	1	1678	2	7	PEC 46/3/1.b	inventory undated. died 20 Jan 1676/7	1	Yes	Yes
+PECi	683	 	Simon	Minchard	 	Salter~	Thame	Inventory	1606	27	11	1607	26	4	PEC 46/1/16.b		3	Yes	Yes
+PECi	684	 	Thomas	Minchard	 	Shoemaker~	Thame	Inventory	1614	17	10	1614	24	10	PEC 46/1/30.b		4	Yes	Yes
+PECi	685	 	An	Minchard	 	 	Thame	Inventory	1618	15	5	1618	20	5	PEC 46/1/37.b		5	No	No
+PECi	686	 	Bartholmew	Morris	 	Labourer~	Thame	Inventory	1617	12	8				PEC 46/1/35.b		2	Yes	Yes
+PECi	687	 	Myhill	Morryse	 	 	Thame	Inventory	1626	27	11				PEC 46/1/46.b		1	Yes	Yes
+PECi	688	 	Amy	Mortimer	 	 	Thame	Inventory	1607	14	10	1607	19	10	PEC 46/1/17.b		5	Yes	Yes
+PECi	690	Widow	Rebeckah	Newberry	 	 	Thame	Inventory	1675	8	9				PEC 47/2/23.b		5	Yes	Yes
+PECi	692	 	Anthonie	Noare	 	Labourer	Thame	Inventory	1628	30	1	1628	12	5	PEC 47/1/77.b		2	Yes	Yes
+PECi	696	 	Willm	Parker	Sen	Gunsmith~	New Thame	Inventory	1690	15	5	1690	17	71	PEC 49/1/26.b		3	Yes	Yes
+PECi	697	 	John	Parkins	 	Yeoman	Priestend	Inventory	1635	23	9				PEC 48/2/32.b		2	Yes	Yes
+PECi	698	 	Robert	Parkins	 	Yeoman~	Thame	Inventory	1637	0	0				PEC 48/2/44.b	inventory undated	2	Yes	Yes
+PECi	703	Widow	Ann	Phillips	 	 	Thame	Inventory	1665	7	9				PEC 48/3/6.b		5	Yes	Yes
+PECi	704	 	William	Pimm	 	 	New Thame	Inventory	1662	6	10				PEC 48/3/5.b		1	Yes	Yes
+PECi	706	Widow	Elianor	Pitman	 	 	Thame	Inventory	1623	7	6				PEC 48/2/10.b		5	Yes	Yes
+PECi	709	 	Samuell	Potter	 	Almsman	Thame	Inventory	1636	7	10	1636	14	1	PEC 48/2/34.b		1	Yes	Yes
+PECi	710	 	William	Pounyes	 	Husbandman	Thame	Inventory	1636	2	11	1637	8	3	PEC 48/2/35.b		2	Yes	Yes
+PECi	711	 	Nicholas	Powell	 	Butcher	Priestend	Inventory	1627	12	12				PEC 48/2/18.b		4	Yes	Yes
+PECi	712	 	William	Apowell	 	Victualer~	Thame	Inventory	1659	0	2				PEC 32/1/43.b	died Feb 1658	4	Yes	Yes
+PECi	714	Widow	Ann	Powell	 	 	Thame	Inventory	1640	5	11				PEC 48/2/40.b		5	Yes	Yes
+PECi	715	 	John	Powell	 	Butcher~	Thame	Inventory	1679	14	3				PEC 49/1/2.a		4	Yes	Yes
+PECi	716	 	Margaret	Powell	 	 	Old Thame	Inventory	1679	4	12	1680	7	6	PEC 49/1/7.b		5	Yes	Yes
+PECi	717	 	Anthony	Price	 	 	Old Thame	Inventory	1688	3	10				PEC 49/1/23.b		1	Yes	Yes
+PECi	719	 	John	Pime	 	Cordwainer~	Thame	Inventory	1677	5	12	1679	0	7	PEC 49/1/3.b		3	Yes	Yes
+PECi	720	 	Charles	Quarles	 	Surveyor~	Thame	Inventory	1661	12	10				PEC 49/4/2.b		1	Yes	Yes
+PECi	721	 	John	Randall	 	Labourer	Thame	Inventory	1680	20	10	1681	0	0	PEC 50/3/4.a		2	Yes	Yes
+PECi	722	 	Thomas	Ridge	 	Labourer	Thame	Inventory	1603	27	7	1603	28	7	PEC 50/1/10.b		2	Yes	Yes
+PECi	723	 	Thomas	Ridley	 	Weaver	Thame	Inventory	1625	6	6				PEC 50/2/10.b		3	Yes	Yes
+PECi	724	 	James	Roberts	 	Yeoman	Thame	Inventory	1648	10	10				PEC 50/2/31.b		2	Yes	Yes
+PECi	726	 	John	Sanders	 	Husbandman~	Thame	Inventory	1670	4	9	1682	0	0	PEC 51/4/18.b	deceased 4 or 5 Sept 1670	2	Yes	Yes
+PECi	730	 	Emanuell	Shepparde	 	Innholder	Thame	Inventory	1625	23	7				PEC 51/1/42.b		4	Yes	Yes
+PECi	733	 	John	Shreeve	 	Blacksmith~	New Thame	Inventory	1682	20	3	1682	22	7	PEC 51/4/15.b		3	Yes	Yes
+PECi	734	 	John	Simons	 	Husbandman	Luddesden	Inventory	1605	21	10	1605	21	10	PEC 50/5/30.b		2	Yes	Yes
+PECi	735	 	John	Symons	 	Husbandman	Thame	Inventory	1641	3	9	1641	4	9	PEC 51/2/39.b		2	Yes	Yes
+PECi	736	 	Emanuwell	Slatter	 	Glazier~	Thame	Inventory	1664	28	7				PEC 51/3/13.a		3	Yes	Yes
+PECi	738	 	Marian	Slaughter	 	 	Thame	Inventory	1688	12	6				PEC 51/4/31.b		5	Yes	Yes
+PECi	739	 	William	Smyth	 	Gunsmith	Thame	Inventory	1644	1	5				PEC 51/2/48.b		3	Yes	Yes
+PECi	740	 	William	Smith	 	Yeoman~	Thame	Inventory	1649	19	9	1650	4	12	PEC 51/2/50.b		2	Yes	Yes
+PECi	741	Widow	Martha	Smyte	 	 	Thame	Inventory	1664	21	1	1664	28	7	PEC 51/3/14.a		5	Yes	Yes
+PECi	743	 	Thomas	Smith	 	Victualer~	New Thame	Inventory	1690	24	5				PEC 51/4/40.b		4	Yes	Yes
+PECi	744	 	Willm	Snowe	 	Yeoman	N Weston	Inventory	1621	1	10	1622	13	5	PEC 51/1/35.b		2	Yes	Yes
+PECi	745	 	Richard	Somers	gent	 	Priestend	Inventory	1655	30	12				PEC 51/3/18.b		1	Yes	Yes
+PECi	746	 	Andrew	Spindler	 	Yeoman	Thame	Inventory	1612	8	7	1612	9	7	PEC 51/1/16.b		2	Yes	Yes
+PECi	747	Widow	Joane	Spindler	 	 	Thame	Inventory	1612	5	10	1612	19	10	PEC 51/1/4.b		5	Yes	Yes
+PECi	748	 	Robert	Springall	 	Collermaker	Thame	Inventory	1606	7	5				PEC 50/5/32.b		3	Yes	Yes
+PECi	749	 	Thomas	Springall	 	Yeoman	Priestend	Inventory	1638	24	2				PEC 51/2/29.b		2	Yes	Yes
+PECi	750	Widow	Mary	Springall	 	 	Priestend	Inventory	1658	12	9	1662	10	1	PEC 51/3/1.b		5	Yes	Yes
+PECi	752	 	Thomas	Stanton	 	Baker~	Old Thame	Inventory	1698	29	6				PEC 52/1/11.a		4	Yes	Yes
+PECi	753	 	John	Stevens	 	Yeoman	Thame	Inventory	1619	5	6	1619	30	8	PEC 51/1/24.b		2	Yes	Yes
+PECi	755	 	John	Stone	 	Yeoman	Moreton	Inventory	1618	17	8	1618	29	10	PEC 51/1/23.b		2	Yes	Yes
+PECi	756	Widow	Alice	Stone	 	 	Thame	Inventory	1639	26	3				PEC 51/2/30.b		5	Yes	Yes
+PECi	757	 	Robert	Stone	 	Chandler~	Thame	Inventory	1641	17	9	1641	10	9	PEC 51/2/40.b		4	Yes	Yes
+PECi	758	Widow	Joane	Stone	 	 	Moreton	Inventory	1669	21	1				PEC 51/3/24.b		5	Yes	Yes
+PECi	759	 	William	Stone	 	Yeoman~	Thame	Inventory	1681	8	9	1681	10	9	PEC 51/4/12.b		2	Yes	Yes
+PECi	761	Widow	Ellinor	Stone	 	 	Moreton	Inventory	1682	13	10	1682	18	10	PEC 51/4/16.b		5	Yes	Yes
+PECi	763	 	Richard	Striblehill	 	Butcher	Thame	Inventory	1607	7	8				PEC 50/5/36.b		4	Yes	Yes
+PECi	764	 	William	Sumner	 	Miller	New Thame	Inventory	1679	9	10				PEC 51/4/9.a		4	Yes	Yes
+PECi	765	 	Willm	Simes	 	Shepherd	New Thame	Inventory	1625	19	12				PEC 51/1/43.b		2	Yes	Yes
+PECi	766	 	William	Tippinge	 	Shoemaker~	Thame	Inventory	1604	18	6				PEC 52/3/12.b		4	Yes	Yes
+PECi	767	Widow	Anne	Tippinge	 	 	Thame	Inventory	1605	30	5				PEC 52/3/13.b		5	Yes	Yes
+PECi	768	 	Edmund	Thomlinson	 	Yeoman~	Thame	Inventory	1607	3	6	1607	19	10	PEC 52/3/15.b		2	Yes	Yes
+PECi	769	Widow	Margret	Tomlinson	 	 	Thame	Inventory	1633	5	7				PEC 52/4/14.b		5	Yes	Yes
+PECi	770	 	Peter	Tomlinson	 	Yeoman~	Thame	Inventory	1679	10	6				PEC 53/2/5.b		2	Yes	Syn
+PECi	771	 	Peter	Tomlinson	 	Blacksmith	Thame	Inventory	1681	17	8				PEC 53/2/8.b		3	Yes	Yes
+PECi	772	 	William	Towne	 	Husbandman	Chillingden	Inventory	1617	12	6				PEC 52/3/28.a		2	Yes	Yes
+PECi	773	 	Leonard	Towne	 	 	Thame	Inventory	1643	20	9				PEC 52/4/26.b		1	Yes	Yes
+PECi	774	Mr	John	Trinder	 	Vicar	Thame	Inventory	1629	4	11				PEC 52/4/5.b		1	Yes	Yes
+PECi	775	 	William	Tripp	 	Tallow Chandler	Thame	Inventory	1677	12	4				PEC 53/1/19.b		4	Yes	Syn
+PECi	776	Widow	Elizabeth	Tripp	 	 	Thame	Inventory	1687	13	4				PEC 53/2/15.b		5	Yes	Yes
+PECi	777	 	Alice	Tripp	 	 	Thame	Inventory	1688	18	10				PEC 53/2/19.b		5	Yes	Yes
+PECi	778	 	John	Vickers	 	Husbandman~	Thame	Inventory	1614	4	3	1614	0	4	PEC 53/5/4.b		2	Yes	Yes
+PECi	779	 	Thomas	Warren	 	Yeoman	Moreton	Inventory	1613	3	12	1613	14	12	PEC 54/1/44.b		2	Yes	Yes
+PECi	781	 	Robt	Warters	 	Chandler	Thame	Inventory	1671	18	2				PEC 54/4/33.b		4	Yes	Yes
+PECi	783	Widow	Dorothy	Warters	 	 	Thame	Inventory	1673	18	3				PEC 54/4/39.c		5	Yes	Syn
+PECi	784	Widow	Elinar	West	 	 	Old Thame	Inventory	1662	6	3				PEC 54/4/5.b		5	Yes	Yes
+PECi	785	 	Thomas	West	Sen	Husbandman~	Old Thame	Inventory	1689	8	5	1689	4	7	PEC 55/2/36.b		2	Yes	Yes
+PECi	786	 	Peter	Weston	 	Yeoman~	N Weston	Inventory	1639	1	2	1639	9	8	PEC 54/3/40.b		2	Yes	Yes
+PECi	787	Widow	Maude	Wethered	 	 	Priestend	Inventory	1620	22	7	1620	19	10	PEC 54/2/17.b		5	Yes	Yes
+PECi	788	Widow	Margery	Wheeler	 	 	Thame	Inventory	1629	25	3				PEC 54/3/1.b		5	Yes	Yes
+PECi	789	Widow	Mary	Wheeler	 	 	Thame	Inventory	1664	12	2	1664	29	2	PEC 54/4/12.b		5	Yes	Yes
+PECi	790	 	Robert	White	 	Victualer	Thame	Inventory	1662	9	1				PEC 54/4/3	X refer PEC 54/4/6	4	Yes	Yes
+PECi	791	 	Isaac	Wicks	 	Gardener	Thame	Inventory	1684	7	11	1685	7	1	PEC 55/2/19.b		2	Yes	Yes
+PECi	792	 	Thomas	Wigg	 	Yeoman~	Thame Park	Inventory	1691	5	9	1692	0	7	PEC 55/2/41.b		2	Yes	Yes
+PECi	794	 	John	Williams	 	Cooper	New Thame	Inventory	1662	11	1				PEC 54/4/9.b		3	Yes	Yes
+PECi	796	 	Peter	Willmott	 	Yeoman	Thame	Inventory	1626	20	1				PEC 54/2/36.b		2	Yes	Yes
+PECi	797	 	John	Wittney	 	Husbandman	Old Thame	Inventory	1604	9	2				PEC 54/1/21.b		2	Yes	Yes
+PECi	798	 	John	Wittney	 	Yeoman~	Thame	Inventory	1627	19	7	1627	29	10	PEC 54/2/42.b		2	Yes	Yes
+PECi	799	Widow	Margery	Woodbridge	 	 	Thame	Inventory	1618	5	10	1618	29	10	PEC 54/2/14.b		5	Yes	Yes
+PECi	800	 	William	Wodbridge	 	Labourer~	Thame	Inventory	1631	0	0	1631	20	12	PEC 54/3/17.b	inventory undated	2	Yes	Yes
+PECi	802	 	Jefferye	Woodbridge	 	Shoemaker	Thame	Inventory	1644	20	3				PEC 54/3/44.b		3	Yes	Yes
+PECi	803	 	Peter	Woodcock	 	Innholder	Thame	Inventory	1677	13	1				PEC 55/2/1.b		2	Yes	Syn
+PECi	804	 	John	Woodbridge	 	Yeoman	Weston	Inventory	1647	13	9				PEC 54/3/46		2	Yes	Yes
+PECi	805	Widow	Christian	Wiam	 	 	Thame	Inventory	1627	11	4	1627	16	4	PEC 54/2/39.b		5	Yes	Yes
+PECi	807	 	John	Young	 	Collermaker~	Thame	Inventory	1674	6	3				PEC 56/5/5.b		3	Yes	Yes
+PECi	808	 	John	Young	 	Husbandman~	Moreton	Inventory	1683	1	11	1683	9	11	PEC 56/5/8.b		2	Yes	Yes
+PECi	809	 	William	Edgerton	 	Shoemaker	New Thame	Administration	1694	5	10				PEC 38/1/12.b		4	Yes	Yes
+PECi	810	 	George	Dyett	 	 	Thame	Administration	1676	22	5				PEC 36/4/33.b		4	Yes	Yes

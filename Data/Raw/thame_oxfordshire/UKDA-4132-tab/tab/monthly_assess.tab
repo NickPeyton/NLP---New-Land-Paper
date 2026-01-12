@@ -1,0 +1,300 @@
+SC	ID	Title	Fname	Sname	Status	Occup	Place	Role	Year	Rate	RateSort	Comment
+MAS	1	 	John	Heyborne	 	 	Moreton	Rate Payer	1647	7s  0d	0.05	
+MAS	2	 	Henry	Slaughter	 	 	Moreton	Rate Payer	1647	7s  0d	0.05	
+MAS	3	 	William	Smith	 	 	Moreton	Rate Payer	1647	12s  0d	0.05	
+MAS	4	 	John	Messenger	 	 	Moreton	Rate Payer	1647	3s  0d	0.05	
+MAS	5	Mrs	 	Jackman	 	 	Moreton	Rate Payer	1647	6s  0d	0.05	
+MAS	6	 	Edward	Stone	 	 	Moreton	Rate Payer	1647	12s  0d	0.05	
+MAS	7	 	Henry	Eldridge	 	 	Moreton	Rate Payer	1647	3s  0d	0.05	
+MAS	8	 	Francis	Hayley	 	 	Moreton	Rate Payer	1647	1s  6d	0.05	
+MAS	9	 	Richard	Messenger	Sen	 	Moreton	Sub-collector	1647	4s  6d	0.05	
+MAS	10	 	William	Norris	 	 	Moreton	Rate Payer	1647	3s  0d	0.05	
+MAS	11	 	Thomas	Eynot	 	 	Moreton	Rate Payer	1647	6d	0.05	
+MAS	12	 	Thomas	Stone	 	 	Moreton	Sub-collector	1647	6s  0d	0.05	
+MAS	13	 	Richard	Jones	 	 	Moreton	Rate Payer	1647	6s  0d	0.05	
+MAS	14	 	Richard	Messenger	Jnr	 	Moreton	Rate Payer	1647	6s  0d	0.05	
+MAS	15	 	Thomas	Messenger	 	 	Moreton	Rate Payer	1647	10s  0d	0.05	
+MAS	16	 	William	Basse	 	 	Moreton	Rate Payer	1647	6s  0d	0.05	
+MAS	17	 	Thomas	Kinge	 	 	Moreton	Rate Payer	1647	7s  0d	0.05	
+MAS	18	 	John	Younge	 	 	Moreton	Rate Payer	1647	9d	0.05	
+MAS	19	 	John	Clerke	Esquire	 	North Weston	Rate Payer	1647	7s  6d	0.05	
+MAS	20	Dame	Ursula	Verney	 	 	North Weston	Rate Payer	1647	�5  8s  0d	0.05	
+MAS	21	Mr	 	Fox	 	 	North Weston	Rate Payer	1647	5s  0d	0.05	
+MAS	22	 	Thomas	Carter	 	 	North Weston	Rate Payer	1647	5s  0d	0.05	
+MAS	23	Widow	 	Woodbridge	 	 	North Weston	Rate Payer	1647	14s  0d	0.05	
+MAS	24	 	John	Smith	 	 	North Weston	Sub-collector	1647	1s  3d	0.05	
+MAS	25	 	William	Smith	 	 	North Weston	Rate Payer	1647	10s  0d	0.05	
+MAS	26	 	Samuel	Carter	 	 	North Weston	Sub-collector	1647	13s  6d	0.05	
+MAS	27	 	William	Bigg	 	 	North Weston	Rate Payer	1647	5s  0d	0.05	
+MAS	28	 	Thomas	Eynat	 	 	North Weston	Rate Payer	1647	3s  0d	0.05	
+MAS	29	 	John	Ellis	 	 	North Weston	Rate Payer	1647	2s  6d	0.05	
+MAS	30	 	Gregory	Pace	 	 	North Weston	Rate Payer	1647	2s  0d	0.05	
+MAS	31	 	Thomas	Collins	 	 	North Weston	Rate Payer	1647	2s  0d	0.05	
+MAS	32	Mr	John	Tippinge	 	 	North Weston	Rate Payer	1647	6d	0.05	
+MAS	33	Lord	Viscount	Wenman	 	 	Thame Park	Rate Payer	1647	�11  17s  11d	0.05	
+MAS	34	 	Wm	Tippinge	Esquire	 	Thame Park	Rate Payer	1647	�1  15s  7d	0.05	
+MAS	35	Mr	Richard	Cooke	 	 	Thame Park	Rate Payer	1647	�1  5s  5d	0.05	
+MAS	36	 	Charnell	Petty	 	 	Thame Park	Rate Payer	1647	12s  0d	0.05	
+MAS	37	 	Richard	Cornish	 	 	Thame Park	Rate Payer	1647	6s  4d	0.05	
+MAS	38	 	William	Smith	 	 	Priestend	Rate Payer	1647	�1  2s  0d	0.05	for Mr Thynn's Parsonage
+MAS	39	 	John	Smyth	 	 	Priestend	Rate Payer	1647	5s  6d	0.05	
+MAS	40	 	John	Clisby	 	 	Priestend	Sub-collector	1647	14s  0d	0.05	
+MAS	41	 	Wm	Towne	 	 	Priestend	Rate Payer	1647	6s  11d	0.05	of Moreton
+MAS	42	 	John	Calcot	 	 	Priestend	Rate Payer	1647	5s  6d	0.05	
+MAS	43	 	William	Bigge	 	 	Priestend	Rate Payer	1647	5s  7d	0.05	
+MAS	44	 	John	Messenger	 	 	Priestend	Rate Payer	1647	3s  0d	0.05	
+MAS	45	 	Leonard	Greene	 	 	Priestend	Rate Payer	1647	2s  9d	0.05	
+MAS	46	 	William	Brookes	 	 	Priestend	Rate Payer	1647	4s  3d	0.05	and due on for Welch his land
+MAS	47	 	Henry	Edwards	 	 	Priestend	Rate Payer	1647	5s  6d	0.05	
+MAS	48	 	Thomas	Calcot	 	 	Priestend	Sub-collector	1647	2s  9d	0.05	
+MAS	49	 	Thomas	Cooke	 	 	Priestend	Rate Payer	1647	4s  3d	0.05	
+MAS	50	 	Richard	Summers	 	 	Priestend	Rate Payer	1647	1s  6d	0.05	
+MAS	51	 	John	Parkins	 	 	Priestend	Rate Payer	1647	2s  9d	0.05	
+MAS	52	Mr	Thomas	Hennant	 	 	Priestend	Rate Payer	1647	5s  6d	0.05	
+MAS	53	Widow	 	Springall	 	 	Priestend	Rate Payer	1647	2s  9d	0.05	
+MAS	54	 	John	Striplehill	 	 	Priestend	Rate Payer	1647	5s  6d	0.05	
+MAS	55	 	Steeven	Cooke	 	 	Priestend	Rate Payer	1647	5s  6d	0.05	for Mr Cope's land
+MAS	56	Sir	Robert	Dormer	 	 	Priestend	Rate Payer	1647	5s  6d	0.05	
+MAS	57	 	William	Towne	Sen	 	Priestend	Rate Payer	1647	2s  9d	0.05	
+MAS	58	 	William	Towne	Jnr	 	Priestend	Rate Payer	1647	5s  4d	0.05	
+MAS	59	 	Henry	Smith	 	 	Priestend	Rate Payer	1647	2s  9d	0.05	
+MAS	60	Mrs	Mary	Brasey	 	 	Priestend	Rate Payer	1647	5s  6d	0.05	
+MAS	61	 	William	Sexton	 	 	Priestend	Rate Payer	1647	1s  4d	0.05	
+MAS	62	 	Peter	Tomlinson	 	 	Priestend	Rate Payer	1647	1s  4d	0.05	
+MAS	63	 	William	Roper	 	 	Priestend	Rate Payer	1647	5s  6d	0.05	
+MAS	64	 	John	Willmot	 	 	Priestend	Rate Payer	1647	2s  0d	0.05	
+MAS	65	 	William	Pymme	 	 	Priestend	Rate Payer	1647	2s  6d	0.05	& Mr William Hull
+MAS	66	Mr	William	Hull	 	 	Priestend	Rate Payer	1647	2s  6d	0.05	& William Pymme
+MAS	67	 	Thomas	Harris	 	 	Priestend	Rate Payer	1647	1s  6d	0.05	
+MAS	68	 	William	Cotton	 	 	Priestend	Rate Payer	1647	2s  0d	0.05	
+MAS	69	 	Edward	Dickensen	 	 	Priestend	Rate Payer	1647	1s  0d	0.05	
+MAS	70	 	John	Carter	Sen	 	Priestend	Rate Payer	1647	1s  6d	0.05	
+MAS	71	 	Henry	Becke	 	 	Priestend	Rate Payer	1647	1s  0d	0.05	
+MAS	72	 	John	Carter	Jnr	 	Priestend	Rate Payer	1647	1s  6d	0.05	
+MAS	73	 	John	Messenger	 	 	Priestend	Rate Payer	1647	6d	0.05	of Moreton
+MAS	74	 	Thomas	Warner	 	 	Priestend	Rate Payer	1647	6d	0.05	
+MAS	75	Mr	 	Umberfield	 	 	New Thame	Rate Payer	1647	�5  0s  0d	0.05	
+MAS	76	 	Thomas	Broadwater	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	77	 	John	Neale	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	78	 	John	Clarke	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	79	 	Thomas	Higgins	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	80	 	Robert	Smart	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	81	 	Philip	Cotton	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	82	 	Edward	Boswell	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	& his landlord
+MAS	83	 	Robert	Hall	 	 	New Thame	Rate Payer	1647	3s  0d	0.05	
+MAS	84	Mr	Richard	Cooke	 	 	New Thame	Rate Payer	1647	2s  6d	0.05	
+MAS	85	Mrs	Mary	Brasey	 	 	New Thame	Rate Payer	1647	4s  0d	0.05	
+MAS	86	 	Philip	Kinge	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	87	 	John	Ayres	Sen	 	New Thame	Rate Payer	1647	2s  0d	0.05	
+MAS	88	 	Robert	Cotton	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	89	 	Henry	Coxe	Jnr	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	90	 	Richard	Herne	 	 	New Thame	Sub-collector	1647	1s  0d	0.05	
+MAS	91	Widow	Anne	Bryan	 	 	New Thame	Rate Payer	1647	2s  0d	0.05	
+MAS	92	 	John	Egerton	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	93	 	Robert	Barnes	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	94	 	Augustine	Steevens	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	95	 	John	Tomlinson	 	 	New Thame	Rate Payer	1647	2s  0d	0.05	
+MAS	96	 	Steeven	Bayley	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	97	 	Griffin	Evans	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	98	 	William	Phillips	 	 	New Thame	Rate Payer	1647	3s  0d	0.05	
+MAS	99	 	William	Phillips	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	the landlord of William Phillips
+MAS	100	 	John	Calcot	Jnr	 	New Thame	Rate Payer	1647	2s  0d	0.05	
+MAS	101	 	Peter	Scotford	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	and his landlord
+MAS	102	 	William	Parslow	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	103	 	Robert	Cooke	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	104	 	William	Eeles	Jnr	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	105	 	Jeffrey	Alnot	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	106	 	Christopher	Borne	 	 	New Thame	Rate Payer	1647	2s  0d	0.05	and his landlord
+MAS	107	 	Thomas	Warner	 	 	New Thame	Rate Payer	1647	2s  6d	0.05	
+MAS	108	 	John	Williams	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	109	 	John	Burnham	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	110	 	Jerome	Bayley	 	 	New Thame	Rate Payer	1647	2s  0d	0.05	
+MAS	111	 	Robert	Kinge	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	112	 	William	Floyde	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	113	 	Peter	Tomlinson	 	 	New Thame	Rate Payer	1647	2s  0d	0.05	
+MAS	114	 	Thomas	Shriefe	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	115	 	Edward	Ridley	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	116	 	Luke	Peverill	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	117	 	Edward	Lawrence	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	his  free house
+MAS	118	Widow	 	Guy	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	and her landlord
+MAS	119	 	William	Sexton	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	120	 	Thomas	Fletcher	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	121	 	Mathew	Warters	 	 	New Thame	Rate Payer	1647	3s  0d	0.05	
+MAS	122	Widow	 	Tomlinson	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	123	 	Thomas	Striplehill	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	124	 	Henry	Cope	Sen	 	New Thame	Rate Payer	1647	2s  0d	0.05	
+MAS	125	 	Gabriel	Goddin	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	126	 	Leonard	Towne	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	127	 	Richard	Cotton	 	 	New Thame	Rate Payer	1647	3s  0d	0.05	
+MAS	128	Widow	 	Towne	 	 	New Thame	Rate Payer	1647	2s  0d	0.05	
+MAS	129	 	Thomas	Baker	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	130	Mr	James	Hill	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	131	Mr	 	Daniel	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	132	 	James	Roberts	 	 	New Thame	Rate Payer	1647	2s  0d	0.05	
+MAS	133	 	Edward	Beale	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	134	 	Richard	?hoe	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	135	 	Robert	Warters	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	136	Mr	Robert	Rivers	 	 	New Thame	Rate Payer	1647	2s  0d	0.05	his free house
+MAS	137	 	William	Wrighton	 	 	New Thame	Sub-collector	1647	2s  0d	0.05	
+MAS	138	Mr	Hugh	Hester	 	 	New Thame	Rate Payer	1647	3s  0d	0.05	
+MAS	139	Widow	 	Cruse	als Aclee	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	140	 	Robert	Pecke	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	141	Mr	John	Mayne	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	142	 	Thomas	Wetmore	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	143	 	William	Roper	 	 	New Thame	Rate Payer	1647	3s  0d	0.05	
+MAS	144	 	Thomas	Burges	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	145	 	John	Wilkins	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	146	 	Stephen	Coosen	 	 	New Thame	Rate Payer	1647	3s  0d	0.05	
+MAS	147	Widow	 	Eustace	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	148	 	Thomas	Hollyman	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	149	 	George	Ingrome	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	150	 	Thomas	Groome	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	151	 	John	Cowdery	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	152	 	Richard	Lawrence	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	153	 	William	Sumner	 	 	New Thame	Rate Payer	1647	3s  0d	0.05	
+MAS	154	 	John	Barnard	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	155	 	John	Norris	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	156	 	John	Calcot	Sen	 	New Thame	Rate Payer	1647	2s  0d	0.05	
+MAS	157	 	Leonard	Greene	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	the house of Leonard Green
+MAS	158	 	Phillip	Messenger	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	159	 	Wake	Pollard	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	160	 	Richard	Springall	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	his house
+MAS	161	 	John	Colly	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	162	Mr	 	Stompe	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	163	 	William	Burnham	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	164	 	Richard	Robinson	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	165	 	Henry	Fritwell	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	166	 	Henry	Jemmot	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	167	 	Henry	Trippe	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	168	Widow	 	Hopkins	 	 	New Thame	Rate Payer	1647	2s  0d	0.05	
+MAS	169	 	James	Bennet	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	170	 	Zachariah	Edwards	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	171	 	Humphrey	Cooke	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	172	 	John	Wood	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	173	 	Robert	Coles	 	 	New Thame	Rate Payer	1647	3s  0d	0.05	
+MAS	174	 	William	Eeles	Sen	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	175	 	John	Burton	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	176	 	John	Phillips	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	177	 	John	Younge	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	178	Widow	 	Smith	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	the house of widow Smith
+MAS	179	 	Thomas	Wood	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	180	 	Thomas	Jearinge	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	181	 	Edward	Bath	 	 	New Thame	Rate Payer	1647	2s  0d	0.05	
+MAS	182	 	Richard	Smyth	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	183	Widow	 	Cotton	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	184	 	Thomas	Gurney	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	185	 	Robert	Clarke	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	186	Mr	 	Edline	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	187	 	William	Powell	 	 	New Thame	Rate Payer	1647	2s  0d	0.05	and his landlord
+MAS	188	 	Daniel	Brookes	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	189	 	Thomas	Eaton	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	190	 	John	Powell	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	191	 	John	West	 	 	New Thame	Rate Payer	1647	2s  0d	0.05	
+MAS	192	 	Richard	Hill	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	193	 	Benjamin	Corner	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	194	 	John	Holford	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	195	Widow	Margaret	Heyborne	 	 	New Thame	Rate Payer	1647	3s  0d	0.05	
+MAS	196	 	Roger	Eustace	 	 	New Thame	Rate Payer	1647	3s  0d	0.05	
+MAS	197	Mr	Thomas	Stone	 	 	New Thame	Rate Payer	1647	3s  4d	0.05	
+MAS	198	 	Edward	Kent	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	199	 	Thomas	Hester	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	200	 	 	Burnham	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	201	 	 	Vivers	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	202	Mrs	 	Parker	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	203	 	Edward	Andrewes	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	204	Mrs	 	Wethered	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	of Aylesbury
+MAS	205	 	Humphrey	Webb	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	206	 	Richard	James	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	207	 	John	Fletcher	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	for the ? 
+MAS	208	Mr	Edmunde	Ballow	 	 	New Thame	Rate Payer	1647	2s  0d	0.05	for the Lyon
+MAS	209	Mrs	Deborah	Saunders	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	210	Mrs	 	Wethered	Sen	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	211	Mr	 	Lawceford	 	 	New Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	212	Mr	John	Carpenter	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	213	 	John	Smith	 	 	New Thame	Rate Payer	1647	2s  0d	0.05	Out Townes which have shops in Thame
+MAS	214	 	 	Maior	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	Out Townes which have shops in Thame
+MAS	215	 	 	Mabley	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	Out Townes which have shops in Thame
+MAS	216	 	 	Heynes	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	Out Townes which have shops in Thame
+MAS	217	 	 	Shirley	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	Out Townes which have shops in Thame
+MAS	218	 	 	Steevens	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	Out Townes which have shops in Thame
+MAS	219	 	 	Goodchilde	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	Out Townes which have shops in Thame
+MAS	220	 	Martin	Dorset	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	Out Townes which have shops in Thame
+MAS	221	 	Jonas	Humphrey	 	 	New Thame	Rate Payer	1647	2s  0d	0.05	Out Townes which have shops in Thame
+MAS	222	 	 	White	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	Out Townes which have shops in Thame
+MAS	223	 	John	James	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	Out Townes which have shops in Thame
+MAS	224	 	John	Burrowes	 	 	New Thame	Rate Payer	1647	1s  0d	0.05	Out Townes which have shops in Thame
+MAS	225	 	Vincent	Barry	Esquire	 	Old Thame	Rate Payer	1647	�2  18s  6d	0.05	
+MAS	226	Mr	John	Thinne	 	 	Old Thame	Rate Payer	1647	�1  18s  8d	0.05	
+MAS	227	Mr	William	Burt	 	 	Old Thame	Rate Payer	1647	7s  3d	0.05	
+MAS	228	Mrs	Agnes	Beake	 	 	Old Thame	Rate Payer	1647	8s  3d	0.05	
+MAS	229	Mr	 	Powell	 	 	Old Thame	Rate Payer	1647	10s  10d	0.05	
+MAS	230	Mr	Morris	Lenton	 	 	Old Thame	Rate Payer	1647	4s  10d	0.05	
+MAS	231	 	Roger	Ewstace	 	 	Old Thame	Rate Payer	1647	2s  5d	0.05	
+MAS	232	Widow	 	Cruse	 	 	Old Thame	Rate Payer	1647	1s  2폻	0.05	
+MAS	233	 	William	Roper	 	 	Old Thame	Rate Payer	1647	1s  2폻	0.05	
+MAS	234	 	Thomas	Roper	 	 	Old Thame	Rate Payer	1647	1s  4d	0.05	
+MAS	235	 	Thomas	Eustace	 	 	Old Thame	Rate Payer	1647	9s  8d	0.05	
+MAS	236	 	John	Greene	 	 	Old Thame	Rate Payer	1647	2s  5d	0.05	& Thomas Parkin
+MAS	237	 	Thomas	Parkin	 	 	Old Thame	Rate Payer	1647	2s  5d	0.05	& John Greene
+MAS	238	 	John	Gutteridge	 	 	Old Thame	Rate Payer	1647	2s  7d	0.05	
+MAS	239	Mr	Nicholas	Almond	 	 	Old Thame	Rate Payer	1647	4s  10d	0.05	
+MAS	240	Mr	Richard	Pinder	 	 	Old Thame	Rate Payer	1647	4s  10d	0.05	
+MAS	241	 	Jerrit	Messenger	 	 	Old Thame	Sub-collector	1647	7s  3d	0.05	
+MAS	242	Mr	Thomas	Henant	 	 	Old Thame	Rate Payer	1647	9d	0.05	
+MAS	243	 	Thomas	Grome	 	 	Old Thame	Rate Payer	1647	2s  2d	0.05	
+MAS	244	 	Anne	Golde	als Acle	 	Old Thame	Rate Payer	1647	1s  2폻	0.05	
+MAS	245	 	William	Parker	 	 	Old Thame	Rate Payer	1647	1s  2폻	0.05	
+MAS	246	 	John	Burton	 	 	Old Thame	Rate Payer	1647	8d	0.05	
+MAS	247	 	Thomas	Broadwater	 	 	Old Thame	Rate Payer	1647	6d	0.05	
+MAS	248	 	Luke	Burnham	 	 	Old Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	249	 	Thomas	Stripplehill	 	 	Old Thame	Rate Payer	1647	4s  0d	0.05	
+MAS	250	 	Robert	Maunde	 	 	Old Thame	Rate Payer	1647	2s  5d	0.05	
+MAS	251	 	Peter	Wrinche	 	 	Old Thame	Rate Payer	1647	2s  5d	0.05	
+MAS	252	Mr	William	Hull	 	 	Old Thame	Rate Payer	1647	1s  2폻	0.05	
+MAS	253	Mrs	Margaret	Heyborne	 	 	Old Thame	Rate Payer	1647	8s  5d	0.05	& Stephen Cooke
+MAS	254	 	Stephen	Cooke	 	 	Old Thame	Rate Payer	1647	8s  5d	0.05	& Margaret Heyborne
+MAS	255	 	Stephen	Cosens	 	 	Old Thame	Rate Payer	1647	2s  5d	0.05	& William Haslegrave 
+MAS	256	 	William	Haslegrave	 	 	Old Thame	Rate Payer	1647	2s  5d	0.05	& Stephen Cosens
+MAS	257	 	Richard	Lamborne	 	 	Old Thame	Rate Payer	1647	3s  4d	0.05	
+MAS	258	 	Richard	Springall	 	 	Old Thame	Sub-collector	1647	3s  7폻	0.05	
+MAS	259	Mrs	Edith	Floyd	 	 	Old Thame	Rate Payer	1647	2s  5d	0.05	
+MAS	260	Widow	 	West	 	 	Old Thame	Rate Payer	1647	3s  7폻	0.05	
+MAS	261	Widow	 	Staunton	 	 	Old Thame	Rate Payer	1647	1s  2폻	0.05	
+MAS	262	 	Edward	Kent	 	 	Old Thame	Rate Payer	1647	1s  6d	0.05	
+MAS	263	 	William	Baker	 	 	Old Thame	Rate Payer	1647	6폻	0.05	
+MAS	264	 	Leonard	Greene	 	 	Old Thame	Rate Payer	1647	5d	0.05	
+MAS	265	 	John	Tomlinson	 	 	Old Thame	Rate Payer	1647	2s  5d	0.05	
+MAS	266	 	John	Fetch	 	 	Old Thame	Rate Payer	1647	1s  2폻	0.05	
+MAS	267	 	Edward	Bovier	 	 	Old Thame	Rate Payer	1647	6d	0.05	
+MAS	268	 	Phillip	Minge	 	 	Old Thame	Rate Payer	1647	4d	0.05	
+MAS	269	 	Jeremiah	Powell	 	 	Old Thame	Rate Payer	1647	2s  5d	0.05	
+MAS	270	 	William	Cowley	 	 	Old Thame	Rate Payer	1647	1s  3d	0.05	
+MAS	271	Widow	 	Greene	 	 	Old Thame	Rate Payer	1647	8d	0.05	
+MAS	272	Widow	 	Druce	 	 	Old Thame	Rate Payer	1647	4s  10d	0.05	
+MAS	273	 	Robert	Towarsey	 	 	Old Thame	Rate Payer	1647	1s  2폻	0.05	
+MAS	274	 	John	Cox	 	 	Old Thame	Rate Payer	1647	3d	0.05	
+MAS	275	 	John	Cowley	 	 	Old Thame	Rate Payer	1647	8d	0.05	
+MAS	276	Mr	Hugh	Hester	 	 	Old Thame	Rate Payer	1647	1s  3d	0.05	& John Newberry
+MAS	277	 	John	Newberry	 	 	Old Thame	Rate Payer	1647	1s  3d	0.05	& Mr Hugh Hester
+MAS	278	 	William	Sumner	 	 	Old Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	279	 	Thomas	Stripplehill	 	 	Old Thame	Rate Payer	1647	2s  0d	0.05	
+MAS	280	Mr	 	Umberfield	 	 	Old Thame	Rate Payer	1647	7s  0d	0.05	
+MAS	281	Mr	 	Barnard	 	 	Old Thame	Rate Payer	1647	4s  0d	0.05	
+MAS	282	 	William	Stone	 	 	Old Thame	Rate Payer	1647	2s  5d	0.05	
+MAS	283	Mr	Nicholas	Widmer	 	 	Old Thame	Rate Payer	1647	16s  11d	0.05	
+MAS	284	 	Thomas	Wetmore	 	 	Old Thame	Rate Payer	1647	5d	0.05	
+MAS	285	Widow	 	Weatherhead	 	 	Old Thame	Rate Payer	1647	5d	0.05	
+MAS	286	 	James	Francklin	 	 	Old Thame	Rate Payer	1647	1s  5d	0.05	
+MAS	287	 	Peter	Tomlinson	 	 	Old Thame	Rate Payer	1647	1s  2폻	0.05	
+MAS	288	 	Luke	Powell	 	 	Old Thame	Rate Payer	1647	1s  2폻	0.05	& John Letchford 
+MAS	289	 	John	Letchford	 	 	Old Thame	Rate Payer	1647	1s  2폻	0.05	& Luke Powell
+MAS	290	Widow	 	Hester	 	 	Old Thame	Rate Payer	1647	1s  2폻	0.05	& John Younge
+MAS	291	 	John	Younge	 	 	Old Thame	Rate Payer	1647	1s  2폻	0.05	& Widow Hester
+MAS	292	Mr	Thomas	Ballowe	 	 	Old Thame	Rate Payer	1647	9s  8d	0.05	and his mother
+MAS	293	Mrs	Margaret	Wilmot	 	 	Old Thame	Rate Payer	1647	1s  5d	0.05	
+MAS	294	 	Richard	Summers	 	 	Old Thame	Rate Payer	1647	1s  0d	0.05	
+MAS	295	 	John	Ayres	 	 	Old Thame	Rate Payer	1647	5d	0.05	
+MAS	296	 	Thomas	Widdowman	 	 	Old Thame	Rate Payer	1647	6d	0.05	
+MAS	297	 	Richard	Walker	 	 	Old Thame	Rate Payer	1647	5d	0.05	
+MAS	298	Mr	Henry	Alnot	 	 	Old Thame	Rate Payer	1647	2s  5d	0.05	
+MAS	299	Mr	Thomas	Welles	 	 	Old Thame	Rate Payer	1647	4s  10d	0.05	

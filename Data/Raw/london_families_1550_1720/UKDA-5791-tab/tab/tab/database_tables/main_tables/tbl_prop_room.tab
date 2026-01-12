@@ -1,0 +1,506 @@
+prop_id	room_id	room	room_desc	room_location	room_floor
+4	1	hall	hall with chamber over		
+4	2	chamber	hall with chamber over	over hall	
+4	3	parlour	parlour with chamber over		
+4	4	chamber	parlour with chamber over	over hall	
+4	5	counting house	counting house		
+4	6	buttry	buttry		
+4	7	kitchen	kitchen		
+4	8	jakes	jakes		
+4	9	garret	garret		
+20	10	hall	wainscot around the hall over the shop	hall over the shop	
+34	11	vault	2 vaults		-1
+34	12	vault	2 vaults		-1
+34	13	cellar	2 cellars		-1
+34	14	cellar	2 cellars		-1
+34	15	shop	2 shops		ground
+34	16	shop	2 shops		ground
+34	17	hall			1
+34	18	kitchen			1
+34	19	chimney			1
+34	20	buttry	2 buttries		1
+34	21	buttry	2 buttries		1
+34	22	chamber	2 large chambers		2
+34	23	chamber	2 large chambers		2
+34	24	buttry	2 buttries		2
+34	25	buttry	2 buttries		2
+34	26	chamber	"3 chambers, 1 wainscotted with 2 buttries"		3
+34	27	chamber	"3 chambers, 1 wainscotted with 2 buttries"		3
+34	28	chamber	"3 chambers, 1 wainscotted with 2 buttries"		3
+34	29	buttry	"3 chambers, 1 wainscotted with 2 buttries"		3
+34	30	buttry	"3 chambers, 1 wainscotted with 2 buttries"		3
+34	31	chamber	4 garret chambers		4
+34	32	chamber	4 garret chambers		4
+34	33	chamber	4 garret chambers		4
+34	34	chamber	4 garret chambers		4
+34	35	garret	3 low garrets and the leads		5
+34	36	garret	3 low garrets and the leads		5
+34	37	garret	3 low garrets and the leads		5
+34	38	leads	3 low garrets and the leads		5
+83	39	cellar	cellar or cellars		cellar
+83	40	kitchen			
+83	41	larder			
+83	42	shop	shops		
+83	43	warehouse			
+83	44	hall		up some stairs	first?
+83	45	chamber		next to roomid44	first?
+83	46	buttry			
+83	47	countinghouse		nearby to roomid46	
+83	48	closet		by roomid46	
+83	49	parlour			
+83	50	chamber	chambers over the hall	over roomid44	first?
+83	51	parlour	listed separately from roomid49		
+83	52	kitchen			
+83	53	larderhouse		looking north	
+83	54	chamber		next to pid5638 (11/8C) to the east	
+83	55	garret	2 garrets		
+118	56	kitchen			
+118	57	privy			
+126	58	shop	shops		
+126	59	cellar			
+126	60	solar	solars		
+128	61	shop	4 shops		
+128	62	cellar	3 cellars		
+140	63	shop			
+140	64	cellar			
+140	65	solar	solars		
+140	66	privy	privies		
+158	67	hall	hall above the shop	6a	1st?
+158	68	kitchen	kitchen above the shop	6a	1st?
+158	69	chamber	chamber above hall over shop	6a	2nd?
+158	70	chamber	chamber above kitchen over shop	6a	2nd?
+158	71	countinghouse		6a	
+158	72	garret	a garret forward	6a	
+158	73	cellar		6b (behind 6a)	
+158	74	kitchen		6b (behind 6a)	
+158	75	chamber	a chamber above	6b (behind 6a)	
+158	76	chamber	a chamber above the other chamber	6b (behind 6a)	
+158	77	garret		6b (behind 6a)	
+158	78	cellar	2 cellars	6c	
+158	79	cellar	2 cellars	6c	
+158	80	back room	a back room	6c	
+158	81	counting house		6c	
+158	82	hall	a hall above the shop	6c	1st?
+158	83	kitchen		6c	1st?
+158	84	room	a room joining the hall and kitchen above the shop	6c	1st?
+158	85	chamber	2 chambers above	6c	2nd?
+158	86	chamber	2 chambers above	6c	2nd?
+158	87	garret	towards the street	6c	
+158	88	cellar		6d (behind 6c)	-1
+158	89	kitchen	ktichen above the shop	6d (behind 6c)	1st?
+158	90	room	a room above the kitchen	6d (behind 6c)	2nd?
+158	91	garret		6d (behind 6c)	3rd?
+180	92	hall	over the shop		
+180	93	kitchen	over the shop		
+180	94	chamber	2 chambers over kitchen and hall		
+180	95	chamber	2 chambers over kitchen and hall		
+180	96	chamber	2 chambers over the other 2 chambers	
+180	97	chamber	2 chambers over the other 2 chambers	
+180	98	garret	2 garrets and a balcony towards the street	
+180	99	garret	2 garrets and a balcony towards the street	
+180	100	balcony	2 garrets and a balcony towards the street	
+216	101	parlour	he boarded door of his own parlour	as near the church wall as possible
+266	102	shop		
+266	103	warehouse	inner warehouse	near honey lane entry
+266	104	yard		
+266	105	kitchen		
+266	106	parlour		
+266	107	room	2 little rooms	next to the passageway with an entry into honey la
+266	108	room	2 little rooms	next to the passageway with an entry into honey la
+266	109	parlour	upper parlour	adjacent to church in Honey lane
+266	110	chamber		chamber adjoining upper parlour
+266	111	chamber	great chamber	toward the shop
+266	112	parlour	low parlour	toward honey lane	
+268	113	shop		behind entry from cheapside	
+268	114	counting house		behind entry from cheapside	
+268	115	warehouse	in three parts	behind entry from cheapside	
+268	116	cellar		under the shop and warehouse	
+268	117	cellar	second cellar		
+268	118	vault	little vault - possibly for a privy		
+268	119	backyard			
+268	120	backyard			
+268	121	kitchen	and chimney		ground
+268	122	buttery	old buttery		ground
+268	123	parlour	wainscoted		ground
+268	124	chamber	chamber with counting house		ground
+268	125	parlour		above stairs	
+268	126	chamber		above stairs	
+268	127	chamber	4 chambers		
+268	128	chamber	4 chambers	
+268	129	chamber	4 chambers	
+268	130	chamber	4 chambers	
+268	131	chamber	dark chamber	
+268	132	office	house of office	
+268	133	lead	2 leads	
+268	134	lead	2 leads	
+268	135	back room	2 back rooms	
+268	136	back room	2 back rooms	
+268	137	garret		
+268	138	lead	upper leads	
+268	139	chamber		at stairs head; over kitchen and warehouse
+268	140	room	a room	at stairs head; over kitchen and warehouse
+268	141	room	a dark room	at stairs head; over kitchen and warehouse
+269	142	shop		behind entry from cheapside
+269	143	counting house		behind entry from cheapside
+269	144	warehouse	in three parts	behind entry from cheapside	
+269	145	cellar		under the shop and warehouse	
+269	146	cellar	second cellar		
+269	147	vault	little vault - possibly for a privy		
+269	148	backyard			
+269	149	backyard			
+269	150	kitchen	and chimney		ground
+269	151	buttery	old buttery		ground
+269	152	parlour	wainscoted		ground
+269	153	chamber	chamber with counting house		ground
+269	154	parlour		above stairs	
+269	155	chamber		above stairs	
+269	156	chamber	4 chambers		
+269	157	chamber	4 chambers		
+269	158	chamber	4 chambers		
+269	159	chamber	4 chambers		
+269	160	chamber	dark chamber	
+269	161	office	house of office	
+269	162	lead	2 leads	
+269	163	lead	2 leads	
+269	164	back room	2 back rooms	
+269	165	back room	2 back rooms	
+269	166	garret		
+269	167	lead	upper leads	
+269	168	chamber		at stairs head; over kitchen and warehouse
+269	169	room	a room	at stairs head; over kitchen and warehouse
+269	170	room	a dark room	at stairs head; over kitchen and warehouse
+270	171	shop		behind entry from cheapside
+270	172	counting house		behind entry from cheapside
+270	173	warehouse	in three parts	behind entry from cheapside
+270	174	cellar		under the shop and warehouse
+270	175	cellar	second cellar	
+270	176	vault	little vault - possibly for a privy		
+270	177	backyard			
+270	178	backyard			
+270	179	kitchen	and chimney		ground
+270	180	buttery	old buttery		ground
+270	181	parlour	wainscoted		ground
+270	182	chamber	chamber with counting house		ground
+270	183	parlour		above stairs	
+270	184	chamber		above stairs	
+270	185	chamber	4 chambers		
+270	186	chamber	4 chambers		
+270	187	chamber	4 chambers		
+270	188	chamber	4 chambers		
+270	189	chamber	dark chamber		
+270	190	office	house of office		
+270	191	lead	2 leads		
+270	192	lead	2 leads	
+270	193	back room	2 back rooms	
+270	194	back room	2 back rooms	
+270	195	garret		
+270	196	lead	upper leads	
+270	197	chamber		at stairs head; over kitchen and warehouse
+270	198	room	a room	at stairs head; over kitchen and warehouse
+270	199	room	a dark room	at stairs head; over kitchen and warehouse
+271	200	shop		behind entry from cheapside
+271	201	counting house		behind entry from cheapside
+271	202	warehouse	in three parts	behind entry from cheapside
+271	203	cellar		under the shop and warehouse
+271	204	cellar	second cellar	
+271	205	vault	little vault - possibly for a privy	
+271	206	backyard		
+271	207	backyard		
+271	208	kitchen	and chimney		ground
+271	209	buttery	old buttery		ground
+271	210	parlour	wainscoted		ground
+271	211	chamber	chamber with counting house		ground
+271	212	parlour		above stairs	
+271	213	chamber		above stairs	
+271	214	chamber	4 chambers		
+271	215	chamber	4 chambers		
+271	216	chamber	4 chambers		
+271	217	chamber	4 chambers		
+271	218	chamber	dark chamber		
+271	219	office	house of office		
+271	220	lead	2 leads		
+271	221	lead	2 leads		
+271	222	back room	2 back rooms		
+271	223	back room	2 back rooms		
+271	224	garret			
+271	225	lead	upper leads		
+271	226	chamber		at stairs head; over kitchen and warehouse	
+271	227	room	a room	at stairs head; over kitchen and warehouse	
+271	228	room	a dark room	at stairs head; over kitchen and warehouse	
+272	229	shop		behind entry from cheapside	
+272	230	counting house		behind entry from cheapside	
+272	231	warehouse	in three parts	behind entry from cheapside	
+272	232	cellar		under the shop and warehouse	
+272	233	cellar	second cellar		
+272	234	vault	little vault - possibly for a privy		
+272	235	backyard			
+272	236	backyard			
+272	237	kitchen	and chimney		ground
+272	238	buttery	old buttery		ground
+272	239	parlour	wainscoted		ground
+272	240	chamber	chamber with counting house		ground
+272	241	parlour		above stairs	
+272	242	chamber		above stairs	
+272	243	chamber	4 chambers		
+272	244	chamber	4 chambers		
+272	245	chamber	4 chambers		
+272	246	chamber	4 chambers		
+272	247	chamber	dark chamber		
+272	248	office	house of office		
+272	249	lead	2 leads		
+272	250	lead	2 leads		
+272	251	back room	2 back rooms		
+272	252	back room	2 back rooms		
+272	253	garret			
+272	254	lead	upper leads		
+272	255	chamber		at stairs head; over kitchen and warehouse	
+272	256	room	a room	at stairs head; over kitchen and warehouse	
+272	257	room	a dark room	at stairs head; over kitchen and warehouse	
+277	258	warehouse	backwarehouse		
+277	259	shop	shop with countinghouse		
+277	260	room	little room	by the shop	
+277	261	room	little room	over the shop	
+277	262	gallery		over the shop or the warehouse	
+277	263	kitchen			
+277	264	yard			
+277	265	dining room			ground
+277	266	chamber	8 rooms with bedding - inc leads chamber		
+277	267	chamber	8 rooms with bedding - inc mens chamber		
+277	268	chamber	8 rooms with bedding - inc maids chamber		
+277	269	chamber	8 rooms with bedding - inc great chamber		
+277	270	chamber	8 rooms with bedding - inc dark chamber		
+277	271	chamber	8 rooms with bedding - inc wainscot chamber		
+277	272	room	8 rooms with bedding		
+277	273	room	8 rooms with bedding		
+277	274	garret			
+277	275	cellar			
+297	276	cellar			
+297	277	shop			
+297	278	hall		next to the street	1st
+297	279	room	back room		1st
+297	280	yard	yard above stairs leaded	over shop or warehouse of 11/8A1	
+297	281	chamber	wainscoted with closet	"over hall, towards street"	2nd
+297	282	kitchen		"behind previous chamber, over the backroom"	2nd
+297	283	 buttery			2nd
+297	284	chamber		towards the street	3rd
+297	285	chamber	back chamber with house of office	"behind previous chamber, over kitchen"	3rd
+297	286	chamber		towards the street	4th
+297	287	chamber	back chamber		4th
+297	288	garret			5th
+298	302	cellar			
+298	303	shop			
+298	304	hall		next to the street	1st
+298	305	room	back room		1st
+298	306	yard	yard above stairs leaded	over shop or warehouse of 11/8A1	
+298	307	chamber	wainscoted with closet	"over hall, towards street"	2nd
+298	308	kitchen		"behind previous chamber, over the backroom"	2nd
+298	309	 buttery			2nd
+298	310	chamber		towards the street	3rd
+298	311	chamber	back chamber with house of office	"behind previous chamber, over kitchen"	3rd
+298	312	chamber		towards the street	4th
+298	313	chamber	back chamber		4th
+298	314	garret			5th
+319	315	cellar			
+319	316	shop			ground
+319	317	hall	wainscoted	"prob on the front, above shop"	1st
+319	318	warehouse		behind the above hall	1st
+319	319	chamber		over the hall	2nd
+319	320	kitchen		prob over the warehouse	2nd
+319	321	chamber		front	3rd
+319	322	chamber		back	3rd
+319	323	chamber		front	4th
+319	324	chamber		back	4th
+319	325	garret			5th
+320	326	chamber		back	3rd
+320	327	chamber		front	4th
+320	328	chamber		back	4th
+320	329	garret			5th
+320	330	cellar			
+320	331	shop			ground
+320	332	hall	wainscoted	"prob on the front, above shop"	1st
+320	333	warehouse		behind the above hall	1st
+320	334	chamber		over the hall	2nd
+320	335	kitchen		prob over the warehouse	2nd
+320	336	chamber		front	3rd
+321	337	chamber		back	3rd
+321	338	chamber		front	4th
+321	339	chamber		back	4th
+321	340	garret			5th
+321	341	cellar			
+321	342	shop			ground
+321	343	hall	wainscoted	"prob on the front, above shop"	1st
+321	344	warehouse		behind the above hall	1st
+321	345	chamber		over the hall	2nd
+321	346	kitchen		prob over the warehouse	2nd
+321	347	chamber		front	3rd
+325	348	chamber		over the hall on the street side	2nd
+325	349	kitchen		over the hall on the street side	2nd
+325	350	room	little room	at the stairhead	2nd
+325	351	chamber		next to the street	3rd
+325	352	garret			5th
+337	353	hall			
+337	354	chamber	2 chambers		
+337	355	chamber	2 chambers		
+337	356	shop			
+337	357	warehouse			
+337	358	kitchen			
+347	359	kitchen			
+350	360	shop		under her dwelling house	
+350	361	warehouse		under her dwelling house	
+356	362	hall		over shop(s) and cellars	1st
+356	363	countinghouse		over shop(s) and cellars	1st
+356	364	kitchen			1st
+356	365	leads		over kitchen	2nd
+356	366	chamber	2 chambers wainscoted		2nd
+356	367	chamber	2 chambers wainscoted		2nd
+356	368	countinghouse			2nd
+356	369	privy			2nd
+356	370	chamber	wainscoted		3rd
+356	371	chamber	occupied by pid14050		3rd
+356	372	garret		jetty towards the street	4th
+356	373	garret	with a privy ('house of office')		4th
+356	374	garret	highest garret		5th
+364	375	cellar			
+364	376	warehouse			
+364	377	kitchen		over the shop	
+364	378	shop			
+364	379	chamber	back chamber	over the shop	
+367	380	cellar		"under the shop, near the street"	
+367	381	shop			ground
+367	382	cellar		further back from the street than the other cellar	
+367	383	cellar	little cellar with a staircase		
+367	384	hall	"wainscoted, with a study and a carole window"	steetside	1st
+367	385	study		behind the hall	1st
+367	386	kitchen		behind the hall	1st
+367	387	chamber	with carved wainscot with clost and carole window	over the hall	2nd
+367	388	house of office		behind the above chamber	2nd
+367	389	chamber	"wainscoted, with carole window"	next to the street	3rd
+367	390	chamber		behind the above chamber	3rd
+367	391	lead	a flat form of lead	behind the above chamber	3rd
+367	392	chamber	2 chambers		4th
+367	393	chamber	2 chambers		4th
+367	394	garret			5th
+367	395	warehouse	upper warehouse	over Mr Clapham's warehouse	
+367	396	dining room	little dining room	over the shop	
+367	397	room	back room	over the warehouse	
+367	398	room	little room	next to the above room	
+368	399	cellar		"under the shop, near the street"	
+368	400	shop			ground
+368	401	cellar		further back from the street than the other cellar	
+368	402	cellar	little cellar with a staircase		
+368	403	hall	"wainscoted, with a study and a carole window"	steetside	1st
+368	404	study		behind the hall	1st
+368	405	kitchen		behind the hall	1st
+368	406	chamber	with carved wainscot with clost and carole window	over the hall	2nd
+368	407	house of office		behind the above chamber	2nd
+368	408	chamber	"wainscoted, with carole window"	next to the street	3rd
+368	409	chamber		behind the above chamber	3rd
+368	410	lead	a flat form of lead	behind the above chamber	3rd
+368	411	chamber	2 chambers		4th
+368	412	chamber	2 chambers		4th
+368	413	garret			5th
+368	414	warehouse	upper warehouse	over Mr Clapham's warehouse	
+368	415	dining room	little dining room	over the shop	
+368	416	room	back room	over the warehouse	
+368	417	room	little room	next to the above room	
+393	418	hall			ground
+393	419	house of office			ground
+393	420	woodhouse			ground
+393	421	chamber	4 chambers		
+393	422	chamber	4 chambers		
+393	423	chamber	4 chambers		
+393	424	chamber	4 chambers		
+393	425	garret		over the 4th chamber	
+393	426	garret		over John Hamond's house	
+393	427	yard			
+393	428	kitchen			
+393	429	buttery			
+393	430	cellar			
+393	431	hall		over the kitchen	
+393	432	chamber		over the hall	
+393	433	chamber	2nd chamber		
+393	434	chamber	inner chamber		
+393	435	closet			
+394	436	hall			ground
+394	437	house of office			ground
+394	438	woodhouse			ground
+394	439	chamber	4 chambers		
+394	440	chamber	4 chambers		
+394	441	chamber	4 chambers		
+394	442	chamber	4 chambers		
+394	443	garret		over the 4th chamber	
+394	444	garret		over John Hamond's house	
+394	445	yard			
+394	446	kitchen			
+394	447	buttery			
+394	448	cellar			
+394	449	hall		over the kitchen	
+394	450	chamber		over the hall	
+394	451	chamber	2nd chamber		
+394	452	chamber	inner chamber		
+394	453	closet			
+395	454	hall			ground
+395	455	house of office			ground
+395	456	woodhouse			ground
+395	457	chamber	4 chambers		
+395	458	chamber	4 chambers		
+395	459	chamber	4 chambers		
+395	460	chamber	4 chambers		
+395	461	garret		over the 4th chamber	
+395	462	garret		over John Hamond's house	
+395	463	yard			
+395	464	kitchen			
+395	465	buttery			
+395	466	cellar			
+395	467	hall		over the kitchen	
+395	468	chamber		over the hall	
+395	469	chamber	2nd chamber		
+395	470	chamber	inner chamber		
+395	471	closet			
+396	472	hall			ground
+396	473	house of office			ground
+396	474	woodhouse			ground
+396	475	chamber	4 chambers		
+396	476	chamber	4 chambers		
+396	477	chamber	4 chambers	
+396	478	chamber	4 chambers	
+396	479	garret		over the 4th chamber
+396	480	garret		over John Hamond's house
+396	481	yard		
+396	482	kitchen		
+396	483	buttery		
+396	484	cellar		
+396	485	hall		over the kitchen
+396	486	chamber		over the hall
+396	487	chamber	2nd chamber	
+396	488	chamber	inner chamber	
+396	489	closet		
+401	490	room	low room used for a kitchen	
+401	491	buttery		
+401	492	room		at stairshead
+401	493	house of office			
+401	494	coalhouse	2 coalhouses		
+401	495	coalhouse	2 coalhouses		
+401	496	buttery			
+401	497	chamber	4 chambers		
+401	498	chamber	4 chambers		
+401	499	chamber	4 chambers		
+401	500	chamber	"4 chambers - the 4th, the largest, inc a countinghouse"		
+401	501	garret	2 garrets		
+401	502	garret	2 garrets		
+409	503	hall			ground floor
+409	504	kitchen			ground floor
+409	505	room	passage room	at stairs head	
+409	506	house of office			
+409	507	room		over house of office	
+409	508	room	room parted		
+409	509	room		over that which Mr Heaton hath forward
+409	510	garret	garret parted	
+409	511	kitchen		
+409	512	larder		
+409	513	cellar		
+409	514	room	lodging room	over the hall
+409	515	room	room with 3 closets	over Richard Hatton's hall
+409	516	house of office		
+409	517	garret	garret parted	
+411	518	kitchen		
